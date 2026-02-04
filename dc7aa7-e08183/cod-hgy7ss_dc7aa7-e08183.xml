@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 25</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 25</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="181-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e08183"><!-- dd-c25 -->
+        <head xml:id="dc7aa7-e08183-Hd1e111">Capitulo 25</head>
+        <p xml:id="dc7aa7-e08183-d1e113">Capítulo 25</p>
+        <p xml:id="dc7aa7-e08183-d1e115">
+          <lb ed="#B" n="12"/>Díxose en la conclusión que cada uno de los que allí se hallaron
+          <lb ed="#B" n="13"/>son obligados in solidum, que quiere decir cada uno por el todo
+          <lb ed="#B" n="14"/>o por todos. Pruévase por aquella máxima de <ref xml:id="dc7aa7-e08183-Rd1e123">s. Thomás 2.2
+            <lb ed="#B" n="15"/>q.62 a.7:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e128">«Quicumque est causa iniuste acceptionis vel damnific
+            <lb ed="#B" break="no" n="16"/>ationis, tenetur ad restitutionem».</quote> Pues, todos aquellos ciento y se
+          <lb ed="#B" n="17"/>senta desalmados fueron juntamente causa total de la prisión
+          <lb ed="#B" n="18"/>y muerte y robos de aquel Rey e de siete o ocho mill hombres 
+          <lb ed="#B" n="19"/>sin armas que aquel día allí mataron, que trayan al Rey en sus andas
+          <lb ed="#B" n="20"/>o sobre sus ombros, y después otros muchos; y ninguno 
+          <lb ed="#B" n="21"/>dellos, ni diez, ni veinte, ni treinta, osarán yr a aquellos reynos
+          <lb ed="#B" n="22"/>ni acometer lo que hizieron, y así todos acometieron: <sic> todos pren
+            <lb ed="#B" n="23"/>dieron<!--edition omits this--></sic>todos mataron, y todos robaron y usurparon aquellos 
+          <lb ed="#B" n="24"/>reynos, y esta es una razón. </p>
+        <p xml:id="dc7aa7-e08183-d1e156"> Otra [máxima] es, que todos y cada uno
+          <lb ed="#B" n="25"/>dellos yvan y fueron con una misma sciencia y un mismo deseo,
+          <lb ed="#B" n="26"/>porque todos sabían y querían y quisieron yr a lo que yvan, y fue
+          <lb ed="#B" n="27"/>ron con el mismo propósito en la misma intención, con la mis
+          <lb ed="#B" n="28"/>ma ambición y cudicia, conviene a saber, a hazer guerra y
+          <lb ed="#B" n="29"/>subjuzgar y señorear y robar aquellos reynos y gentes que nunca 
+          <lb ed="#B" n="30"/>mal ni agravio ni injuria les hizieron, ni offendieron, ni mal les 
+          <lb ed="#B" n="31"/>merecieron. Y así los robaron su oro, su plata, sus infinitas rique
+          <lb ed="#B" n="32"/>zas, sus tierras, sus reynos, sus haziendas, despojándolos de su
+          <lb ed="#B" n="33"/>libertad y de sus reynos y señoríos. Y ventre todo esto, aquellos 
+          <pb ed="#B" n="181-v"/>
+          <lb ed="#B" n="1"/>mismos y los que después dellos allá fueron, quemaron bivos y ma
+          <lb ed="#B" n="2"/>taron con diversas maneras de tormentos inmensos, que echa
+          <lb ed="#B" n="3"/>ron a los infiernos sin fe y sin sacramentos. Luego, todos y cada 
+          <lb ed="#B" n="4"/>uno dellos es y son obligados a restituir todo lo que robaron y tira
+          <lb ed="#B" n="5"/>nizaron, y satisfazer por los inmensos daños que desde entonces
+          <lb ed="#B" n="6"/>a todos aquellos reynos se recrecieron. </p>
+        <p xml:id="dc7aa7-e08183-d1e193">Esta consecuencia se
+          <lb ed="#B" n="7"/>prueva: <sic> lo primero <!--edition has 1°--></sic> porque <quote xml:id="dc7aa7-e08183-Qd1e201"><!--quote has a start but not end--> «obligatio restituendi consequitur ip
+            <lb ed="#B" break="no" n="8"/>sum causaliter auferre vel danificare, et hocin proposito compe
+            <lb ed="#B" break="no" n="9"/>tit eis quorum actiones vel opera vagantur ad omnes res au
+            <lb ed="#B" break="no" n="10"/>ferendas et ad omnes damna inferenda et fiunt directe causa 
+            <lb ed="#B" n="11"/>unice volitionis et operationis qua totum bonum <sic> aufertur. Et <!--edition joins sentences--></sic>
+            <lb ed="#B" n="12"/>totum damnum infertur, licet quilibet fuerit causa partialis. 
+            <lb ed="#B" n="13"/>Et sic eorum causalitas vagatur circa <sic><!--edition joins sentences--> totum. Et </sic> propterea quili
+            <lb ed="#B" break="no" n="14"/>bet tenetur ad totum, quod est dictum in solidum, quoniam ipsi fuerunt
+            <lb ed="#B" n="15"/>simul totalis causa illorum damnorum, licet singuli fuerint
+            <lb ed="#B" n="16"/>partialis, per se causa tamen totius ablationis facte veldamni
+            <lb ed="#B" n="17"/>dati, </quote>ut patet per <ref xml:id="dc7aa7-e08183-Rd1e235">L. ita vulneratus,</ref>  fin., <ref xml:id="dc7aa7-e08183-Rd1e237">ff., Ad Legem Aquiliam</ref>;
+          <lb ed="#B" n="18"/>et <ref xml:id="dc7aa7-e08183-Rd1e242">L. si plures, Digest., Arborum furtim scisarum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e246">2°, per L. proba
+          <lb ed="#B" n="19"/>tur quam... <quote xml:id="dc7aa7-e08183-Qd1e250">«Si plures trabem dejecerint, et illa aliquem oppresserit, 
+            <lb ed="#B" n="20"/>omnes tenentur Lege Aquilia,»</quote> L<ref xml:id="dc7aa7-e08183-Rd1e255">. item mela, $ si plures, ff., Ad Legem 
+              <lb ed="#B" n="21"/>Aquiliam.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e261">3°, per<ref xml:id="dc7aa7-e08183-Rd1e263"> L. vulgaris, Si duo, ff., De furtis, ubi sic dicitur:</ref>
+          <lb ed="#B" n="22"/>
+          <quote xml:id="dc7aa7-e08183-Qd1e267">«Si duo, pluresve unum lignum furati sunt, quod et singuli tollere
+            <lb ed="#B" n="23"/>non potuerunt: dicendum est, omnes eos furti in solidum teneri,
+            <lb ed="#B" n="24"/>quamvis id contrectare, nectollere solus posset; et ita utimur, nec
+            <lb ed="#B" n="25"/>enim dici potest pro parte furtum fecisse singulos, sed totius rei uni
+            <lb ed="#B" n="26"/>versos. Et sic fiet, singulos furti teneri».</quote> Hec ibi. Et in<ref xml:id="dc7aa7-e08183-Rd1e278"> d. L. fin,
+              <lb ed="#B" n="27"/>dicitur sic:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e283">«Cum plures trabem alienam furandi causa sustu
+            <lb ed="#B" break="no" n="28"/>lerint quam singuli ferre non possint, furti actiones omnes
+            <lb ed="#B" n="29"/>teneri existimantur»</quote>. Hec ibi. Et in <ref xml:id="dc7aa7-e08183-Rd1e291">glossa ibi dicitur</ref> omnes in so
+          <lb ed="#B" n="30"/>lidum teneri. Et allegatur <ref xml:id="dc7aa7-e08183-Rd1e295">d. L. vulgaris, penult.</ref> Nam tot sunt
+          <lb ed="#B" n="31"/>maleficia quot persone, ut ff., <ref xml:id="dc7aa7-e08183-Rd1e299">De injuriis, L. si plures</ref>; et<ref xml:id="dc7aa7-e08183-Rd1e301"> glossa in
+            <lb ed="#B" n="32"/>L. 1, Si plures,</ref> ff., De eo per quem factum erit. </p>
+        <p xml:id="dc7aa7-e08183-d1e307">Son, pues,
+          <lb ed="#B" n="33"/>obligados aquellos ciento y sesenta, cada uno in solidum, a todo
+          <lb ed="#B" n="34"/>quanto robaron ellos y a satisfazer todos los daños que hizieron 
+          <lb ed="#B" n="35"/>mientras bivieron, y a restituir y satisfazer todo quanto los que 
+          <lb ed="#B" n="36"/>después a aquellos reynos fueron, robaron y daños a todas a
+          <pb ed="#B" n="182-r"/>
+          <lb ed="#B" break="no" n="1"/>quellas gentes hizieron, porque queda probado abrieron 
+          <lb ed="#B" n="2"/>la puerta y fueron ocasión de todos los robos y males que despu
+          <lb ed="#B" n="3"/>és a aquellos reynos y gentes succedieron. </p>
+        <p xml:id="dc7aa7-e08183-d1e327">Síguese en la con
+          <lb ed="#B" break="no" n="4"/>clusión que fueron fementidos como hombres sin fe y sin verdad
+          <lb ed="#B" n="5"/>y indignos de ser hombres. Lo qual se prueva porque aun a los 
+          <lb ed="#B" n="6"/>enemigos y contra quien tenemos justa guerra, devemos guardar 
+          <lb ed="#B" n="7"/>y complir la fe y palabra que le prometiéremos y <quote xml:id="dc7aa7-e08183-Qd1e337">«contra natu
+            <lb ed="#B" break="no" n="8"/>ralem equitatem est pacta non servare»,</quote>
+          <ref xml:id="dc7aa7-e08183-Rd1e343">ut in L. Conventio
+            <lb ed="#B" break="no" n="9"/>num, f., De pactis; </ref>et <ref xml:id="dc7aa7-e08183-Rd1e348">L. postliminium, indu
+              <lb ed="#B" n="10"/>cit,</ref> et <ref xml:id="dc7aa7-e08183-Rd1e353">L. Non dubito, ff. de captivis et postlimiis.</ref> Y parece por el 
+          <lb ed="#B" n="11"/>
+          <ref xml:id="dc7aa7-e08183-Rd1e357">c. Nola, 23, q. 1, </ref>et <ref xml:id="dc7aa7-e08183-Rd1e359">glossa in c. utilem, 22, q. 27</ref> y <ref xml:id="dc7aa7-e08183-Rd1e362">S. Thomas, 
+            <lb ed="#B" n="12"/>2.2 q. 40 a.3 corp.</ref>: <quote xml:id="dc7aa7-e08183-Qd1e367">«Sunt enim quedam jura bellorum et federa inter 
+              <lb ed="#B" n="13"/>ipsos hostes servanda, ut dicit Ambrosius in Libro De Officiis».</quote>
+          <lb ed="#B" n="14"/>¡Quánto más eran obligados a guardar y complir la fe y prometimiento
+          <lb ed="#B" n="15"/>que le hizieron de soltallo de tan injusta prisión! Pues, él cumplió
+          <lb ed="#B" n="16"/>lo que les prometió y más de lo que havía prometido, en dalles
+          <lb ed="#B" n="17"/>lo que cupiesse de oro y plata una casa de cinco o de seis estados
+          <lb ed="#B" n="18"/>de altura, añidiéndole medio estado más de la señal que le
+          <lb ed="#B" n="19"/>havían hecho. Quánto más que aunque le soltaran, todavía 
+          <lb ed="#B" n="20"/>quedavan obligados a restituir la casa de oro hasta el áltimo qua
+          <lb ed="#B" break="no" n="21"/>drante, porque la prisión fueinjusta y tyrá nica, y estando 
+          <lb ed="#B" n="22"/>preso prometiendo quanto tenía: era inválido, como es mani
+          <lb ed="#B" n="23"/>fiesto a los que saben algo de los Derechos. Véase la L. decernimus
+          <lb ed="#B" n="24"/>y lo que allí se nota, que pusimos en el Cap. IV. </p>
+        <p xml:id="dc7aa7-e08183-d1e397">Fueron, pues, fe
+          <lb ed="#B" n="25"/>mentidos y sin fe ni verdad y en gran ignominia del honor
+          <lb ed="#B" n="26"/>divino y religión christiana, en qué estimación ternía aquel
+          <lb ed="#B" n="27"/>Rey de allí en adelante, ya que no lo quemaron, la fe y palabra
+          <lb ed="#B" n="28"/>de los christianos. Finalmente mucho parece, y más que claro,
+          <lb ed="#B" n="29"/>los gravíssimos peccados que aquéllos contra Dios y contra los
+          <lb ed="#B" n="30"/>hombres cometieron, y la obligación que tuvieron los que de
+          <lb ed="#B" break="no" n="31"/>llos son ya muertos, y los que restan tienen a restituir aquel
+          <lb ed="#B" n="32"/>resgate y lo demás. Y porque ni aquéllos restituyeron ni mostra
+          <lb ed="#B" n="33"/>ron señal de penitencia, sin duda arden hoy en los infiernos;
+          <lb ed="#B" n="34"/>y de aquéstos que hoy biven, no se siente conpunción ni arrepen
+          <lb ed="#B" n="35"/>timiento alguno de sus ynexpliables scelerosos pecados, antes
+          <lb ed="#B" n="36"/>se glorian dellos, y de la restitución tienen, según parece y vemos, nin
+          <pb ed="#B" n="182-v"/>
+          <lb ed="#B" break="no" n="1"/>gún quen cuidado: por tanto ninguna duda se deue tener queno
+          <lb ed="#B" n="2"/>yan adonde aquellos las estan esperando / y asi queda mas
+          <lb ed="#B" n="3"/>conclursion segun creemos bien yrobada /.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

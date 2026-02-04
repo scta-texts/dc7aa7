@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 26</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 26</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="182-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e08521"><!-- dd-c26 -->
+        <head xml:id="dc7aa7-e08521-Hd1e111">Capitulo 26</head>
+        <p xml:id="dc7aa7-e08521-d1e113">Capítulo 26</p>
+        <p xml:id="dc7aa7-e08521-d1e115">Conclusion ala ia. duda.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e117">
+          <lb ed="#B" n="4"/>Desde la ora que saltaron enaquella tierra mayormente
+          <lb ed="#B" n="5"/>desde que prendieron al Rey Athabaliba aquellos ciento y
+          <lb ed="#B" n="6"/>sesenta no buenos apostoles fue adquirido derecho de conti¬
+          <lb ed="#B" n="7"/>na y justa guerra contra todos los españoles como contra
+          <lb ed="#B" n="8"/>hostes publicos enemigos del linaje humano alos fijos y he¬
+          <lb ed="#B" n="9"/>redores deldicho rey Athabaliba y alos pueblos todos dea¬
+          <lb ed="#B" n="10"/>quellos reynos y durable aeste derecho de mouer querra justa¬
+          <lb ed="#B" n="11"/>contra tidos los españoles perpetuamente hasta endia del ju¬
+          <lb ed="#B" n="12"/>zio: si no se interrumpe poralguna dequatro vias / opor paz / opor¬
+          <lb ed="#B" n="13"/>tiequa opor satisfacion possible delos españoles que hagan alos
+          <lb ed="#B" n="14"/>agrauiados: o por remission quelos que rescibieron los daños
+          <lb ed="#B" n="15"/>de su propria y espontanea voluntad sin fuerca nimiedo hagan
+          <lb ed="#B" n="16"/>Con tanto quecessen las injurias y la tyrania y oppression que
+          <lb ed="#B" n="17"/>de presente sin cessar todos los señores quesonbiuos y los pueblos
+          <lb ed="#B" n="18"/>padecen /.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e152">
+          <lb ed="#B" n="19"/>Dixose desde laora que saltaron enaquella tierra porque solo
+          <lb ed="#B" n="20"/>saltando sin licencia en tierra o reyno ageno mayormente con
+          <lb ed="#B" n="21"/>gente armada dizese turbar el Reyno y señor del y hazelle in¬
+          <lb ed="#B" n="22"/>juria como parece enlos derechos <ref xml:id="dc7aa7-e08521-Rd1e162">ff. e injuriaruon
+            <lb ed="#B" n="23"/>§. siguis me prohibeat</ref> et. <ref xml:id="dc7aa7-e08521-Rd1e168">§. fina. et. l. sane.</ref> et. l. is qui indo¬
+          <lb ed="#B" n="24"/>mum alienam eto.
+          <lb ed="#B" n="25"/>Velsi mauis latine dicatur. sic. 
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e176">
+          <lb ed="#B" n="26"/>Exora illa qua terram illam inturierunt centum sepagi
+          <lb ed="#B" n="27"/>ta islli pseudo apti potissime postque comprehenderunt in vincul¬
+          <lb ed="#B" n="28"/>prefatum regem Athabalibam que si tum est Jus indicendi Justun
+          <lb ed="#B" n="29"/>bellum contraomnes hispanos tanque contra hostes pullicos hos
+          <pb ed="#B" n="183-r"/>
+          <lb ed="#B" n="1"/>quidem generis humani, filiis et heredibus prenominati re
+          <lb ed="#B" break="no" n="2"/>gis similiter et populis universis regnorum illorum. Quod qui<lb ed="#B" break="no" n="3"/>dem 
+          jus bellum justum indicendi contra nos omnes est conti<lb ed="#B" break="no" n="4"/>nuum 
+          et erit perpetuun usque in die judicii nisi aliquo quat<lb ed="#B" break="no" n="5"/>tuor 
+          nodorum, scilicet aut pace aut tregua aut satisfa
+          <lb ed="#B" n="6"/>ctione ledentium vel voluntaria et spontanea omnino absque
+          <lb ed="#B" n="7"/>vi aut timore remissione lesorum, interrumpatur: dim 
+          <lb ed="#B" n="8"/>tamen cesset injuriarum et lesionum illatio et tiranidis
+          <lb ed="#B" n="9"/>vel oppressionis incussio qua omnes reguli et proceres seu do
+          <lb ed="#B" n="10"/>mini et populi omnes in presentiarum incessanterque affliguntur.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e211">
+          <lb ed="#B" n="11"/>Probatur Conclusio multipliciter sed prius scito quod, sicut in 2°
+          <lb ed="#B" n="12"/>Principio, <sic>2°<!--edition has Cap. II--></sic>, dictum fuit: Justum bellum est omnes illud quod
+          <lb ed="#B" n="13"/>indicitur vel causa defensionis vel causa cohertionis sive pro
+          <lb ed="#B" n="14"/>pulsationis malorum hominum, ne injurias vel damna sibi non 
+          <lb ed="#B" n="15"/>nocentibus inferant vel causa recuperemissione. rationis rerum raptarum,
+          <lb ed="#B" n="16"/>vel causa recompensationis lesionum vel damnorum que illata
+          <lb ed="#B" n="17"/>sunt, vel causa ultionis injuriarum receptarum, vel causa ne
+          <lb ed="#B" n="18"/>cessitatis ut pax et libertas adquirantur vel defendantur, ut in 
+          <lb ed="#B" n="19"/>
+          <ref xml:id="dc7aa7-e08521-Rd1e236" target="http://scta.info/resource/gd-p2c23q1-Dd1e197">c. apud vero Dei cultores, 23, q. 1, et </ref>
+          <ref xml:id="dc7aa7-e08521-Rd1e240" target="http://scta.info/resource/gd-p2c23q1-Dd1e146">c. Nolí</ref>.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e244">
+          <lb ed="#B" n="20"/>De prima patet 
+          <lb ed="#B" n="21"/>in <ref xml:id="dc7aa7-e08521-Rd1e250" target="http://scta.info/resource/bgy6gt-d1e59-Dd1e137"> L. ut vim, ff., De iustitia et jure,</ref> et in <ref xml:id="dc7aa7-e08521-Rd1e253">c. dilectio, De sententia excomunionis, 
+            <lb ed="#B" n="22"/>Lib. VI, </ref>ubi dicitur: <quote xml:id="dc7aa7-e08521-Qd1e258" source="http://scta.info/resource/wef6td-d1e1572-d1e429@8-20">«Cum omnes leges omniaque
+              <lb ed="#B" n="23"/>jura vin vi repellere, cunctisque sese defensare permittant»</quote> et in <ref xml:id="dc7aa7-e08521-Rd1e264" target="http://scta.info/resource/cice-l5t12-Dd1e335">c. signifi
+                <lb ed="#B" break="no" n="24"/>casti, el 22, De homicidio</ref>.<sic>El <!--edition has La, grammatically correct--> </sic>razón natural desta defensión es por
+          <lb ed="#B" n="25"/>que toda sustancia appetesce naturalmente su conservación según su naturaleza, según <ref xml:id="dc7aa7-e08521-Rd1e276" target="http://scta.info/resource/TAca84-d1e1158-d1e496@211-253">santo Tomás, 1.2. q. 94 a.2 corp. </ref>
+          <lb ed="#B" n="26"/>y <ref xml:id="dc7aa7-e08521-Rd1e281">Libro 3, cap. 3, Contra gentiles,</ref> donde dize <quote xml:id="dc7aa7-e08521-Qd1e284" source="http://scta.info/resource/v8naTA-d1e1732-d1e249@38-57">«quod omnia agentia natura
+            <lb ed="#B" n="27"/>lia, quantum habent de virtute, tantum resistunt corruptioni, qual est malum, per quod unumquodque non potest in proprio esse conser<lb ed="#B" break="no" n="28"/>vari
+            sed corrumpi»</quote>. Vemos por experiencia que una piedra, por 
+          <lb ed="#B" n="29"/>su propria dureza que es su potestad, resiste en quanto puede
+          <lb ed="#B" n="30"/>a toda cosa que la quiere romper o corromper. <quote xml:id="dc7aa7-e08521-Qd1e295">«Jam vero que dura
+            <lb ed="#B" n="31"/>sunt ut lapides adherent tenacissimis partibus suis; et ne fa
+            <lb ed="#B" n="32"/>cile dissolvantur resistunt»</quote>. Et infra: <quote xml:id="dc7aa7-e08521-Qd1e302">«Sed cuique natura, quod con<lb ed="#B" break="no" n="33"/>venit 
+              et ne dum manere possint, intereant, elaborat.»</quote>
+          <ref xml:id="dc7aa7-e08521-Rd1e307">Hec
+            <pb ed="#B" n="183-v"/>
+            <lb ed="#B" n="1"/>Boetius, Lib. 3, prosa 11. </ref>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e315">
+          Y si a todas las cosas criadas, aun las in
+          <lb ed="#B" n="2"/>sensibles, es natural el appetito de se conservar en su ser y resistir en
+          <lb ed="#B" n="3"/>quanto pueden, a todo contrario que los puede corromper, que
+          <lb ed="#B" n="4"/>no es otra cosa sino defenderse, quánto más lo deve ser, y es natural
+          <lb ed="#B" n="5"/>a los hombres, que a todos en dignidad y excelencia exceden la
+          <lb ed="#B" n="6"/>defensión de su ser, o que sea el ser natural o político. 
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e328">Luego, justa
+          <lb ed="#B" n="7"/>es la guerra que se mueve por qualquier o particular persona 
+          <lb ed="#B" n="8"/>o por todo un pueblo o reyno, por causa de su defensa. 
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e335">
+          <lb ed="#B" n="9"/>La 2a, por causa de coherción y resistencia contra los
+          <lb ed="#B" n="10"/>malos y nocivos hombres que quieren hazer injuria o daño 
+          <lb ed="#B" n="11"/>alguno a los que nunca les offendieron; y esta quasi es la misma
+          <lb ed="#B" n="12"/>que la causa de la natural defensión. Desta haze mención el <ref xml:id="dc7aa7-e08521-Rd1e345">capítulo 
+            <lb ed="#B" n="13"/>primero, 23, q. 2,</ref> allí,<quote xml:id="dc7aa7-e08521-Qd1e351" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14"> «justum est bellum propulsandorum
+              <lb ed="#B" n="14"/>causa».</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e358">
+          La 3a es para recuperar lo que injustamente fue 
+          <lb ed="#B" n="15"/>robado, o para recompensar los males y daños rescebidos; 
+          <lb ed="#B" n="16"/>de la qual el dicho capítulo primero, y en el cap. siguiente Dominus noster, y en el capítulo primero: <quote xml:id="dc7aa7-e08521-Qd1e364" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14">Justum est
+            <lb ed="#B" n="17"/>bellum, quod ex edictore geritur de rebus repetendis, etc.</quote>
+          <lb ed="#B" n="18"/>La 4a es por causa de punir e castigar las injurias y daños rescebi
+          <lb ed="#B" n="19"/>dos, y desta también haze mención el dicho capítulo, Dominus
+          <lb ed="#B" n="20"/>noster: <quote xml:id="dc7aa7-e08521-Qd1e376" source="http://scta.info/resource/gd-p2c23q2-d1e132@78-99">«Justa autem,<sic><!--edition has no parens--> (inquit)</sic> bella solent diffiniri, que ulcis
+            <lb ed="#B" break="no" n="21"/>cuntur injurias, si qua gens et civitas, petenda vel plectenda est, 
+            <lb ed="#B" n="22"/>vel reddere quod per injurias ablatum est».</quote> Hec ibi.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e388">
+          <lb ed="#B" n="23"/>Esto así supuesto, pruévase la primera parte de la Conclusión
+          <lb ed="#B" n="24"/>desta manera: <sic><!--editorial note from edition-->(hasta final del Cap. XXVII: son 4 Causas)</sic> Justa y justíssima guerra es aquella que tiene
+          <lb ed="#B" n="25"/>aquella gente o aquel reyno, contra otra o contra otro, en
+          <lb ed="#B" n="26"/>la qual guerra concurren todas quatro causas de la justa guerra.
+          <lb ed="#B" n="27"/>Pues, en el derecho que aquellas gentes del Perú tienen,desde la 
+          <lb ed="#B" n="28"/>
+          <sic>ora <!--edition has hora--></sic> que prendieron al Rey Athabaliba, contra los españoles,
+          <lb ed="#B" n="29"/>concurren todas quatro causas; luego, justíssima guerra o de
+          <lb ed="#B" break="no" n="30"/>recho para novella es la que tienen contra ellos. De la <sic>primera <!--edition has 1a--> </sic>
+          <lb ed="#B" n="31"/> proposición nadie duda, porque si por una sola de las dichas
+          <lb ed="#B" n="32"/>causas se puede mover iusta guerra, mucho más justa será 
+          <pb ed="#B" n="184-r"/>
+          <lb ed="#B" n="1"/>donde todas quatro concurren. Pruévase la segunda <sic><!--[proposición] in edition--></sic>, convie
+          <lb ed="#B" break="no" n="2"/>ne a saber, que concurran todas quatro causas en el derecho que
+          <lb ed="#B" n="3"/>contra nosotros las gentes de aquellos reynos tienen. Que la pri
+          <lb ed="#B" n="4"/>mera, que es la defensión, concurra que quasi se extiende a to
+          <lb ed="#B" n="5"/>das, parece así porque aquellos primeros españoles entraron en
+          <lb ed="#B" n="6"/>aquellos reynos matando, prendiendo, y destruiendo, y robando,
+          <lb ed="#B" n="7"/>y sojuzgando sin causa alguna, como proprios y verdaderos
+          <lb ed="#B" n="8"/>tyranos, como queda probado por el primer Principio y en el 2°,
+          <lb ed="#B" n="9"/>Cap. IV, C. 2a y en el Principio 7, y en la 1a Conclusión, Cap. XXIII. Pues, con
+          <lb ed="#B" break="no" n="10"/>tra el impetu de qualesquiera, tyranos e invasores de reynos age
+          <lb ed="#B" n="11"/>nos y matadores de hombres que ningún mal ni daño les hizie, ser el
+          <lb ed="#B" n="12"/>ron remedio la defensión y la resistencia, ninguno lo ignora;
+          <lb ed="#B" n="13"/>luego, aquellas gentes, justíssima causa y guerra de justa
+          <lb ed="#B" n="14"/>defensión cotra aquéllos y los demás de nuestra nación, que des
+          <lb ed="#B" break="no" n="15"/>pués se añadieron a aquéllos, tuvieron.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e464">
+          La 2a, por razón de
+          <lb ed="#B" n="16"/>la coherción y resistencia, que es lo mismo que la precedente.
+          <lb ed="#B" n="17"/>Quién podrá negar que no tuviessen derecho a coercer y resistir
+          <lb ed="#B" n="18"/>e impedir que no hiziesen más daños a quien tan furibun
+          <lb ed="#B" break="no" n="19"/>do, ciego, cruel y bestial impetu: Así ta sin causa despedaca
+          <lb ed="#B" n="20"/>van y matavan y robaban las gentes que estavan en sus tierras,
+          <lb ed="#B" n="21"/>sin yr ni perjudicar a las agenas; luego, tuvieron también
+          <lb ed="#B" n="22"/>justa causa por razón de coherción y por impedir que no passa
+          <lb ed="#B" n="23"/>sen más adelante tan grandes estragos y daños yrreparables,
+          <lb ed="#B" n="24"/>para hazer contra nosotros guerra.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e486">
+          La 3a, para recuperar
+          <lb ed="#B" n="25"/>y recompensar los males y daños rescebidos. <sic>Abra <!--edition has¿Habrá--></sic>en el mundo 
+          <lb ed="#B" n="26"/>hombre que tenga seso, que no confiese y afirme que les so
+          <lb ed="#B" n="27"/>brava derecho para hazernos guerra, prenderles a su Rey 
+          <lb ed="#B" n="28"/>
+          <sic>e <!--edition has y--></sic> Señor y tenello presso y al cabo quemarlo, será causa de que
+          <lb ed="#B" n="29"/>aquellos reynos se pusiesen en armas para lo libertad y despu
+          <lb ed="#B" break="no" n="30"/>és de muertos para se satisfazer de su muerte y de los siete o ocho
+          <lb ed="#B" n="31"/>mill que allí despedacaron, y de los que <sic>avían<!--edition has havían--></sic> muerto en los pue
+          <lb ed="#B" n="32"/>blos de Coac y en la isla de la Pugna <sic><!--edition has[Puná]--></sic>, y por donde quiera que
+          <lb ed="#B" n="33"/>passaron, hasta que llegaron a Caxamalca donde prendieron al
+          <lb ed="#B" n="34"/>Rey. Fuera causa injusta mover guerra contra quien tan gran
+          <pb ed="#B" n="184-v"/>
+          <lb ed="#B" break="no" n="1"/>des thesoros les havía robado, y cada día robava más? ¿Fuera causa 
+          <lb ed="#B" n="2"/>justa guerra y morir en la guerra para recuperar los reynos y se
+          <lb ed="#B" break="no" n="3"/>oríos que usurpavan y usurparon a aquel supremo Rey e a mu
+          <lb ed="#B" n="4"/>chos y grandes Señores? ¿Fuerajusta la guerra por recuperar su 
+          <lb ed="#B" n="5"/>libertad, viéndose subjectar de gente tan brava y a prima haz
+          <lb ed="#B" n="6"/>tan feroz y tan cruel, como armada de armas tan <sic><!--could be pensadas-->pesadas,</sic>
+          <lb ed="#B" n="7"/>y de donde podían bien cognoscer y tener quales los avían de pa
+          <lb ed="#B" n="8"/>rar el tiempo andando. Desta causa última dize <ref xml:id="dc7aa7-e08521-Rd1e549">Tullio in Philippicis
+            <lb ed="#B" n="9"/>7</ref>: <quote xml:id="dc7aa7-e08521-Qd1e554">«Nulla iustior causa belli gerendi quam servitutis depulsio. Unde 
+              <lb ed="#B" n="10"/>apud Romanos <sic>primum <!--edition has primo--></sic> pro libertate urbis, deinde pro domi
+              <lb ed="#B" n="11"/>nio est pugnatum»,</quote> según dize <ref xml:id="dc7aa7-e08521-Rd1e565">Polycrato, Lib. 8, cap. 5;</ref> y <ref xml:id="dc7aa7-e08521-Rd1e567">Salustio
+                <lb ed="#B" break="no" n="12"/>in Catilinario</ref>: <quote xml:id="dc7aa7-e08521-Qd1e572">«nemo bonus nisi cum anima simul amittit
+                  <lb ed="#B" n="13"/>ibertatem»</quote>.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e578">
+          Para librar de la prisión al dicho Rey antes 
+          <lb ed="#B" n="14"/>que lo matassen, obligados eran los hijos y los pueblos a hazer
+          <lb ed="#B" break="no" n="15"/>nos guerra por libertallo, y fuera justíssima de ley natural. Esto 
+          <lb ed="#B" n="16"/>parece lo primero por la guerra que hizo Abrahán contra los qua
+          <lb ed="#B" n="17"/>tro Reyes que llevaron presso a Loth, su sobrino, con las muge
+          <lb ed="#B" n="18"/>res y hijos y toda su substancia, como se lee en el <ref xml:id="dc7aa7-e08521-Rd1e591">Génesis, ca
+            <lb ed="#B" n="19"/>pítulo 14.</ref> Lo 2°, por fidelidad que juran los pueblos a los Reyes.
+          <lb ed="#B" n="20"/>Y sin que lajurassen se la deven guardar de derecho natural, por la qual 
+          <lb ed="#B" n="21"/>mucho más son obligados los súbditos a libertar y socorrer qual
+          <lb ed="#B" n="22"/>quiera angustia a su Rey, aunque aventuren por ello la vida, 
+          <lb ed="#B" n="23"/>que no a sus deudos, aunque sean sus padres. Porque el Rey es ca
+          <lb ed="#B" break="no" n="24"/>bega de todo el Cuerpo Místico que es el reyno y república por el 
+          <lb ed="#B" n="25"/>bien común, que es más divino según <ref xml:id="dc7aa7-e08521-Rd1e609">el Philósopho 1 Ethicorum</ref>, y por éste
+          <lb ed="#B" n="26"/>y para este bien público nasce cada uno, más que para el padre que
+          <lb ed="#B" n="27"/>es particular, <quote xml:id="dc7aa7-e08521-Qd1e615">«unde dicitur quod homo magis nascitur patrie, quam patri».</quote>
+          <lb ed="#B" n="28"/>E por esto dize la ley: <!--quote with no end-->«Quod tuitio sine disciplina castrorum antiquior 
+          <lb ed="#B" n="29"/>fuit civibus et parentibus Romanis quam charitas liberorum: L. post
+          <lb ed="#B" break="no" n="30"/>liminium, $ filius, <ref xml:id="dc7aa7-e08521-Rd1e626">ff., De captivis et postliminiis</ref>. Unusquisque nim patrie sue nas
+          <lb ed="#B" break="no" n="31"/>citur, ut L. 1, $ Generaliter, ff., De ventre in possessionem mittendo. Et licet 
+          <lb ed="#B" n="32"/>liberis necare parentes et e converso qui venerint ad patriam 
+          <lb ed="#B" n="33"/>delendam, L. minime, ff., De religiosis et sumptibus funerum, facit L. 
+          <lb ed="#B" n="34"/>omne, final, <ref xml:id="dc7aa7-e08521-Rd1e637">ff., De re militari</ref> De aquí es que qualquiera súb
+          <pb ed="#B" n="185-r"/>
+          <lb ed="#B" break="no" n="1"/>dito en quanto sus fuergas bastaren, es obligado a no desam
+          <lb ed="#B" break="no" n="2"/>parar a su Rey en sus adversidades, guardallo y defendello como
+          <lb ed="#B" n="3"/>a cabeca de toda la patria y repáblica, aunque sea con riesgo de
+          <lb ed="#B" n="4"/>la vida propria y de su muger y hijos; porque así vemos que la 
+          <lb ed="#B" n="5"/>naturaleza lo enseña, quia ratio imitatur naturam, el brago
+          <lb ed="#B" n="6"/>y mano se pone a ser cortada y perderse por salvar la cabega co
+          <lb ed="#B" n="7"/>mo miembro más principal, y de donde mayor daño vernía
+          <lb ed="#B" n="8"/>a todo el cuerpo; y es buen argumento del cuerpo natural al 
+          <lb ed="#B" n="9"/>
+          <sic>mixtico <!--edition has Místico-->,</sic> ut in L. Adoptio, <ref xml:id="dc7aa7-e08521-Rd1e666">ff., De adoptione</ref> et in c<ref xml:id="dc7aa7-e08521-Rd1e668">ap. qui plerique,
+            <lb ed="#B" n="10"/>De officio ordinarii</ref>, etc. 
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e674">
+          Y no solo los sábditos son obligados a expo
+          <lb ed="#B" n="11"/>ner y arriesgar la vida por la persona de su Rey, cabega mística,
+          <lb ed="#B" n="12"/>pero también por recuperación de su estado y dignidad y juris
+          <lb ed="#B" break="no" n="13"/>
+          <sic> diction<!--edition has dicción-->,</sic> y de sus bienes, y derechos reales. Por las mismas razones,
+          <lb ed="#B" n="14"/>y porque sin los bienes temporales, mayormente si el estado y
+          <lb ed="#B" n="15"/>dignidad y jurisdición y los derechos reales, no puede ser rey
+          <lb ed="#B" n="16"/>ni substentarse para el govierno y utilidad de todo el cuerpo mís
+          <lb ed="#B" n="17"/>tico, que es el reyno y comunidad, cuyo es cabeca: argumento en la <ref xml:id="dc7aa7-e08521-Rd1e696" target="http://scta.info/resource/bgy6gt-d1e1964-Dd1e205">ley 
+            <lb ed="#B" n="18"/>necare, ff., De liberis cognoscendis,</ref> y lo que se nota por la glosa en la <ref xml:id="dc7aa7-e08521-Rd1e701">L. quisquis, $ penúlt.,
+              Codex, De donationibus </ref>substentarse para el govierno y utilidad de todo el cuerpo místico, que es el
+          reyno y comunidad, cuyo es cabeca: argumentoen la ley necare, <ref xml:id="dc7aa7-e08521-Rd1e703">ff., De
+            liberis cognoscendis,</ref> y lo que se nota por la glosa en <ref xml:id="dc7aa7-e08521-Rd1e706">la L. quisquis, $ penúlt.,
+              Codex, De donationibus</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

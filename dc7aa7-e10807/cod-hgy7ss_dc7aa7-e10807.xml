@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 31</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 31</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="193-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10807"><!-- dd-c31 -->
+        <head xml:id="dc7aa7-e10807-Hd1e111">Capitulo 31</head>
+        <p xml:id="dc7aa7-e10807-d1e113">
+          <lb ed="#B" n="1"/>Capítulo 31
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e118">
+          <lb ed="#B" n="2"/>Contraconclusión 1a para la duda 3a.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e123">
+          <lb ed="#B" n="3"/>Los tassadores de aquellos inauditos tributos que la pregunta 
+          <lb ed="#B" n="4"/>o Duda dize (y es así verdad) hizieron bien, y ante Dios mere
+          <lb ed="#B" break="no" n="5"/>cieron, si lo hizieron a buena fe en tassallos en aquello que les pa
+          <lb ed="#B" break="no" n="6"/>reció que los tyranos sin amotinarse sufrirían; pues, no podían
+          <lb ed="#B" n="7"/>más hazer, pero ellos no perdieron su nombre y propriedad 
+          <lb ed="#B" n="8"/>de tyranos ni salieron del peccado mortal y estado de dañación en
+          <lb ed="#B" n="9"/>que biven no sólo por llevar, de treynta mill pesos de oro que roba
+          <lb ed="#B" n="10"/>van de antes, los veinte mill, pero en sólo un celemín de trigo
+          <lb ed="#B" n="11"/>o mahíz que los tassadores tassaran los indios y aquello llevaran
+          <lb ed="#B" n="12"/>y no más que un maravedí, quedaran tyranos como lo son, y en el
+          <lb ed="#B" n="13"/>estado que deximos.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e149">
+          <lb ed="#B" n="14"/>La 1a parte de prueva, porque en tassallos en veynte mill, no pudi
+          <lb ed="#B" n="15"/>endo hazer otra cosa, hizieron bien a los indios en que <sic><!--edition has careciessen--> careciesen </sic>
+          <lb ed="#B" n="16"/>de aquel mal que eran diez mill más. Pues, quitar mal o menos
+          <lb ed="#B" n="17"/>mal, en alguna manera es hazer bien, según el Philósopho en sus Ethicas.
+          <lb ed="#B" n="18"/>De aquí es que podemos aconsejar a uno que está aparejado
+          <lb ed="#B" n="19"/>para cometer algún gran mal o peccado grande, que se contente
+          <lb ed="#B" n="20"/>con hazer otro menor. Así como si estuviesse uno determinado
+          <lb ed="#B" n="21"/>de matar a un clérigo, podríamosle aconsejar que se contentase
+          <lb ed="#B" n="22"/>con dalle de palos. Y al usurero que al pobre no lleve como al 
+          <lb ed="#B" n="23"/>rico tanta usura. </p>
+        <p xml:id="dc7aa7-e10807-d1e178">Díxose en la conclusión si los tassadores
+          <lb ed="#B" n="24"/>lo hizieron a buena fe, porque si interviniera ruego o a
+          <lb ed="#B" break="no" n="25"/>mistad o algún propio interese o de parientes o amigos espa
+          <lb ed="#B" n="26"/>ñoles, peccaron los tassadores mortalmente y fueron obliga
+          <lb ed="#B" n="27"/>dos a restitución; de todo aquello que de menos sin escandalo de 
+          <lb ed="#B" n="28"/>los tyranos pudieran y devieran tassar. y asi para escapar
+          <lb ed="#B" n="29"/>se los tassadores de peccado mortal y de la restitucion precisa
+          <lb ed="#B" n="30"/>mente, havían de tener respecto a sólo el daño mayor que a los
+          <lb ed="#B" n="31"/>indios oppressos pudiera recrecerse, si los españoles contra el 
+          <pb ed="#B" n="194-r"/>
+          <lb ed="#B" n="1"/>Rey se rebelaran. 
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e202">
+          <lb ed="#B" n="2"/>La segunda parte, conviene a saber, que los españoles se quedaron
+          <lb ed="#B" n="3"/>con el nombre propriedad, y estado de tyrano, etc. Pruévase
+          <lb ed="#B" n="4"/>lo primero, porque ellos mismos davan a entender y podrían,
+          <lb ed="#B" n="5"/>miedos por palabras y denuedos que mostravan, que se rebelarían, 
+          <lb ed="#B" n="6"/>y finalmente tres o quatro vezes contra su Rey se rebelaron,
+          <lb ed="#B" n="7"/>por lo qual al ser que tenían de tyranos añadieron muchos dellos
+          <lb ed="#B" n="8"/>nombre y obra de traydores.</p>
+        <p xml:id="dc7aa7-e10807-d1e220">Lo 2°, porque ellos pidieron y se
+          <lb ed="#B" break="no" n="9"/>ñalaron aquellos tan menudos, tan injustos y <sic> prolixos <!--edition has prolijos--> </sic> y exe
+          <lb ed="#B" n="10"/>crables tributos, dando bozes sobre ello como la pregunta Duda 
+          <lb ed="#B" n="11"/>
+          <sic><!--edition has lo--> la </sic> declara. </p>
+        <p xml:id="dc7aa7-e10807-d1e238"> Lo 3°, porque como hayan entrado en aquellos
+          <lb ed="#B" n="12"/>reynos agenos tan contra justicia y orden de Derecho natural,
+          <lb ed="#B" n="13"/>divino y humano, robando y matando y sojuzgando las
+          <lb ed="#B" n="14"/>gentes libres y usurpando las tierras y señoríos agenos, mani
+          <lb ed="#B" n="15"/>fiesto es que un solo celemín de maíz o de trigo que les tomasen
+          <lb ed="#B" n="16"/>contra su voluntad es, y fue robado y tyranizado. Esto parece
+          <lb ed="#B" n="17"/>claro arriba, Cap. 23, en la probación 4a de la primera parte de la
+          <lb ed="#B" n="18"/>conclusión, y en ei fin del primer Principio.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e256">
+          <lb ed="#B" n="19"/>Conclusión 2a para la 3a Duda
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e261">
+          <lb ed="#B" n="20"/>Las encomiendas y repartimientos dichos siempre fueron
+          <lb ed="#B" n="21"/> contra voluntad de los reyes de Castilla como gouernacion tyra
+          <lb ed="#B" n="22"/>nica y destructua de aquellas gentes, desde que fueron inven
+          <lb ed="#B" n="23"/>tadas en la Isla Española sin autoridad de los cathólicos Re
+          <lb ed="#B" n="24"/>yes.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e275">
+          <lb ed="#B" n="25"/>Pruévase esta conclusión. Lo primero, porque no se hallará que los
+          <lb ed="#B" n="26"/>Reyes cathólicos jamás dieron poder para que se introduxese,
+          <lb ed="#B" n="27"/>sino que un Governador de la Isla Española los introduxo
+          <lb ed="#B" n="28"/>de su propria autoridad, según tengo provado en la razón
+          <lb ed="#B" n="29"/>undécima (12) de nuestro libro que anda inpresso.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e288">Lo 2° se prueva 
+          <lb ed="#B" n="30"/>que muerto el Rey Cathólico, los Governadores, Cardenal Arcobispo
+          <lb ed="#B" n="31"/>de Toledo don fray Francisco Ximénez y el Adriano que despu
+          <pb ed="#B" n="194-v"/>
+          <lb ed="#B" break="no" n="1"/>és fue Papa, las mandaron deshazer el año de mill y quinientos y diez
+          <lb ed="#B" n="2"/>y seis, y esto se hallará en los libros de aquel tiempo. </p>
+        <p xml:id="dc7aa7-e10807-d1e301">Lo 3° se prueva,
+          <lb ed="#B" n="3"/>porque venido el Emperador, que Sancta gloria haya, se determinó el año
+          <lb ed="#B" n="4"/>1520 en La Coruña que se quitasen las encomiendas como iniquas.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e308">
+          <lb ed="#B" n="5"/>Lo 4° por la Instrución que el mismo Emperador el año 1523 embió a
+          <lb ed="#B" n="6"/>Hernando Cortés, que estava entonces tyranizando la Nueva España,
+          <lb ed="#B" n="7"/>aunque le hazía entender que le servía, en la qual dize y manda así
+          <lb ed="#B" n="8"/>entre otros capítulos, éste: </p>
+        <p xml:id="dc7aa7-e10807-d1e319">«Otro sí, por quanto por larga esperiencia
+          <lb ed="#B" n="9"/>
+          <sic><!--edition has havemos--> avemos </sic> visto que de <sic><!--edition has haverse--> averse</sic> hecho repartimientos de indios en las 
+          <lb ed="#B" n="10"/>Isla Española y en otras islas que hasta aquí están despobladas e haverse 
+          <lb ed="#B" n="11"/>encomendado e tenido los christianos españoles que las <sic><!--edition has han--></sic> ydo a po
+          <lb ed="#B" break="no" n="12"/>blar, <sic><!--see previous han--> an</sic> venido en grandíssima diminución, por el mal tratamiento e 
+          <lb ed="#B" n="13"/>demasiado trabajo que les han dado, lo qual, allende del grandíssi
+          <lb ed="#B" n="14"/>mo daño e pérdida que en la muerte y diminución de los dichos in
+          <lb ed="#B" break="no" n="15"/>dios ha havido y el gran de vicio que Nuestro Señor dello ha rescebido, <sic><!--see previous ha --> a</sic> seido 
+          <lb ed="#B" n="16"/>causa estorvo para que los dichos indios... se sigue, queriendo proveer 
+          <lb ed="#B" n="17"/>y remediar lo susodicho y en todo complir principalmente
+          <lb ed="#B" n="18"/>con lo que devemos al servicio de Dios Nuestro Señor, de quien tantos 
+          <lb ed="#B" n="19"/>bienes y mercedes havemos rescebedo y rescebimos de cada día,
+          <lb ed="#B" n="20"/>y satisfazer a lo que por la Sancta Sede Apostólica nos es manda
+          <lb ed="#B" break="no" n="21"/>do y encomendado por la bula de la donacióny concessión, man
+          <lb ed="#B" n="22"/>damos laticar sobre ello a todos los de nuestro Consejo juntamente
+          <lb ed="#B" n="23"/>con los theólogos, religiosos y personas de muchas letras y de
+          <lb ed="#B" n="24"/>buena y sancta vida que en nuestra Corte se hallaren. E pareció que nos,
+          <lb ed="#B" n="25"/>con buena consciencia, pues Dios Nuestro Señor crió los dichos indios
+          <lb ed="#B" n="26"/>libres y no subjectos, no podemos mandarlos encomendar ni ha
+          <lb ed="#B" n="27"/>zer repartimientos dellos a los cristianos, y así es nuestra voluntad
+          <lb ed="#B" n="28"/>que se cumpla. Por ende yo vos mando que en esa dicha tierra
+          <lb ed="#B" n="29"/>no fagáis ni consentáis hazer repartimiento, encomienda,
+          <lb ed="#B" n="30"/>o depósito de los indios della, sino que los dexéis bivir libremente,
+          <lb ed="#B" n="31"/>como mis vassallos en estos nuestros reynos de Castilla; y si quando 
+          <lb ed="#B" n="32"/>ésta llegare, oviéredes hecho algún repartmiento o encomendado 
+          <lb ed="#B" n="33"/>algunos indios a algunos christianos,luego que la recibiérdes, re
+          <pb ed="#B" n="195-r"/>
+          <lb ed="#B" break="no" n="1"/>vocad qualquier repartimiento o encomienda de indios que <sic><!--edition has hayáis--> ayáis </sic>
+          <lb ed="#B" n="2"/>hecho en essa tierra a los christianos españoles que en ella <sic><!--edition has han--> an </sic> ydo
+          <lb ed="#B" n="3"/>y estuvieren, quitando los dichos indios de qualquiera persona
+          <lb ed="#B" n="4"/>o personas que los tengan repartidos o encomendados, y los
+          <lb ed="#B" n="5"/>dexéis en entera libertad, etc...». Esto está formalmente en la
+          <lb ed="#B" n="6"/>dicha instrución, sino que y el tyrano (13) no curó de hazer cosa de las
+          <lb ed="#B" n="7"/>que se le mandaron, antes repartió lo mejor para sí e lo primero,
+          <lb ed="#B" n="8"/>y después a los demás tyranos que en tyranizar aquellos reynos
+          <lb ed="#B" n="9"/>fueron con él. </p>
+        <p xml:id="dc7aa7-e10807-d1e426"> Lo 5° se prueva por una cláusula de una
+          <lb ed="#B" n="10"/>Capitulación que el Emperador asentó con el licenciado Lucas Váz
+          <lb ed="#B" n="11"/>quez de Ayllón (14), que fue por Governador de la Florida el año
+          <lb ed="#B" n="12"/>1525, que dize así: «Otrosí, nos suplicasteis que, pues los indios no se
+          <lb ed="#B" n="13"/>pueden con buena consciencia encomendar ni dar por repar
+          <lb ed="#B" n="14"/>timiento para que sirvan personalmente, y se ha visto por experi
+          <lb ed="#B" n="15"/>encia que desto se han seguido muchos daños y assolamiento de los
+          <lb ed="#B" n="16"/>indios... ni sean apremiados a que sirvan en servicio personal, si no fuere
+          <lb ed="#B" n="17"/>de su grado y voluntad, y pagándoselo, como se haze con los otros
+          <lb ed="#B" n="18"/>muertos vasallos libres o la gente de trabajo en estos reynos; mando
+          <lb ed="#B" n="19"/>que así se cumpla e que <quote xml:id="dc7aa7-e10807-Qd1e449">«os tengáis dello y del buen tratamiento 
+            <lb ed="#B" n="20"/>de los dichos indios mucho cuidado»</quote>. Hec ibi.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e456">Lo 6° se prueva la 
+          <lb ed="#B" n="21"/>conclusión por lo que el Consejo Real, siendo Presidente el Carde
+          <lb ed="#B" n="22"/>nal Arcobispo de Toledo, don Juan Tabera (15), por mandado del 
+          <lb ed="#B" n="23"/>Emperador, que haya sancta gloria, yéndose a coronar, desde Bar
+          <lb ed="#B" break="no" n="24"/>celona el año de 1529, determinó diziendo así:
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e467">«Otrosí, parece 
+          <lb ed="#B" n="25"/>que los indios no se encomienden de no se aquí adelante a ningunas per
+          <lb ed="#B" break="no" n="26"/>sonas, e que todas las encomiendas hechas se quiten luego, e que los 
+          <lb ed="#B" n="27"/>indios no sean dados a los españoles no éste ni otro título, ni para
+          <lb ed="#B" n="28"/>que los sirvan ni possean por vía de repartimiento, ni en otra
+          <lb ed="#B" n="29"/>manera por la experiencia que se tiene de las crueldades o ex
+          <lb ed="#B" n="30"/>cessivos trabajos y falta de mantenimientos, o en el tratamiento 
+          <lb ed="#B" n="31"/>que les <sic><!--edition has han--> an </sic> hecho y hazen sufrir, siendo hombres libres, donde 
+          <lb ed="#B" n="32"/>resulta acabamiento y consumación delos dichos indios y des
+          <pb ed="#B" n="195-v"/>
+          <lb ed="#B" n="1"/>población de la tierra, como se ha hecho en la Española». Y en otros
+          <lb ed="#B" n="2"/>capítulos dixeron que Su Magestad no los devia dar por vasallos a otras personas, 
+          <lb ed="#B" n="3"/>perpetua ni temporalmente, porque se deve creer que en efecto
+          <lb ed="#B" n="4"/>sería traerlos a la misma servidum- bre y perdición que agora
+          <lb ed="#B" n="5"/>padecen, o otra peor, y no se deve hazer fundamento en las Orde
+          <lb ed="#B" n="6"/>nancas, prohibiciones y penas que se hiziesen en favor de los dichos
+          <lb ed="#B" n="7"/>yndios, pues la experiencia nos muestra que las que hasta <sic><!--edition has hoy--> oy </sic> están or
+          <lb ed="#B" n="8"/>denadas, que son muy buenas, ninguna se ha <sic><!--edition separates sentences--> guardado: ni </sic>basta pro
+          <lb ed="#B" n="9"/>veymiento para escusar los dichos malos tratamientos, poniendo
+          <lb ed="#B" n="10"/>a los dichos indios debaxo de la subjeción de particulares que no 
+          <lb ed="#B" n="11"/>sea el Rey». Esto dixeron al Emperador los del Consejo Real, donde 
+          <lb ed="#B" n="12"/>
+          <sic><!--edition has hovo--> ovo </sic> entonces señaladas personas.
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e532">Ultimamente, se prue
+          <lb ed="#B" n="13"/>va la conclusión por las Leyes Nuevas que el Emperador estableció
+          <lb ed="#B" n="14"/>en la congregación que mandó juntar en Valladolid, que fue muy
+          <lb ed="#B" n="15"/>solemne, de letrados escogidos en todos sus Consejos, y perlados,
+          <lb ed="#B" n="16"/>y cavalleros, el año de 1542, donde hovo grandes disputas 
+          <lb ed="#B" n="17"/>y razones de una parte y otra; finalmente se determinó que se
+          <lb ed="#B" n="18"/>hiziesen Leyes Nuevas para el buen govierno de las Indias, por
+          <lb ed="#B" n="19"/>una de las quales se mandó: que dende en adelante, ningún
+          <lb ed="#B" n="20"/>Visorrey, Governador, Audiencia, descubridor, ni otra persona
+          <lb ed="#B" n="21"/>alguna no pueda encomendar indios por nueva Provisión,
+          <lb ed="#B" n="22"/>ni por renunciación, ni donación, venta, ni otra qualquiera forma,
+          <lb ed="#B" n="23"/>modo, ni por vacación, ni herencia, sino que muriendo la perso
+          <lb ed="#B" n="24"/>na que tuviere los indios, sean puestos en la Corona Real, etc...».
+          <lb ed="#B" n="25"/>La razón de todas estas prohibiciones de los Reyes fue y es porque 
+          <lb ed="#B" n="26"/>no pueden, con quanto poder Dios les dio, justificar las dichas
+          <lb ed="#B" n="27"/>encomiendas o repartimientos, sin peccar mortalmente,
+          <lb ed="#B" n="28"/>como sean aquellas gentes libres y por las encomiendas, cap
+          <lb ed="#B" n="29"/>tivos y en servidumbre puestos, y sea governación tyránica y 
+          <lb ed="#B" n="30"/>contra toda razón y ley natural segán queda probado en el Cap. 16 
+          <lb ed="#B" n="31"/>y 17. Y el Emperador mismo confiessa que en buena consciencia
+          <lb ed="#B" n="32"/>no puede repartillos ni encomendallos, por parecer de theólogos
+          <lb ed="#B" n="33"/>y personas de sancta vida informado. 
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e580">Parece, pues, ser verdad
+          <lb ed="#B" n="34"/>las encomiendas y repartimientos haver sido siempre contra la vo
+          <pb ed="#B" n="196-r"/>
+          <lb ed="#B" n="1"/>luntad y ordenación y mandado de los Reyes de Castilla, como ty
+          <lb ed="#B" n="2"/>ránica y destructiva de aquellas gentes, sino que los tyranos por 
+          <lb ed="#B" n="3"/>mañas y cautelas y con desacatos y desvergüenzas que han usado
+          <lb ed="#B" n="4"/>contra la obediencia y mandamientos e instrucciones de su Rey, 
+          <lb ed="#B" n="5"/>se <sic> <!--edition has han--> an</sic> hecho fuertes con ellas y en ellas (16).
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e603">No así han sido las dichas
+          <lb ed="#B" n="6"/>encomiendas contra la voluntad de los Governadores y officiales,
+          <lb ed="#B" n="7"/>antes ellos siempre fueron o grandes y mayores tiranos los 
+          <lb ed="#B" n="8"/>mas dellos: porque an tenido mayor parte de los repartimientos: 
+          <lb ed="#B" n="9"/>y otros y destos fueron muy poquitos por ceguedad y muy llegados
+          <lb ed="#B" n="10"/>a malicia y amistad o casamientos y <sic><!--edition separates sentences-->deudos: y</sic> finalmente todos 
+          <lb ed="#B" n="11"/>ellos han sido causa principal de la perdición de aquellas gentes,
+          <lb ed="#B" n="12"/>por no haver hecho guardar las Provisiones que para remedio de los yndios 
+          <lb ed="#B" n="13"/>les embiavan y mandavan los Reyes. Y así ninguna duda se deve
+          <lb ed="#B" n="14"/>tener que han incurrido en los graves peccados que contra aquellas
+          <lb ed="#B" n="15"/>gentes los tyranos cometieron y cometen, y en la obligación de la
+          <lb ed="#B" n="16"/>restitución, no quedan muchos contras. </p>
+        <p xml:id="dc7aa7-e10807-d1e634"> Permitillas el Rey, no les
+          <lb ed="#B" n="17"/>escusa su tyranía ni los gravíssimos peccados que en ella y por ella
+          <lb ed="#B" n="18"/>cometen, ni de la restitución, antes sus peccados son más graves ca
+          <lb ed="#B" break="no" n="19"/>da día. <quote xml:id="dc7aa7-e10807-Qd1e642">«Tanto enim graviora sunt peccata, quanto diutus infelicem
+            <lb ed="#B" n="20"/>animam detinent alligatam«:</quote>
+          <ref xml:id="dc7aa7-e10807-Rd1e647">c. último, De consuetudine?.</ref> Mayormente 
+          <lb ed="#B" n="21"/>que defienden en quanto pueden aquellos peccados con consumada
+          <lb ed="#B" n="22"/>malicia. Esta permisión es de gravíssimos peccados, como son
+          <lb ed="#B" n="23"/>privar los hombres libres de su libertad y los señores de sus naturales
+          <lb ed="#B" n="24"/>señoríos e impedir, por la tal servidumbre, que los infieles no sean
+          <lb ed="#B" n="25"/>christianos. Antes causan que aborrezcan el nombre de christianos
+          <lb ed="#B" n="26"/>y de su religión christiana, y al cabo que se consuman, lo qual todo
+          <lb ed="#B" n="27"/>causan las dichas encomiendas como queda probado: Cap. 16 y 17.
+          <lb ed="#B" n="28"/>Hec enim nulla ratione excusantur. Lo qual no es otra cosa sino
+          <lb ed="#B" n="29"/>no yr a la mano, estorvándolos y castigándolos, por excusar
+          <lb ed="#B" n="30"/>mayores males que es algarse contra su Rey según cada día lo a
+          <lb ed="#B" break="no" n="31"/>menazan, como se dixo, de donde mayores daños vernían a los
+          <lb ed="#B" n="32"/>indios como se ha visto. No castigar o impedir los grandes pecca
+          <lb ed="#B" n="33"/>dos, no pudiendo impedillos ni castigallos sin que nazcan o se 
+          <lb ed="#B" n="34"/>hayan de seguir mayores, no es aproballos, <quote xml:id="dc7aa7-e10807-Qd1e680">«quia lex humana di
+            <pb ed="#B" n="196-v"/>
+            <lb ed="#B" n="1"/>citur aliqua permittere non quasi ea approbans, sed quasi
+            <lb ed="#B" n="2"/>ea dirigere non valens»,</quote>según aquello de<ref xml:id="dc7aa7-e10807-Rd1e689"> san Augustín, Li
+              <lb ed="#B" n="3"/>bro 1, De libero arbitrio:</ref>
+          <quote xml:id="dc7aa7-e10807-Qd1e694" source="http://scta.info/resource/aldx7s-x1ez55-d1e877@66-82">«Lex que populo regendo scribitur, recte
+            <lb ed="#B" n="4"/>multa permittit que per divinam providentiam vindicantur»,</quote>
+          <lb ed="#B" n="5"/>y <ref xml:id="dc7aa7-e10807-Rd1e702">s. Thomas, 1.2 q. 93 a.3 ad 3.</ref> Desta manera permitte la
+          <lb ed="#B" n="6"/>Yglesia que haya mugeres públicas pecado y las leyes antiguas
+          <lb ed="#B" n="7"/>permitían las usuras. Pero, no dexan los tales peccadores
+          <lb ed="#B" n="8"/>de estar en nral estado y de ser obligados a restituir lo que
+          <lb ed="#B" n="9"/>roban o han robado; desta permissión dize <ref xml:id="dc7aa7-e10807-Rd1e712" target="http://scta.info/resource/gd-p2c31q1-Dd1e238">el canon 31, q. 1, c. 
+            <lb ed="#B" n="10"/>hac ratione quod</ref> permittimus, quia males hominum
+          <lb ed="#B" n="11"/>voluntates ad plenum prohibere non possumus.</p>
+        <p xml:id="dc7aa7-e10807-d1e722">Así parece
+          <lb ed="#B" n="12"/>que los tales encomenderos, porque el Rey no los castigue y les dexa 
+          <lb ed="#B" n="13"/>los yndios como ellos los usurparon y tyranizaron, no son los
+          <lb ed="#B" n="14"/>tristes escusados y siempre quedan y permanecen tyranos
+          <lb ed="#B" n="15"/>y en infernal estado, y a la restitución obligados. Y haze a este
+          <lb ed="#B" n="16"/>propósito contra ellos lo que dize, en la <ref xml:id="dc7aa7-e10807-Rd1e735">ley decernimus, Codex, De sacro
+            <lb ed="#B" break="no" n="17"/>sanctis Ecclesiis, el Baldo:</ref> que si el Príncipe permitte a uno, aunque
+          <lb ed="#B" n="18"/>govierna bien la provincia, por no poder o juzgallo y castiga
+          <lb ed="#B" break="no" n="19"/>llo, aquel tal es proprio rebelde a su Rey, y es tyrano y comete 
+          <lb ed="#B" n="20"/>crimen lese maiestatis, ut <ref xml:id="dc7aa7-e10807-Rd1e746">L. 1 et 2, Codex, Ad legem Juliam majestatis.</ref> Vean
+          <lb ed="#B" n="21"/>en esto los comenderos su seun mal gobernador no se mejante estado.
+          <lb ed="#B" n="22"/>Conclusión 3a [para la duda 3°]
+        </p>
+        <p xml:id="dc7aa7-e10807-d1e754">
+          <lb ed="#B" n="23"/>Los comenderos que tuvieron doctrina en los repartimientos
+          <lb ed="#B" n="24"/>de clérigo o de frayle y les dieron salario, o gastaron con ellos algo
+          <lb ed="#B" n="25"/>de aquello que de los indios llevavan, parece que está claro no ser
+          <lb ed="#B" n="26"/>obligados a restitución de aquella parte, pues se gastó en utili
+          <lb ed="#B" n="27"/>dad de los indios, como si el comendero restituyera a los mismos
+          <lb ed="#B" n="28"/>indios aquella cantidad por su mano.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

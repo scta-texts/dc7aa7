@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 35</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 35</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="205-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e13407"><!-- dd-c35 -->
+        <head xml:id="dc7aa7-e13407-Hd1e111">Capitulo 35</head>
+        <p xml:id="dc7aa7-e13407-d1e113">
+          Capítulo 35
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e115">Capítulo 35
+          <lb ed="#B" n="1"/>Conclusión 1a para la 6a Duda 
+          <lb ed="#B" n="2"/>Que contiene tres dudillas
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e122">
+          <lb ed="#B" n="3"/>Ser contra voluntad de los Reyes Yngas y los demás seño
+          <lb ed="#B" n="4"/>res y personas particulares cuyas eran las minas que el
+          <lb ed="#B" n="5"/>Rey de Castilla tenga minas en aquellos reynos, ni espa
+          <lb ed="#B" n="6"/>ñol alguno, aunque por obras o por palabras pareciesen
+          <lb ed="#B" n="7"/>dezir o conceder al contrario, quién lo negare o ignorare, 
+          <lb ed="#B" n="8"/>muy poco desta materia sabrá.
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e138">
+          <lb ed="#B" n="9"/>Pruévase la Conclusión, lo 1°, porque teniendo aquellas gen
+          <lb ed="#B" n="10"/>tes a los españoles por hostes públicos y capitales enemigos
+          <lb ed="#B" n="11"/>destruidores de su nación, e aún del linaje humano y péssi
+          <lb ed="#B" n="12"/>mos hombres y con tanta razón, y al Rey de Castilla por el
+          <lb ed="#B" n="13"/>peor rey del mundo, creyendo que todas las injusticias y ty
+          <lb ed="#B" n="14"/>ranías y males que padecen proceden de su voluntad y que
+          <lb ed="#B" n="15"/>por su mandado se hazen, manifiesto es que les ha de pesar
+          <lb ed="#B" n="16"/>notalíssimamente que se aprovechen de sus minas y de los
+          <lb ed="#B" n="17"/>otros bienes de su tierra o reynos, no menos que si se los lleva
+          <lb ed="#B" n="18"/>sen los diablos. </p>
+        <p xml:id="dc7aa7-e13407-d1e163"> Lo 2°, porque no sólo les havemos usur
+          <lb ed="#B" n="19"/>pado sus minas contra toda la ley e razón, como los otros
+          <lb ed="#B" n="20"/>robos y daños que de nuestras proprias impías manos <sic><!--edition has han--></sic>
+          <lb ed="#B" n="21"/>rescebido, pero que todo el oro y plata y piedras de gran valor
+          <lb ed="#B" n="22"/>y otras infinitas como por el servicio de minas riquezas que estavan debaxo de la tierra
+          <lb ed="#B" n="23"/>y se han de las que huvo en muchos pueblos minas sacado y por toda España y fuera della
+          <lb ed="#B" n="24"/>derramado, les <sic><!--edition with hayamos--> ayamos </sic> por fuerca y violencia hecho sa
+          <lb ed="#B" n="25"/>car más que se quitó y en el Perú con sus mesmas personas e increybles trabajos, como
+          <lb ed="#B" n="26"/>siempre con ellos se sacan, donde al cabo los más mueren.
+          <lb ed="#B" n="27"/>¿Quién dudará que usurpalles sus minas y el oro y plata y lo 
+          <lb ed="#B" n="28"/>demás que dellas se saca, mayormente constándoles sus sudores
+          <lb ed="#B" n="29"/>y las vidas que allá acavan, sea contra su voluntad y les
+          <lb ed="#B" n="30"/>pese dello con sospiros grandes?
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e199">Lo 3° se prueva, cierta 
+          <pb ed="#B" n="206-r"/>
+          <lb ed="#B" n="1"/>o probable presumpción es, según los derechos, que los que biven oppre
+          <lb ed="#B" n="2"/>ssos debaxo de tyranía siempre tienen justo miedo y por con
+          <lb ed="#B" break="no" n="3"/>siguiente a quanto cerca dellos por los tyranos se haze,
+          <lb ed="#B" n="4"/>della no los libra, siempre repugna su voluntad, puesto que por
+          <lb ed="#B" n="5"/>obras o por palabras parezca que consienten en aquello. <quote xml:id="dc7aa7-e13407-Qd1e214">«Nihil
+            <lb ed="#B" n="6"/>enim consensui tam contrarium qui bone fidei iudicia sustinet quam
+            <lb ed="#B" n="7"/>vis aut metus que comprobare contra bonos mores est»:</quote>
+          <ref xml:id="dc7aa7-e13407-Rd1e221" target="http://scta.info/resource/bgy6gt-d1e5159-Dd1e1340">Digest., De regulis juris,
+            <lb ed="#B" n="8"/>L. nibil consensui</ref>; et ff., <ref xml:id="dc7aa7-e13407-Rd1e226">De judiciis, L.2.</ref> Sic presumitur quis aliquid
+          <lb ed="#B" n="9"/>dare invitus, quantumcunque sponte det, perhorrescens officium
+          <lb ed="#B" n="10"/>judicis, <ref xml:id="dc7aa7-e13407-Rd1e233">ut in 1, Codex, Ne rusticani ad obsequium Lib. 11;</ref> et <ref xml:id="dc7aa7-e13407-Rd1e235">Codex,
+            <lb ed="#B" n="11"/>De salgamo bospitibus, L. única,</ref> Humani enim moris est illum timeri
+          <lb ed="#B" n="12"/>cuius judicio et voluntate nunc erigitur quis, nunc deprimitur: <ref xml:id="dc7aa7-e13407-Rd1e242">16,
+            <lb ed="#B" n="13"/>q. 2, c. visis. </ref>Y siempre dura este justo miedo en quanto el tyrano
+          <lb ed="#B" n="14"/>es poderoso, como arriba, en el Cap. 29, quedá declarado. Pues,
+          <lb ed="#B" n="15"/>aquellas gentes están oppressas y debaxo de tyranía cruel,
+          <lb ed="#B" n="16"/>como muchas vezes arriba se ha visto, y así padecen miedo jus
+          <lb ed="#B" break="no" n="17"/>tíssimo. Luego, aunque por obras y por palabras parezca en que
+          <lb ed="#B" n="18"/>el Rey de Castilla y los españoles tengan minas, y ellos sa
+          <lb ed="#B" n="19"/>quen y lleven el oro y plata y riquezas, que tuvieren consen
+          <lb ed="#B" n="20"/>tir, no se les ha de creer, antes segün los derechos y la razón natural
+          <lb ed="#B" n="21"/>el contrario se ha de presumir: es luego contra voluntad de los
+          <lb ed="#B" n="22"/>Reyes Yngas y de sus herederos y de las personas particulares,
+          <lb ed="#B" n="23"/>que según sus leyes y costumbres tenían minas por suyas, que el
+          <lb ed="#B" n="24"/>de Castilla y los españoles tengan minas de oro y plata y otros
+          <lb ed="#B" n="25"/>metales, y la misma razón es de las perlas donde se pescan
+          <lb ed="#B" n="26"/>o sacan. Y es cierto que si ellos pudiesen usar del derecho que la
+          <lb ed="#B" n="27"/>divina Providencia y la naturaleza les ha dado para por armas
+          <lb ed="#B" n="28"/>salir de la violencia que padecen, el Rey de Castilla ni
+          <lb ed="#B" n="29"/>español alguno ternía minas ni otro provecho alguno, pero
+          <lb ed="#B" n="30"/>no lo pueden hazer porque los tenemos injustamente tyra
+          <lb ed="#B" break="no" n="31"/>nizados.
+          <pb ed="#B" n="206-v"/>
+          <lb ed="#B" n="1"/>Conlusion. 2a. para la 6a. duda.
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e291">¶El Rey decastilla y leon nopuede tener mina deoro
+          <lb ed="#B" n="2"/>ni de plata nide otro metal nide esmeraldas: ni de otras cosas pre¬
+          <lb ed="#B" n="3"/>ciosas algunas enel peru sin licencia y voluntad libre del Rey juega/
+          <lb ed="#B" n="4"/>o desus herederos: nipuede el el rey de castilla darla aotro alguno./
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e300">¶Pruesase laconclusion: porquel Rey ynga y sus herederos
+          <lb ed="#B" n="5"/>sonreyes y principes supremos de aquellos rreynos y señorios
+          <lb ed="#B" n="6"/>uniuersales por derecho y ley natural y delas gentes y diuino¬
+          <lb ed="#B" n="7"/>positiuo: y no anperdido sus estados realos ni recognoscido
+          <lb ed="#B" n="8"/>al rrey de castilla por uniuersal principe y emperador. Lo
+          <lb ed="#B" n="9"/>primero parece porel primer principio y. i. §. i. y 4. donde queda
+          <lb ed="#B" n="10"/>prouado ser aquel orbe de aquellas gentes y de sus reyes y señores
+          <lb ed="#B" n="11"/>y no nuestros. 
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e318">¶Lo i. el papa nolos priuo porque no fuuo causa
+          <lb ed="#B" n="12"/>para los pricar legitima como parece enel 9. principio niotro
+          <lb ed="#B" n="13"/>principe del mundo tuvo poder niautoidad para priuarlos:
+          <lb ed="#B" n="14"/>mas quelos Reyes yngas para priuarnos anosotros lo tenian /.
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e327">¶Lo. 3. porque nunca recognoscieron al Rey decastilla ni
+          <lb ed="#B" n="15"/>tuuieron hasta agora causa de recognoscerlo por superior
+          <lb ed="#B" n="16"/>como lo declara el 6. principio luego sin licencia y voluntad li¬
+          <lb ed="#B" n="17"/>bre del rey ynga/ odesus heredozos no puede el Rey de castilla
+          <lb ed="#B" n="18"/>y leon nio señor tener mina de oro plata / o de otros me¬
+          <lb ed="#B" n="19"/>tales y cosas preciosas nidarla aotro alguno. 
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e341">¶Non obstat¬
+          <lb ed="#B" n="20"/>que el rrey de castilla y leon nio señor rige y gouierna oy aquellos
+          <lb ed="#B" n="21"/>reynos y sediga señor o principe uniiuersal de aquel orbe: por
+          <lb ed="#B" n="22"/>quela sede pilica lo aya instituydo consus antecessores y sucee¬
+          <lb ed="#B" n="23"/>ssores por fauor dela fe y asilo confessamos y dello tiene justo
+          <lb ed="#B" n="24"/>titulo: pero requiriase que enel adquerir de aquella superioridad
+          <lb ed="#B" n="25"/>soberana en altu: y Juridicamente apprehender la possession:
+          <lb ed="#B" n="26"/>se guardase y muy bien guardada la orden del de recho nal¬
+          <lb ed="#B" n="27"/>y diuino laqual siempre fue iolada porglos españoles los
+          <lb ed="#B" n="28"/>primeros y segundos y todos quantos aaquellas ptes an ydo:
+          <lb ed="#B" n="29"/>entrando comohostes publicos robadores / matadores / destru
+          <pb ed="#B" n="207-r"/>
+          <lb ed="#B" break="no" n="1"/>dores de tan grande parte del linaje humano, como en aquel
+          <lb ed="#B" break="no" n="2"/>los reynos y orbe hallamos: matando, captivando estados, señoríos, 
+          <lb ed="#B" n="3"/>juridiciones y reynados, deponiendo y despojando Reyes y Príncipes
+          <lb ed="#B" n="4"/>grandes naturales, robándoles thesoros tan inestimables, no sólo
+          <lb ed="#B" n="5"/>en su primera entrada en cada reyno, pero en toda su estada y mo
+          <lb ed="#B" n="6"/>rada según todo esto queda en el 7° Principio a la larga expresso,
+          <lb ed="#B" n="7"/>y no por figuras ni ambajes probado. Y así el Rey Ynga y sus
+          <lb ed="#B" n="8"/>herederos están hoy violentamente, con gran injusticia, despoja
+          <lb ed="#B" n="9"/>dos de sus estados reales. Y el Rey de Castilla, nuestro Señor, a quien devemos
+          <lb ed="#B" n="10"/>como fieles súbditos y vassallos leales desengañar, declarándole
+          <lb ed="#B" n="11"/>la verdad que le han encubierto tantos años los que a dezírsela eran
+          <lb ed="#B" n="12"/>obligados, o por ignorancia, y plega a Dios que sea así e que no se<sic><!--edition has haya--></sic>
+          <lb ed="#B" n="13"/>en algunos de los tiempos passados malicia mezclado, no ha entrado
+          <lb ed="#B" n="14"/>en aquellos reynos según el derecho divino natural y humano dict
+          <lb ed="#B" n="15"/>ava y enseñava, y era por ello obligado a entrar por culpa y mal
+          <lb ed="#B" break="no" n="16"/>dad de los españoles que allá han passado, y también los que para
+          <lb ed="#B" n="17"/>administrar justicia o por miembros della ha embiado,
+          <lb ed="#B" n="18"/>se le imputan todos los males y daños hechos a aquellas gentes por
+          <lb ed="#B" n="19"/>los malos ministros que allá ha embiado, al menos quanto a la restitución
+          <lb ed="#B" n="20"/>ser obligado, así como el obispo es obligado a restitución de los daños
+          <lb ed="#B" n="21"/>que injustamente hizo su officio o vicario; y mucho más que el
+          <lb ed="#B" n="22"/>Obispo, los Reyes quánto más son poderosos para castigar sus mi
+          <lb ed="#B" break="no" n="23"/>nistros y officiales y estorvar los males. Y así lo dize <ref xml:id="dc7aa7-e13407-Rd1e420">Polícrato, lib.
+            <lb ed="#B" n="24"/>7, cap. último:</ref>
+          <quote xml:id="dc7aa7-e13407-Qd1e425">«Tenetur princeps de omnibus et omnium autor esse
+            <lb ed="#B" n="25"/>videtur, quia cum omnia possit corrigere, eorum merito particeps
+            <lb ed="#B" n="26"/>est que noluit vel neglexerit emendare».</quote> Hec ille.
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e433">Ad corrigendum
+          <lb ed="#B" n="27"/>enim subditorum excessus, tanto diligentius debet princeps aut prela
+          <lb ed="#B" n="28"/>tus assurgere, quanto damnabilius eorum offensas deserit incorrectas: 
+          <lb ed="#B" n="29"/>
+          <ref xml:id="dc7aa7-e13407-Rd1e441">c. licet Heli, Extra, De simonia; et 3 Regum, cap. 20, </ref>dicitur: «Quia dimisisti 
+          <lb ed="#B" n="30"/>
+          <quote xml:id="dc7aa7-e13407-Qd1e446">virum dignum morte, anima tua erit pro anima eius»</quote>. <ref xml:id="dc7aa7-e13407-Rd1e448">San
+            <lb ed="#B" break="no" n="31"/>cto Thomás también 2.2 q. 62 a.7,</ref> confirma lo dicho: <quote xml:id="dc7aa7-e13407-Qd1e453">«Prin
+              <lb ed="#B" n="32"/>cipes, inquit, qui tenentur custodire justitiam in terra, si per
+              <lb ed="#B" n="33"/>eorum defectum latrones increscunt, ad restitutionem tenentur.» </quote>
+          <lb ed="#B" n="34"/>Hec ille. Unde generaliter tenetur dominus quando familia sua 
+          <pb ed="#B" n="207-v"/>
+          <lb ed="#B" n="1"/>vel officiales sui delinquunt in illo officio seu ministerio in quo do
+          <lb ed="#B" n="2"/>minus est prepositus. Est enim tunc quid imputetur domino si non 
+          <lb ed="#B" n="3"/>elegit, seu non preposuit familiam honestam, ut<ref xml:id="dc7aa7-e13407-Rd1e471"> L. 1 $ fami
+            <lb ed="#B" n="4"/>lie, ff., De publicanis</ref>. Et ideo si aliquis esset prepositus ad custodiam
+          <lb ed="#B" n="5"/>alicius territorii, tenetur ex robaria facta ibidem per familiam
+          <lb ed="#B" n="6"/>suam. Sic potestas vel rector tenetur ex facto officialium suorum,
+          <lb ed="#B" n="7"/>
+          <ref xml:id="dc7aa7-e13407-Rd1e483">ut L. sz post., ff., De assessoribus</ref>. Princeps autem iustus est custos justitie,
+          <lb ed="#B" n="8"/>ut Sapientia 6, dicitur ad Reges <quote xml:id="dc7aa7-e13407-Qd1e487">«quia cum essetis ministri regni eius
+            <lb ed="#B" n="9"/>non custodistis iustitiam»</quote>; et <ref xml:id="dc7aa7-e13407-Rd1e492">5 Ethicorum</ref>; ideo re vera vigilare
+          <lb ed="#B" n="10"/>et non dormire debet qui custodit Israel: Ps. 120, Notantur pre
+          <lb ed="#B" n="11"/>dicta omnia per Doctores latissime, in <ref xml:id="dc7aa7-e13407-Rd1e499">cap. 1, De restitutione spoliatorum:</ref> Joannes Andres
+          <lb ed="#B" n="12"/>super eo dicit post Hostiensem, homini tenere de violen
+          <lb ed="#B" break="no" n="13"/>tia per homines suos illata; et etiam importatur ei qui opera malo
+          <lb ed="#B" break="no" n="14"/>rum hominum utitur: <ref xml:id="dc7aa7-e13407-Rd1e507">Digest., De obligationibus et actionibus, L. ex maleficio</ref>; et 
+          <lb ed="#B" n="15"/>
+          <ref xml:id="dc7aa7-e13407-Rd1e512">Instit., De obligationibus que quasi ex contractu nascuntur, $ fin.</ref> Imputatur enim ei qui
+          <lb ed="#B" n="16"/>tales elegit: <ref xml:id="dc7aa7-e13407-Rd1e516">Digest., De minoritate, L. cum mandato;</ref> et <ref xml:id="dc7aa7-e13407-Rd1e518">L. 2, Codex, De periculo nomi nato
+            <lb ed="#B" break="no" n="17"/>rum, Lib. XI</ref>; et <ref xml:id="dc7aa7-e13407-Rd1e523">Codex, De periculo eorum qui pro magistribus, L. ánica, eodem Libro. </ref>Pro hoc est textus in 
+          <lb ed="#B" n="18"/>authent. Ut indices sine quoquo suffragio fiant,<ref xml:id="dc7aa7-e13407-Rd1e528"> $ licet eos, in fin. et 86 Dist. c. inferio
+            <lb ed="#B" n="19"/>rum culpe et c. facientis culpam</ref>. Y en otros muchos lugares de ambos
+          <lb ed="#B" n="20"/>a dos derechos.
+        </p>
+        <p xml:id="dc7aa7-e13407-d1e536">De aquí es que se puede dezir con verdad que nun
+          <lb ed="#B" break="no" n="21"/>ca rey ni príncipe fue de sus súbditos tan deservido
+          <lb ed="#B" n="22"/>y dañificado como el Rey, nuestro Señor de Castilla, de los españoles que
+          <lb ed="#B" n="23"/>
+          <sic><!--edition has han--> an</sic> passado a las Indias. Porque si hovieran complido sus Provissio
+          <lb ed="#B" n="24"/>nes y mandamientos, y no hubieran entrado tan tyránica y
+          <lb ed="#B" n="25"/>horrendamente usurpando y assolando, aquellas gentes y tierras
+          <lb ed="#B" n="26"/>todas lo hovieran rescebido por universal Príncipe y Señor supremo,
+          <lb ed="#B" n="27"/>acceptando de su voluntad, como reyes y pueblos libres, la promoción
+          <lb ed="#B" n="28"/>e institución de los Reyes de Castilla por la Sancta Sede Apostólica a
+          <lb ed="#B" n="29"/>la superioridad que tiene hoy en hábito, la qual tuviera en acto justifi
+          <lb ed="#B" break="no" n="30"/>cado, y aprehendiera la possesión jurídica de aquel orbe; y fácilmente
+          <lb ed="#B" n="31"/>los reyes y señores naturales y pueblos offrecieran a Sus Altezas
+          <lb ed="#B" n="32"/>al principio, y después a Sus Magestades, y cedieran los mineros de
+          <lb ed="#B" n="33"/>los metales riquíssimos que frequentes por aquellas tierras hay, y así
+          <lb ed="#B" n="34"/>tuviera Su Magestad de jure muchas y grandes minas, las que agora
+          <pb ed="#B" n="208-r"/>
+          <lb ed="#B" n="1"/>tiene sino de facto y contra justicia, para confessar verdad, confiando
+          <lb ed="#B" n="2"/>que Su Magestad no quiere ni es servido haver cosa contra verdad y
+          <lb ed="#B" n="3"/>justicia y mandará emendar lo que sus officiales tan enormemente <sic><!--edition has han--></sic>
+          <lb ed="#B" n="4"/>errado. Por lo qual, que a los Reyes Yngas y a sus pueblos pese que tenga
+          <lb ed="#B" n="5"/>minas no se deve maravillar, puesto que algunos lisongeros haya, que por
+          <lb ed="#B" n="6"/>ignorancia o malicia, mirando poco por el bien y seguridad de su gene
+          <lb ed="#B" n="7"/>rosa ánima y por la fidelidad de su real estado, que digan el contrario.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 34</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 34</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="201-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e12582"><!-- dd-c34 -->
+        <head xml:id="dc7aa7-e12582-Hd1e111">Capitulo 34</head>
+        <p xml:id="dc7aa7-e12582-d1e113">
+          <lb ed="#B" n="6"/>Capítulo 34
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e118">
+          <lb ed="#B" n="7"/>Díxose arriba «excepto los diezmos prediales», porque, aunque de lo
+          <lb ed="#B" n="8"/>mal ganado por hurto o rapiña no se deve rescebir limosna como se ha di
+          <lb ed="#B" n="9"/>cho y diremos abaxo, pero los diezmos de las sementeras y fructos de la
+          <lb ed="#B" n="10"/>tierra y de las heredades que se llaman prediales, no sólo de lo justo, pero
+          <lb ed="#B" n="11"/>de lo violento y tyránicamente <sic><!--edition has havido--></sic>, se deven los diezmos; y no sólo
+          <lb ed="#B" n="12"/>de la hazienda que tuviese qualquiera cathólico, pero de la del ju
+          <lb ed="#B" n="13"/>dío, pagano, o herético, qualquiera a quien la heredad o tierra vinie
+          <lb ed="#B" n="14"/>re. Así se haze de los tributos: <ref xml:id="dc7aa7-e12582-Rd1e140">ff., De pactis, L. inter debitores</ref>;
+          <lb ed="#B" n="15"/>
+          <ref xml:id="dc7aa7-e12582-Rd1e145">Codex, Sine censu vel reliquis, L. 12, </ref>porque la décima est onus reale sicut
+          <lb ed="#B" n="16"/>tributum, ideo equitur possesorem, ut in cap. cum sint, in cap. de terris, 
+          <lb ed="#B" n="17"/>et cap. pastoralis, De decimis.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e152">
+          Esto se entiende los judíos y otros infieles
+          <lb ed="#B" n="18"/>ser obligados a pagar diezmos prediales, si la tierra o heredad o campo
+          <lb ed="#B" n="19"/>está dentro de los límites de alguna parochia. Y la razón es porque
+          <lb ed="#B" n="20"/>sería la Iglesia de su derecho defraudada, como parece por el dicho
+          <lb ed="#B" n="21"/>capítulo «De terris» y el texto de la causa: <quote xml:id="dc7aa7-e12582-Qd1e162">«Ne forte, scilicet, occa
+            <lb ed="#B" n="22"/>sione istarum terrarum vel possessionum valeant ecclesie parro
+            <lb ed="#B" n="23"/>chiali suo jure fraudari.»</quote>
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e170">
+          <lb ed="#B" n="24"/>Pero si la tierra o possessión no
+          <lb ed="#B" n="25"/>está dentro de los términos de alguna yglesia o parrochia, los in
+          <lb ed="#B" n="26"/>fieles no son obligados a pagar diezmos aunque sean súbditos de christia
+          <lb ed="#B" break="no" n="27"/>nos, porque allí falta la causa que pone el dicho <ref xml:id="dc7aa7-e12582-Rd1e180">capítulo «de terris»</ref>.
+          <lb ed="#B" n="28"/>
+          <quote xml:id="dc7aa7-e12582-Qd1e185">«Et ubi cessat pactum cessat et jus et obligatio»,</quote> ut in <ref xml:id="dc7aa7-e12582-Rd1e187">L. quod dictum est, 
+            <lb ed="#B" n="29"/>ff., De pactis.</ref> Y mucho menos son obligados los infieles que tienen sus 
+          <lb ed="#B" n="30"/>tierras apartadas de las de los christianos, ni después de venidos
+          <lb ed="#B" n="31"/>a poder de christianos, como no estén dentro de los límites de iglesia
+          <lb ed="#B" n="32"/>parrochial mientras son infieles. Y <sic><!--edition has hay--> ay</sic> un argumento semejant
+          <lb ed="#B" n="33"/>desto en el <ref xml:id="dc7aa7-e12582-Rd1e205">cap. 1, De prescriptionibus,</ref> donde todo el tiempo que el Obispo no
+          <pb ed="#B" n="202-r"/>
+          <lb ed="#B" n="1"/>es cathólico, no corre la prescripción contra la Yglesia. Puéde
+          <lb ed="#B" break="no" n="2"/>se también a dar otra razón porque los infieles no sean obligados
+          <lb ed="#B" n="3"/>
+          <sic><!--this is in edition but not text-->no corre la prescripción contra <sic><!--edition has footnote here, not sure why-->la Yglesia.</sic> Puédese también dar otra razón porque los infieles no sean obligados</sic>
+          <lb ed="#B" n="4"/>a pagar diezmos prediales, porque las décimas se dan para la sus
+          <lb ed="#B" n="5"/>tentación de los ministros que administran los sacramentos y las cosas
+          <lb ed="#B" n="6"/>espirituales a los feligreses y parrochianos, como parece en el <ref xml:id="dc7aa7-e12582-Rd1e230">capítulo
+            <lb ed="#B" n="7"/>novum, De decimius</ref>, y en el <ref xml:id="dc7aa7-e12582-Rd1e236">capítulo significavit, De parrochis</ref>. Pues, los
+          <lb ed="#B" n="8"/>infieles de quien hablamos no son parrochianos ni resciben
+          <lb ed="#B" n="9"/>los sacramentos ni otra cosa espiritual, luego, no son obligados a pagar
+          <lb ed="#B" n="10"/>diezmos de sus tierras que nunca fueron de christianos, ut in <ref xml:id="dc7aa7-e12582-Rd1e244">d. cap. 
+            <lb ed="#B" n="11"/>Significavit</ref>, y también porque cessat ratio ibi solvendi decimas,
+          <lb ed="#B" n="12"/>
+          <ref xml:id="dc7aa7-e12582-Rd1e252">d. L. quod dictum est</ref>; et <ref xml:id="dc7aa7-e12582-Rd1e254">cap. etsi Christus, De jurejurando;</ref> et <ref xml:id="dc7aa7-e12582-Rd1e256">cap. cum 
+            <lb ed="#B" n="13"/>cessante causa, De apellatione</ref>. De los diezmos personales (hablando como de 
+          <lb ed="#B" n="14"/>la guerra injusta, del hurto y de la rapiña, simonía, usura, de las 
+          <lb ed="#B" n="15"/>injustas imposiciones o tributos, y de la injusta sentencia y cosas
+          <lb ed="#B" n="16"/>semejantes), que con injusticia se adquirieron, que se traspase el do
+          <lb ed="#B" break="no" n="17"/>minio o no, ni se deve dar diezmo ni rescebirlo y mucho menos
+          <lb ed="#B" n="18"/>offrecer en sacrificio y servicio del culto divino ni rescebirlo los
+          <lb ed="#B" n="19"/>ecclesiásticos, porque no es otra cosa sino approvar los peccados que
+          <lb ed="#B" n="20"/>en adquirir aquello se cometieron, <ref xml:id="dc7aa7-e12582-Rd1e276">secundum Innocentium y Hostiensem, cap. 
+            <lb ed="#B" n="21"/>Ex transmissa, De decimis</ref>; y Hostiensis allí y en la Suma, título <ref xml:id="dc7aa7-e12582-Rd1e281">De de
+              <lb ed="#B" n="22"/>cimis,</ref> et <quote xml:id="dc7aa7-e12582-Qd1e287">«utrum prescribi possit», verbis «utrum de illicitis»</quote>.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e291">
+          <lb ed="#B" n="23"/>De todo lo suso determinado en esta conclusión, síguense los siguien
+          <lb ed="#B" break="no" n="24"/>tes corrolarios.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e298"> 
+          Corrolarium 1m
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e300">
+          <lb ed="#B" n="25"/>Peccan mortalmente los religiosos y ecclesiásticos que resciben de los
+          <lb ed="#B" n="26"/>comenderos qualesquiera limosna y dones, así para edificios
+          <lb ed="#B" n="27"/>de yglesias y monasterios como servicio del altar, de plata
+          <lb ed="#B" n="28"/>y oro y alhajas, y que admiten capellanías y que hagan 
+          <lb ed="#B" n="29"/>capillas y lugares donde se entierren.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e313">
+          <lb ed="#B" n="30"/>Pruévase el corrolario, Lo 1°, porque son causa y co
+          <lb ed="#B" n="31"/>munican en el acto que aquellos pequen mortalmente 
+          <lb ed="#B" n="32"/>offreciendo a Dios lo que en gran manera el aborresce, que no es otra
+          <lb ed="#B" n="33"/>cosa sino, en quanto en ellos es, afrentallo e injuriallo y desconocello, 
+          <lb ed="#B" n="34"/>dándole aquello que le prestó. Esto parece no por amba
+          <pb ed="#B" n="202-v"/>
+          <lb ed="#B" break="no" n="1"/>jes <ref xml:id="dc7aa7-e12582-Rd1e330">Isaías [61]</ref>:<quote xml:id="dc7aa7-e12582-Qd1e332" source="https://scta.lombardpress.org/res?resourceid=http://scta.info/resource/is61_8/critical/transcription@1-10"> «Si ego Dominus diligens judicium, et odio habens rapinam
+            <lb ed="#B" n="2"/>in holocausto»</quote>!. Et <ref xml:id="dc7aa7-e12582-Rd1e337">Ecclesiasticus 34:</ref>
+          <quote xml:id="dc7aa7-e12582-Qd1e339" source="http://scta.info/resource/sir34_24@1-14">«Inmolantis ex iniquo oblatio 
+            <lb ed="#B" n="3"/>est maculata, et non sunt beneplacite subsanationes injustorum.
+            <lb ed="#B" n="4"/>Dona iniquorum non probat Altissimus, nec respicit in obla
+            <lb ed="#B" n="5"/>tiones iniquorum, nec in multitudine sacrificiorum eorum propi
+            <lb ed="#B" n="6"/>tiabitur peccatis. Qui offert sacrificium ex substantia pauperum,
+            <lb ed="#B" n="7"/>quasi qui victimat filium in conspectu patris sui».</quote> Subsanar es mo
+          <lb ed="#B" n="8"/>far o escarnecer! ¿Y qué honra o plazer recibiría el padre, quando
+          <lb ed="#B" n="9"/>por honrrallo le hiziesen al hijo pedacos delante sus ojos y así dize
+          <lb ed="#B" n="10"/>la Glossa: <quote xml:id="dc7aa7-e12582-Qd1e359">«Valde detestabile est sacrificium quod orbati patris dolore 
+            <lb ed="#B" n="11"/>comparatur»</quote>. Pues, quien es causa que se escarnezca Dios y se le
+          <lb ed="#B" n="12"/>ofrezca sacrificio detestable, ¿quién duda que cometa pecado mortal.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e367">
+          <lb ed="#B" n="13"/>Lo 2°, porque hazen contra los expressos cánones y ordenaciones
+          <lb ed="#B" n="14"/>de la yglesia en cosa de grande importancia: <ref xml:id="dc7aa7-e12582-Rd1e373">90 dist., c. Oblationes,</ref>
+          <lb ed="#B" n="15"/>
+          <quote xml:id="dc7aa7-e12582-Qd1e377">«disidentium fratrum nec in sacrario, nec in gazophilatio re
+            <lb ed="#B" break="no" n="16"/>cipiantur».</quote> Similiter: <quote xml:id="dc7aa7-e12582-Qd1e383">«dona eorum, qui pauperes opprimunt, a sacer
+              <lb ed="#B" break="no" n="17"/>dotibus refutanda sunt»,</quote> et <ref xml:id="dc7aa7-e12582-Rd1e388">c. eorum et 14, q. 5, c. immolans.</ref> Et
+          <lb ed="#B" n="18"/>expresse in <ref xml:id="dc7aa7-e12582-Rd1e392">cap. super eo, De raptoribus,</ref> ubi prohibetur ecclesiasticis
+          <lb ed="#B" n="19"/>sive sacerdotibus elemosinas accipere a publicis raptoribus, sub
+          <lb ed="#B" n="20"/>privatione ordinum et beneficiorum irrecuperabiliter. Et compa
+          <lb ed="#B" break="no" n="21"/>rantur tales sacerdotes illis qui participant de rapina. Unde et
+          <lb ed="#B" n="22"/>eadem pena infligitur his et illis,<ref xml:id="dc7aa7-e12582-Rd1e403"> secundum Hostiensem,</ref> ibi: «ergo si
+          <lb ed="#B" n="23"/>cut illi peccant mortaliter, et quia ex gravitate poene arguitur
+          <lb ed="#B" n="24"/>gravitas culpe, juxta illud <ref xml:id="dc7aa7-e12582-Rd1e409">Deuteronomi 25: </ref>
+          <quote xml:id="dc7aa7-e12582-Qd1e412" source="https://scta.lombardpress.org/res?resourceid=http://scta.info/resource/deut25_2/critical/transcription@15-21">«Pro mensura peccati erit et
+            <lb ed="#B" n="25"/>plagarum modus».</quote> Et deponi ab ordine et privari beneficio est gra
+          <lb ed="#B" n="26"/>vis poena que non infligitur ab Ecclesia nisi propter peccatum
+          <lb ed="#B" n="27"/>mortale; ideo sacerdotes recipientes elemosinas et oblationes
+          <lb ed="#B" n="28"/>a publicis raptoribus, quemadmodum sunt isti de quibus loqui
+          <lb ed="#B" n="29"/>mur, peccant mortaliter».
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e426">Lo 3°, peccan mortalmente porque
+          <lb ed="#B" n="30"/>son causa que por aquello que de la hazienda que tienen robada,
+          <lb ed="#B" n="31"/>gastan en las dichas limosnas y sacrificios que hazen, sean menos 
+          <lb ed="#B" n="32"/>poderosos para restituirla, la qual de nuevo es cometer hurto
+          <lb ed="#B" n="33"/>como todos los doctores alegados dizen. Y entre ellos, Ale
+          <lb ed="#B" n="34"/>xandro de Ales: <quote xml:id="dc7aa7-e12582-Qd1e439">«quod plus peccat alienans rem furtivam dando vel
+            <pb ed="#B" n="203-r"/>
+            <lb ed="#B" n="1"/>vendendo quod si illam integram reservant, quod probat per illud: 
+            <lb ed="#B" n="2"/>
+            <ref xml:id="dc7aa7-e12582-Rd1e447">Exodus 22:</ref>
+            <quote xml:id="dc7aa7-e12582-Qd1e449" source="https://scta.lombardpress.org/res?resourceid=http://scta.info/resource/ex22_1@1-8">«Si quis furatus fuerit ovem vel bovem, etc...»</quote> Unde nec ven
+            <lb ed="#B" n="3"/>dere nec dare licet furi rem furtivam, ne se reddat impotentem <sic>ad<!--ad repeated here--></sic>
+            <lb ed="#B" n="4"/>ad restituendum. Ergo peccat mortaliter dando rem furtivam
+            <lb ed="#B" n="5"/>etiam Deo, etc...».</quote> Hec Alexander. </p>
+        <p xml:id="dc7aa7-e12582-d1e466">4°, peccat mortaliter, quia in
+          <lb ed="#B" n="6"/>rei veritate ipsi ecclesiastici et religiosi contractant eas res alienas con
+          <lb ed="#B" break="no" n="7"/>tra voluntatem dominorum et redditus capellarum et que acci
+          <lb ed="#B" n="8"/>piunt pro aniversariis et similia. Ergo comittunt furtum et sic pec
+          <lb ed="#B" break="no" n="9"/>cant mortaliter. 
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e477">5°, quia prebent occasionem quod paupe
+          <lb ed="#B" n="10"/>res a quibus illa bona sunt ablata vel extorta, facilius moriantur: <ref xml:id="dc7aa7-e12582-Rd1e481">Ecclesiasticus
+            <lb ed="#B" n="11"/>34</ref>: <quote xml:id="dc7aa7-e12582-Qd1e486">«Qui offert sacrificium ex substantia pauperum».</quote> Nam ut dicit
+          <lb ed="#B" n="12"/>idem Alexander: <quote xml:id="dc7aa7-e12582-Qd1e490">«Per ipsos quominus pauperes quibus resti
+            <lb ed="#B" n="13"/>tutionem rerum suarum impediunt, moriantur fame, et coopera
+            <lb ed="#B" break="no" n="14"/>tores sunt homicidii»</quote>. Unde sequitur <quote xml:id="dc7aa7-e12582-Qd1e498">«in ipsis autem panis egentium, vita
+              <lb ed="#B" n="15"/>pauperis est; qui defraudat illum, homo sanguinis est»</quote>. Et hoc revera
+          <lb ed="#B" n="16"/>nunquam in pauperibus alicujus mundi partis quemadmorum in mise
+          <lb ed="#B" n="17"/>rrimis indianis gentibus est verificatum. Moriuntur nimirum effica
+          <lb ed="#B" n="18"/>citer quotidie defectu rerum suarum et agrorum prediorum aut
+          <lb ed="#B" n="19"/>fundorum que inique ablata sunt eis et ex quotidianis oppresioetus
+          <lb ed="#B" n="20"/>quod si religiosi et ecclesiastici elemosinas et dona illa tributo ron reciperent, sed
+          <lb ed="#B" n="21"/>illos raptores tanquam indianos et ethnicos ab altari repellerent
+          <lb ed="#B" n="22"/>prout ipsi jure divino et canonico tenentur, oppresi non egerent
+          <lb ed="#B" n="23"/>nec tam cito probabiliter morerentur et forsitan universa illos
+          <lb ed="#B" n="24"/>vexantia dispendia cessarent. </p>
+        <p xml:id="dc7aa7-e12582-d1e523">6°, peccant mortaliter, ex eo quod vere
+          <lb ed="#B" n="25"/>decepto res sunt animarum ipsorum,scilicet, raptorum quibus 
+          <lb ed="#B" n="26"/>recipiendo ea que illi rapuerunt et cum grandi peccato detinent, testimo
+          <lb ed="#B" n="27"/>nium approbationis reddunt ea, scilicet, esse justa ac delinquentibus
+          <lb ed="#B" n="28"/>securitatem <sic><!--edition is missing promittunt--> promittunt.</sic>
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e538">Contra quos <ref xml:id="dc7aa7-e12582-Rd1e540">Augustinus in Epistola Ad Mace
+            <lb ed="#B" break="no" n="29"/>donium, et refertur 14, q. 6 c.1,</ref> ait: <quote xml:id="dc7aa7-e12582-Qd1e545">«illud fidentissime dixerim: 
+              <lb ed="#B" n="30"/>eum qui, pro homine ad hoc intervenit, ne male ablata restituat,
+              <lb ed="#B" n="31"/>et qui ad se confugientem, quantum honeste potest, ad restituendum 
+              <lb ed="#B" n="32"/>non compellit, socium esse fraudis et criminis. Nam misericordius 
+              <lb ed="#B" n="33"/>opem nostram talibus substrahimus quam impendimus. Non enim opem
+              <lb ed="#B" n="34"/>fert qui ad peccandum adiuuat ac non potius adiuvat, sed obviat
+              <pb ed="#B" n="203-v"/>
+              <lb ed="#B" n="1"/>subvertendo atque opprimendo».</quote> Hec Augustinus. Nam tales non aliud fa
+          <lb ed="#B" n="2"/>ciunt, ut propheta <ref xml:id="dc7aa7-e12582-Rd1e565">Ezechieli 13</ref>; Nisi consuere pulvillos
+          <lb ed="#B" n="3"/>sub capite ut in peccatis abstinatius quiescant. Ve inquit qui
+          <sic><!--arranged in different order in edition, need to look at again-->consunt puliuillos</sic>
+          <lb ed="#B" n="4"/>sub omni cubito manus, et faciunt cervicalia 
+          <lb ed="#B" n="5"/>sub capite universe etatis; super quibus verbis, ait <ref xml:id="dc7aa7-e12582-Rd1e578">Gregorius 
+            <lb ed="#B" n="6"/>lib. 18, c. 3, Moralium:</ref> Ad hoc quippe sub cubito pulvillos vel 
+          <lb ed="#B" n="7"/>cervicale sub capite jacentis ponitur ut molliter quiescat. Quisquis 
+          <lb ed="#B" n="8"/>ergo male agentibus adulatur pulvillum sub cubito vel
+          <lb ed="#B" n="9"/>cervicali jacenti ponit, ut qui corripere ex culpa debuerat, in ea fultus
+          <lb ed="#B" n="10"/>laudibus molliter quiescat, etc... «Que etiam hoc habetur <ref xml:id="dc7aa7-e12582-Rd1e592">46 dist., c. sunt
+            <lb ed="#B" n="11"/>non nulli.;</ref>
+          <ref xml:id="dc7aa7-e12582-Rd1e597">et 43 dist., c. sit rector,</ref> ubi multa ad propositum.
+          <lb ed="#B" n="12"/>Sic ergo faciunt isti, et vere deceptores merito debent appelari
+          <lb ed="#B" n="13"/>animarum. Et quod sceleratius procul dubio in aliquibus reperies, 
+          <lb ed="#B" n="14"/>non solum accipiendo ea injuste a tyranis rapta et extorta ta
+          <lb ed="#B" break="no" n="15"/>cite illa justificant et approbant, sed viva voce non ve
+          <lb ed="#B" n="16"/>rentur verbis, rationibus absque ratione, defendunt et laudant».
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e611">7°, est alia ratio 
+          <lb ed="#B" n="17"/>que convincit eos mortaliter peccare quia audientes confessiones
+          <lb ed="#B" n="18"/>ipsorum tyranorum eos absolvunt et Sacramentum Eucharistie dat
+          <lb ed="#B" n="19"/>illis nulla de restitutione aut satisfactione de tot tantisque malis et
+          <lb ed="#B" n="20"/>damnis facta mentione. Quod patetquia nullum hucusque qui 
+          <lb ed="#B" n="21"/>restituerit aut satisfecerit in aliquo vidimus nec audivimus 
+          <lb ed="#B" n="22"/>sed omnes semper ac continue in peccatis tyranidis permanere
+          <lb ed="#B" n="23"/>verum sacramenta et spitirualia ministrare indignis et in peccatis
+          <lb ed="#B" n="24"/>perseverantibus est scienter mittere canibus, unde peccatur
+          <lb ed="#B" n="25"/>mortaliter. Ergo audiendo hyspanorum confessiones et impartiendo
+          <lb ed="#B" n="26"/>beneficium absolutionis et venerabile sacramentum comunicando 
+          <lb ed="#B" n="27"/>contra expressam Ecclesie prohibitionem, ut <ref xml:id="dc7aa7-e12582-Rd1e637">d. c. super eo, De rap
+            <lb ed="#B" n="28"/>toribus,</ref> peccant religiosi et ecclesiastici mortaliter.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e643">8°, patet quia cum 
+          <lb ed="#B" n="29"/>sint publici raptores illi atque tyrani ut diversis viis et indorumlocis supra 
+          <lb ed="#B" n="30"/>jacet probatum, deberet negare ecclesiam sepultaram cum sacra
+          <lb ed="#B" n="31"/>mentis prememoratis, ut in d. c. super eo apparet ubi ex gravi
+          <lb ed="#B" n="32"/>tate poene arguitur culpe gravitas et ibi comparantur eiusmodi 
+          <lb ed="#B" n="33"/>ecclesiastici et religiosi his qui de rapina sunt participantes
+          <pb ed="#B" n="204-r"/>
+          <lb ed="#B" n="1"/>que peccant mortaliter.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e662">
+          <lb ed="#B" n="2"/>Corrolm. 2m. 
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e667">Obligados son los perlados delas yglesias catredales y parro
+          <lb ed="#B" n="3"/>chiales: ylos requlares delas ordenes aponer personas temerosas
+          <lb ed="#B" n="4"/>de dios quetassen y aprecien los edificios delas yglesias y monasterios
+          <lb ed="#B" n="5"/>y las tierras / o solares enque fueron edificadas: y el valor detodo ello
+          <lb ed="#B" n="6"/>con los trabajos y materiales quelos indios pusieron: y aquel precio
+          <lb ed="#B" n="7"/>de venlo restituir alos que los comendezos robaron y agraviazon: segun
+          <lb ed="#B" n="8"/>conoscieren (la diligencia necessaria hecho) por tenecer acada pue¬
+          <lb ed="#B" n="9"/> blos o personas suparte: siquieren euitar peccado mortal./
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e685">Esta restitucion eto.
+          <lb ed="#B" n="10"/>Prueuase esto corrolario: porque aquellos edificios
+          <lb ed="#B" n="11"/>y suelo en quelos assentaron son delos indioscomo
+          <lb ed="#B" n="12"/>arriba. zo en laconclusion dela za. duda queda
+          <lb ed="#B" n="13"/>probado y peccaron mortalmento los quesin voluntad
+          <lb ed="#B" n="14"/>delos idios dueños reyos osubditos las tierras les usur¬
+          <lb ed="#B" n="15"/>paron y loqueen ellas edificaron. Por que pa salir de
+          <lb ed="#B" n="16"/>peccado mortal todo seles ade restituir o pagar selo./
+          <lb ed="#B" n="17"/>Pero porque las yglesias y monasterios y otros luga¬
+          <lb ed="#B" n="18"/>res pios son adios y aconsagrados: no deuen boluar alos
+          <lb ed="#B" n="19"/>sos profanos debense asi dexar y sus tentar pero ase
+          <lb ed="#B" n="20"/>derestituir alos indios el precio todo de trabajos y de ha¬
+          <lb ed="#B" n="21"/>zienda que costaron: porque todo es suyo por mill respecto
+          <lb ed="#B" n="22"/>y partes. </p>
+        <p xml:id="dc7aa7-e12582-d1e716">esto asilo dize. <ref xml:id="dc7aa7-e12582-Rd1e718">s. Augustin en el fin del
+            <lb ed="#B" n="23"/>dicho capitulo i. 14. q. 6.</ref> si vero(inquit) rem alienam
+          <lb ed="#B" n="24"/>quis con se ciauerit non eande. sed estimationem eius
+          <lb ed="#B" n="25"/>restituere debet. </p>
+        <p xml:id="dc7aa7-e12582-d1e728">Asi tambienlo de termino s. Gre
+          <lb ed="#B" n="26"/>gorio enotro semejante caso quese hiziese conciertos Ju
+          <lb ed="#B" break="no" n="27"/>dios que de averles un obispo tomado sus sinogas ycon
+          <lb ed="#B" n="28"/>sagrado en yglesias sele querellazon y assi mando que
+          <lb ed="#B" n="29"/>ciertos varonos decredito las estimasen: y el precio alos
+          <lb ed="#B" n="30"/>judios se en tregase. Esto se lee en su resistio <ref xml:id="dc7aa7-e12582-Rd1e741">lib 7.c. 58
+            <pb ed="#B" n="204-v"/>
+            <lb ed="#B" n="1"/>y Epístola otras tantas.</ref>
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e749">Que si no lo hazen los dichos perlados o
+          <lb ed="#B" n="2"/>procuran por alguna manera lícita que les sean remitido lo que
+          <lb ed="#B" n="3"/>por esta vía son obligados, pequen mortalmente ya queda provado, y porque a ellos incumbe por 
+          <lb ed="#B" n="4"/>officio. Digo; <quote xml:id="dc7aa7-e12582-Qd1e757">«a los Obispos hazer
+            <lb ed="#B" n="5"/>restituir lo mal ganado y que se detiene con peccado»</quote>, como pare
+          <lb ed="#B" n="6"/>ce por el capítulo sicut, el 3°, <ref xml:id="dc7aa7-e12582-Rd1e765">De jure jurando, cum ibi per
+            <lb ed="#B" n="7"/>Doctores, y en el cap. novit, De judiciis; </ref>Hostiensis<ref xml:id="dc7aa7-e12582-Rd1e770"> in cap. a nobis, el 2°, 
+              <lb ed="#B" n="8"/>De sententia excomunicationis.</ref>
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e777">Item, porque no lo haziendo, contratan las cosas  
+          <lb ed="#B" n="9"/>contra voluntad de sus dueños, que es cometer hurto. </p>
+        <p xml:id="dc7aa7-e12582-d1e782">Item, 
+          <lb ed="#B" n="10"/>no hazen justitia a los dañificados y agraviados, lo qual es peccado
+          <lb ed="#B" n="11"/>mortal.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e789">Item, dan exemplo a los tyranos y los impiden táci
+          <lb ed="#B" n="12"/>tamente que no restituyan lo que tienen robado, porque como ven 
+          <lb ed="#B" n="13"/>que los obispos y frayles tienen sus yglesias y monasterios en los
+          <lb ed="#B" n="14"/>mismos lugares usurpados, y los edificios hizieron con los sudores
+          <lb ed="#B" n="15"/>y trabajos y angustias y sustancia de los indios, forcándolos como
+          <lb ed="#B" n="16"/>ellos lo hizieron y edificaron, están seguros como lo están
+          <lb ed="#B" n="17"/>los perlados y los frayles. Por cierto si viesen que las personas espirituales
+          <lb ed="#B" n="18"/>que desta restitución hazían algo, verisímile cosa es que se moviessen
+          <lb ed="#B" n="19"/>a considerar en sus peccados y satisfazer por lo que han delinquido des
+          <lb ed="#B" n="20"/>truyendo aquellas gentes, o al menos no bivirían tan descuidados,
+          <lb ed="#B" n="21"/>ni morirían tan mal aventurados.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e813">
+          Corrolarium 3°
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e815">Todos los religiosos y otras cualquier personas que, en con
+          <lb ed="#B" n="22"/>color vera o fingida de socorrer a sus padres o hermanos o deudos
+          <lb ed="#B" n="23"/>en sus necesidades, piden a los dichos encomenderos posibilidad para restituir, limosnas
+          <lb ed="#B" n="24"/>y las enbían o traen a estos reynos, peccan mortalmente y
+          <lb ed="#B" n="25"/>son a restitución obligados, y no les escusa que tengan licencia de
+          <lb ed="#B" n="26"/>sus perlados.
+        </p>
+        <p xml:id="dc7aa7-e12582-d1e828">Este corrolario se sigue de todo lo ya provado. Y
+          <lb ed="#B" n="27"/>basta que, ni para honrra del culto y reverencia que a Dios se deve
+          <lb ed="#B" n="28"/>cuyo es todo, ni para pía obra, ni para hazer limosna si no 
+          <lb ed="#B" n="29"/>fuese a quien padeciese extrema necessidad, no se puede cosa de
+          <lb ed="#B" n="30"/>todo lo que los tales comenderos tienen enagenado. Porque aquello
+          <pb ed="#B" n="205-r"/>
+          <lb ed="#B" n="1"/>tienen menos, y así son menos poderosos para restituyr lo mucho in
+          <lb ed="#B" break="no" n="2"/>finito a que son obligados. Y si se alegare que la madre o el padre
+          <lb ed="#B" n="3"/>o deudo del frayle padeciese, no fingida, sino verdadera extrema 
+          <lb ed="#B" n="4"/>necessidad, que podrá ser escusado, respóndese que mayor la padecen,
+          <lb ed="#B" n="5"/>y primero, y universalmente todas aquellas gentes por falta
+          <lb ed="#B" n="6"/>de lo que les han robado y roban cada día, y por la servidumbre y
+          <lb ed="#B" n="7"/>oppresiones ordinarias, y así no son obligados a llorar los duelos
+          <lb ed="#B" n="8"/>agenos porque harto tienen en los suyos que llorar, los quales
+          <lb ed="#B" n="9"/>el buen frayle les deve ayudar a llorar, pues, los vee a cada passo,
+          <lb ed="#B" n="10"/>y lo que pide o deviera pedir de limosna en socorrer a los
+          <lb ed="#B" n="11"/>proprios dueños que la padecen (y él se mantiene de los sudo
+          <lb ed="#B" n="12"/>res y trabajos dellos, y quanto a esto participa de lo robado) de
+          <lb ed="#B" break="no" n="13"/>bía emplear; pues, los tiene más cercanos que a sus padres, que 
+          <lb ed="#B" n="14"/>quando viniere a socorrellos quicá no los hallará, y aun él
+          <lb ed="#B" n="15"/>podrá ser que en el camino perezca y le hallen los dineros en su
+          <lb ed="#B" n="16"/>seno o en el arca, y por sólo el mal exemplo y escándalo que los
+          <lb ed="#B" n="17"/>que lo supieren rescebirán, el bueno del frayle se condenará. Y si
+          <lb ed="#B" n="18"/>algún perlado de la orden se hallase con él al tiempo de su muerte,
+          <lb ed="#B" n="19"/>podría negalle la sepultura como a proprietario, como hizo sant
+          <lb ed="#B" n="20"/>Gregorio, porque se halló cierto poco dinero, a un monje o frayle.
+          <lb ed="#B" n="21"/>Y así creo que no se escusará de peccado mortal, porque comete hur
+          <lb ed="#B" n="22"/>to contratando oro y plata o dineros agenos contra la voluntad
+          <lb ed="#B" n="23"/>de su dueño y dueños tan extremadamente necessitados, y ni
+          <lb ed="#B" n="24"/>de restitución, porque aquello tienen los comenderos para res
+          <lb ed="#B" n="25"/>tituyr lo que son obligados. Díxose que no los escusa la licencia de los 
+          <lb ed="#B" n="26"/>perlados, porque no se las pueden dar sin que pequen mortalmen
+          <lb ed="#B" n="27"/>te, porque autorizan todo lo robado y son causa, o con causa,
+          <lb ed="#B" n="28"/>de que la restitución, ya que los comenderos la quisiesen hazer
+          <lb ed="#B" n="29"/>integramente, no se haga. Y esto baste por respuesta de la
+          <lb ed="#B" n="30"/>sancta Duda
+          <pb ed="#B" n="205-v"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

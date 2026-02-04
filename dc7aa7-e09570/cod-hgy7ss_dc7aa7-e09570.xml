@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 28</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 28</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="187-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e09570"><!-- dd-c28 -->
+        <head xml:id="dc7aa7-e09570-Hd1e111">Capitulo 28</head>
+        <p xml:id="dc7aa7-e09570-d1e113">
+          <lb ed="#B" n="28"/>Capítulo 28</p>
+        <p xml:id="dc7aa7-e09570-d1e118">
+          <lb ed="#B" n="29"/>La 4a causa de aqueste derecho es para punir e castigar
+          <lb ed="#B" n="30"/>y hazer venganca de las dichas injurias, offensas y males
+          <lb ed="#B" n="31"/>y daños, que de los españoles, contra derecho natural y divino y
+          <lb ed="#B" n="32"/>humano han rescebido. Los quales son juezes competentes para ello. 
+          <pb ed="#B" n="187-v"/>
+          <lb ed="#B" n="1"/>Possunt enim animadvertere in facinorosos homines et corruptores 
+          <lb ed="#B" n="2"/>suarum rerum publicarum internos, id est cives suos, et externos, 
+          <lb ed="#B" n="3"/>id est alterius gentis.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e138">
+          <lb ed="#B" n="4"/>Pruévase porque eran y son reynos y pueblos o comunidades y 
+          <lb ed="#B" n="5"/>Reyes libres, no recognoscientes superior de derecho, como se provó en el 
+          <lb ed="#B" n="6"/>6° Principio, Cap. 9.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e147">
+          Pues, a todo reyno y comunidad y Rey libre
+          <lb ed="#B" n="7"/>pertenece de derecho natural y humano y divino repeler y pro
+          <lb ed="#B" break="no" n="8"/>hibir todo aquello que es nocivo y corruptivo de su ser político, se
+          <lb ed="#B" break="no" n="9"/>gún parece arriba en la probación desta 2a conclusión, y esto se 
+          <lb ed="#B" n="10"/>haze puniendo y haziendo va de las injurias y offensas y daños
+          <lb ed="#B" n="11"/>que los malos hombres cometen contra las tales repúblicas.
+          <lb ed="#B" n="12"/>Pues, los españoles han sido corruptores y destruidores de aquellos
+          <lb ed="#B" n="13"/>reynos y comunidades repúblicas y de todo el ser que tenían
+          <lb ed="#B" n="14"/>político en ello, han cometido gravíssimas injurias y offensas y
+          <lb ed="#B" n="15"/>daños contra aquellas repúblicas, como el mundo todo lo rati
+          <lb ed="#B" n="16"/>fica. Luego, a los reynos y repúblicas y comunidades, y a los reyes
+          <lb ed="#B" n="17"/>y Señores a quien están cometidas, pertenece de derecho natural
+          <lb ed="#B" n="18"/>humano y divino castigarlos y hazer venganca dellos, y así
+          <lb ed="#B" n="19"/>
+          <sic>sus <!--edition omits sus--></sic>son juezes competentes.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e183">
+          Todo esto se prueva por la virtud
+          <lb ed="#B" n="20"/>vindicativa, la qual tiene dos actos: El primero y principal es
+          <lb ed="#B" n="21"/>castigar y hazer venganca de las injurias ya rescebidas. El se
+          <lb ed="#B" break="no" n="22"/>gundo, la defensión y propulsión de las que se pueden rescebir.
+          <lb ed="#B" n="23"/>Unde <ref xml:id="dc7aa7-e09570-Rd1e193">Tullius, in Rhetorica, </ref>ait quod <quote xml:id="dc7aa7-e09570-Qd1e196">«vindicatio est per quam vis
+            <lb ed="#B" n="24"/>aut injuria et omnino quicquid obscurum est»,</quote> idest ignomi
+          <lb ed="#B" break="no" n="25"/>niosum, <quote xml:id="dc7aa7-e09570-Qd1e203">«defendendo aut ulciscendo propulsatur».</quote> Hic actus
+          <lb ed="#B" n="26"/>secundus quidem spectat etiam ad quamlibet personam pri
+          <lb ed="#B" n="27"/>vatam, scilicet defensio sui et suorum, ut ex Paulo superius
+          <lb ed="#B" n="28"/>jam patet. Primus autem, scilicet vindicatio vel ultio inju
+          <lb ed="#B" n="29"/>riarum vi receptarum est proprius et solius vel totius co
+          <lb ed="#B" break="no" n="30"/>munitatis vel illius cui cura comunitatis ab ipsa comuni
+          <lb ed="#B" break="no" n="31"/>tate fuit comissa quia ille aliquid facit cujus autoritate
+          <lb ed="#B" n="32"/>fit: <ref xml:id="dc7aa7-e09570-Rd1e220">[vide] Dionisium, 12 cap. Celestis hierarchiae. </ref>Et hic in
+          <lb ed="#B" n="33"/>persona publica in potestate constituta, id est, totam co
+          <pb ed="#B" n="188-r"/>
+          <lb ed="#B" n="1"/>munitatem representans vel sius vices <sic><!--edition joins sentences-->gerens. Habens </sic>que to
+          <lb ed="#B" n="2"/>tam comunitatis potestatem aut jurisdictionem. Cuius ra
+          <lb ed="#B" n="3"/>tio est: quia agere vel ordinare aliquid ad bonum publicum
+          <lb ed="#B" n="4"/>pertinet ad justitiam legalem utentem conmutativa justitia
+          <lb ed="#B" n="5"/>dum equale debitum alicui quam quantitatem reddit propter
+          <lb ed="#B" n="6"/>bonum commune et per consequens ad comunitatem
+          <lb ed="#B" n="7"/>vel ad personam publicam. Itaque et ex parte subjecti, et ex
+          <lb ed="#B" n="8"/>parte qualitatis debiti, apparet quod vindicatio non est virtus
+          <lb ed="#B" n="9"/>in singulari persona sed in publica justitia, enim legalis non
+          <lb ed="#B" n="10"/>spectat ad personam singularem sed ad publicam personam
+          <lb ed="#B" n="11"/>quia facere bonum debitum in ordinem ad comunitatem et
+          <lb ed="#B" n="12"/>vitare malum oppositum pertinet ad justitiam generalem sive
+          <lb ed="#B" n="13"/>legalem et pertinet ad totam comunitatem vel personam pu
+          <lb ed="#B" n="14"/>blicam. Una de actionibus vel effectibus legis es punitio male
+          <lb ed="#B" n="15"/>factorum, ut in <ref xml:id="dc7aa7-e09570-Rd1e263">Decretis patet, 3 Dist., c. fin.</ref> et <ref xml:id="dc7aa7-e09570-Rd1e266">est Isidori, 2
+            <lb ed="#B" n="16"/>Ethimologiarum;</ref> et <ref xml:id="dc7aa7-e09570-Rd1e271">S. Thomas, 1.2 q.9 a.2 corp.,</ref> sed condere le
+          <lb ed="#B" break="no" n="17"/>gem pertinet ad comunitatem vel ad illum cui comunita
+          <lb ed="#B" break="no" n="18"/>tis cura conservande comunitatis, <sic><!--edition joins sentences-->comittitur. Et </sic>punitio
+          <lb ed="#B" n="19"/>vel ultio male factorum ad comunitatem
+          <lb ed="#B" n="20"/>vel ad illius vices gerentem spectare non est
+          <lb ed="#B" n="21"/>dubium. 
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e289">
+          <lb ed="#B" n="22"/>Et confirmantur predicta per 
+          <lb ed="#B" n="23"/>S. Thomas, 2.2 q.40 a.1 corp., ubi dicit 
+          <lb ed="#B" n="24"/>quod quia cura reipublice comissa est princi
+          <lb ed="#B" break="no" n="25"/>pibus; ad eos pertinet rem publicam civitatis vel regni
+          <lb ed="#B" n="26"/> seu provintie sibi subdite tueri. Et sic licite defendunt
+          <lb ed="#B" n="27"/>eam materiali gladio contra interiores quidem per
+          <lb ed="#B" break="no" n="28"/>turbadores dum malefactores puniunt, secundum illud
+          <lb ed="#B" n="29"/>
+          <ref xml:id="dc7aa7-e09570-Rd1e308">Ad romanos 13:</ref>
+          <quote xml:id="dc7aa7-e09570-Qd1e310" source="http://scta.info/resource/rom13_4/critical/transcription">«Non sine causa gladium portat. Minister
+            <lb ed="#B" n="30"/>enim Dei est: vindex in iram ei qui male agit. Ita etiam gladio
+            <lb ed="#B" n="31"/>bellico ad eos pertinet rem publicam tueri ab exterioribus
+            <lb ed="#B" n="32"/>hostibus».</quote> Hec ille. Et de virtute vindicationis, vide que idem <ref xml:id="dc7aa7-e09570-Rd1e319">S
+              <lb ed="#B" n="33"/>. Doctor docet, 2.2, q. 108, per totum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e325">
+          Cum igitur comuni
+          <lb ed="#B" break="no" n="34"/>tates ille seu populi liberi fuerint et sint, et eorum princi
+          <lb ed="#B" break="no" n="35"/>pes et domini quibus cura eorum fuerit abipsis comunitatibus et
+          <pb ed="#B" n="188-v"/>
+          <lb ed="#B" n="1"/>seculis retroactis comissa, potuerint et possint leges condere
+          <lb ed="#B" n="2"/>utpote habentes omnimodam potestatem et jurisdictionem,
+          <lb ed="#B" n="3"/>merum mixtum imperium de jure nature et gentium incum
+          <lb ed="#B" break="no" n="4"/>batque illis cogere et ordinare quicquid ad honum comune
+          <lb ed="#B" n="5"/>et ad malum vitandum convenerit, tuerique ab hostibus et
+          <lb ed="#B" n="6"/>corruptoribus easdem respublicas; et Hispani sint eis tan 
+          <lb ed="#B" n="7"/>acerrimi hostes et delectores seu extirpatores illarum gen
+          <lb ed="#B" break="no" n="8"/>tium, et innumerarum communitatum quas tot millia inju
+          <lb ed="#B" break="no" n="9"/>riarum, cedibus, stragibus, tormentis, spoliationibus, servitute
+          <lb ed="#B" n="10"/>et damnis non reparabilibus affecerunt, sequitur posse ac de
+          <lb ed="#B" break="no" n="11"/>bere in eos animadvertere bellic gladio eoque ulcisci omnes in
+          <lb ed="#B" n="12"/>jurias et damna que ab eis sunt perpesse, delinquentes et fa
+          <lb ed="#B" break="no" n="13"/>cinorosos et perniciosos ipsos morte, captivitate, spoliatione
+          <lb ed="#B" n="14"/>ac expulsione a patria et regnis alienis que tyrannice occupa
+          <lb ed="#B" break="no" n="15"/>runt, puniendo. Quinimo dato etiam quod nationes ille reco
+          <lb ed="#B" break="no" n="16"/>gnovissent regem nostrum in superiorem quod est falsum,
+          <lb ed="#B" n="17"/>ut Principio 6 <sic><!--edition joins sentences-->probavimus. Adhuc </sic>
+          <lb ed="#B" n="18"/>licitum esset atque fuisset eis bellum movere 
+          <lb ed="#B" n="19"/>contra hispanos hostes suos et jam ludi
+          <lb ed="#B" n="20"/>ces vel gubernatores aut officiales regis
+          <lb ed="#B" n="21"/>eosque occidere atque de terris et regnis suis expellere
+          <lb ed="#B" n="22"/>ac de damnis et injuris sibi jus
+          <lb ed="#B" n="23"/>dicere per bellum vel quomodo libet potue
+          <lb ed="#B" break="no" n="24"/>rint. Probatur hoc, quia nunquam in terra illa
+          <lb ed="#B" n="25"/>sicut nec in aliis Indiarum partibus fuit
+          <lb ed="#B" n="26"/>eis administrata justitia sed ipsi guber
+          <lb ed="#B" n="27"/>natores et judices Regis nostri fuerunt ma
+          <lb ed="#B" break="no" n="28"/>gis pernitiosi et injusti magis magisque nocivi quinimo crude
+          <lb ed="#B" break="no" n="29"/>liores tyrani et quorum ambitione et cupiditate gentes India
+          <lb ed="#B" break="no" n="30"/>rum perierunt pereuntque quotidie. Ubicunque autem et quotiens
+          <lb ed="#B" n="31"/>justi judicis copia non habetur vel de jure quia sunt populi
+          <lb ed="#B" n="32"/>liberi, vel de facto, quia superior non facit vel negat, et non
+          <lb ed="#B" n="33"/>vult vel dissimulat vel negligit facere justitiam quod perinde
+          <lb ed="#B" n="34"/>est ac si nullus esset quia non esse et inutile esse ad paria 
+          <pb ed="#B" n="189-r"/>
+          <lb ed="#B" n="1"/>judicatur ut in <ref xml:id="dc7aa7-e09570-Rd1e415">cap. 2, De translatione prelatorum</ref> vel si necessitas inminens
+          <lb ed="#B" n="2"/>locum non dat iudicem adeundi propter periculum in mora, nec
+          <lb ed="#B" n="3"/>haberi potest recursus ad regem vel superiorem, aut alias neces
+          <lb ed="#B" break="no" n="4"/>sitas urget aut etiam ubi iura presumptuosa temeritate calcan
+          <lb ed="#B" n="5"/>tur per potentiam in justitiam facientis seu injuriam et grava
+          <lb ed="#B" break="no" n="6"/>mem irrogantis et breviter bicunque justitia tuta esse non potest,
+          <lb ed="#B" n="7"/>licitum est cuicunque vel quibuscunque cuius vel quorum interest,
+          <lb ed="#B" n="8"/>etiam recognoscentibus superiorem, propria autoritate arma
+          <lb ed="#B" n="9"/>sumere ac bellum scilicet defensionis indicere, quia tunc
+          <lb ed="#B" n="10"/>non facit ipse vel illi, sed lex naturalis cuius autoritate faciunt.
+          <lb ed="#B" n="11"/>Unde contra errantem a clave justitie, nullum est remedium
+          <lb ed="#B" n="12"/>nisi manus armata, ut bene decit<ref xml:id="dc7aa7-e09570-Rd1e441"> Baldus in L. data opera,
+            <lb ed="#B" n="13"/>Codex, De bis qui accusare non possunt, penult. colum.</ref> et allegat <ref xml:id="dc7aa7-e09570-Rd1e447">L. ut vim,
+              <lb ed="#B" n="14"/>ff., De Justitia et jure;</ref> et in <ref xml:id="dc7aa7-e09570-Rd1e452">L. si quis ad se, Codex, Ad legem Juliam et vi pu
+                <lb ed="#B" n="15"/>blica.</ref> Et hec est materia larga que principaliter tractatur in 
+          <lb ed="#B" n="16"/>
+          <ref xml:id="dc7aa7-e09570-Rd1e459">L. probibitum, Codex, De jure fisci., Lib. 10, ubi vide Bartholum,
+            <lb ed="#B" n="17"/>etc...</ref>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e465">
+          <lb ed="#B" n="18"/>Habent igitur ius validissimum gentes ille cum suis
+          <lb ed="#B" n="19"/>et sine suis regibus et dominis naturalibus indicendi be
+          <lb ed="#B" n="20"/>llum contra hispanos ratione ulciscendi eorum crimina 
+          <lb ed="#B" n="21"/>et quidem gravissima in eas comissa. 
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e476">Habent etiam justum
+          <lb ed="#B" n="22"/>bellum 5° contra ipsos causa necessitatis ut pax et salus
+          <lb ed="#B" n="23"/>libertas et vita multorum acquiratur vel defendatur
+          <lb ed="#B" n="24"/>etc... Que causa in aliis includitur vel ipsa omnes in se prefa
+          <lb ed="#B" break="no" n="25"/>ctas causas comprehendit et per se est clara: idcirco de
+          <lb ed="#B" n="26"/>ipsa non amplius. 
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e489">
+          <lb ed="#B" n="27"/>Patet igitur heredes regis Athaba
+          <lb ed="#B" break="no" n="28"/>libe et alios Reges et dominos omnesque gentes et po
+          <lb ed="#B" break="no" n="29"/>pulos illorum regnorum del Perú habuisse pinguissi
+          <lb ed="#B" n="30"/>mum jus bellum indicendi hispanis quinque de causis,
+          <lb ed="#B" n="31"/>scilicet: causa defenssionis, causa cohertionis, sive propulsa
+          <lb ed="#B" n="32"/>tionis malorum hominum, causa recuperationis rerum
+          <lb ed="#B" n="33"/>que illis sunt vel causa ultionis injuriarum, causa denique 
+          <lb ed="#B" n="34"/>necessitatis ut pax et libertas acquiratur vel defendatur, etc...
+          <sic> <!--edition note-->[PARS SECUNDA DE LA CONCLUSION 2a A LA 1a DUDA]</sic>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e515">
+          <lb ed="#B" n="35"/>Dicitur in conclusione et sic pars secunda, habuisse bellum justum contra
+          <pb ed="#B" n="189-v"/>
+          <lb ed="#B" n="1"/>omnes <sic><!--edition separates sentences-->hispanos probatur:</sic> tum primo quia de omnibus
+          <lb ed="#B" n="2"/>hispanis qui in terris illis habitant et ad ipsas quotidie advolant
+          <lb ed="#B" n="3"/>experientiam longuissiman ille gentes universe totius illius
+          <lb ed="#B" n="4"/>orbis habent nihil intendere nisi sibi subijcere illas per bellos,
+          <lb ed="#B" n="5"/>strages, et hominum occisiones et inducere sub ferreo eorum
+          <lb ed="#B" n="6"/>jugo et teterrimo servitutem in quibusdem perimunt uni
+          <lb ed="#B" break="no" n="7"/>versas et certo sciunt maximas provintias et regna plenissima
+          <lb ed="#B" n="8"/>ante mortalibus suis nephariis scleribus perperan evacuasse.
+          <lb ed="#B" n="9"/>Tum 2° quia licet aliquis hispanus non vadat tali proposito,
+          <lb ed="#B" n="10"/>quod tribuendum est magno miraculo, nec in veritate intu
+          <lb ed="#B" n="11"/>lerit eis aliquod malum, tamen quia tales paucissimi sunt
+          <lb ed="#B" n="12"/>non culpabiles: vehemens et justa est presumptio contra eos et
+          <lb ed="#B" n="13"/>universos et ideo sententia bellice iustitie non tenetur discu
+          <lb ed="#B" break="no" n="14"/>tere an aliqui vel aliqua pars reipublice, sibi hostis injuste,
+          <lb ed="#B" n="15"/>innocens sit, eo quod presumitur tota hostis et totam habet pro
+          <lb ed="#B" n="16"/>hoste et propterea totam damnat et diripit. Et de hoc mul
+          <lb ed="#B" break="no" n="17"/>ta diximus alibi, et tractant doctores: ideo quere alibi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 41</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 41</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="219-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e16124"><!-- dd-c41 -->
+        <head xml:id="dc7aa7-e16124-Hd1e111">Capitulo 41</head>
+        <p xml:id="dc7aa7-e16124-d1e113">
+          Capítulo 41
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e115">Por la orden que se requiere comengar y proseguir esta obra
+          <lb ed="#B" n="23"/>de justicia que es obligado a exercer Su Magestad, es ésta. Lo prime
+          <lb ed="#B" n="24"/>ro, que vaya el provisor del Cuzco, clérigo Esto para traer honrrado que ya
+          <lb ed="#B" n="25"/>conoce aquel señor, y algunos religiosos de al rey del Cuzco que los más prudentes,
+          <lb ed="#B" n="26"/>buenos y sabios en la lengua que huviere allá, y lleven cartas
+          <lb ed="#B" n="27"/>selladas reales de Su Magestad y algunos dones que le enbíe
+          <lb ed="#B" n="28"/>como de Rey, y de su parte le digan y afirme que ha sabido los
+          <lb ed="#B" n="29"/>males y daños que han hecho los españoles a sus predecessores y a 
+          <pb ed="#B" n="220-r"/>
+          <lb ed="#B" n="1"/>él y a los demás, de lo qual le ha mucho pasado, y que ha determina
+          <lb ed="#B" n="2"/>do de, en quanto possible fuere, remediar todo lo que tuviere reme
+          <lb ed="#B" n="3"/>dio, como por la obra verá. Los quales le prometan de su parte
+          <lb ed="#B" n="4"/>toda seguridad y libertad para su persona y para sus deudos
+          <lb ed="#B" n="5"/>y gente y de los demás, y esté ya señalada cierta tierra y provincia
+          <lb ed="#B" n="6"/>donde pueble, y Ciertos pueblos de indios que le sirvan, de los más
+          <lb ed="#B" n="7"/>propinquos y más a él agradables, y lo mismo a los otros señores
+          <lb ed="#B" n="8"/>que con él están, según la calidad de sus personas, prometiéndole
+          <lb ed="#B" n="9"/>Su Magestad que aquellos serán suyos para siempre, y más que le
+          <lb ed="#B" n="10"/>entiende dar.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e157">Traydo pues a tierra llana, predicársele ha nuestra
+          <lb ed="#B" n="11"/>sancta fe muy despacio y muy bien predicada, segün la for
+          <lb ed="#B" n="12"/>ma y modo que nos dexó Jesucristo mandada, la qual resci
+          <lb ed="#B" n="13"/>bida de su prompta y libre voluntad, dentro de la qual se contie
+          <lb ed="#B" n="14"/>ne que creamos la excelencia soberana y divino poder que Christo
+          <lb ed="#B" n="15"/>comunicó a Su Vicario Summo, que es el Papa. De aquí convendrá
+          <lb ed="#B" n="16"/>que haga la diligencia por los predicatores, que arriba, en el Capítulo
+          <lb ed="#B" n="17"/>13 queda declarada, con lo demás que allí está, esto es: que sean
+          <lb ed="#B" n="18"/>persuadidos a que presten consentimiento y accepten la pro
+          <lb ed="#B" n="19"/>moción e institución que la Sancta Sede Apostólica hizo a los Reyes
+          <lb ed="#B" n="20"/>de Castilla y León de aquel imperio universal. Lo qual requiere
+          <lb ed="#B" n="21"/>que les sea declarado que está en su mano consen
+          <lb ed="#B" n="22"/>tir o no consentir, y que cesse todo miedo y todo engaño. Porque si lo hay por chico 
+          <lb ed="#B" n="23"/>que sea, no havremos hecho nada, porque todo rebosará nullidad.
+          <lb ed="#B" n="24"/>Y pues, andamos por asegurar la consciencia de los Reyes de Cas
+          <lb ed="#B" n="25"/>tilla, nuestros Señores, y que cada español salga de los errores en que
+          <lb ed="#B" n="26"/>ha estado y que comience a rescebir de las Indias algo bien ganado, nec
+          <lb ed="#B" n="27"/>cessario es que tengamos gran cuidado que se quitado de parte de los haga todo con grande 
+          <lb ed="#B" n="28"/>y jurídica sinceridad.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e199">Acceptada la promoción apostólica, de
+          <lb ed="#B" n="29"/>ven intervenir las condiciones y pactos y contractos de ambas
+          <lb ed="#B" n="30"/>partes que en el dicho Cap. 13 se apuntaron, conviene a saber: Que 
+          <lb ed="#B" n="31"/>el Rey nuestro prometa el buen govierno quanto a lo universal,
+          <lb ed="#B" n="32"/>y de guardar sus leyes, fueros y costumbres que no fueren contra
+          <lb ed="#B" n="33"/>la fe y religión christiana, sus estados y libertad.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e213">Que se les darán
+          <lb ed="#B" n="34"/>y resutuyrán todos los pueblos que agora tiene Su Magestad
+          <pb ed="#B" n="220-v"/>
+          <lb ed="#B" n="1"/>y los que los comenderos posseen, pero éstos como fueren vacando.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e222">Item, que los sitios de las ciudades y villas de los españoles y los
+          <lb ed="#B" n="2"/>exidos dellas se restringan o estrechen quanto fuere possible, no
+          <lb ed="#B" n="3"/>dexando más de lo muy necessario, y lo mismo los de las ygle
+          <lb ed="#B" n="4"/>sias y monasterios y lugares píos; y todo lo demás que se 
+          <lb ed="#B" n="5"/>restituya y dexe para los indios (cuyas eran las tierras o chácaras
+          <lb ed="#B" n="6"/>ydonde aquellos edificios se assentaron) si son bivos, y sino a sus he
+          <lb ed="#B" n="7"/>yrederos, y si no los tuvieron al mismo Rey Tito para que lo des
+          <lb ed="#B" n="8"/>tribuya por los indios que le parecieren, donde pueblen y labren
+          <lb ed="#B" n="9"/>sus heredades y sementeras y pazcan sus ganados.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e242">Restitu
+          <lb ed="#B" n="10"/>yrse ha todo el valor de aquellos suelos y lo edificado con trabajo
+          <lb ed="#B" n="11"/>y a costa de los indios; y también el valor de los edificios que no
+          <lb ed="#B" n="12"/>hizieron ni trabajaron los indios, sino que los espafioles los hizieron
+          <lb ed="#B" n="13"/>con negros o con otros que no fuesen indios, de los quales por mara
+          <lb ed="#B" n="14"/>villa se hará uno, porque aquéllos ya no son suyos, sino de los
+          <lb ed="#B" n="15"/>indios, por haverlos edificado en suelo ageno, y asílos tienen perdi
+          <lb ed="#B" n="16"/>dos. Véase lo que queda dicho en el Cap. 30, cerca del fin, y en el
+          <lb ed="#B" n="17"/>Cap. 34, en el 2? Corrolario de la Contra conclusión 1? para la 5? Duda, y en el
+          <lb ed="#B" n="18"/>Cap. 36 en la Conclusión para la 9* Duda.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e264">De parte del Rey Tito
+          <lb ed="#B" n="19"/>y de los pueblos, deven prometer a los Reyes de Castilla y León re
+          <lb ed="#B" n="20"/>verencia, obediencia, y perpetua fidelidad, y lealtad; y en recogno
+          <lb ed="#B" n="21"/>cimento de su universal señorío, servirle lo Reyes Tito y sus suc
+          <lb ed="#B" n="22"/>cesores y cada pueblo, cada año con ciertas perlas de oro y plata,
+          <lb ed="#B" n="23"/>las que sean según la ley y razón natural razonables. Y al cabo, to
+          <lb ed="#B" n="24"/>das estas condiciones y contractos que se juren por ambas partes.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e280">Aquí también se requiere de necessidad que se haga de nuestra parte 
+          <lb ed="#B" n="25"/>con pecho christiano, para lo qual deven intervenir personas
+          <lb ed="#B" n="26"/>de mucha prudencia y temor de Dios, que procuren mediante razón
+          <lb ed="#B" n="27"/>la utilidad y servicio del Rey, nuestro Señor, y sus successores, no tanto
+          <lb ed="#B" n="28"/>el bien temporal quanto la seguridad de su real anima y el bien
+          <lb ed="#B" n="29"/>temporal y espiritual de aquellas gentes, a quien todo lo uno y lo 
+          <lb ed="#B" n="30"/>otro se ha de ordenar como medios a su fin, como en el 4° Princi
+          <lb ed="#B" n="31"/>pio fue declarado. 
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e298">Harán ciertos actos jurídicos por los quales
+          <pb ed="#B" n="221-r"/>
+          <lb ed="#B" n="1"/>protesten rescebir a Su Magestad por monarcha y supremo Príncipe
+          <lb ed="#B" n="2"/>con sus succesores de Castilla y León, quedando ellos en todo lo
+          <lb ed="#B" n="3"/>demás con su libertad e inmediato govierno y jurisdición so
+          <lb ed="#B" n="4"/>bre sus pueblos, limitada empero según pareciere convenir a la
+          <lb ed="#B" n="5"/>predicación de la fe y al bien común y de aquello que dicho es, le tras
+          <lb ed="#B" break="no" n="6"/>passan o entregan pacíficamente la possessión en aquellos reynos, y des
+          <lb ed="#B" break="no" n="7"/>de en adelante le recognoscen por superior.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e319">Pueden ser persua
+          <lb ed="#B" n="8"/>didos por los religiosos que les huviesupremi dominii ren predicado que cedan y concedan 
+          <lb ed="#B" n="9"/>de su libre voluntad a los Reyes de Castilla todos los mineros de oro
+          <lb ed="#B" n="10"/>y plata y otros metales y piedras preciosas y perlas, reeservando para
+          <lb ed="#B" n="11"/>sí el derecho que puedan ellos y sus pueblos y vasallos y todo indio
+          <lb ed="#B" n="12"/>sacar dellos y aprovecharse como de antes, sin que paguen a los Reyes
+          <lb ed="#B" n="13"/>de Castilla derechos algunos. Pues, cosa equa y razonable que a quien
+          <lb ed="#B" n="14"/>da el capón, le dexen gozar siquiera de un alón.
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e337">Y con el recognos
+          <lb ed="#B" n="15"/>cimiento que dixe del universal señorío, y con los quintos que dieren
+          <lb ed="#B" n="16"/>los españoles de las minas, y los derechos de aduanas y almoxari fazgos
+          <lb ed="#B" n="17"/>y Otros semejantes que nuestros reyes a los mismos españoles impusieren,
+          <lb ed="#B" n="18"/>quedan su Magestad y sus sucessores muy bien pagados sin que los
+          <lb ed="#B" n="19"/>pueblos de indios les sean tributarios, sino a sus Reyes y Señores naturales,
+          <lb ed="#B" n="20"/>
+          <quote xml:id="dc7aa7-e16124-Qd1e352">«ne duplici onere gravari eos contingat quod est indubie contra jus
+            <lb ed="#B" n="21"/>naturale atque divinum.»</quote>
+        </p>
+        <p xml:id="dc7aa7-e16124-d1e358">Pueden ser persuadidos y rogados,
+          <lb ed="#B" n="22"/>por medio de los religiosos, que hagan remissión libre y voluntaria de todo
+          <lb ed="#B" n="23"/>quanto les havemos robado y daños tan grandes que de nosotros han
+          <lb ed="#B" n="24"/>rescebido, no sólo de lo que los españoles tyranos, pero de lo que
+          <lb ed="#B" n="25"/>de aquellos robos los Reyes nuestros Señores han llevado, y que de todo les
+          <lb ed="#B" n="26"/>ha cabido y alcangado; esto dellos no rescibirá Su Magestad y los Reyes
+          <lb ed="#B" n="27"/>passados y venideros cierto chico servicio, y desta manera las conscien
+          <lb ed="#B" n="28"/>cias reales desecharán de sí carga importable y saldrán de certíssimo
+          <lb ed="#B" n="29"/>peligro, y se interrumpirá el derecho que aquellas gentes tienen contra 
+          <lb ed="#B" n="30"/>nosotros para nos hazer guerra, y no antes, como arriba, Cap. 29, queda con larga provanga dicho. 
+          <pb ed="#B" n="221-v"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

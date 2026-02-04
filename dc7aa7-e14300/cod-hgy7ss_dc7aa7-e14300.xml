@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 37</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 37</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="210-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e14300"><!-- dd-c37 -->
+        <head xml:id="dc7aa7-e14300-Hd1e111">Capitulo 37</head>
+        <p xml:id="dc7aa7-e14300-d1e113">
+          Capítulo 37
+          <lb ed="#B" n="3"/>Conclusión 1a para la 7a y 8a dudas. 
+        </p>
+        <p xml:id="dc7aa7-e14300-d1e118">Qualquiera español que de propósito inquiriere, buscare, cavare, o 
+          <lb ed="#B" n="4"/>hazerlo mandare las sepulturas antiguas de los indios en los reynos
+          <lb ed="#B" n="5"/>del Perú y los thesoros que en ellas hallare, tomare para sí e se quedare
+          <lb ed="#B" n="6"/>con ellas, comete peccado mortal de hurto o de rapiña y es obligado
+          <lb ed="#B" n="7"/>a restitución, y no se podrá salvar si no las restituye.
+        </p>
+        <p xml:id="dc7aa7-e14300-d1e129">Pruévase esta conclusión por esta general razón, conviene a saber: por
+          <lb ed="#B" break="no" n="8"/>que todos aquellos thesoros y riquezas tienen dueños muertos o bivos,
+          <lb ed="#B" n="9"/>y nunca fueron dexados pro derelictis; luego, los que los inquirieron y
+          <lb ed="#B" n="10"/>buscan para sí e se quedan con ellos cometen peccado mortal de hurto
+          <lb ed="#B" n="11"/>o de rapiña, y son obligados, etc.
+        </p>
+        <p xml:id="dc7aa7-e14300-d1e140">Que tengan dueños muertos o bivos, pruévase porque no los pusimos
+          <lb ed="#B" n="12"/>en aquellas sepulturas nuestros agúelos, sino aquél
+          <lb ed="#B" break="no" n="13"/>los cuyos eran que murieron, y de los que según sus leyes o costum
+          <lb ed="#B" n="14"/>bres en sus bienes les succedían. luego, tienen dueños muertos
+          <lb ed="#B" n="15"/>o bivos, éstos no somos nosotros; luego, son agenos, etenim ubi unum
+          <lb ed="#B" n="16"/>contrariorium afirmatur, aliud negatur consequenter ita si aliquod
+          <lb ed="#B" n="17"/>iudicatur tuum non esse per quandam consequentiam judica
+          <lb ed="#B" n="18"/>ri debet meum vel alienum esse, ut ff., <ref xml:id="dc7aa7-e14300-Rd1e157">De procuratoribus et defensoribus, L. Pomponius,
+            <lb ed="#B" n="19"/>$ 2.</ref>
+        </p>
+        <p xml:id="dc7aa7-e14300-d1e164">Que ni los muertos ni los bivos los hayan dexado ni tengan
+          <lb ed="#B" n="20"/>pro derelictis, pruévase por muchas razones. La 1a, porque la intención
+          <lb ed="#B" n="21"/>con que se movían, y el fin que pretendían los reyes y grandes
+          <lb ed="#B" n="22"/>señores antiguos en mandar enterrar con sus cuerpos las riquezas
+          <lb ed="#B" n="23"/>que tenían, era el mayor de los temporales bienes que en esta vida
+          <lb ed="#B" n="24"/>alcanzar se pueden, conviene a saber, el honor, alabangas, gloria, fa
+          <lb ed="#B" n="25"/>ma, y renombre perpetuo, que según <ref xml:id="dc7aa7-e14300-Rd1e179">el Philósopho, 1 Rethoricum,</ref> son partes de la 
+          <lb ed="#B" n="26"/>felicidad a que naturalmente el humano apetito se inclina,
+          <lb ed="#B" n="27"/>y parte del honor dize ser el honorable sepulchro, porque esta honrra 
+          <lb ed="#B" n="28"/>se deve al cuerpo humano, más que a los otros animales, conviene a saber, 
+          <pb ed="#B" n="210-v"/>
+          <lb ed="#B" n="1"/>ser Y así, ser sepultado el cuerpo humano y en honrrado sepulchro es honrra 
+          <lb ed="#B" n="2"/>que de allí resulta para el muerto y para los
+          <lb ed="#B" n="3"/>bivos que les toca en quanto los muertos biven quasi perpetuamente
+          <lb ed="#B" n="4"/>en la memoria de los hombres, y los bivos a quien tocan resciben hon
+          <lb ed="#B" n="5"/>rra en que sus muertos sean conoscidos y estimados, y sus virtudes
+          <lb ed="#B" n="6"/>o hazañas por muchos celebradas. Y esto se alcanga más quanto
+          <lb ed="#B" n="7"/>sus sepulchros son más sumptuosos y más ricos y más adornados;
+          <lb ed="#B" n="8"/>y esta honrra no la menospreció el Hijo de Dios en quanto hombre,
+          <lb ed="#B" n="9"/>como parece por <ref xml:id="dc7aa7-e14300-Rd1e209">Isaías 11</ref> donde refiriendo muchas cosas hon
+          <lb ed="#B" n="10"/>rrosas del Mesías, añade el honor de su diziendo: <quote xml:id="dc7aa7-e14300-Qd1e213">«Et erit
+            <lb ed="#B" n="11"/>sepulchrum eius gloriosum»</quote>. Luego, honrra proviene a los muertos y
+          <lb ed="#B" n="12"/>a los bivos que les toca ser sepultados en honrrosos y ricos sepulchros,
+          <lb ed="#B" n="13"/>y por el contrario es grande injuria y calamidad del muerto y
+          <lb ed="#B" n="14"/>de los vivos a quien aquel toca no ser enterrado, según <ref xml:id="dc7aa7-e14300-Rd1e225">el Philósopho,
+            <lb ed="#B" n="15"/>en las Eticas</ref>, y todos reputan a los tales por infelices. Pues, como los reyes
+          <lb ed="#B" n="16"/>y señores y ricos hombres, por aquellas riquezas que mandaron
+          <lb ed="#B" n="17"/>poner con sus cuerpos en sus sepulturas, pretendiessen los muertos y los
+          <lb ed="#B" n="18"/>bivos ser conocidos, afamados y honrrados, ellos y los de su parente
+          <lb ed="#B" break="no" n="19"/>la y linaje, y en la memoria de los hombres en alguna manera,
+          <lb ed="#B" n="20"/>ya que no puden de otra, perpetuarse. Síguese que su intención fue, y es
+          <lb ed="#B" n="21"/>de los bivos, que allí permanezcan y de allí no sean quitadas, no me
+          <lb ed="#B" break="no" n="22"/>nos que si las pusieran en sus arcas para sus futuras necessidades,
+          <lb ed="#B" n="23"/>y por consiguiente no las dexaron los muertos pro derelictis, ni los bivos sus heredores, a quien la honrra o deshonrra dellos toca, las
+          <lb ed="#B" n="24"/>tienen por tales. </p>
+        <p xml:id="dc7aa7-e14300-d1e251">La 2a parece a signo por esta señal: quando
+          <lb ed="#B" n="25"/>las cosas que se hallan son muy preciosas y de gran valor y
+          <lb ed="#B" n="26"/>no se saben quien sean los dueños, señal es no havellas dexado sus
+          <lb ed="#B" n="27"/>dueños pro derelictis, dondequiera que se hallen, según la
+          <lb ed="#B" n="28"/>intención de los que las pusieron y de sus successores, por lo qual
+          <lb ed="#B" n="29"/>deve y es obligado el que las halla a creer no carecer de dueños muer
+          <lb ed="#B" n="30"/>tos obvios, porque cosas tan ricas y preciosas, ninguno fácilmente
+          <lb ed="#B" n="31"/>las dexa menospreciadas, sino que las possee o guarda, o dellas haze
+          <lb ed="#B" n="32"/>gracias. Otra cosa es de los thesoros que propiamente se llaman the
+          <lb ed="#B" n="33"/>soros, como abaxo en la 5a razón se dirá. Pues, aquellas riquezas que
+          <lb ed="#B" n="34"/>aquellos Reyes tan grandes y tan ricos del Perú, eran y son cosas 
+          <pb ed="#B" n="211-r"/>
+          <lb ed="#B" n="1"/>preciososíssimas y de admirable valor, que fuesen de oro y plata,
+          <lb ed="#B" n="2"/>y riquíssimas joyas y alhajas de ropas de lana y algodón; luego, se
+          <lb ed="#B" break="no" n="3"/>ñal es que no fueron dexadas pro derelictis, porque cosas
+          <lb ed="#B" n="4"/>tan preciosas no se ha de creer que las devían así de menospreciar.</p>
+        <p xml:id="dc7aa7-e14300-d1e286"> Lo 3° se prueva 
+          <lb ed="#B" n="5"/>por los lugares donde se hallan, que son los sepulchros tan señalados y los
+          <lb ed="#B" n="6"/>templos de sus dioses, las puertas y cerraduras de los quales con diligencia
+          <lb ed="#B" n="7"/>fortificavan porque los ladrones no la hurtasen o robasen. Así lo dize 
+          <lb ed="#B" n="8"/>el propheta<ref xml:id="dc7aa7-e14300-Rd1e296">Baruch, cap. 6,</ref> que antiguamente lo hazían los gentiles y
+          <lb ed="#B" n="9"/>aún los fieles que conocían a Dios: <quote xml:id="dc7aa7-e14300-Qd1e301">«Aut sicut ad sepulchrum adductum
+            <lb ed="#B" n="10"/>mortuum ita tutant sacerdotes ostia clausuris et seris ne a latronibus
+            <lb ed="#B" n="11"/>spolientur, scilicet, [a]thesauris ibi cum corporibus reconditis»</quote>. Así lo 
+          <lb ed="#B" n="12"/>dize la Glosa: <quote xml:id="dc7aa7-e14300-Qd1e310">«Antiquitus, ait in sepulchris potentium ponebantur
+            <lb ed="#B" n="13"/>preciosa, propter quod claudebantur fortiter et cum diligentia ne a la
+            <lb ed="#B" break="no" n="14"/>tronibus extraherentur».</quote> Hec glossa. Señal luego es que quando
+          <lb ed="#B" n="15"/>aquellos thesoros allí se ponían, no era con intención de havellos pro
+          <lb ed="#B" n="16"/>derelictis. </p>
+        <p xml:id="dc7aa7-e14300-d1e322">La 4a se prueva por este semejante: si alguno hallase
+          <lb ed="#B" n="17"/>en la mar o en la ribera de la mar una cosa muy preciosa que no
+          <lb ed="#B" n="18"/>se acostumbra por allí hallar, como una arca de placas de oro o de
+          <lb ed="#B" n="19"/>plata, por el lugar donde la halló ninguno deve presumir que fue allí
+          <lb ed="#B" n="20"/>dexada pro derelicta, antes ha de pensar y creer que fue
+          <lb ed="#B" n="21"/>echada de algún navío por aliviar el navío y salvar las vidas:
+          <lb ed="#B" n="22"/>Y así no es la intención de los dueños, renunciar al señorío que sobre ellas
+          <lb ed="#B" n="23"/>antes tenían. </p>
+        <p xml:id="dc7aa7-e14300-d1e340">Otro símile: si alguno llevava a cuestas un gran
+          <lb ed="#B" n="24"/>caxón de moneda, y temiendo los moros que venían tras él, lo de
+          <lb ed="#B" break="no" n="25"/>xó en un monte por ponerse en huída, aunque piense nunca ja
+          <lb ed="#B" n="26"/>más podello cobrar, no se podrá dezir que aquél dexa aquello pro
+          <lb ed="#B" n="27"/>derelicto. Estos son señales ciertos que por razón del lugar hazen
+          <lb ed="#B" n="28"/>presunción que las cosas que se hallan no son dexadas de los dueños
+          <lb ed="#B" n="29"/>pro derelictis. Así, pues, es de los thesoros y riquezas que se hallaren
+          <lb ed="#B" n="30"/>en los sepulchros de los Reyes y en los templos de los ídolos, los quales
+          <lb ed="#B" n="31"/>cierto no se ponían allí para dexallos en Lo derelictis, sino porque
+          <lb ed="#B" n="32"/>allí fuesen mejor guardados perpetuamente, y de allí resultase
+          <lb ed="#B" n="33"/>gloria y honrra y alabanga y buena opinión de los muertos con
+          <lb ed="#B" n="34"/>quien las enterravan, y también honor y buena estimación: de 
+          <lb ed="#B" n="35"/>los bivos, herederos y descendientes de aquéllos. Todo esto se con
+        </p>
+        <p xml:id="dc7aa7-e14300-d1e369">
+          <pb ed="#B" n="211-v"/>
+          <lb ed="#B" break="no" n="1"/>firma por este exemplo que vemos cada día: si los cavalleros y 
+          <lb ed="#B" n="2"/>grandes sefiores que tienen capillas en las yglesias donde tienen mu
+          <lb ed="#B" n="3"/>chas cosas preciosas como arneses, escudos, vandexas, armas de oro
+          <lb ed="#B" n="4"/>y de plata, tumbas cubiertas de paños de seda y brocado: si aquellos
+          <lb ed="#B" n="5"/>Señores muertos que las mandaron allí poner, y los bivos, sus descen
+          <lb ed="#B" n="6"/>dientes y herederos, las tuvieron y tienen pro derelictis. Y si el que
+          <lb ed="#B" n="7"/>aquello de allí quitase por hurto o por violencia, offendería y ha
+          <lb ed="#B" n="8"/>ría injuria a los muertos y a los bivos de toda aquella parentela. 
+          <lb ed="#B" n="9"/>Manifiesto es que no sólo a los muertos, pero a todo su linaje, casa y fa
+          <lb ed="#B" n="10"/>milia, injuriaría. </p>
+        <p xml:id="dc7aa7-e14300-d1e396">La 5a se prueva no haverse dexado aquellas
+          <lb ed="#B" n="11"/>riquezas pro derelictis los muertos ni los bivos, porque aquellas
+          <lb ed="#B" n="12"/>riquezas y thesoros no son thesoros propriamente de los que <quote xml:id="dc7aa7-e14300-Qd1e402">«sunt
+            <lb ed="#B" n="13"/>in bonis nullius qui in totum inyentori acquiritur»</quote>, </p>
+        <p xml:id="dc7aa7-e14300-d1e408">Los propiamente thesoros
+          <lb ed="#B" n="14"/>son cuya deffinición pone <ref xml:id="dc7aa7-e14300-Rd1e412">la ley única, Codex, De thesauris, Lib. 10, </ref>ubi dicitur:
+          <lb ed="#B" n="15"/>
+          <quote xml:id="dc7aa7-e14300-Qd1e416">«Thesaurus est pecunia ab ignotis dominis vetustiori tempore ab
+            <lb ed="#B" n="16"/>scondita, cuius dispositionis non extat memoria, ut ibi et Instit. </quote>
+          <lb ed="#B" n="17"/>
+          <ref xml:id="dc7aa7-e14300-Rd1e424">De rerum divisione, $ Thesauros,</ref> dicitur ab ignotis dominis, id est ab
+          <lb ed="#B" n="18"/>aliquibus hominibus fuit pecunia abscondita que nunquam eam re
+          <lb ed="#B" n="19"/>perierunt et ibidem longissimo tempore permanansit in tantum 
+          <lb ed="#B" n="20"/>quod jam per oblivionem exivit a possessione et dominio homi
+          <lb ed="#B" break="no" n="21"/>norum». Así lo declara <ref xml:id="dc7aa7-e14300-Rd1e434">Joanes de Platea en la dicha L. única.</ref>
+        </p>
+        <p xml:id="dc7aa7-e14300-d1e437">Pero 
+          <lb ed="#B" n="22"/>los thesoros que impropriamente se dizen thesoros, son aquéllos se
+          <lb ed="#B" break="no" n="23"/>gún el mismo Joanes de Platea: «quando exabsconduntur aliquis
+          <lb ed="#B" n="24"/>abscondisset causa lucri vel metus honoris vel alicuius alterius boni respectu. </p>
+        <p xml:id="dc7aa7-e14300-d1e446"> Et de hoc nihil queritur in
+          <lb ed="#B" n="25"/>ventori, quinimo comitit furtum, sed eius qui abscondit vel
+          <lb ed="#B" n="26"/>eius heredum, ut est textus in <ref xml:id="dc7aa7-e14300-Rd1e452">L. nunquam, $ thesaurus, De ad
+            <lb ed="#B" n="27"/>quirendo rerum dominio, in fin et L. thesaurus, Digest., Ad exhibendum; et L. item La
+            <lb ed="#B" break="no" n="28"/>beo, ff., Familie erciscunde; et L. a tutore,</ref> et ibi<ref xml:id="dc7aa7-e14300-Rd1e459"> Glossa, ff., De rei vindicatione.</ref>
+          <lb ed="#B" n="29"/>Hec point dictus Joannes de Platea. </p>
+        <p xml:id="dc7aa7-e14300-d1e464">Pues, como aquellas riquezas
+          <lb ed="#B" n="30"/>y cosas preciosas todas se pusiesen en los sepulchros con los cuerpos 
+          <lb ed="#B" n="31"/>de los reyes y señores por causa de honor y de fama y de gloria, 
+          <lb ed="#B" n="32"/>y para mostrar la grandeza de sus personas y riqueza de sus esta
+          <lb ed="#B" break="no" n="33"/>dos, y así para que allí estuviesen perpetuamente guardadas para
+          <pb ed="#B" n="212-r"/>
+          <lb ed="#B" n="1"/>para estos effectos, de lo qual también los bivos herederos y succe
+          <lb ed="#B" n="2"/>sores y todo linaje y parentela resciben honor y estima y gloria,
+          <lb ed="#B" n="3"/>y de todos éstos extat memoria que son los Yngas, y hoy hay muchos
+          <lb ed="#B" n="4"/>heredores de todos aquellos grandes Señores y legítimos successores;
+          <lb ed="#B" n="5"/>luego, son thesoros aquellos propriamente in propria, y por
+          <lb ed="#B" n="6"/>consiguiente no se adquiere señorío sobre ellos a los inventores, sino 
+          <lb ed="#B" n="7"/>de los Yngas y de todos los otros Señores que allí los pusieron y de 
+          <lb ed="#B" n="8"/>sus herederos. Y así tienen dueños, porque nunca los tuvieron pro 
+          <lb ed="#B" n="9"/>derelictis, ni dexaron de tener possessión dellos, ni dellos tener
+          <lb ed="#B" n="10"/>señorío. </p>
+        <p xml:id="dc7aa7-e14300-d1e499">Queda, pues, provada la conclusión que qualquiera
+          <lb ed="#B" n="11"/>español, que de propósito inquiriere o sacare, etc, de las sepul
+          <lb ed="#B" n="12"/>turas antiguas, etc. comete peccado mortal y es obligado a 
+          <lb ed="#B" n="13"/>restitución, y no se podrá salvar si no lo restituye. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

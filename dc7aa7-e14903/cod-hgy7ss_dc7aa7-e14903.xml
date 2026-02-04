@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulo 39</title>
+            <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+            <respStmt>
+               <name ref="#k-blanch">Catherine Blanch</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulo 39</title>
+               <date when="2026-02-04">February 04, 2026</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2026-02-04" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#B" n="213-r"/>
+            <cb ed="#B" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="dc7aa7-e14903"><!-- dd-c39 -->
+            <head xml:id="dc7aa7-e14903-Hd1e111">Capitulo 39</head>
+            <p xml:id="dc7aa7-e14903-d1e113">
+      Capítulo 39
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e115">Todo lo arriba tractado entendemos de los thesoros y riquezas
+      <lb ed="#B" n="30"/>que se hallaren en las sepulturas y templos de que se tuviere alguna me
+      <pb ed="#B" n="213-v"/>
+               <lb ed="#B" n="1"/>moria, que sus dueños fueron tales. o tales, o de los que succeden y heredan
+      <lb ed="#B" n="2"/>a aquéllos, según sus leyes o costumbres con que se regían y governavan,
+      <lb ed="#B" n="3"/>y si se preguntare qué se hará de los que se hallaren de cuyos dueños ni
+      <lb ed="#B" n="4"/>de sus herederos ninguna memoria hay por su longíssima antigüedad.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e131">A esta Duda, parece que se deve con esta distinctión responder que 
+      <lb ed="#B" n="5"/>si los que buscan y escudriñan y hallan y sacan son indios parti
+      <lb ed="#B" n="6"/>culares y no españoles, y las tales guacas o sepulturas están en algu
+      <lb ed="#B" n="7"/>na casa o heredad o tierra propria suya, todos los thesoros y ri
+      <lb ed="#B" n="8"/>quezas que allí hallaren son proprias suyas por ley natural y derecho
+      <lb ed="#B" n="9"/>de las gentes, que los halle acaso o que de industria los busque, y go
+      <lb ed="#B" n="10"/>zar si los hallare, y desde aquella hora que los halla, adquiere dominio
+      <lb ed="#B" n="11"/>y derecho a ellas. Y esto da a entender el <ref xml:id="dc7aa7-e14903-Rd1e148">$ thesauros, Instit., De rerum
+        <lb ed="#B" n="12"/>divisione,</ref> donde se dize así: <quote xml:id="dc7aa7-e14903-Qd1e153">«Thesauros, quos quis in loco suyo invenerit
+          <lb ed="#B" n="13"/>divus Adrianus naturalem equitatem sequutus, ei concessit qui eos
+          <lb ed="#B" n="14"/>invenerit»</quote>!; y en la <ref xml:id="dc7aa7-e14903-Rd1e160">L. única, Codex, De thesauris, Lib. 107.</ref>
+            </p>
+            <p xml:id="dc7aa7-e14903-d1e163">Pero si los halla
+      <lb ed="#B" n="15"/>en casa, heredad, o tierra agena, de algún particular
+      <lb ed="#B" n="16"/>o del rey o de algún Concejo, alguna ciudad o lugar, no buscá
+      <lb ed="#B" n="17"/>ndola de propósito sino acaso como si cavando o arando lo hallase,
+      <lb ed="#B" n="18"/>porque parece que la fortuna, y por mejor dezir Dios se lo dió, y siguiendo
+      <lb ed="#B" n="19"/>la equidad natural deviera ser todo suyo; pero las leyes de los emperadores
+      <lb ed="#B" n="20"/>por la conservación de la paz en los pueblos han ordenado que se parta
+      <lb ed="#B" n="21"/>entre aquél que lo hallare y él cuya fuere la casa, tierra, o heredad, por
+      <lb ed="#B" n="22"/>yguales partes, y de aquellas leyes haze mención <ref xml:id="dc7aa7-e14903-Rd1e182">
+                  <sic>66 a.5 ad 27<!--edition has this ordered differently-->
+          <lb ed="#B" n="23"/>S. Thomás, 2.2 q.</sic>s</ref> En nuestro caso de los indios dévese mirar y considerar
+      <lb ed="#B" n="24"/>qué ley, o leyes o costumbres, cerca desto havía entre ellos, porque las 
+      <lb ed="#B" n="25"/>de acá no los obligan y si no las tenían, dévese mirar y seguir la
+      <lb ed="#B" n="26"/>equidad y razón natural. Si halló aquellos thesoros y bienes b
+      <lb ed="#B" break="no" n="27"/>uscándolos de industria y propósito en la tierra o casa o heredad
+      <lb ed="#B" n="28"/>agena, todo él es obligado al dueño dello, y mucho más es obligado 
+      <lb ed="#B" n="29"/>si lo busca y halla y saca contra la voluntad y prohibición expressa 
+      <lb ed="#B" n="30"/>del dueño y señor de la tierra, o casa, o heredad al qual haze injuria
+      <lb ed="#B" n="31"/>y afrenta digna de castigo, como parece por <ref xml:id="dc7aa7-e14903-Rd1e210">la L. 3, Digest., De adquirendo rerum 
+        <lb ed="#B" n="32"/>dominio</ref>; y <ref xml:id="dc7aa7-e14903-Rd1e215">Digest., De iniuriis, L. iniuriarum, $ si quis me prohibeat</ref>?; et <ref xml:id="dc7aa7-e14903-Rd1e217">d. L. única, 
+          <lb ed="#B" n="33"/>Codex, De Thesauris, Lib. 10%,</ref> et <ref xml:id="dc7aa7-e14903-Rd1e222">L. quosdam, Codex, De metallariis et de metallis, Lib. 11.</ref> La razón de estas 
+      <pb ed="#B" n="214-r"/>
+               <lb ed="#B" n="1"/>leyes se ha de notar que es la injuria que se haze al Señor de la casa o 
+      <lb ed="#B" n="2"/>heredad entrando sin licencia y mayor si prohibiéndole que no entre, 
+      <lb ed="#B" n="3"/>entra por fuerca y violentamente, porque todo es contra ley natural 
+      <lb ed="#B" n="4"/>y siempre como dixesse tenga respecto a la costumbre que tenían
+      <lb ed="#B" n="5"/>entre sí los indios de cada provincia. Y así lo dize la <ref xml:id="dc7aa7-e14903-Rd1e237">L. venditor, $ si
+        <lb ed="#B" n="6"/>constat, Digest., Comunia prediorum?</ref>. 
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e244">Y no puede el Rey Ynga dar licencia para 
+      <lb ed="#B" n="7"/>buscar los dichos thesoros en la tierra o casa o heredad de
+      <lb ed="#B" n="8"/>voluntad dellos, mayormente si dello les viniesse algún daño grave, 
+      <lb ed="#B" n="9"/>si no fuese por costumbre introduzida o que la tierra o casa o heredad de 
+      <lb ed="#B" n="10"/>aquellos particulares, donde aquellos thesoros se hallan quando el Ynga
+      <lb ed="#B" n="11"/>concedió, reservara para sí los thesoros que 
+      <lb ed="#B" n="12"/>en ellas hoviese.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e260">Lo mismo es de las minas de oro y plata y otros metales
+      <lb ed="#B" n="13"/>y piedras preciosas; no se puede mandar o dar licencia que alguno
+      <lb ed="#B" n="14"/>entre a buscar minas de oro y plata, etc, contra voluntad del due
+      <lb ed="#B" n="15"/>ño de la tierra o casa o heredad, como parece en la dicha <ref xml:id="dc7aa7-e14903-Rd1e268">L. Venditor,
+        <lb ed="#B" n="16"/>$ Si constat.</ref> Y si hoviese costumbre dello, han de darle cierto precio
+      <lb ed="#B" n="17"/>o cierta parte de lo que se sacare, como allí dize el dicho <ref xml:id="dc7aa7-e14903-Rd1e276">$ Sí constat?</ref>,
+      <lb ed="#B" n="18"/>y por la <ref xml:id="dc7aa7-e14903-Rd1e280">L. Cuncti, Codex, De metallis, Lib. 11.</ref> El qual sacare el metal, tenien
+      <lb ed="#B" n="19"/>do licencia para buscallo y sacallo en la tierra o heredad agena, deve
+      <lb ed="#B" n="20"/>pagar dello dos décimas, una al Rey, y otra al dueño de la tier
+      <lb ed="#B" n="21"/>ra. Pero si fuese en gran perjuizio del dueño, como si se huviese
+      <lb ed="#B" n="22"/>de caer la casa o arrancar la viña, no se puede dar licencia para lo
+      <lb ed="#B" n="23"/>hazer contra voluntad del dueño porque sería contra la ley natural,
+      <lb ed="#B" n="24"/>como parece en la dicha <ref xml:id="dc7aa7-e14903-Rd1e295">L. quosdam</ref>
+            </p>
+            <p xml:id="dc7aa7-e14903-d1e298">Item, no puede el
+      <lb ed="#B" n="25"/>Rey Ynga aplicar para sí e su fisco las minas de oro y plata y 
+      <lb ed="#B" n="26"/>otros metales y piedras preciosas que en ellas hoviere, de qualquiera 
+      <lb ed="#B" n="27"/>casa, tierra, o heredad, o suelo de las personas particulares, porque 
+      <lb ed="#B" n="28"/>los que en ellas oviere es, y son, por derecho natural de aquéllos cuyo el
+      <lb ed="#B" n="29"/>suelo o casa o tierra o heredad. Y si el Rey Ynga las aplicasse
+      <lb ed="#B" n="30"/>para sí, sería violencia y tyranía y contra derecho natural y de
+      <lb ed="#B" n="31"/>las gentes, según parece en el dicho $ thesauros, y en otros 
+      <lb ed="#B" n="32"/>
+               <ref xml:id="dc7aa7-e14903-Rd1e317">$$, Instit., De rerum divisione, </ref>y en <ref xml:id="dc7aa7-e14903-Rd1e319">el ff., De acquirendo rerum dominio</ref>. Puédesela 
+      <lb ed="#B" n="33"/>acudir e servir con alguna parte de lo que allí se sacare; y según 
+      <lb ed="#B" n="34"/>las leyes comunes de acá, la décima parte estava ordenado que se 
+      <lb ed="#B" n="35"/>diese al Rey, y por las de Castilla, el Rey ha de llevar las dos tercias 
+      <pb ed="#B" n="214-v"/>
+               <lb ed="#B" n="1"/>partes acadas se deve al rey. Según las costas, como parece en las Ordenancas reales, L. 8,
+      <lb ed="#B" n="2"/>las título 12, libro 3. 
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e335">Cerca deste punto que el rey no puede aplicar
+      <lb ed="#B" n="3"/>para sí las minas de oro y plata, etc..., véase Andrés de Isernia, so
+      <lb ed="#B" break="no" n="4"/>bre los <ref xml:id="dc7aa7-e14903-Rd1e341">Libros Feudorum, títul. Que sint regalia, $ argentarie.</ref>
+            </p>
+            <p xml:id="dc7aa7-e14903-d1e344">En todo 
+      <lb ed="#B" n="5"/>lo que desta materia de los indios y entre indios toca se deven
+      <lb ed="#B" n="6"/>
+               <sic><!--text has mitar-->mirar</sic>, como dixe, las leyes y costumbres queentre sí tenían, pero
+      <lb ed="#B" n="7"/>principalmente la razón y equidad natural con la qual se han
+      <lb ed="#B" n="8"/>de regular sus costumbres y sus leyes, y no faltarán deffectos en
+      <lb ed="#B" n="9"/>ellas algunos, como careciesen del conocimiento del verdadero
+      <lb ed="#B" n="10"/>Dios en los tiempos de su infidelidad.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e364">Quanto al segundo miem
+      <lb ed="#B" n="11"/>bro de la distinción, conviene a saber, si los que buscan y hallan y
+      <lb ed="#B" n="12"/>sacan los thesoros de aquellas guacas y sepulturas y de las minas
+      <lb ed="#B" n="13"/>de oro y plata, etc..., son españoles, ya queda asaz respondido  
+      <lb ed="#B" n="14"/>en todas quatro conclusiones de la 6* Duda.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e376">
+               <lb ed="#B" n="15"/>Y porque sobre esta materia havemos escripto de prepósito un tra
+      <lb ed="#B" n="16"/>ctado, al presente por abreviar, no parece convenir repetillo.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e383">Conclusión para la 9a Duda </p>
+            <p xml:id="dc7aa7-e14903-d1e385">
+      Peccaron mortalmente los españoles usurpando y dividiendo e
+      <lb ed="#B" n="17"/>ntre sí las chácaras, tierras o heredades de Guaynacápac, Rey de 
+      a<lb ed="#B" break="no" n="18"/>quellos reynos, y todas las que otros Señores y personas particulares
+      <lb ed="#B" n="19"/>por suyas tenían, y deteniéndolas como las detienen,peccan 
+      <lb ed="#B" n="20"/>mortalmente y estarán en peccado mortal <sic><!--edition is missing this part--> mente. y estaran en 
+        <lb ed="#B" n="21"/>peccado</sic> mientra no las restituyen; y alegar que
+      <lb ed="#B" n="22"/>Guaynacápac havía adquirido algunas tierras e gentes con in
+      <lb ed="#B" break="no" n="23"/>justas guerras y por tyranía son achaques de peores tyranos,
+      <lb ed="#B" n="24"/>y que más offenden a Dios que Gaynacápac le offendía.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e409">
+               <lb ed="#B" n="25"/>La primera parte de la Conclusión: Queda provada en el Cap. XXX 
+      <lb ed="#B" n="26"/>al fin, y por la Conclusión 2* de la Duda 6a, y en otros muchos
+      <lb ed="#B" n="27"/>lugares arriba. Y así son obligados a las restituir a los here
+      <lb ed="#B" n="28"/>deros de Guaynacápac que hoy biven las que fueron suyas, y a los pue
+      <lb ed="#B" n="29"/>blos, porque se dize que aquellas chácaras que hoy se nombran
+      <lb ed="#B" n="30"/>de los Yngas eran tierras concegiles donde sembravan 
+      <pb ed="#B" n="215-r"/>
+               <lb ed="#B" n="1"/>para pagar el tributo con que le servían. Las otras tierras que
+      <lb ed="#B" n="2"/>eran de señores o personas particulares dévense a ellas restitu
+      <lb ed="#B" n="3"/>ir, que aún son bivos, o a sus herederos o a las
+      <lb ed="#B" n="4"/>comunidades de los pueblos, si no se hallaren herederos bivos.
+      <lb ed="#B" n="5"/>Esto la razón lo dicta y parece por mucho de lo arriba dicho.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e438">La segunda parte, conviene a saber que son achaques de 
+      <lb ed="#B" n="6"/>tyranos se prueva diziendo: Lo primero, que vergúenca devían
+      <lb ed="#B" n="7"/>tener infamar a un Rey tan grande como era el Ynga
+      <lb ed="#B" n="8"/>y los demás tyranos sus successores Yngas, viéndose a sí mis
+      <lb ed="#B" n="9"/>mos haver incurrido en tan grandes y nunca oydas otras ygua
+      <lb ed="#B" break="no" n="10"/>les tyranías, como las que havemos hecho contra aquellas gentes
+      <lb ed="#B" n="11"/>que nada nos devían. El qual, aunque fuera o hubiera sido ty
+      <lb ed="#B" n="12"/>rano, al menos no havía ni hovo destruydo y extirpado las 
+      <lb ed="#B" n="13"/>gentes que subjectava como nosotros havemos hecho en todas
+      <lb ed="#B" n="14"/>aquellas Indias, y despoblado sobre quatro mill leguas de tierra.
+      <lb ed="#B" n="15"/>Pues, hallamos aquellos reynos que estavan tan poblados que
+      <lb ed="#B" n="16"/>número de las gentes de que rebosavan no havía, y devría
+      <lb ed="#B" break="no" n="17"/>mos de tener vergúenca y confusión de nuestra desvergüenga;
+      <lb ed="#B" n="18"/>pero lo que es señal de ser insanable nuestra llaga y mortal
+      <lb ed="#B" n="19"/>herida, que, de tupida obstinación e insensbilidad, no lo senti
+      <lb ed="#B" n="20"/>mos. 
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e473">Lo 2°, digo que si oyó alguno de nosotros al Rey Guay
+      <lb ed="#B" n="21"/>nacápac ante juez competente ser citado y llamado para que
+      <lb ed="#B" n="22"/>diese cuenta de cómo havía gaado aquellos reynos, y que
+      <lb ed="#B" n="23"/>faltando en la provanca, fuese sentenciado y condenado por
+      <lb ed="#B" n="24"/>tyrano en contradictorio juyio. ¡oh míseros españoles y más
+      <lb ed="#B" n="25"/>que infelices!, ¡y cómo en esta controversia de la destruyción
+      <lb ed="#B" n="26"/>que havéis hecho en las Indias, andáis ciegos y perdidos!
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e490">
+      Lo 3°,
+      <lb ed="#B" n="27"/>digo que dado que hoviera sido tyrano y usurpando algunas pro
+      <lb ed="#B" n="28"/>vincias o reynos contra justicia, no hovo ni hay juez compe
+      <lb ed="#B" n="29"/>tente, estando en el tiempo de su infidelidad, ante quien pue
+      <lb ed="#B" break="no" n="30"/>dan ser sus herederos convenidos, como sean Reyes y Príncipes
+      <lb ed="#B" n="31"/>supremos a ninguna Jurisdición de otro Príncipe Subjectos,
+      <lb ed="#B" n="32"/>como queda en el 1? y 2? Principios y en el Cap.XXVIII y plenius
+      <lb ed="#B" n="33"/>in Principio 6°, Cap. XI, provando se dixo. Quánto más que no hay
+      <pb ed="#B" n="215-v"/>
+               <lb ed="#B" n="1"/>parte alguna que dello se quexe, ni que por pertenecerle alguno
+      <lb ed="#B" n="2"/>de aquellos estados le pida; antes lo lloran todos por el grande
+      <lb ed="#B" n="3"/>govierno que en todos tenía, otro cierto que el nuestro, y, que así
+      <lb ed="#B" n="4"/>por Dios, los que aún no, por nuestros pecados, se han convertido,
+      <lb ed="#B" n="5"/>cada día le sacrifican. 
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e521">Dixe como juez no hay ante quien
+      <lb ed="#B" n="6"/>se le pida, pero por vía de socorro y para evitar y deshazer
+      <lb ed="#B" n="7"/>la fuerga que el reyno que injustamente occupara padecía,
+      <lb ed="#B" n="8"/>qualquiera rey del mundo pudiera ocupara padecia
+      <lb ed="#B" n="9"/>la fuerca que el Rey del mundo pudiera de la ley natural resistir 
+      <lb ed="#B" break="no" n="10"/>le hasta poner en libertad el reyno o provincia que del quexa 
+      <lb ed="#B" n="11"/>tenía, según aquello, Eclesiástico 4: <quote xml:id="dc7aa7-e14903-Qd1e536">«Libera eum qui injuriam
+        <lb ed="#B" n="12"/>patitur»</quote> Isaías 1: <quote xml:id="dc7aa7-e14903-Qd1e541">«Subvenite oppresso»</quote>; y Hierónimo 21: «<quote xml:id="dc7aa7-e14903-Qd1e543">Eruyite
+          <lb ed="#B" n="13"/>vi oppressum de manu calumniantis»;</quote> item cap. 22, idem dici
+      <lb ed="#B" n="14"/>tur. Pero punillo no podía porque le faltara jurisdigión, por
+      <lb ed="#B" n="15"/>ser el rey libre, como es dicho. Y finalmente que huviera tal
+      <lb ed="#B" n="16"/>juez, o que no fuera juez sino defensor, eran obligados a oyrle sus 
+      <lb ed="#B" n="17"/>descargos antes que procedieran a ningün otro acto: «nemo enim
+      <lb ed="#B" n="18"/>inauditus privandus est», ut ff., <ref xml:id="dc7aa7-e14903-Rd1e559">De re militari, L. 3, $ Si ad diem</ref>;
+      <lb ed="#B" n="19"/>et <ref xml:id="dc7aa7-e14903-Rd1e563">2, q. 1, c. in primis</ref>; et Actuum 25:<quote xml:id="dc7aa7-e14903-Qd1e566"> «Non est consuetudo Ro
+        <lb ed="#B" n="20"/>manis damnare aliquem hominem prius quam is qui accusatur pre
+        <lb ed="#B" n="21"/>sentes habeat accusatores, locumque defendendi accipiat ad a
+        <lb ed="#B" break="no" n="22"/>bluenda crimina que ei objiciuntur»</quote>
+            </p>
+            <p xml:id="dc7aa7-e14903-d1e576">Y porque no pensemos
+      <lb ed="#B" n="23"/>que somos ángeles o exemptos de la ley natural,lo mismo podría 
+      <lb ed="#B" n="24"/>hazer contra nosotros agora el turco y otra qualquiera poderosa
+      <lb ed="#B" n="25"/>persona, resistirnos hasta librar de la tyranía que padecen to
+      <lb ed="#B" n="26"/>dos aquellos reynos por nuestra cudicia y ambición y grandes
+      <lb ed="#B" n="27"/>peccados. 
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e589">Lo 4*, digo que de derecho común todo possee
+      <lb ed="#B" n="28"/>dor, mayormente en los señoríos antiguos de los Reyes y ciu
+      <lb ed="#B" n="29"/>dades o comunidades,presumen ser señores los que tienen
+      <lb ed="#B" n="30"/>possesión pacífica de antiguos son señores de aquellos estados, ut in <ref xml:id="dc7aa7-e14903-Rd1e597">L. possessiones, Codex, 
+        <lb ed="#B" n="31"/>De probationibus</ref> et <ref xml:id="dc7aa7-e14903-Rd1e602">L. Cum res.</ref> Nec tenetur quis probare de suo Jure
+      <lb ed="#B" n="32"/>quia satis est sibi quod possidet nisi adversarius contrarium pro
+      <lb ed="#B" n="33"/>bet, ut <ref xml:id="dc7aa7-e14903-Rd1e609">instit., De interdictis, $ Comodum</ref> et ff.,
+      <lb ed="#B" n="34"/>
+               <ref xml:id="dc7aa7-e14903-Rd1e613">si usufructus petatur, L. utifrui, $ utrunque</ref> ff., <ref xml:id="dc7aa7-e14903-Rd1e615">Uti possidetis,
+        <lb ed="#B" n="35"/>L. 1, in fin</ref>. Ad propositum vide Baldum in L. proprietatis, <quote xml:id="dc7aa7-e14903-Qd1e621">«itaque 
+          <pb ed="#B" n="216-r"/>
+                  <lb ed="#B" n="1"/>fama eo operatur»,</quote> ubi dicit quod «per famam antiquam proban
+      <lb ed="#B" n="2"/>tur antiqua dominia de quorum principiis non extat me
+      <lb ed="#B" n="3"/>moria, ut <ref xml:id="dc7aa7-e14903-Rd1e632">ff., De probationibus, L. Si arbiter</ref>; et <ref xml:id="dc7aa7-e14903-Rd1e634">Extra, De verborum significatione, cap.
+        <lb ed="#B" n="4"/>quid per novale.</ref> Et hoc maxime virtutis est in universalibus
+      <lb ed="#B" n="5"/>dominiis puta regum, comitum et in territoriis civitatum.
+      <lb ed="#B" n="6"/>Et quando fama est quod rex fuerit antiquorum nam ex hoc
+      <lb ed="#B" n="7"/>sumitur bona fides qua confert ad acquisitionem dominii».
+      <lb ed="#B" n="8"/>Hec Baldus. Manifiesta es la fama en todos aquellos reynos que
+      <lb ed="#B" n="9"/>Guaynacápac era Rey y buen Rey en sus antecessores monar
+      <lb ed="#B" n="10"/>cas, y monarca de todos ellos.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e653">Lo 5°, digo que es mucho más 
+      <lb ed="#B" n="11"/>y con mayor razón devemos de presumir haver havido el Rey
+      <lb ed="#B" n="12"/>Guaynacápac y sus antecessores todos sus reynos legítimamente
+      <lb ed="#B" n="13"/>que los romanos, de quien es manifiesto a los que leen las histo
+      <lb ed="#B" n="14"/>rias, que por pura ambición y cudicia, con guerras injustas
+      <lb ed="#B" n="15"/>sojuzgaron y tyranizaron el mundo y augmentaron su imperio.
+      <lb ed="#B" n="16"/>Con todo esso empero dize Innocenzio, en <ref xml:id="dc7aa7-e14903-Rd1e668">el capítulo quod super,
+        <lb ed="#B" n="17"/>De voto,</ref> que devemos presumir que usaron de su derecho no ha
+      <lb ed="#B" n="18"/>ziendo injusticia: Quia nescimus, inquit, utrum illi, scilicet 
+      <lb ed="#B" n="19"/>Romani qui occuparunt terras vel dominia usi fuerint jure
+      <lb ed="#B" n="20"/>suo in occupando; debemus credere quod usi sunt jure suo qui a fur
+      <lb ed="#B" n="21"/>te recuperaverunt quod prius per violentiam amiserant vel fur
+      <lb ed="#B" n="22"/>te, per munera vel donationes ad eos pervenerunt». Hec In
+      <lb ed="#B" n="23"/>nocenius.
+    </p>
+            <p xml:id="dc7aa7-e14903-d1e687">Y así parece, quan poco puede excusar nuestra
+      <lb ed="#B" n="24"/>tyranía el alegar con gran temeridad y mayor ceguedad 
+      <lb ed="#B" n="25"/>que Guaynacapac era tyrano: infamoando a uno de los Reyes
+      <lb ed="#B" n="26"/>que mejor governación en sus reynos pusieron en el mundo,
+      <lb ed="#B" n="27"/>como lo supieron y saben los que sus reynos con tan grandes
+      <lb ed="#B" n="28"/>injusticias le usurparon, no sabiendo ni pudiendo saber dello
+      <lb ed="#B" n="29"/>verdad ninguna, teniendo en contrario la presunción del dere
+      <lb ed="#B" n="30"/>cho y toda buena razón.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

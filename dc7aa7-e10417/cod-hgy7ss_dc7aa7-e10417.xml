@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 30</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 30</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="191-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10417"><!-- dd-c30 -->
+        <head xml:id="dc7aa7-e10417-Hd1e111">Capitulo 30</head>
+        <p xml:id="dc7aa7-e10417-d1e113">
+          <lb ed="#B" n="5"/>Capítulo 30 
+          <lb ed="#B" n="6"/>Conclusión para la 2a duda
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e120">
+          <lb ed="#B" n="7"/>Todos los españoles que a los ciento y tantos primeros en el 
+          <lb ed="#B" n="8"/>Perú se añadieron, y conquistaron, y sojuzgaron, y mataron, y ro
+          <lb ed="#B" break="no" n="9"/>baron, y hizieron lo que la pregunta y duda dize, fueron pú
+          <lb ed="#B" n="10"/>blicos injustos hostes de aquellas repúblicas, predones y tyranos
+          <lb ed="#B" n="11"/>proprios como los primeros, y cometieron gravíssimos peccados
+          <lb ed="#B" n="12"/>mortales contra Dios y contra sus próximos; y son obligados a
+          <lb ed="#B" n="13"/>restitución in solidum de todos los thesoros y los riquezas que robaron,
+          <lb ed="#B" n="14"/>andando en aquellos salteamientos y que han ido a conquistas o aggressiones o entradas
+          <lb ed="#B" n="15"/>que llaman conquistas en aquellos reynos agenos; y de todo los 
+          <lb ed="#B" n="16"/>demás de oro y plata y otros bienes que después amontonaron 
+          <lb ed="#B" n="17"/>de aquellos tributos desaforados, hasta un grano de mayz que
+          <lb ed="#B" n="18"/>injustamente a los vecinos y moradores naturales de aquellas 
+          <lb ed="#B" n="19"/>tierras impusieron; y de las tierras y heredades que les usurparon; 
+          <lb ed="#B" n="20"/>y de los daños irreparables que en los cuerpos y en las ánimas, y
+          <lb ed="#B" n="21"/>estados, honrras, y haziendas les hizieron; y los que causaron los que
+          <lb ed="#B" n="22"/>succedieron a éstos; y tuvieron aquellas gentes justa causa y de
+          <lb ed="#B" break="no" n="23"/>recho para hazelles guerra.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e159">
+          <lb ed="#B" n="24"/>Esta conclusión con todas sus partes queda probada con sola esta 
+          <lb ed="#B" n="25"/>razón, conviene a saber, porque estos postreros, y los
+          <lb ed="#B" n="26"/>postreros a los postreros, lo mismo que los de antes cometieron. Antes se tiene
+          <lb ed="#B" n="27"/>experiencia que cada manada de los que de nuevo yvan se seña
+          <lb ed="#B" break="no" n="28"/>lavan en ser más crueles. Luego, la misma razón es déstos que de
+          <lb ed="#B" n="29"/>aquéllos, y assí por todos los derechos y provanca que se tru
+          <lb ed="#B" break="no" n="30"/>xo para condenación de aquéllos, son condenados éstos.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e177">
+          <lb ed="#B" n="31"/>Pero porque más fácil se vea esto, señalemos los lugares con 
+          <pb ed="#B" n="192-r"/>
+          <lb ed="#B" n="1"/>que cada parte della se prueva. 
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e187">La primera parte dize que fue
+          <lb ed="#B" break="no" n="2"/>ron hostes públicos de aquellas repúblicas, porque, siendo respú
+          <lb ed="#B" n="3"/>blicas y reynos libres y en sus reynos y tierras seguros como queda
+          <lb ed="#B" n="4"/>probado en el primero Principio, entraron matando y robando
+          <lb ed="#B" n="5"/>y sojuzgando y poniendo en servidumbre todas las gentes por
+          <lb ed="#B" n="6"/>donde anduvieron, sin averles hecho injuria sin daño, como es
+          <lb ed="#B" n="7"/>manifiesto. De los hostes y capitales enemigos es robar y matar 
+          <lb ed="#B" n="8"/>y destruir las republicas y las vidas y estados de los vezinos dellas
+          <lb ed="#B" n="9"/>y usurpar las haziendas de los que son enemigos. Aunque en la
+          <lb ed="#B" n="10"/>verdad mas propriamente son predones y latrúnculos y salteado
+          <lb ed="#B" break="no" n="11"/>res que hostes: como quiera que todos los males destructiones y daños
+          <lb ed="#B" n="12"/>que <sic><!--edition has han hecho hayan-->an hecho aya</sic> sido sin autoridad de los Reyes de Castilla en
+          <lb ed="#B" n="13"/>tes todo contra sus mandamientos expresos y por su propria
+          <lb ed="#B" n="14"/>maldad ambición y cudicia, como parece arriba en el Cap. XVIII 
+          <lb ed="#B" n="15"/>y en los <sic><!--edition joins sentences-->siguientes. Porque</sic> hostes son propriamente aquéllos contra
+          <lb ed="#B" n="16"/>
+          <sic><!--contra repeats in text but not edition-->contra</sic> quien se tiene guerra campal o pública, por mandado del 
+          <lb ed="#B" n="17"/>Príncipe. Todo esto se prueva por la L. bostes, <ref xml:id="dc7aa7-e10417-Rd1e236">Digest., De captivis et 
+            <lb ed="#B" n="18"/>postlimino </ref>y en la <ref xml:id="dc7aa7-e10417-Rd1e241">L. hostes, ff., De verborum signicatione.</ref> Así que propria
+          <lb ed="#B" n="19"/>mente son predones, robadores, salteadores, y latránculos, como
+          <lb ed="#B" n="20"/>en ellas se dize. 
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e248">Que sean tyranos, véase el primer Principio 
+          <lb ed="#B" n="21"/>y el segundo, Cap. IV, y en el Cap. XXIV y XXV.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e253">Que <sic><!--edition has hayan-->ayan</sic> cometido
+          <lb ed="#B" n="22"/>gravíssimos <sic><!--peccado repeats in text--> peccados peccados</sic> mortales, en la prueva de la 1a con
+          <lb ed="#B" break="no" n="23"/>clusión a la primera Duda se verá manifiesto. Señaladamente,
+          <lb ed="#B" n="24"/>
+          <sic><!--text has this in parens-->dexados aparte los robos y muertes,</sic> en <sic><!--edition has haver-->aver</sic> repartido entre sí
+          <lb ed="#B" n="25"/>los pueblos, despojando a los reyes y señores naturales de sus estados,
+          <lb ed="#B" n="26"/>dignidades, señoríos, honras y jurisdiciones, y de sus vasallos y
+          <lb ed="#B" n="27"/>sübditos, y rentas, y derechos reales, poniéndolos en el más
+          <lb ed="#B" n="28"/>vil y abatido y contemptible estado que jamás ningunos se
+          <lb ed="#B" break="no" n="29"/>ñores que cayesen dellos se vieron. Y a todos, súbditos y señores,
+          <lb ed="#B" n="30"/>pusieron en acérrima servidumbre que es aquel repartimiento,
+          <lb ed="#B" n="31"/>donde ocupados en los servicios y tributos violentos que les pu
+          <lb ed="#B" n="32"/>sieron, no pueden vacar a oyr la predicación y doctrina
+          <lb ed="#B" n="33"/>de Christo, y en la qual finalmente, espiritual y corporalmente
+          <lb ed="#B" n="34"/>perecen. Todo esto parece arriba en el Cap. XVI y XVII; luego, 
+          <pb ed="#B" n="192-v"/>
+          <lb ed="#B" n="1"/>peccaron gravíssimamente. </p>
+        <p xml:id="dc7aa7-e10417-d1e305"> Que de los robos de oro y pla
+          <lb ed="#B" n="2"/>ta y esmeraldas y otras alhajas y cosas preciosas y gana
+          <lb ed="#B" n="3"/>dos y daños que hizieron andando en aquellos passos, sean o
+          <lb ed="#B" break="no" n="4"/>bligados a restitución, no sólo cada uno por sí pero in solidum, en 
+          <lb ed="#B" n="5"/>el Cap. XXIV y XXV queda dellos hecha evidencia. 
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e316">De los otros 
+          <lb ed="#B" n="6"/>millares tan numerosos y grandes que, después de los robos que de
+          <lb ed="#B" n="7"/>camino hazían, y subjectados los pueblos tan violenta <sic><!--text has this, possible error-->e</sic>tyrá
+          <lb ed="#B" n="8"/>nicamente, como está dicho, de los tributos que tan desaforados ad
+          <lb ed="#B" break="no" n="9"/>quieron, parece a prima haz que no fuesen a restituirlos in so
+          <lb ed="#B" n="10"/>lidum, sino que cada uno sea obligado a restituir lo que <sic><!--edition has huviese havido--> uviese</sic> a
+          <lb ed="#B" break="no" n="11"/>de los pueblos que del dicho reparti
+          <lb ed="#B" n="12"/>miento le cupieron. Pero, considerado que uno ni pocos se atre
+          <lb ed="#B" n="13"/>vieran a sojuzgar con tantas crueldades aquellas gentes ni a
+          <lb ed="#B" n="14"/>hazer entre sí el solidum. dicho repartimiento si todos juntos no fueran,
+          <lb ed="#B" n="15"/>y más siendo de una voluntad, todos y aquéllos, por fin todos
+          <lb ed="#B" n="16"/>pretendiendo, manifiesto es que todos fueron causa total, no sólo
+          <lb ed="#B" n="17"/>de lo robado y males que hizieron, andando, robando, subjectan
+          <lb ed="#B" n="18"/>do, y matando las gentes, pero también fueron una causa total
+          <lb ed="#B" n="19"/>del dicho repartimiento y de los males y daños que del a los indios
+          <lb ed="#B" n="20"/>se recrecieron, y por consiguiente de los tributos que cada uno
+          <lb ed="#B" n="21"/>robava de los pueblos que le cupieron. Luego, todos son obligados
+          <lb ed="#B" n="22"/>in solidum a restituyr todo lo que cada uno por sí e los demás tan
+          <lb ed="#B" n="23"/>tyránica e impíamente hovieron, aunque sea un grano de <sic>mayz. <!--edition joins sentences--> 
+            <lb ed="#B" n="24"/>Que </sic> las tierras y heredades que en la Nueva España llaman
+          <lb ed="#B" n="25"/>milpas y en el Perú chácaras, sean obligados a les restituyr,
+          <lb ed="#B" n="26"/>dello no dudarán los más estólidos y muy bárbaros. La razón 
+          <lb ed="#B" n="27"/>desto es, porque así como injustamente robaron los thesoros
+          <lb ed="#B" n="28"/>y todas las otras cosas muebles a sus proprios posseedores, y fueron
+          <lb ed="#B" n="29"/>en ello tyranos, de la misma manera las tierras y heredades a
+          <lb ed="#B" n="30"/>los reyes y señores particulares usurparon, y fueron en hazello
+          <lb ed="#B" n="31"/>tyranos. Y por consiguiente si de las cosas mobibles tienen obli
+          <lb ed="#B" n="32"/>gación de restituir, mucho más de las immobibles y rayzes son o
+          <lb ed="#B" break="no" n="33"/>bligados a restituirlas, porque mayor es la razón que aquéstas
+          <lb ed="#B" n="34"/>que no aquéllas sirve. Y así hasta un palmo de tierra no pudie
+          <pb ed="#B" n="193-r"/>
+          <lb ed="#B" break="no" n="1"/>ron tomar sin grave peccado mortal, ni lo pueden tener por 
+          <lb ed="#B" n="2"/>suyo sin condenarse porque cometieron hurto y violencia
+          <lb ed="#B" n="3"/>o rapiña, si los Reyes Yngas cuyos son aquellos reinos no se las
+          <lb ed="#B" n="4"/>condonase graciosamente, o algún dueño particular quisiesse
+          <lb ed="#B" n="5"/>de su voluntad dársela. Esto parece arriba, Cap. XXIII en la 4a
+          <lb ed="#B" n="6"/>probación de la primera parte de la 1a conclusión. </p>
+        <p xml:id="dc7aa7-e10417-d1e410"> De aquí
+          <lb ed="#B" n="7"/>se consigue que todos los edificios públicos de ciudades, villas
+          <lb ed="#B" n="8"/>y lugares, y los que particulares personas edificaron, y hereda
+          <lb ed="#B" break="no" n="9"/>des, viñas y güertas que plantaron, y las dehesas de ganados,
+          <lb ed="#B" n="10"/>están en los suelos y tierras agenas o de dichos Reyes Yngas
+          <lb ed="#B" n="11"/>o de particulares, y todos se posseen por nosotros tyránicamente
+          <lb ed="#B" n="12"/>y somos posseedores de mala fe, y nunca se justificará esta in
+          <lb ed="#B" break="no" n="13"/>justa possessión si los Reyes Yngas o sus herederos y los dueños
+          <lb ed="#B" n="14"/>particulares no nos las concedieron graciosamente, antes todo
+          <lb ed="#B" n="15"/>lo edificado tenemos perdido, y de los señores, reyes, o súbditos
+          <lb ed="#B" n="16"/>suyos eran los suelos donde se edificaron. Tum primo, quia edifi
+          <lb ed="#B" break="no" n="17"/>cium regulariter cedit solo, ut Instit., <ref xml:id="dc7aa7-e10417-Rd1e436">De rerum divisione, $ Cum autem in suo.</ref>
+          <lb ed="#B" n="18"/>Tum 2° quia edificans in alieno solo scienter et mala fide, 
+          <lb ed="#B" n="19"/>sicut nos Hispani, perdit partem rei sue, scilicet, materiam si eam 
+          <lb ed="#B" n="20"/>posuit, et dicitur delinquere: instit., eodem titulo, <ref xml:id="dc7aa7-e10417-Rd1e444">$ ex diverso et $
+            <lb ed="#B" n="21"/>qua ratione;</ref> Bartholus, in <ref xml:id="dc7aa7-e10417-Rd1e449" target="http://scta.info/resource/cice-l2t30-Dd1e108">L. zn rem, $ sed si alias, $ si quis
+              <lb ed="#B" n="22"/>rei, ff., De reinvindicatione</ref>.Et potest destrui propria autoritate domini soli:
+          <lb ed="#B" n="23"/>Bartholus et Doctores, in <ref xml:id="dc7aa7-e10417-Rd1e457" source="http://scta.info/resource/bgy6gt-d1e892-Dd1e423">L. sed si inter, ff., De servitute urbanorum predionili</ref>; et in <ref xml:id="dc7aa7-e10417-Rd1e460">L. 
+            <lb ed="#B" n="24"/>quemadmodum, ff, Ad L. Aquiliam, $ 17.</ref> Et, edificium debet tolli sump
+          <lb ed="#B" break="no" n="25"/>tibus illicite edificantis: <!--reference? Speculator, in De cessione actionum.--> Y esto
+          <lb ed="#B" n="26"/>supuesto que ellos a su costa y con sus personas lo hovieran edificado, quán
+          <lb ed="#B" n="27"/>to más que todo lo edificaron los indios a su costa y con sus trabajos,
+          <lb ed="#B" n="28"/>constreñidos y forgados contra toda razón y ley natural, como los hijos
+          <lb ed="#B" n="29"/>de Israel edificaron las ciudades en Egipto, violentados por Pha
+          <lb ed="#B" break="no" n="30"/>raón tyrano. </p>
+        <p xml:id="dc7aa7-e10417-d1e482">La áltima partícula de conclusión, conviene a saber,
+          <lb ed="#B" n="31"/>que tengan aquellas gentes guerra justa o derecho de moverla
+          <lb ed="#B" n="32"/>contra los que se añadieron como contra los primeros, justa,
+          <lb ed="#B" n="33"/>continua y perpetua, asaz en el Cap. XXVI y los siguientes queda
+          <lb ed="#B" n="34"/>manifiesto. Y esta sea la solución de la 2a Duda.
+          <pb ed="#B" n="193-v"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

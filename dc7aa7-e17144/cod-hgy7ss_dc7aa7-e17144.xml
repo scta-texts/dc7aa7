@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 43</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 43</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="225-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e17144"><!-- dd-c43 -->
+        <head xml:id="dc7aa7-e17144-Hd1e111">Capitulo 43</head>
+        <p xml:id="dc7aa7-e17144-d1e113">
+          Capítulo 43
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e115">
+          <lb ed="#B" n="1"/>Pueden y deven ser persuadidos y mucho rogados por
+          <lb ed="#B" n="2"/>medio de los religiosos, que hagan remissión libre y voluntaria
+          <lb ed="#B" n="3"/>de todo quanto les havemos robado y daños grandes e irrepara
+          <lb ed="#B" n="4"/>bles que de nosotros han rescebido, a aquéllos de nosotros se entienden
+          <lb ed="#B" n="5"/>que a restituir están impossibilitados. Pero a los demás que tienen
+          <lb ed="#B" n="6"/>que restituir, contra justicia y razón sería induzillos a que lo per
+          <lb ed="#B" n="7"/>donasen, como siempre padezcan extrema necessidad, y los que los
+          <lb ed="#B" n="8"/>robaron con las tierras y bienes que les usurparon y de sus cueros y
+          <lb ed="#B" n="9"/>sudores hovieron, triumphen muy a su grado. Que perdonen a los
+          <lb ed="#B" n="10"/>Reyes, nuestros Señores, se ha con diligencia de negociar, y Su Magestad con mucha
+          <lb ed="#B" n="11"/>gracia, lo que de aquellos robos les ha cabido en imposibilitado a restitui parte; porque ma
+          <lb ed="#B" n="12"/>nifiesto es, suppuesto lo que arriba queda queda muchas vezes demostrado,
+          <lb ed="#B" n="13"/>que con ningunas riquezas que alcancen de aquí a mill años
+          <lb ed="#B" n="14"/>lo podrán pagar, y haziendo la dicha remissión con lo demás a que
+          <lb ed="#B" n="15"/>Su Magestad es obligado para escusar tan grandes pecados e
+          <lb ed="#B" n="16"/>injusticias, como a aquellas gentes por nosotros se hazen, e im
+          <lb ed="#B" n="17"/>pedimentos de salvación del ánima real, se interrumpirá el derecho
+          <lb ed="#B" n="18"/>que contra nosotros tienen para nos hazer guerra y no antes, como
+          <lb ed="#B" n="19"/>arriba Cap. 29 queda provado.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e159">Esta es la orden y la puerta que, segün el derecho natural y divino,
+          <lb ed="#B" n="20"/>se deve tener para entrar los Reyes de Castilla y León en el impe
+          <lb ed="#B" n="21"/>rio, monarchía, y summo principado de aquellas Indias, y appre
+          <lb ed="#B" n="22"/>hender su possessión jurídica, y tener en ellas y sobre ellas actual im
+          <lb ed="#B" n="23"/>perial dominio y suprema o universal juridición, lo que hasta que lo
+          <lb ed="#B" n="24"/>susodicho se haga, ni ha tenido, ni tiene, ni terná, sino en habitu
+          <lb ed="#B" n="25"/>y el título desnudo solo y por otros términos jurídi
+          <lb ed="#B" n="26"/>cos. Hactenus habuit jus ad rem, non autem jus in re, id est, jus ad
+          <lb ed="#B" n="27"/>sumum eius modi principatum illorum regnorum, non in princi
+          <lb ed="#B" n="28"/>patu quia deerat nostris inclitis regibus consensus regum et populorum illius orbis, ut probatum fuit in 6° Principio. Et 
+          <lb ed="#B" n="29"/>insuper obstabat omnino ingressus et progressus tyranicus Hys
+          <lb ed="#B" n="30"/>panorum, ut in 7° Principio, $ 12 et sequentibus, et in 2a Contra 
+          <lb ed="#B" n="31"/>Conclusione ad 6° Dubium, extensum est.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e188">Occurrit tamen in presentiarum 
+          <pb ed="#B" n="226-r"/>
+          <lb ed="#B" n="1"/>dicendum: non nihil videlicet oportere maiestatem suam um
+          <lb ed="#B" n="2"/>versa que ad inclitum imperialem statum in orbe illo spectant
+          <lb ed="#B" n="3"/>denuo fundare seu reedificare ob id quod que hactenus gesta sunt, 
+          <lb ed="#B" n="4"/>minimum fuerunt de jure prorsus quam invalida, utpote que están per a
+          <lb ed="#B" n="5"/>troces tyranos.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e205">Si a lo dicho Su Magestad indias es 
+          <lb ed="#B" n="6"/>de propósito se determinare, como a cosa en que 
+          <lb ed="#B" n="7"/>tanto va a su christiana consciencia y a la prosperidad tem
+          <lb ed="#B" n="8"/>poral de su real estado, muchas cosas entederá deverse tractar para
+          <lb ed="#B" n="9"/>effectuar cosa tan egregia y sefialada, que aquí por la brevedad se
+          <lb ed="#B" n="10"/>callan.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e218">Dízese en la conclusión que Su Magestad deve restituir
+          <lb ed="#B" n="11"/>a aquel Rey Tito en sus reynos, no embargante que algunos di
+          <lb ed="#B" n="12"/>gan que se rebelará. A lo qual se responde, o que están engañados
+          <lb ed="#B" n="13"/>e lo dizen porque no querrían ver indio alguno mediado, y dezimos
+          <lb ed="#B" n="14"/>que si ciento y cinquenta o poco más, fueron bastantes a prender al Rey
+          <lb ed="#B" n="15"/>Athabaliba, que allí junto tenía sobre quarenta mill hombres de guerra,
+          <lb ed="#B" n="16"/>y después sojuzgaron tan immensos de gentes como en aquellos
+          <lb ed="#B" n="17"/>reynos habitavan, haviendo agora en ellos diez o doze mill espa
+          <lb ed="#B" n="18"/>ñoles y con tres o quatro mill cavallos y arcabuzes, y todo género
+          <lb ed="#B" n="19"/>de armas, Otras que las de los indios, y no haver de diez ni veinte par
+          <lb ed="#B" n="20"/>tes de indios la una, ¿cómo les pasará por el pensamiento rebelarse?
+          <lb ed="#B" n="21"/>Quánto más que el Rey, nuestro Señor, porná en ello recaudo.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e244">A la 
+          <lb ed="#B" n="22"/>razón que dan los adversarios, que aquel Rey Tito impedirá e perturbará
+          <lb ed="#B" n="23"/>a sus gentes en las cosas de la fe y religión christiana, dezimos que plu
+          <lb ed="#B" n="24"/>guiese a Dios que los turcos y Reyes de otros infieles estuviesen tan
+          <lb ed="#B" n="25"/>dispuestos y tan propinquos para rescebir la fe y perseverar en
+          <lb ed="#B" n="26"/>ella, como el Tito y todos los otros Señores de aquellas nasciones
+          <lb ed="#B" n="27"/>están, por la experiencia tan diuturna y ocular que tenemos de
+          <lb ed="#B" n="28"/>haver visto el aparejo y disposición que comúnmente en todos
+          <lb ed="#B" n="29"/>señores súbditos hay. Sean ellos doctrinados en las cosas de la fe, según
+          <lb ed="#B" n="30"/>deven ser enseñados y honrrados y restituydos en sus estados, y no
+          <lb ed="#B" n="31"/>agraviados ni tyranizados de los que presumen ser viejos christianos,
+          <lb ed="#B" n="32"/>que antes los señores a sus súbditos suelen traer a la fe y no estorva
+          <lb ed="#B" n="33"/>llos, y esto es cosa quasi natural.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e273">
+          Conclusión para la 12a pregunta.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e275">
+          <lb ed="#B" n="34"/>No tienen más buena fe, ni jamás la tuvieron, los que aquellas obras
+          <pb ed="#B" n="226-v"/>
+          <lb ed="#B" n="1"/>que la pregunta pregunta dize cometieron, que tuvieron los infieles gentiles
+          <lb ed="#B" n="2"/>tyranos que perseguían, matavan y despedacavan los mártyres, y que
+          <lb ed="#B" n="3"/>tienen hoy los turcos en perseguir e a juzgar las gentes del pueblo christia
+          <lb ed="#B" n="4"/>no, ni más invincible ignorancia.
+          <!--lines 5 and 6 here are fragments or one word. not in edition-->
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e293">Esta conclusión queda asaz y copiosamente
+          <lb ed="#B" n="5"/>en el 8a Principio provada, y el que aquella
+          <lb ed="#B" n="6"/>provanga negare o della no se contentare,
+          <lb ed="#B" n="7"/>bien mereceráse de toda razonable disputa, desechado.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e303">Aunque este tratadillo parece que solamente se endereca a lo a
+          <lb ed="#B" break="no" n="8"/>caecido en los reynos del Perú, lo mismo dezimos, confessamos y affirmamos de
+          <lb ed="#B" n="9"/>ver hazer, y ser Su Magestad obligado a poner en obra en todas las
+          <lb ed="#B" n="10"/>Yndias, de necessidad e salvarse.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e312">Y por esto podrá Su Magestad
+          <lb ed="#B" n="11"/>colegir el deservicio y engaño perniciosíssimo, que rescibe de los que le
+          <lb ed="#B" n="12"/>dan parecer, que puede vender los repartimientos a los proprios ty
+          <lb ed="#B" n="13"/>ranos como si fueran atajos de ganados, ni aunque los compra
+          <lb ed="#B" n="14"/>dores fueran ángeles. Y ruego yo a Dios, nuestro Señor, que tan
+          <lb ed="#B" n="15"/>cierto esté yo de mi salvación y ver Su cara, como lo estoy de la con
+          <lb ed="#B" break="no" n="16"/>denación de los que tal le aconsejan, y aquesto tractan con effe
+          <lb ed="#B" n="17"/>cto si penitencia no lesponen, espirituales y temporales,
+          <lb ed="#B" n="18"/>los que tal parecer le dan, verdaderamente hallará Su Magestad ser 
+          <lb ed="#B" n="19"/>en grande manera grandes.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e334">Este tractado presentó el autor, don frai Bartholomé de Las
+          <lb ed="#B" n="20"/>Casas a Su Magestad con una petición al tenor a la letra desta, en mayo
+          <lb ed="#B" n="21"/>de 1565.Y después Su Magestad, dio el Libro al Consejo, y el dicho Obispo
+          <lb ed="#B" n="22"/>les dió esta petición, la qual en mi presencia leyó el relator en
+          <lb ed="#B" n="23"/>pleno Consejo.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e345">DEO GRATIAS
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e347">
+          <pb ed="#B" n="227-r"/>
+          <lb ed="#B" n="1"/>Muy poderosos soberanos señores
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e354">
+          <lb ed="#B" n="2"/>El obispo que fue de Chiapa beso las manos de Vuestras Altezas
+          <lb ed="#B" n="3"/>y suplico tengan por bien con atencion oyr lo que dixere a Vuestras
+          <lb ed="#B" n="4"/>Altezas: ya consta y en toda España y por todas las Indias es notorio
+          <lb ed="#B" n="5"/>como ha muchos años que ando en esta real corte y ante este
+          <lb ed="#B" n="6"/>real consejo de las Indias negociando y procurando el remedio
+          <lb ed="#B" n="7"/>de las gentes naturales dellas que llamamos indios y que cesen los
+          <lb ed="#B" n="8"/>estragos y matangas que en ellas se hazen contra toda razon y justicia
+          <lb ed="#B" n="9"/>y puesto que la voluntad de los reyes que en estos por estos tiempos
+          <lb ed="#B" n="10"/>han reynado y sus consejos ansi probeerles de justicia y con
+          <lb ed="#B" break="no" n="11"/>servarlos en ella y no consentir que les fuesen hechos daños
+          <lb ed="#B" n="12"/>y agravios y asi lo han mostrado por sus muchas leyes y pro
+          <lb ed="#B" n="13"/>vissiones pero llegadas alla no se han cumplido por la grande y
+          <lb ed="#B" n="14"/>desmedida codicia y ambicion de los que alla han passado 
+          <lb ed="#B" n="15"/>mayormente de los que aquellas gentes han ydo a governar por
+          <lb ed="#B" break="no" n="16"/>que los unos y los otros siempre han engañadoa los reyes con
+          <lb ed="#B" n="17"/>muchas diversas falsedades y no avisandoles de como aquellas
+          <lb ed="#B" n="18"/>gentes perescian por los ynsultos que en ellas se hazian y el mal
+          <lb ed="#B" n="19"/>govierno que desde su principio se les havia puesto pretendiendo
+          <lb ed="#B" n="20"/>sus propios intereses solos y otros por la misma causa con <sic><!--not sure this is the right word, in edition but not text-->des
+            <lb ed="#B" n="21"/>manes</sic> alborotos y desobediencias que han cometido contra la fide
+          <lb ed="#B" n="22"/>lidad que debian a su rey natural y asi dias en dias <sic><!--this part is crossed out in text-->que han cometido</sic>
+          <lb ed="#B" n="23"/>y de años en años se ha ydo entablando y arraygando y olvi
+          <lb ed="#B" n="24"/>dando las dos especias de tyrania con que havemos asolado
+          <lb ed="#B" n="25"/>aquellas tan ynumerables republicas la una en nuestra pri
+          <lb ed="#B" n="26"/>mera entrada que llamaron conquistas en aquellos reynos,
+          <lb ed="#B" n="27"/>no nuestros sino agenos, de los reyes y señores naturales en cuya
+          <lb ed="#B" n="28"/>pacifica possession los hallamos; la otra fue y esta la tyranica go
+          <lb ed="#B" n="29"/>vernacion mucho mas injusta y más cruel que la con que Faraon
+          <lb ed="#B" n="30"/>oprimio en Exipto a los judios a que pusieron por nombre reparti
+          <lb ed="#B" n="31"/>miento o encomiendas por la qual a los reyes naturales have
+          <lb ed="#B" n="32"/>mos violentamente contra toda razon y justicia despojado y
+          <lb ed="#B" n="33"/>a los señores y subditos de su libertad y de las vidas como todo
+          <lb ed="#B" n="34"/>el mundo sabe y de donde se ha seguido tanta confusión ceguedad
+          <pb ed="#B" n="227-v"/>
+          <lb ed="#B" n="1"/>y ensensibilidad en los entendimientos y conciencias de todos
+          <lb ed="#B" n="2"/>los estados de nuestras gentes aquellas tierras que los mas estan
+          <lb ed="#B" n="3"/>en estado de eternal dañacion porque en peccado mortal como
+          <lb ed="#B" n="4"/>son los que se glorian de haver aquellas naciones conquista
+          <lb ed="#B" n="5"/>do y los encomenderos y todos los confessores que los ab
+          <lb ed="#B" n="6"/>suelven y les comunican los sacramentos hechando las pie
+          <lb ed="#B" n="7"/>dras preciosas a los puercos sin dexar los indios a su libertad para que
+          <lb ed="#B" n="8"/>se buelvan a sus señores naturales cuyos subditos o vasallos
+          <lb ed="#B" n="9"/>son y sin restituir todo quanto les han robado y satisfacen
+          <lb ed="#B" n="10"/>inreparables daños que los señores y subditos de nosotros han
+          <lb ed="#B" n="11"/>recebido y porque los reyes son obligados en quanto en si fuere
+          <lb ed="#B" n="12"/>a quitar los impedimentos temporales que estorvan la salvacion
+          <lb ed="#B" n="13"/>de los subditos mayormente aquestas dos maneras de tyrania
+          <lb ed="#B" n="14"/>por las quales perescen cada ora tantas multitudes de gen
+          <lb ed="#B" n="15"/>tes en cuerpos y en animas que tienen los reyes nuestros señores
+          <lb ed="#B" n="16"/>a su cargo por ende no remediandolos ninguna duda hay
+          <lb ed="#B" n="17"/>entre los que professan y guardan la ley de Dios que todos
+          <lb ed="#B" n="18"/>los pecados que se cometen tocantes a esto en todas aquel
+          <lb ed="#B" break="no" n="19"/>las Indias y daños y ynconbinientes infinitos que de alli
+          <lb ed="#B" n="20"/>se siguen y la obligacion a restitucion dellos resulte sobre
+          <lb ed="#B" n="21"/>la consciencia de Su Magestad y deste real consejo que no
+          <lb ed="#B" n="22"/>puedan llevar un solo maravedi de provecho de a
+          <lb ed="#B" n="23"/>quellos reynos sin obligacion de restituir y porque todas es
+          <lb ed="#B" break="no" n="24"/>tas cosas son gravissimas y mui nuevas segun la cegue
+          <lb ed="#B" n="25"/>dad e ynsensibilidad susodicha para cura y de la qual por
+          <lb ed="#B" break="no" n="26"/>que se confundan los que en aquel mal estado biben con
+          <lb ed="#B" n="27"/>tanta ofensa de Dios y perdicion de tantas animas y daños tambien grandissimos de Su Magestad conbernia
+          <lb ed="#B" n="28"/>y aun es nescesario que su magestad.y Vuestras Altezas tengan
+          <lb ed="#B" n="29"/>por bien de mandar juntar congregacion de letrados
+          <lb ed="#B" n="30"/>theologos pues es propia materia y juristas de todos los con
+          <lb ed="#B" break="no" n="31"/>sejos, como muchas vezes el emperador que haya sancta
+          <lb ed="#B" n="32"/>gloria para particulares negocios de las Indias mando juntar,
+          <lb ed="#B" n="33"/>en la qual se bean y examinen las conclusiones que yo
+          <lb ed="#B" n="34"/>tengo aparexadas para ello y las probangas de razones y
+          <pb ed="#B" n="228-r"/>
+          <lb ed="#B" n="1"/>authoridades dellas y lo que en ella se determinare se publi
+          <lb ed="#B" n="2"/>que en las Indias y si lo que arriba se ha dicho del mal estado 
+          <lb ed="#B" n="3"/>en que todos los dichos viben se declare por tal: los confesso
+          <lb ed="#B" n="4"/>res estaran avisados y por esta via sin escandalo y alboroto
+          <lb ed="#B" n="5"/>se podran aquellas gentes de las manos de aquellos que las tienen
+          <lb ed="#B" n="6"/>tyranizadas y el rey de Castilla ser con efeto universal señor
+          <lb ed="#B" n="7"/>dellas que agora no es sino de nombre porque si las tienen
+          <lb ed="#B" n="8"/>usurpadas porque al fin son christianos y un dia que otro 
+          <lb ed="#B" n="9"/>podran tornar en si viendo que no los admitan a los sacra
+          <lb ed="#B" n="10"/>mentos como peccadores y capaces dellos y que en un punto
+          <lb ed="#B" n="11"/>han de ser en los infiernos sepultados.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e539">
+          <lb ed="#B" n="12"/>Dexo de decir los muchos y grandes bienes espirituales
+          <lb ed="#B" n="13"/>y temporales que desta congregacion y declaracion resulta
+          <lb ed="#B" n="14"/>ran: una sera que se hara justicia a gentes tan ynormemente
+          <lb ed="#B" n="15"/>agraviadas otro la seguridad de las conciencias de todos estados
+          <lb ed="#B" n="16"/>de alla y aun de algunos de los de aca otro que los reyes de Castilla 
+          <lb ed="#B" n="17"/>podran ser atualmente principes universales de aquel orbe
+          <lb ed="#B" n="18"/>otro que desde entonces podra ser que venga algun dinero
+          <lb ed="#B" n="19"/>a España sin ser obligado a restitucion lo que nunca hasta
+          <lb ed="#B" n="20"/>oy ha venido ni una sola blanca: otro probecho no digno
+          <lb ed="#B" n="21"/>de olvidar y es que quiga la divina justicia no derrame sobre
+          <lb ed="#B" n="22"/>todos estos reynos su terrible furor y lo revoque o lo retarde
+          <lb ed="#B" n="23"/>con esta suplication que al cavo y resto de mi vida presento
+          <lb ed="#B" n="24"/>ante Vuestras Altezas y con las dichas conclusiones en dos tra
+          <lb ed="#B" n="25"/>tadillos que a su Magestad ofresci los dias pasados crei haver
+          <lb ed="#B" n="26"/>cumplido con el ministerio en que Dios me puso de procurar 
+          <lb ed="#B" n="27"/>el remedio de tantos y tan ymmenso numero de agravios
+          <lb ed="#B" n="28"/>ante el juyzio divinal aunque por lo poco que he aprove
+          <lb ed="#B" n="29"/>chado por mis muchas negligencias temo que Dios me ha de
+          <lb ed="#B" n="30"/>castigar y resolviendo lo que en esta materia entiendo pro
+          <lb ed="#B" n="31"/>bar son las siguientes conclusiones.
+          <lb ed="#B" n="32"/>La primera que todas las guerras que llamaron conquistas fue
+          <lb ed="#B" n="33"/>ron y son injustissimas y de propios tyranos.
+          <pb ed="#B" n="228-v"/>
+          <lb ed="#B" n="1"/>La segunda que todos los reynos de las Indias tenemos usurpados.
+          <lb ed="#B" n="2"/>La tercera que las encomiendas o repartimientos son iniquissimos
+          <lb ed="#B" n="3"/>y de per se malas y asi tiranicas y la tal governacion
+          <lb ed="#B" n="4"/>tiranica.
+          <lb ed="#B" n="5"/>La cuarta que todos los que las dan pecan mortalmente y los
+          <lb ed="#B" n="6"/>que las tienen estan siempre en peccado mortal y si no las
+          <lb ed="#B" n="7"/>dexan no se podran salvar.
+          <lb ed="#B" n="8"/>La quinta que el Rey nuestro señor que Dios prospere y guarde
+          <lb ed="#B" n="9"/>con todo quanto poder Dios le dio no puede justificar las guer
+          <lb ed="#B" n="10"/>ras hechas a esas gentes ni las dichas encomiendas mas que
+          <lb ed="#B" n="11"/>justificar las guerras y robos que hazen los turcos al pueblo cristiano.
+          <lb ed="#B" n="12"/>La sexta que todo quanto oro y plata perlas y otras riquezas
+          <lb ed="#B" n="13"/>que han venido a España y en las Indias se trata entre e
+          <lb ed="#B" break="no" n="14"/>spañoles muy poquito sacado por lo que sea quiqa de las
+          <lb ed="#B" n="15"/>yslas y partes que ya havemos despoblado.
+          <lb ed="#B" n="16"/>La séptima que si no lo restituyen los que lo han robado y oy roban
+          <lb ed="#B" n="17"/>por conquistas y por encomiendas y los que dello partici
+          <lb ed="#B" n="18"/>pan no podran salvarse.
+          <lb ed="#B" n="19"/>La octava que las gentes naturales de todas las partes y de qual
+          <lb ed="#B" n="20"/>quiera dellas donde havemos entrado en las Indias tienen
+          <lb ed="#B" n="21"/>derecho adquirido de hazernos guerra justissima y raer
+          <lb ed="#B" n="22"/>nos de la haz de la tierra y este derecho les durara hasta el dia
+          <lb ed="#B" n="23"/>del juyzio.
+          <lb ed="#B" n="24"/>Estas conclusiones el autor
+          <lb ed="#B" n="25"/>prueva en el libro que dio a Su Magestad.
+          <pb ed="#B" n="229-r"/>
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e648">El obispo de Chiapa don fray Bartholome de las Casas auctor
+          <lb ed="#B" n="1"/>de los sobredichos tractados que al uno dize testamento que es
+          <lb ed="#B" n="2"/>el De Thesauris y al otro llama codicilo que es de las Doze Dudas
+          <lb ed="#B" n="3"/>despues que dio a Su Magestad los dos dichos libros y la peticion
+          <lb ed="#B" n="4"/>
+          <sic><!--crossed out in text-->dio a su consejo</sic> sobredicha con ellos y despues que tambien la
+          <lb ed="#B" n="5"/>dicha peticion dio a su consejo real de Indias y se leyo
+          <lb ed="#B" n="6"/>delante de todos por el relator el licenciado Santander en
+          <lb ed="#B" n="7"/>pleno consejo estando presentes el comisario de las Indias en
+          <lb ed="#B" n="8"/>corte de la orden de sant Francisco fray Hernando de Varrio
+          <lb ed="#B" n="9"/>nuevo que agora es obispo del Chile en los reynos del Peru
+          <lb ed="#B" n="10"/>y en presencia del padre fray Alonso Maldonado religioso
+          <lb ed="#B" n="11"/>de la dicha orden y en presentia del padre maestro fray Alon
+          <lb ed="#B" n="12"/>so de la Veracruz religioso de la orden de señor sancto Augus
+          <lb ed="#B" n="13"/>tin residente en corte de Su Magestad para los negocios tocantes
+          <lb ed="#B" n="14"/>al bien de la nueva yglesia y para defension de los indios.
+          <lb ed="#B" n="15"/>El dicho señor obispo de Chiapa que los libros y peticion
+          <lb ed="#B" n="16"/>presento murio dende a pocos dias despues en el mes de junio dia de san
+          <lb ed="#B" n="17"/>cta Margaritha a veinte del mes del año de mill y qui
+          <lb ed="#B" n="18"/>nientos y sesenta y seis en Madrid en el monesterio de Nuestra
+          <lb ed="#B" n="19"/>Señora de Atocha de la orden de señor sancto Domingo de cuia orden
+          <lb ed="#B" n="20"/>era professo el dicho señor obispo de Chiapa y entre sus pa
+          <lb ed="#B" n="21"/>peles se halló un instrumento cerrado y sellado y autorizado
+          <lb ed="#B" n="22"/>por scrivano publico y siete testigos como se suele hazer
+          <lb ed="#B" n="23"/>en los testamentos cerrados el qual se abrio con solenidad
+          <lb ed="#B" n="24"/>y autoridad de juez despues de su muerte y entre otras clau
+          <lb ed="#B" n="25"/>sulas que el testamento contiene que esta originalmente en el officio de Gaspar de Testa scrivano publico en Madrid es
+          <lb ed="#B" n="26"/>una que se sigue que es de considerar y advertir que es en 
+          <lb ed="#B" n="27"/>esta manera: En el nombre de la Sanctissima Trinidad
+          <lb ed="#B" n="28"/>Padre y Hijo y Espiritu Sancto un solo Dios verdadero el
+          <lb ed="#B" n="29"/>obispo don fray Bartholome de las Casas porque todo fiel cristiano
+          <lb ed="#B" n="30"/>deve dar testimonio de si mesmo al tiempo de su fin y muerte
+          <lb ed="#B" n="31"/>quanto en si fuere con la gracia de Dios y en aquel passo tan pe
+          <lb ed="#B" n="32"/>ligroso ocurren muchos y grandes impedimentos y por esso
+          <lb ed="#B" n="33"/>antes que en el me vea digo que protesto morir y vivir lo
+          <pb ed="#B" n="229-v"/>
+          <lb ed="#B" n="1"/>que viviere en la Sancta fe Catholica de la Sanctissima Tri
+          <lb ed="#B" n="2"/>nidad Padre y Hijo y Espiritu Sancto creyendo y tiniendo
+          <lb ed="#B" n="3"/>como creo y tengo todo aquello que cree y tiene la Sancta Ygle
+          <lb ed="#B" n="4"/>sia de Roma y en esta te y creentia protesto e afirmo que
+          <lb ed="#B" n="5"/>quiero vivir lo que me resta de la vida y hasta el fin della
+          <lb ed="#B" n="6"/>que es la muerte inclusive quiero en esta sancta fe morir e
+          <lb ed="#B" n="7"/>porque por la bondad y misericordia de Dios que tuvo por bien 
+          <lb ed="#B" n="8"/>de elegirme por su ministro sin yo lo merecer para procurar
+          <lb ed="#B" n="9"/>y bolver por aquellas universas gentes de las que llamamos In
+          <lb ed="#B" n="10"/>dias posehedores y proprietarios de aquellos reynos y terrenos
+          <lb ed="#B" n="11"/>sobre los agravios males y daños snunca otros tales vistos ni
+          <lb ed="#B" n="12"/>oydos que de nosotros los españoles han recebido contra toda ra
+          <lb ed="#B" n="13"/>zon y justicia y por reduzillos a su libertad pristina de que han
+          <lb ed="#B" n="14"/>sido despojados injustamente y por librallos es la violenta muerte que todavia padecen y perecen como han perescido
+          <lb ed="#B" n="15"/>y despobladose por esta causa muchos millones de leguas de
+          <lb ed="#B" n="16"/>tierra muchos dellos en mi presencia y he trabajado en la corte
+          <lb ed="#B" n="17"/>de los reyes de Castilla yendo y viniendo de las Indias a Castilla
+          <lb ed="#B" n="18"/>y de Castilla a las Indias muchas vezes cerca de cinquenta años
+          <lb ed="#B" n="19"/>y desde el año de mill y quinientos y quatorze por solo Dios
+          <lb ed="#B" n="20"/>y por conpassion de ver perecer multitudines de honbres
+          <lb ed="#B" n="21"/>rationales domesticos humildes mansuetissimos y simplicissimos
+          <lb ed="#B" n="22"/>y muy aparejados para recebir nuestra sancta fe catholica y toda
+          <lb ed="#B" n="23"/>moral doctrina y ser dotados de todas buenas costumbres como
+          <lb ed="#B" n="24"/>Dios es testigo que otro interese nunca pretendi, por ende digo
+          <lb ed="#B" n="25"/>que tengo por cierto y lo creo asi porque creo y estimo que asi lo
+          <lb ed="#B" n="26"/>terna la sancta romana yglesia regla y mensura de nuestro
+          <lb ed="#B" n="27"/>creer que quanto se ha cometido por los españoles contra aquellas
+          <lb ed="#B" n="28"/>gentes robos e muertes y usurpaciones de sus estados y señorios
+          <lb ed="#B" n="29"/>de los naturales reyes y señores tierras e reynos y otros infini
+          <lb ed="#B" n="30"/>tos bienes con tan malditas crueldades ha sido contra la ley
+          <lb ed="#B" n="31"/>rectissima y inmaculada de Jesuchristo y contra toda razon
+          <lb ed="#B" n="32"/>natural e en grandissima infamia del nombre de Jesuchristo
+          <lb ed="#B" n="33"/>y de su religion christiana y en total inpedimento de la fe
+          <lb ed="#B" n="34"/>y en daños yreparables de las animas y cuerpos de aquellas
+          <pb ed="#B" n="230-r"/>
+          <lb ed="#B" n="1"/>innocentes gentes y creo que por estas impias y celerosas e
+          <lb ed="#B" n="2"/>ignominiosas obras tan injusta tyranica y barbaricamente
+          <lb ed="#B" n="3"/>hechas en ellas y contra ellas Dios ha de derramar sobre España
+          <lb ed="#B" n="4"/>su furor e yra porque toda ella ha comunicado e participado po
+          <lb ed="#B" n="5"/>co que mucho en las sangrientas riquezas robadas y tan usur
+          <lb ed="#B" n="6"/>padas y mal havidas y con tantos estragos e acabamientos de 
+          <lb ed="#B" n="7"/>aquellas gentes si gran penitencia no hiziere y temo que tarde
+          <lb ed="#B" n="8"/>o nunca la haran porque la ceguedad que Dios por nuestros pec
+          <lb ed="#B" n="9"/>cados ha permitido en grandes y chicos y mayormente en los que
+          <lb ed="#B" n="10"/>se honran y tienen nombre de discretos y sabios y presumen
+          <lb ed="#B" n="11"/>de mandar el mundo, por los pecados dellos y generalmen
+          <lb ed="#B" n="12"/>te de toda ella aun esta digo esta obscuridad de los entendi
+          <lb ed="#B" n="13"/>mientos tan reziente que de setenta años que ha que se comenza
+          <lb ed="#B" n="14"/>ron a escandalizar robar e matar y estirpar aquellas nacio
+          <lb ed="#B" n="15"/>nes no se haya hasta oy advertido que tantos escandalos infamias
+          <lb ed="#B" n="16"/>de nuestra sancta fe tantos robos tantas injusticias tantos estra
+          <lb ed="#B" n="17"/>gos tantas matancas tantos cautiverios tantas usurpaciones
+          <lb ed="#B" n="18"/>de estados e señorios ajenos y finalmente tan universales aso
+          <lb ed="#B" n="19"/>saciones e despoblaciones hayan sido peccados y grandissimas
+          <lb ed="#B" n="20"/>injusticias.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e848">El obispo fray
+          <lb ed="#B" n="21"/>Bartholome de las Casas.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e853">Síguese otra claúsula.
+          <lb ed="#B" n="22"/>Y asimesmo hize donacion al dicho colejio de San Gregorio de to
+          <lb ed="#B" n="23"/>das mis scripturas en latin y en romance que se allaren scrip
+          <lb ed="#B" n="24"/>tas de mi letra tocantes a la materia de indios y la historia
+          <lb ed="#B" n="25"/>general de las Indias que tengo tambien scripta en romance
+          <lb ed="#B" n="26"/>de mi mano e fue mi intencion que en ninguna manera sa
+          <lb ed="#B" n="27"/>liesse del colegio si no fuese para la imprimir quando Dios
+          <lb ed="#B" n="28"/>offreciere el tiempo quedando siempre los originales en el co
+          <lb ed="#B" n="29"/>legio lo qual pido y ruego al muy reverendo padre rector
+          <lb ed="#B" n="30"/>e a los padres consiliarios que por tiempo fueren que asi lo ten
+          <lb ed="#B" n="31"/>gan por bien de hazer sobre lo qual les encargo la 
+          conscien<pb ed="#B" n="230-v"/>
+          <lb ed="#B" break="no" n="1"/>cia que en el colegio se guarden e defiendan.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e882">E porque yo he recebido gran multitud de cartas men
+          <lb ed="#B" n="2"/>sajeras de diversos e muchos religiosos de las tres ordines y de
+          <lb ed="#B" n="3"/>otras muchas personas y de casi todas Indias avisando
+          <lb ed="#B" n="4"/>me de los males e agravios e injusticias que los de nuestra
+          <lb ed="#B" n="5"/>nacion hazian et hazen oy consumiendo y destruyendo a
+          <lb ed="#B" break="no" n="6"/>quellas gentes naturales dellas sin culpa alguna con que nos ayan
+          <lb ed="#B" n="7"/>ofendido y en ellas me exortaban encarecidamente que ante
+          <lb ed="#B" n="8"/>los reyes y su consejo procurasse el remedio de ellas e porque
+          <lb ed="#B" n="9"/>estas cartas son testimonio de la verdad que yo siempre y 
+          <lb ed="#B" n="10"/>por muchos anños por misericordia de Dios he defendido
+          <lb ed="#B" n="11"/>de las intusticias injurias e violencias o presiones e cala
+          <lb ed="#B" n="12"/>midades e muertes que aquellas gentes de nosotros han pade
+          <lb ed="#B" n="13"/>cido y sera y sirvira como historia probada por muchos
+          <lb ed="#B" n="14"/>e dinos de fe testigos, por ende pido por charidad al
+          <lb ed="#B" n="15"/>muy reverendo padre rector del dicho colegio de sant 
+          <lb ed="#B" n="16"/>Gregorio que encomiende a algun colegial menos ocupado,
+          <lb ed="#B" n="17"/>que de las que dexe en el colegio en nuestras celdas y de las que
+          <lb ed="#B" n="18"/>aca tengo que he recebido e recibo cada dia haya un libro jun
+          <lb ed="#B" n="19"/>tandolas todas por la orden de los meses et annos que se
+          <lb ed="#B" n="20"/>me embiavan y de las provincias que venian y se pongan 
+          <lb ed="#B" n="21"/>en la libreria del dicho colegio ad perpetuam rei memoriam
+          <lb ed="#B" n="22"/>porque si Dios determinare destruir a España se vea que es por
+          <lb ed="#B" n="23"/>las destrucciones que havemos hecho en las Indias y parezca la
+          <lb ed="#B" n="24"/>razon de su justicia: esta copilacion comenco a hazer un pruden
+          <lb ed="#B" n="25"/>te colegial, puesto que no huvo lugar para la acabar.
+        </p>
+        <p xml:id="dc7aa7-e17144-d1e937">El obispo fray
+          <lb ed="#B" n="26"/>Bartholome de las Casas.
+        </p>
+        <!-- <p>
+          <pb ed="#P" n="00471"/>
+          <lb ed="#B"/>Está este libro en dosientos treinta y dos folios
+          <lb ed="#B"/>en que se comprehende el De tesauris o el testamento
+          <lb ed="#B"/>con uno o otro título lo nombra el señor obispo.
+          <lb ed="#B"/>Este está al principio i despues el codicilio: 
+          <lb ed="#B"/>éste en romance, empieca dicho codicilio desde el folio 134
+          </p>-->
+      </div>
+    </body>
+  </text>
+</TEI>

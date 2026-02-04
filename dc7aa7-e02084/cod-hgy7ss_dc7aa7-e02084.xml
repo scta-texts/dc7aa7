@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 5</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 5</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="148-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02084"><!-- dd-c5 -->
+        <head xml:id="dc7aa7-e02084-Hd1e111">Capitulo 5</head>
+        <p xml:id="dc7aa7-e02084-d1e113">
+          <lb ed="#B" n="3"/>Capitulo 5
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e118">
+          <lb ed="#B" n="4"/>Confírmase lo susodicho por una ley harto razonable, que de la gen 
+          <lb ed="#B" n="5"/>te de persia y del reyno y Rey de los persas mención haze. Por la  
+          <lb ed="#B" n="6"/>qual se prohibe que los Romanos no vayan a mercadear, porque no se   
+          <lb ed="#B" n="7"/>sospeche que el pueblo romano quería, socolor de comercio, los reynos  
+          <lb ed="#B" n="8"/>agenos escudriñar: «Ne alieni regni quod non convenit, inquit, scru  
+          <lb ed="#B" n="9"/>tentur archana.» Hec ibit 4, mercatores, Codex, De comertiis et mercatoribus. Donde   
+          <lb ed="#B" n="10"/>confiesan los Emperadores Theodosio y Honorio ser ageno el reyno  
+          <lb ed="#B" n="11"/>delos persas al pueblo romano. No quiero dexar de referir  
+          <lb ed="#B" n="12"/>lo que nota el bartholo en la L. christianis, Codex, De paganis et templis eorum  
+          <lb ed="#B" n="13"/>que alos Moros no se devía hazer guerra si no tuvieran usurpada la Tier  
+          <lb ed="#B" n="14"/>ra Sancta, ni a los turchos si no impidieran el paso a los christianos que yvan   
+          <lb ed="#B" n="15"/>con exército a recobralla: «Cum ergo contendunt aliquod turbulentum  
+          <lb ed="#B" n="16"/>et juri contrarium quia non permittunt nos ire ad illos, ideo Ecclesia   
+          <lb ed="#B" n="17"/>indicit eis bellum, alias non indiceret.» Estas son sus palabras. Parece por   
+          <lb ed="#B" n="18"/>ellas que en tiempo de bartholo no tenían los Turchos tanto poder o tanta  
+          <lb ed="#B" n="19"/>malicia como agora para perseguir al pueblo cristiano. Pues, si con   
+          <lb ed="#B" n="20"/>los moros y turchos eclesia moros y con los turchos devemos ser pacíficos, no tenemos que hazer   
+          <lb ed="#B" n="21"/>con ellos ni en bueno ni en malo: más de amallos y desear su salvación   
+          <lb ed="#B" n="22"/>y en quanto pudiéremos procuralla si no dañifican a la Universal Ygle  
+          <lb ed="#B" n="23"/>sia/o no hazen contra nos alguna cosa del Derecho contraria:, muchos   
+          <lb ed="#B" n="24"/>menos tenemos que hazer con las otras gentes que pussimos en esta 4a especie,  
+          <lb ed="#B" n="25"/>pacíficas que mal no nos hizieron, habitantes en sus propias y remotís  
+          <lb ed="#B" n="26"/>simas regiones y reynos de las nuestras, más de, como dixe, amallas y procu  
+          <lb ed="#B" n="27"/>rar de salvallas. Desta 4a differencia de infieles, más clara y distin  
+          <lb ed="#B" n="28"/>tamente que todos, habló el Cardenal Caietano sobre la 2.2 q.66.   
+          <lb ed="#B" n="29"/>a.8, de la qual señaladamente dize así: «Quidam sunt infideles  
+          <lb ed="#B" n="30"/>quinec de Jure nec de facto subsunt secundum temporalem juris  
+          <lb ed="#B" n="31"/>dictionem principibus christianis, ut si inveniuntur pagani qui nunquam   
+          <lb ed="#B" n="32"/>imperio romano subditi fuerunt terras inhabitantes in quibus   
+          <lb ed="#B" n="33"/>christianum nomen nunquam fuit: horum namque domini quamvis  
+          <lb ed="#B" n="34"/>infideles legitimi tamen domini sunt, sive regali, sive politico regi  
+          <lb ed="#B" n="35"/>mine gubernentur. Nec sunt propter infidelitatem a dominio suo  
+          <lb ed="#B" n="36"/>privati, cum dominium sit ex jure positivo et infidelitas ex 
+          <lb ed="#B" n="37"/>divinojure, quod non tollitjus positivum. Et de his nullam scio legem 
+          
+          <pb ed="#B" n="148-v"/>
+          <lb ed="#B" n="1"/>quo ad temporalia contra hos: nullus rex, nullus imperator neque Ecclesia 
+          <lb ed="#B" n="2"/>romana potest movere bellum ad occupandas terras eorum aut su  
+          <lb ed="#B" n="3"/>bijciendum eos temporaliter: quia nulla subest causa justi belli,   
+          <lb ed="#B" n="4"/>cum Jesus Christus Rex regum cui data est omnis potestas in celo, et in  
+          <lb ed="#B" n="5"/>terra, miserit ad capiendam possessionem mundi non milites ar  
+          <lb ed="#B" n="6"/>mate militis, sed sanctos predicatores, sic t oves inter lupos. Et in  
+          <lb ed="#B" n="7"/>fra: «Unde gravissime peccaremus si fidem Christi per hanc viam  
+          <lb ed="#B" n="8"/>ampliare contenderemus. Nec essemus legitimi domini illorum,   
+          <lb ed="#B" n="9"/>sed magna latrocinia commiteremus, et teneremur ad restitutionem   
+          <lb ed="#B" n="10"/>ut pote injusti bellatores aut occupatores. Mittendi essent ad illos   
+          <lb ed="#B" n="11"/>predicatores boni viri qui verbo et exemplo converterent eos ad De  
+          <lb ed="#B" n="12"/>um, et non qui eos opprimant spolient scandalizent et subjiciant».   
+          <lb ed="#B" n="13"/>Hec Cajetanus. El qual, en lo que dize, muestra bien comprehender to  
+          <lb ed="#B" n="14"/>das las qualidades que tienen los infieles desta 4a specie o differencia,   
+          <lb ed="#B" n="15"/>y assí differir mucho de las otras tres species.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

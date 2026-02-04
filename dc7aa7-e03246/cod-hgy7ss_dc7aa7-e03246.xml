@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 11</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 11</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="154-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03246"><!-- dd-c11 -->
+        <head xml:id="dc7aa7-e03246-Hd1e111">Capitulo 11</head>
+        <p xml:id="dc7aa7-e03246-d1e113">
+          <lb ed="#B" n="35"/>Capítulo 11
+          <lb ed="#B" n="36"/>Del precedente 5o Principio, síguese el 6o. Y éste puesto en 
+          <lb ed="#B" n="37"/>latín, para que los doctos lo vean, y si les pareciere, lo corrijan. 
+          <pb ed="#B" n="155-r"/>
+          <lb ed="#B" n="1"/>Principio 6°. 
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e126">
+          <lb ed="#B" n="2"/>Ad hoc quod rite, id est secundum jura et cum debitis 
+          <lb ed="#B" n="3"/>circumstantiis, incliti Reges nostri sumi Indiarum principatus jus 
+          <lb ed="#B" n="4"/>tam possessionem adipiscantur, necessario requiritur ut consen 
+          <lb ed="#B" n="5"/>sus intenveniat Regun et populorum orbis prefati, ita ut libere 
+          <lb ed="#B" n="6"/>consentiant institutioni seu donationi de Regibus nostris per Apostolicam 
+          <lb ed="#B" n="7"/>sedem facto. 
+          <lb ed="#B" n="8"/>Probatur hoc principium multipliciter. Primo sic: Sedes Aposto 
+          <lb ed="#B" n="9"/>lica per dictam institutionem seu donationem non privavit gen 
+          <lb ed="#B" n="10"/>tes illas suis dominiis, ipis dignitatibus, regalibus, statibus et 
+          <lb ed="#B" n="11"/>jurisdictio nibus, ex eo maxime quod ad illas noscuntur pertinere 
+          <lb ed="#B" n="12"/>jure nature et gentium, ut ex precedenti Principio apparuit; ergo 
+          <lb ed="#B" n="13"/>non privavit eos libertate et quibus libertatem attinent, quia liber 
+          <lb ed="#B" n="14"/>tas non bene pro toto venditur auro, cujus nulla est estima 
+          <lb ed="#B" n="15"/>tio, ut in L. libertas, ff., De regulis iuris. Est namque libertas naturalis 
+          <lb ed="#B" n="16"/>facultas, id est possibilitas eius quod cuique facere libet nisi quod 
+          <lb ed="#B" n="17"/>ui aut iure prohibitur. Servitus vero est qua quis dominio alie 
+          <lb ed="#B" n="18"/>no contra naturam subjicitur, ut L. libertas, ff., De statu hominum. 
+          <lb ed="#B" n="19"/>Ad libertatem autem spectat maxime consentire vel non con 
+          <lb ed="#B" n="20"/>sentire in alienum regem vel dominium, cum per hoc reducantur 
+          <lb ed="#B" n="21"/>Reges liberi et populi in servitutem, Reges quiden recognoscendo 
+          <lb ed="#B" n="22"/>superiorem quod regibus naturaliter maximo est horrori 
+          <lb ed="#B" n="23"/>populi autem coguntur duplicem pati atque duriorem servitutem. Et 
+          <lb ed="#B" n="24"/>hoc est maximum prejudicium utrorumque. Est namque subjectio et ju 
+          <lb ed="#B" n="25"/>ramentum fidelitatis quadam species servitutis. Et qui subest juris 
+          <lb ed="#B" n="26"/>jurisdictioni alicuius dicitur quasi servus illius, ut ff., De usafructuario L. 
+          <lb ed="#B" n="27"/>si usufructus, 15; et L. cum servum, ad fin. et ibi Doctores, Codex, De servis fugitivis; et 
+          <lb ed="#B" n="28"/>inc. c. cum olim. el 2o de privilegio necesse est ut ommes quibus pro 
+          <lb ed="#B" n="29"/>judicatur simul et libere consentiantut in cap. cum omnes, De constitutionibus 
+          <lb ed="#B" n="30"/>in Regula «Quod omnes tangit», De regulis iuris, Lib. VI: ergo ad hoc 
+          <lb ed="#B" n="31"/>quod rite ac recete, incliti reges nostri sumi indiarum principatus 
+          <lb ed="#B" n="32"/>justam possessionem orbis prefati, necessario requiritur ut con 
+          <lb ed="#B" n="33"/>census interveniet et regum populorum orbis prefati etc. 
+          <lb ed="#B" n="34"/>2o item probatur: Regna illa et populi totius illius orbis sunteaspopulorum 
+          <lb ed="#B" n="35"/>vel erant jure nature et gentium liberi eo tempore quo 
+          <lb ed="#B" n="36"/>eas reperimus: reges et principes habentes, non recognos 
+          <lb ed="#B" n="37"/>centes superiorem extra se nec dejure nec de facto, ut dictum est, 
+          
+          <pb ed="#B" n="155-v"/>
+          <lb ed="#B" n="1"/>exercentesque justum et merum imperium et omnimodo 
+          <lb ed="#B" n="2"/>potestatem et iuridictionem, sicut alii reges de mundo. Est   
+          <lb ed="#B" n="3"/>enim orbis ille novus in altissimo mari oceano ab omni regio  
+          <lb ed="#B" n="4"/>ne alienarum omnium quas unquam homines noverunt, remo  
+          <lb ed="#B" n="5"/>tissimus, quem degentibus indianis illis preocupatum et pos  
+          <lb ed="#B" n="6"/>sessum, et super eum regnare proprios et naturales reges inve  
+          <lb ed="#B" n="7"/>nimus et oculis conspeximus, et sic: ab omni superiore  
+          <lb ed="#B" n="8"/>prorsus exemptos seu liberos. Quod probatur: ff., De justitia   
+          <lb ed="#B" n="9"/>et jure, L. ex boc iure, ibi «discrete sunt gentes, regna condita   
+          <lb ed="#B" n="10"/>dominio distincta». Ubi apparet gentes ille et reges earum   
+          <lb ed="#B" n="11"/>fore liberos neminem recognoscentes superiorem jure naturali   
+          <lb ed="#B" n="12"/>et gentium, Ergo sine consensu libero et beneplacito eorum non  
+          <lb ed="#B" n="13"/>potest. eis dare alium novum regen. Alioquin fieret  
+          <lb ed="#B" n="14"/>eis violentia et gravissima injuria et damnum enormissimum,  
+          <lb ed="#B" n="15"/>si subieceremus reges et regnicolas, dominos et subditos liberos,   
+          <lb ed="#B" n="16"/>servituti contre naturam et rationem. Et consequenter talis  
+          <lb ed="#B" n="17"/>principatus esset violentus, usurpatus et tyrannicus, ut probatur   
+          <lb ed="#B" n="18"/>C.1 q.1, c. principatus; et L. decernimus, Codex, De sacrosanctis ecclesiis.   
+          <lb ed="#B" n="19"/>Videatur Baldus, supra Capite IV. Cum igitur intentionis sumi   
+          <lb ed="#B" n="20"/>Christi vicarii non fuerit prejudicium libertati et juribus   
+          <lb ed="#B" n="21"/>regum et populorum illorum irrogare aut violentiam eis de  
+          <lb ed="#B" n="22"/>quoquomodo inferre vel injuriam nec quod illi inferant, licentiam  
+          <lb ed="#B" n="23"/>dare aut illatam approbare, manifestum est sumum  
+          <lb ed="#B" n="24"/>Christi vicarium intellexisse atque voluisse ad hoc quod rite ac  
+          <lb ed="#B" n="25"/>recte Reges nostri adipiscerentur illius orbis possessionem justam  
+          <lb ed="#B" n="26"/>summi principatus ut a regibus et populis prefati orbis pete  
+          <lb ed="#B" n="27"/>retur beneplacitum, ita ut libere consentirent institutioni seu   
+          <lb ed="#B" n="28"/>donationi papalide Regibus nostris facte. 3o, item probatur   
+          <lb ed="#B" n="29"/>sic: Quandocumque homo liber et fortius liber populus vel communi  
+          <lb ed="#B" n="30"/>tas habet obligari ad aliquod onus subeun  
+          <lb ed="#B" n="31"/>dum vel solvendum debitum aliquod et regeneraliter quando tractatur   
+          <lb ed="#B" n="32"/>de prejudicio multorum, oportet omnes quos tangit vocari et con  
+          <lb ed="#B" n="33"/>sensum liberum ab eis obstineri. Alioquin nihil valebit quod  
+          <lb ed="#B" n="34"/>agetur, ut satis apud iurisperitos est clarum. Sed si super  
+          <lb ed="#B" n="35"/>poneretur Rex Hispaniarum, in quantum est Rex Caste  
+          <lb ed="#B" n="36"/>lle et Legionis, indianis nationibus et principibus earum,   
+          <lb ed="#B" n="37"/>in Regen et dominum universalem aut supremum, de iure  
+          <lb ed="#B" n="38"/>aut de facto, obligarentur saltem civiliter quoad forum   
+          
+          <pb ed="#B" n="156-r"/>
+          <lb ed="#B" n="1"/>Juditiale vel judicium humanum, ad gravissimum onus et ad 
+          <lb ed="#B" n="2"/>solvendum debitum intolerabile, utpote recognoscere in regem  
+          <lb ed="#B" n="3"/>et dominum, hominem quidem ignotum sibi regen alterius,  
+          <lb ed="#B" n="4"/>extranee, barbare ac fere prima facie nationis, et propterea  
+          <lb ed="#B" n="5"/>suspectum valde prestare obedientam, subjectionem, reveren  
+          <lb ed="#B" n="6"/>tiam, redditus, collectas, servitia, novas indictiones, ceteraque  
+          <lb ed="#B" n="7"/>jura regalia; unde tractatur de incomparabili et forte irrepara  
+          <lb ed="#B" n="8"/>bili nocumento. Ergo omnes Reges et populos universos illarum  
+          <lb ed="#B" n="9"/>nationum oportet vocari et illarum consensum liberum expe  
+          <lb ed="#B" n="10"/>ctari ab eis et obteneri  Omniaista plana sunt. Quia notum est   
+          <lb ed="#B" n="11"/>in iure, citandos fore omnes quoscumque negotium tangit principa  
+          <lb ed="#B" n="12"/>liter, ut in regulaiuris: «et ab omnibus debet approbari vel reppro  
+          <lb ed="#B" n="13"/>bari», videlicet omnes illi qui leduntur, vel quorum juri detra  
+          <lb ed="#B" n="14"/>hitur, vel quibus fit prejudicium, quibus data est potestas a jure   
+          <lb ed="#B" n="15"/>naturali, divino et humano, consentiendi vel contradicendi, ut dicit   
+          <lb ed="#B" n="16"/>Baldus in L. nam ita demum, ff., De adoptionibus, et Glossa: ibi sumit argumentum  
+          <lb ed="#B" n="17"/>quod quando rescripta impetrantur, debent intervenire qui per  
+          <lb ed="#B" n="18"/>rescripta leduntur. Yescriptum lederentur: ff., De natalibus restituendis, L. filium; et ff., De minoribus, L. in cause cognitione,   
+          <lb ed="#B" n="19"/>causa et in Autbent., Ut sponsalitia largitas, cap. ad bec, Collatio 9. 4o, etiam   
+          <lb ed="#B" n="20"/>probatur: Et confirmatur omnia predicta quia sic reperitur  
+          <lb ed="#B" n="21"/>indivina Scriptura adeo ordinatum ut, in datione et constitu  
+          <lb ed="#B" n="22"/>tione novi et sumi principis a principio celebranda et de prin  
+          <lb ed="#B" n="23"/>cipe quem Deus signaverat seu eligerat, interveniret liber con  
+          <lb ed="#B" n="24"/>sensus et autoritas sive acceptatio voluntaria populi sine   
+          <lb ed="#B" n="25"/>qua etiam divina institutio de principe sumo, effectum non  
+          <lb ed="#B" n="26"/>sortiebatur. Hoc patet: Deuteronomio 17, ubi habetur: «Cum dixeris:  
+          <lb ed="#B" n="27"/>constituam Deuteronomio 17. super me, regem sicut habent omnes per circuitum  
+          <lb ed="#B" n="28"/>nationes:  eum constitues quem Dominus Deus tuus elegerit, etc...»    
+          <lb ed="#B" n="29"/>In quibus verbis duo decrevit et jussit Dominus debere concur  
+          <lb ed="#B" n="30"/>rere ad justam institutionem regis. Alterum ex parte insti  
+          <lb ed="#B" n="31"/>tuendi, scilicet quod divina Providentia fuisset electus, ex  
+          <lb ed="#B" n="32"/>pectando in electione judicium Dei. Alterum ex parte populi  
+          <pb ed="#B" n="156-v"/>
+          <lb ed="#B" n="1"/>videlicet quod talem a Deo in Regen electum populus voluntarie 
+          <lb ed="#B" n="2"/>reciperet libenterque ratum haberet atque possessionem tra 
+          <lb ed="#B" n="3"/>deret regni. Que duo satis denotant predicta verba, scilicet 
+          <lb ed="#B" n="4"/>illum constitues quem Deus tuus elegerit: ubi actus 
+          <lb ed="#B" n="5"/>voluntarius, id est consensus et approbatio populi requirebatur, 
+          <lb ed="#B" n="6"/>ibi eum constitues, 1d est ratum habebis seu acceptabis et in 
+          <lb ed="#B" n="7"/>regem habebis quem Deus insinuaverit ibi elegisse. Unde licet  
+          <lb ed="#B" n="8"/>Deus potuisset constituere regem super populum Hebreorum 
+          <lb ed="#B" n="9"/>etiam invitum cum sit Dominus universorum, <ref xml:id="dc7aa7-e03246-Rd1e383">Ad Hebreos 1 (16</ref>), et  
+          <lb ed="#B" n="10"/>quilibet homo et quisquis populus sit servus Dei, <ref xml:id="dc7aa7-e03246-Rd1e388">Danzel 4 (17)</ref>, no 
+          <lb ed="#B" n="11"/>luit tamen privare illum populum privilegio naturalis juris  
+          <lb ed="#B" n="12"/>quod spectat ad omnes homines et ad omnem populum liberum, 
+          <lb ed="#B" n="13"/>submittere se propria sponte alterius regimini si viderit sibi 
+          <lb ed="#B" n="14"/>utile esse. Deus enim non destituit vel abrogat opus suum vel jus 
+          <lb ed="#B" n="15"/>naturale quod a principio ipse tam sapienter tam ordinate 
+          <lb ed="#B" n="16"/>tamque immutabiliter instituit. Nam divine Providentie  
+          <lb ed="#B" n="17"/>non est naturas cogere vel corrumpere; et <ref xml:id="dc7aa7-e03246-Rd1e405">magnus Dionisius, lib. 4,  
+            <lb ed="#B" n="18"/>De divinis nominibus</ref>, ait «se conservare». Unde sicut ex divina ordina 
+          <lb ed="#B" n="19"/>tione vim habebat precepti quod populus voluntarie illum quem 
+          <lb ed="#B" n="20"/>Dominus elegerit, constitueret super se Regem, (id est) ratam 
+          <lb ed="#B" n="21"/>haberet talem Dei electionem ut possessionem Regni ei tra 
+          <lb ed="#B" n="22"/>deret, ita equa ordinatione, divina consensus et ratihabitio  
+          <lb ed="#B" n="23"/>et traditio possessionis regni, ad exercitium regie potestatis, 
+          <lb ed="#B" n="24"/>necessario requirebatur. Quem quidem populi consensum, etc. 
+          <lb ed="#B" n="25"/>Si Deus non requireret, dixisset utique tantum modo «is erit 
+          <lb ed="#B" n="26"/>rex tibi quem Dominus elegerit»: nec oportebat addi «eum cons 
+          <lb ed="#B" n="27"/>titues quem Dominus, etc». Ponderanda enim sunt verba 
+          <lb ed="#B" n="28"/>Scripture sacre cum sit plena misteriis, et aliquod impro 
+          <lb ed="#B" n="29"/>prium, /superfluum aut diminutum in ea reperiri posse,  
+          <lb ed="#B" n="30"/>nefas sit arbitrari. Hec siquidem etiam patent in duobus 
+          <lb ed="#B" n="31"/>primis Regibus Saul et David populi israelitici. Nam ut 1  
+          <lb ed="#B" n="32"/>Regum, cap. 10 habetur, licet Saul primus fuisset ex precepto Dei  
+          <lb ed="#B" n="33"/>per Samuelem unctus, et regem et per unctionem istam  
+          
+          <pb ed="#B" n="157-r"/>
+          <lb ed="#B" n="1"/>jus et titulum ad regnum illud adeptus fuisset, deinde tamen 
+          <lb ed="#B" n="2"/>institui et acceptari a populoin regem oportuit, et tradi sibi  
+          <lb ed="#B" n="3"/>possessionem Regni. Neque enim ausus fuit jurisdictionem vel 
+          <lb ed="#B" n="4"/>autoritatem regie potestatis exercere, nec poterat Jure pleno,  
+          <lb ed="#B" n="5"/>antequam populus electioni de se facte consentiret regnique posse 
+          <lb ed="#B" n="6"/>ssionem sibi traderet aut concederet, ut ibi patet; vide ibi denuo. 
+          <lb ed="#B" n="7"/>Eadem reperies in 2 Regum, scilicet David qui licet 
+          <lb ed="#B" n="8"/>unctus etiam fuisset in regen a propheta Samuele de mandato 
+          <lb ed="#B" n="9"/>Dei utin 1 Regum, cap. 16, non tamen fuit ausus se intromittere 
+          <lb ed="#B" n="10"/>de potestate regia exercenda statim post mortem Saulis, nec  
+          <lb ed="#B" n="11"/>assumpsit sibi regnum quamvis optime sciret se a Deo inregnum  
+          <lb ed="#B" n="12"/>ut illius populi electum et unctum de eius mandato, non  
+          <lb ed="#B" n="13"/>nescius quod preceptum erat divinum populi consensu et autori 
+          <lb ed="#B" n="14"/>tate constituendus et intronizandus esset in regno: Primo, in 
+          <lb ed="#B" n="15"/>Hebron per tribum Juda: venientes, inquit, viri Juda unxe 
+          <lb ed="#B" n="16"/>runt ibi David ut regnaret super Juda, 2 Regum, cap. 2. Deinde segundo,  
+          <lb ed="#B" n="17"/>venerunt universe tribus Israel venerunt quoquam semiores  
+          <lb ed="#B" n="18"/>Israel ad regem in Hebron, et percussit cum eis fedus in Hebron  
+          <lb ed="#B" n="19"/>coram Domino unxeruntque David in regen super Israel, etc. 
+          <lb ed="#B" n="20"/>Hec in cap. 51”, Ecce qualiter David ultra institutionem promo 
+          <lb ed="#B" n="21"/>tionem unctionemque divinam, indiguit appro 
+          <lb ed="#B" n="22"/>batione et acceptione ac traditione possessionis regni per 
+          <lb ed="#B" n="23"/>consensum liberum totius populi, ad hoc quod legitimum ac juridi 
+          <lb ed="#B" n="24"/>cum regni haberet ingressum, id est rite ac recte possessionem 
+          <lb ed="#B" n="25"/>et regis potestatis executionem consequeretur in regno illo. Ergo  
+          <lb ed="#B" n="26"/>ad exemplum divine legis, ad hoc quod rite ac recte Reges nostri 
+          <lb ed="#B" n="27"/>principatus Indiarum orbis supremi possessionem justam obti 
+          <lb ed="#B" n="28"/>neant non sufficit duntaxat institutio seu promotio aut do 
+          <lb ed="#B" n="29"/>natio Sanctissime Apostolice Sedis, sed necessario requiritur ut  
+          <lb ed="#B" n="30"/>consensus regum et populorum illarum gentium interveniat  
+          <lb ed="#B" n="31"/>ita ut libere dicte institutioni promotioni vel donationi de Re 
+          <lb ed="#B" n="32"/>gibus nostris facte per ipsam Sanctam Sedem, consentiant. De  
+          <lb ed="#B" n="33"/>hoc vide plenius nostrum tractatum in libro De thesauris, capítulo XXII et  
+          <lb ed="#B" n="34"/>sequentibus et sic patet 6o Principium.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

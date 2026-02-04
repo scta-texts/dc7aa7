@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 36</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 36</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="208-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e13906"><!-- dd-c36 -->
+        <head xml:id="dc7aa7-e13906-Hd1e111">Capitulo 36</head>
+        <p xml:id="dc7aa7-e13906-d1e113">
+          <lb ed="#B" n="8"/>Capítulo 36
+          <lb ed="#B" n="9"/>Conclusión 3a para la 6a duda.
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e120">Indigníssimos son los españoles, principalmente los que están en 
+          <lb ed="#B" n="10"/>los reynos del Perú, de haver o gozar qualquiera bien temporal 
+          <lb ed="#B" n="11"/>que en ellos haya.
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e127">Pruévase la Conclusión, porque puesto que acompañando a los predi
+          <lb ed="#B" n="12"/>cadores de la fe y ayudándolos mayormente biviendo vida de chris
+          <lb ed="#B" n="13"/>tianos como eran obligados a bivir(e arriba Cap. XII en el 7° Principio
+          <lb ed="#B" n="14"/>queda declarado) para que por su exemplo aquellas gentes fueran
+          <lb ed="#B" n="15"/>a venir a la fe provocadas, fueran dignos de <sic><!--edition has haver--></sic> parte de las
+          <lb ed="#B" n="16"/>riquezas que aquellas regiones abundavan, y que los indios vezinos
+          <lb ed="#B" n="17"/>naturales dellas de su voluntad se las comunicaran. Pero, <sic><!--edition has haviendo--> aviendo</sic> usa
+          <lb ed="#B" n="18"/>do tan mal deste privilegio con obras tan abominables y come
+          <lb ed="#B" n="19"/>tido en ellas tan enormes estragos, con verdad se han hecho indi
+          <lb ed="#B" n="20"/>gnos e incapaces de <sic><!--see penultimate previous, haver--> aver </sic>bien algunos por chico que sea, de quantos
+          <lb ed="#B" n="21"/>allá se hallan, porque no deven según razón y justicia reportar
+          <lb ed="#B" n="22"/>bien por galardón de tantos males. Así parece por el capítulo
+          <lb ed="#B" n="23"/>ets: necesse,<ref xml:id="dc7aa7-e13906-Rd1e166"> De donationibus inter virum et uxorem; et 16, q. 1, c. lega;</ref> et 
+          <lb ed="#B" n="24"/>
+          <ref xml:id="dc7aa7-e13906-Rd1e171">ff.,De negotiis gestis, L. sive; </ref>et ex improbitate nemo consequitur
+          <lb ed="#B" n="25"/>actionem:<ref xml:id="dc7aa7-e13906-Rd1e175"> ff., De furtis, L. itaque fullo;</ref> et ex eo non debet quis fru
+          <lb ed="#B" break="no" n="26"/>ctum consequi, quod nisus existitit impugnare: <ref xml:id="dc7aa7-e13906-Rd1e179">De regulis juris, 
+            <lb ed="#B" n="27"/>Lib. VI.</ref>
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e185">Y así por sus obras se han excluído por natural razón
+          <lb ed="#B" n="28"/>de tener minas ni coger oro ni plata ni otros metales, ni tierras,
+          <lb ed="#B" n="29"/>ni otras cosas preciosas y de valor, ni sacallo de la tierra, ni en ella
+          <pb ed="#B" n="208-v"/>
+          <lb ed="#B" n="1"/>gozallo. <quote xml:id="dc7aa7-e13906-Qd1e195">«Nulla enim est societas vel comunicatio cum tyranis quin
+            <lb ed="#B" n="2"/>potius suma destructio est»,</quote> según <ref xml:id="dc7aa7-e13906-Rd1e201">Tullio, 3 De officiis,</ref>
+          <quote xml:id="dc7aa7-e13906-Qd1e203">«neque enim est con
+            <lb ed="#B" break="no" n="3"/>tra naturam spoliare eos si possis, quod est honestum necare atque hoc
+            <lb ed="#B" n="4"/>genus pestiferum et imperium ex hominum societate exterminan
+            <lb ed="#B" n="5"/>dum est, etc».</quote>
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e214">
+          Conclusión 4a a la 6a Duda
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e216">Que las minas de oro y plata y otros metales y cosas preciosas
+          <lb ed="#B" n="6"/>estuviesen descubiertas quando los españoles entramos en aquellos
+          <lb ed="#B" n="7"/>reynos, que se des cubriesen después de entrados, que las descu
+          <lb ed="#B" n="8"/>briesen los mismos vezinos y naturales yndios, que nosotros las 
+          <lb ed="#B" n="9"/>descubriésemos: cometimos hurto y rapiña y somos obligados
+          <lb ed="#B" n="10"/>a restitución de todo el oro y plata y otras cosas preciosas que saca
+          <lb ed="#B" n="11"/>mos y nos aprovechamos dellas, y si no las restituimos, no nos sa
+          <lb ed="#B" break="no" n="12"/>lvaremos.
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e234">La primera parte se prueva, porque como aquellos reynos sean
+          <lb ed="#B" n="13"/>de los Reyes Yngas y de aquellos señores naturales dellos (como queda
+          <lb ed="#B" n="14"/>probado por el primer Principio, Cap. I y V, y en este tractado
+          <lb ed="#B" n="15"/>se ha dicho muchas vezes) y sin licencia dellos no podíamos entrar en ellos
+          <lb ed="#B" n="16"/>sin injuriallos, y menos escudriñar la tierra para ver y saber lo que
+          <lb ed="#B" n="17"/>
+          <sic><!--edition has havía--> avía</sic> en ella (según lo muestra el Principio 7°, Cap. XII y XV y los sigu
+          <lb ed="#B" break="no" n="18"/>ientes), ninguna diferencia puede asignarse entre las minas ya
+          <lb ed="#B" n="19"/>descubiertas o las que después se descubrieron, y las que las descubriesen
+          <lb ed="#B" n="20"/>los vezinos yndios o nosotros las descubriéssemos, quanto a esto.
+          <lb ed="#B" n="21"/>Pues, ni por la entrada que hezimos, mayormente siendo tan
+          <lb ed="#B" n="22"/>injusta y violenta, ni porque nos ingerimos a buscar las no
+          <lb ed="#B" n="23"/>descubiertas o a robar las que ya se sabían, no consiguiéssemos una
+          <lb ed="#B" n="24"/>punta de alfiler de derecho; antes, si alguno por alguna razón
+          <lb ed="#B" n="25"/>tuviéramos, por haver sido nuestro ingresso y progresso tan iniquo, to
+          <lb ed="#B" n="26"/>talmente lo huviéramos perdido: <ref xml:id="dc7aa7-e13906-Rd1e270">25, q. 2, c. ita nos; De decimis,
+            <lb ed="#B" n="27"/>cap. suggestum;</ref> et <ref xml:id="dc7aa7-e13906-Rd1e275">De immunitate Ecclesie, cap. ult.; ff. De furtis, L. itaque fullo.</ref> Y 
+          <lb ed="#B" n="28"/>expressamente tiene lo susodicho el doctíssimo Maestro fray Do
+          <lb ed="#B" n="29"/>mingo de Soto en el Libro <ref xml:id="dc7aa7-e13906-Rd1e282">De Justitia et de jure, Lib. 5, q.3, argumen
+            <pb ed="#B" n="209-r"/>
+            <lb ed="#B" break="no" n="1"/>to 2°, en cierta Duda:</ref>
+          <quote xml:id="dc7aa7-e13906-Qd1e289">«An liceat cuicunque uniusnationis ad aliam 
+            <lb ed="#B" n="2"/>quesitum aurum peregrinari?»</quote> Apparet enim id unicuique eadem
+          <lb ed="#B" n="3"/>ratione licere, scilicet, quia lapiin littore maris inventi fiunt
+          <lb ed="#B" n="4"/>jure gentium inventoris, Postquam litora jure gentium manserunt
+          <lb ed="#B" n="5"/>comunia. Respondet: hoc duntaxat jure non esse omnino
+          <lb ed="#B" n="6"/>licitum nisi incole ipsi consentirent aut pro derelictis eosdem
+          <lb ed="#B" n="7"/>thesauros haberent. Nam regiones jure gentium divise sunt,
+          <lb ed="#B" n="8"/>et ideo licet gentibus illius regionis sint res ille comunes; tamen
+          <lb ed="#B" n="9"/>non possunt advene incolis invitis easdem res usurpare. Neque 
+          <lb ed="#B" n="10"/>enim valent <ref xml:id="dc7aa7-e13906-Rd1e312"><!--unsure if ref, footnote for this-->Galli hac de causa ad nos penetrare, neque nos ad illos ipsis 
+            <lb ed="#B" n="11"/>invitis»</ref>. Hec ille.
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e319">La 2a parte de la Conclusión provada queda, por
+          <lb ed="#B" n="12"/>muchas razones, en el Cap. XXIII y en el Cap. XXX en el fin.  
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e324">La razón
+          <lb ed="#B" n="13"/>única y principal a la qual todas las demás se reduzen y ésta es: por
+          <lb ed="#B" break="no" n="14"/>que aquellos reynos y las tierras donde las minas están
+          <lb ed="#B" n="15"/>tienen dueños, o los reyes y señores o personas particulares o todos
+          <lb ed="#B" n="16"/>ellos, porque toda la tierra estava repartida como la pregunta o duda
+          <lb ed="#B" n="17"/>dice, y por consiguiente todo lo contenido en ellos y en ellas es de aquél
+          <lb ed="#B" break="no" n="18"/>los y así es ageno, pero nosotros <sic><!--edition has havémosla--> avemos la</sic> tomado y usurpado violen
+          <lb ed="#B" n="19"/>tamente como predones y tyranos contra su voluntad, como en la 
+          <lb ed="#B" n="20"/>conclusión 1a desta Duda 6a probando diximos; luego, tomando e in
+          <lb ed="#B" n="21"/>quiriendo y poseyendo las minas y sacando el oro y la plata y o
+          <lb ed="#B" break="no" n="22"/>tras cosas preciosas dellas, furto y por mejor dezir rapiña violenta
+          <lb ed="#B" n="23"/>cometimos, y cada hora deteniéndolas en nuestro poder y sacando y
+          <lb ed="#B" n="24"/>aprovechándonos del oro y plata y lo demás, cada hora la come
+          <lb ed="#B" n="25"/>temos. 
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e359">Que seamos obligados a restitución de todo el oro y plata,
+          <lb ed="#B" n="26"/>etc. que fue la parte tercera, buélvanse los ojos al Cap. XXIV, y
+          <lb ed="#B" n="27"/>allí se verá el peligro que de nuestra condenación, si no restituy
+          <lb ed="#B" n="28"/>mos, tenemos.
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e369">
+          Conclusión 5a para la 6a Duda
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e371">El Rey de Castilla y León es obligado de precepto divino
+          <lb ed="#B" n="29"/>y natural a proveer de personas idóneas que prediquen y doctri
+          <lb ed="#B" n="30"/>nen y administren los sacramentos a los indios vezinos y mora
+          <pb ed="#B" n="209-v"/>
+          <lb ed="#B" break="no" n="1"/>dores de aquellos reynos, así a los convertidos como a los que están 
+          <lb ed="#B" n="2"/>por convertir, e hazer templos e iglesias y mantener los mi
+          <lb ed="#B" n="3"/>nistros necessarios del culto divino, sin que a los indios se pidan diez
+          <lb ed="#B" n="4"/>mos por estos tiempos de agora, ni primicias, ni que paguen tribu
+          <lb ed="#B" n="5"/>to, ni otra cosa que valga un maravedí, si de su voluntad no
+          <lb ed="#B" n="6"/>quisieron algo para ello contribuir.
+        </p>
+        <p xml:id="dc7aa7-e13906-d1e393">Pruévase la conclusión: Lo 1°, por la obligación que Su Ma
+          <lb ed="#B" n="7"/>gestad tiene de proveer que se predique la fe, como en el 5° Principio
+          <lb ed="#B" n="8"/>queda concluydo. </p>
+        <p xml:id="dc7aa7-e13906-d1e400">Lo 2°, por los grandes thesoros y riquezas que de
+          <lb ed="#B" n="9"/>tantas y tan egregias injusticias, como han padecido aquellas gentes,
+          <lb ed="#B" n="10"/>le han venido. </p>
+        <p xml:id="dc7aa7-e13906-d1e407">Lo 3°, por la obligación que tiene Su Magestad a restituir, no
+          <lb ed="#B" n="11"/>solamente lo que los Reyes passados y Su Magestad de lo robado <sic><!--edition has han--></sic> llevado,
+          <lb ed="#B" n="12"/>pero de todo lo que los robadores <sic><!--see previous han--> an </sic> robado y tyranizado. Todo esto que
+          <lb ed="#B" break="no" n="13"/>da provado arriba. </p>
+        <p xml:id="dc7aa7-e13906-d1e423">Dixe los diezmos no deverse pedir ni llevarse
+          <lb ed="#B" n="14"/>por los tiempos de agora: Lo uno, porque aún aquellas gentes que
+          <lb ed="#B" n="15"/>ya son convertidas están en la fe bamboleándose por ver las ne
+          <lb ed="#B" n="16"/>fandas obras de los españoles y en todo ser tan malos no bivien
+          <lb ed="#B" n="17"/>do como christianos, y piensan que los predicadores las <sic><!--see previous--> an</sic>
+          <lb ed="#B" n="18"/>engañado, como sean tan pocos, y los seglares tantos millares
+          <lb ed="#B" n="19"/>más que hazen el contrario, y los que están por convertir no se con
+          <lb ed="#B" break="no" n="20"/>vertirán entiendo que, sobre los injustos tributos que dan
+          <lb ed="#B" n="21"/>al Rey e a los hombres, han de dar otros a Dios de quien se les pre
+          <lb ed="#B" n="22"/>dica que mandó que se les diese la fe de valde.</p>
+        <p xml:id="dc7aa7-e13906-d1e450">Lo otro, por
+          <lb ed="#B" break="no" n="23"/>que aún pensarán que Dios también tyraniza, como los hombres
+          <lb ed="#B" n="24"/>mundanos y malos, o que les vendedemos el Evangelio, y por
+          <lb ed="#B" n="25"/>sojuzgallos y por tomalles sus oros y metales, allá se lo llevamos
+          <lb ed="#B" n="26"/>y comunicamos. </p>
+        <p xml:id="dc7aa7-e13906-d1e461">Lo otro, y dévese de considerar mucho
+          <lb ed="#B" n="27"/>que en la primitiva Yglesia, bien trezientos años y más de <sic> <!--see previous, haver--> aver </sic>
+          <lb ed="#B" n="28"/>subidos los Apóstoles al cielo, no se boqueava de diezmos, tanto era el
+          <lb ed="#B" n="29"/>cuidado que los perlados tenían de traer y ganar ánimas a Christo,
+          <lb ed="#B" n="30"/>y hallarse ha que en el Concilio niceno se juntaron trezientos y diez
+          <lb ed="#B" n="31"/>ocho Obispos y no menos otros tantos abades, presbíteros, y diáconos
+          <lb ed="#B" n="32"/>con sus servientes, y no teniendo para yr a él, los pueblos proveye
+          <lb ed="#B" break="no" n="33"/>ron de cavalgaduras y lo necessario a todos, y el emperador Constan
+          <pb ed="#B" n="210-r"/>
+          <lb ed="#B" break="no" n="1"/>tino los sustentó a todos todo el tiempo que duró el Concilio, como 
+          <lb ed="#B" n="2"/>refiere en su <ref xml:id="dc7aa7-e13906-Rd1e490">Historia scholástica, Lib. 8, cap. 14, Nicéforo.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 16</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 16</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="163-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04678"><!-- dd-c16 -->
+        <head xml:id="dc7aa7-e04678-Hd1e111">Capitulo 16</head>
+        <p xml:id="dc7aa7-e04678-d1e113">
+          <lb ed="#B" n="31"/>Capítulo 16
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e118">
+          <lb ed="#B" n="32"/>La 2a parte del dicho Principio 7°, conviene a saber, el pro  
+          <lb ed="#B" n="33"/>gresso o govierno que por aquellas gentes y tierras se ha  
+          <lb ed="#B" n="34"/>puesto, y puede qualquiera prudente lector de las pruevas  
+          <lb ed="#B" n="35"/>del hecho y del derecho arriba traydo por la prime  
+          <lb ed="#B" n="36"/>ra parte, cognoscer qué tal deve haver sido. Este fue, 
+          
+          <pb ed="#B" n="163-v"/>
+          <lb ed="#B" n="1"/>ha sido, y es repartir entre sí los españoles los pueblos de los indios 
+          <lb ed="#B" n="2"/>que llamaron repartimientos, y después por honrallos 
+          <lb ed="#B" n="3"/>más pusiéronles nombres encomiendas. En muchas partes  
+          <lb ed="#B" n="4"/>de las indias repartieron no sólo pueblos, pero las personas  
+          <lb ed="#B" n="5"/>de un pueblo: hombres, mugeres, niños y viejos, asignando  
+          <lb ed="#B" n="6"/>a un español cinquenta, a otro ciento, y a otro dozientos, segun  
+          <lb ed="#B" n="7"/>la gracia alcangava con el capitán o Governador, y mayor   
+          <lb ed="#B" n="8"/>tyrano que los repartía. Y a uno de los que más honrrar y a  
+          <lb ed="#B" n="9"/>provechar quería dava el señor natural o señores del pueblo,  
+          <lb ed="#B" n="10"/>para que de la Misma manera que de los súbditos le sirviese.   
+          <lb ed="#B" n="11"/>Este señor natural servía como los otros y tenía mayor   
+          <lb ed="#B" n="12"/>servidumbre porque si alguno de los súbditos, por los trabajos  
+          <lb ed="#B" n="13"/>y angustias que tenían, se huya y faltava de los trabajos y ser  
+          <lb ed="#B" n="14"/>vicios, el triste del señor a palos y acotes y en la cárcel y cepo lo  
+          <lb ed="#B" n="15"/>llorava y padecía, semejantes a los prefectos de Israel que eran  
+          <lb ed="#B" n="16"/>como jurados de las familias, los quales quando faltava la  
+          <lb ed="#B" n="17"/>milla de dar el número de los ladrillos que el tyrano Pharaón les  
+          <lb ed="#B" n="18"/>avía impuesto por tributo, los acotavan y affligían duramente:   
+          <lb ed="#B" n="19"/>según parece por el Exodo 5 Cap°: «Flagellatique qui praerant  
+          <lb ed="#B" n="20"/>operibus filiorum Israel, ab exactoribus Pharaonis dicentibus:  
+          <lb ed="#B" n="21"/>quare non impletis mensuram laterum sicut prius, nec heri,   
+          <lb ed="#B" n="22"/>nec hodie? etc...»!. Lo qual en verdad se cumplió, y cumple hoy a la letra,   
+          <lb ed="#B" n="23"/>en todas las Indias. Las afliciones y oppressiones y dura ser  
+          <lb ed="#B" n="24"/>vidumbre que todas aquellas gentes han padecido y padecen, por  
+          <lb ed="#B" n="25"/>los insuportables tributos y cargas que de diversas maneras les  
+          <lb ed="#B" n="26"/>han impuesto, no puede ser creydo; pero en verdad y con verdad  
+          <lb ed="#B" n="27"/>afirmamos ser mucho más de lo que aquí encarecemos. Y lo que   
+          <lb ed="#B" n="28"/>más sin vergüenga y con profunda insensibilidad osan los pecca  
+          <lb ed="#B" n="29"/>dores tyranos, más crueles que Pharaón, dezir que los indios son ha  
+          <lb ed="#B" n="30"/>raganes y ociosos, y que más tributos y servicios pueden  
+          <lb ed="#B" n="31"/>contribuir: las mismas palabras que Pharaón dijo: «Vacatis ocio  
+          <lb ed="#B" n="32"/>et idcirco palee non dabuncampos tur vobis, etc...», no les dando ni tenien  
+          <lb ed="#B" n="33"/>do tiempo para respirar, y mucho más estrecho que Pharaón dava  
+          <lb ed="#B" n="34"/>a los israelitas. Que aquestos repartimientos y encomiendas  
+          <lb ed="#B" n="35"/>y medio de governar sea violento, injusto, nephando, tyránico y  
+          <lb ed="#B" n="36"/>crudelíssimo, aunque de sí parece si son libres y píos ojos se mira,  
+          <lb ed="#B" n="37"/>pero quiero solamente apuntar algunas razones breves y cen  
+          <lb ed="#B" n="38"/>zillamente, dexando la provanca della para en otros tratados   
+          
+          <pb ed="#B" n="164-r"/>
+          <lb ed="#B" n="1"/>nuestros, donde asaz están provadas no avaramente. La primera 
+          <lb ed="#B" n="2"/>sea ésta: aquel modo de regir o governar hombres o pueblos  
+          <lb ed="#B" n="3"/>libres es violento, injusto, nephando y crudelíssimo, que a los súb  
+          <lb ed="#B" n="4"/>ditos priva de toda su libertad, de tal manera que no pueden  
+          <lb ed="#B" n="5"/>libremente disponer de sus propias personas ni de las que tienen  
+          <lb ed="#B" n="6"/>a su cargo, como son sus hijos y familiares. Pues, los dichos repar  
+          <lb ed="#B" n="7"/>timientos son desta manera; luego son violentos, tyránicos, injustos  
+          <lb ed="#B" n="8"/>y crudelíssimos. La Mayor es clara. La Menor se prueva porque  
+          <lb ed="#B" n="9"/>después de repartidos donde se repartían, por personas o por ca  
+          <lb ed="#B" n="10"/>begas como en la Isla Española y las demás, y en Nicaragua:   
+          <lb ed="#B" n="11"/>y en Veneguela y Popayán y en Chile y en otras partes, totalmente  
+          <lb ed="#B" n="12"/>todos chicos y grandes, mugeres y hombres, preñadas y paridas,  
+          <lb ed="#B" n="13"/>mocos y viejos, niños y niñas, señores y súbditos, sanos y enfer  
+          <lb ed="#B" n="14"/>mos, eran y son puestos en tanta servidumbre de los españoles,  
+          <lb ed="#B" n="15"/>que ni una hora les dexavan ni dexan respirar que no se ocupen,  
+          <lb ed="#B" n="16"/>o en las minas o en las labrangas, o en llevar cargas a cuestas en  
+          <lb ed="#B" n="17"/>qualquiera distancia como bestias. Y quando faltan hombres, o   
+          <lb ed="#B" n="18"/>están ocupados, sirven las mugeres de jumentos, llevando las cargas,  
+          <lb ed="#B" n="19"/>y en todas quantas cosas los han menester noches y días, como si  
+          <lb ed="#B" n="20"/>fuessen esclavos comprados y vendidos, ha  
+          <lb ed="#B" n="21"/>vidos en justa guerra; y comünmente todos sus servicios son por  
+          <lb ed="#B" n="22"/>angarias, que no sólo hazen las labores y trabajos y sirven de lo.  
+          <lb ed="#B" n="23"/>que dicho es, po todo a su costa y comida, aunque vengan  
+          <lb ed="#B" n="24"/>de veynte y cinquenta y más leguas, han de traer lo que han  
+          <lb ed="#B" n="25"/>de comer en la venida y para la estada en los trabajos y hazien  
+          <lb ed="#B" n="26"/>das, de cavar y hazer todo lo que los hombres y bestias han de obrar  
+          <lb ed="#B" n="27"/>les mandan, y después para tornarse a sus tierras y casas.  
+          <lb ed="#B" n="28"/>Y los indios de los pueblos que no los reparten por   
+          <lb ed="#B" n="29"/>cabeqas, sino que un pueblo todo entero o pueblos se dan a un  
+          <lb ed="#B" n="30"/>español para que le sirvan, y con ellos el señor natural o se  
+          <lb ed="#B" n="31"/>ñores por otras maneras son vexados y oppressos y biven   
+          <lb ed="#B" n="32"/>vida de desesperados y malaventurados. Estos son los tributos  
+          <lb ed="#B" n="33"/>tantos y de tantas cosas que nunca los bivos ni los muertos  
+          <lb ed="#B" n="34"/>jamás vieron ni oyeron impossiciones tan impossibles, crue  
+          <lb ed="#B" n="35"/>les y execrables, a hombres humanos. Quiero poner exemplo  
+          <lb ed="#B" n="36"/>en un pueblo del obispado de Chiapa de quinientas casas,  
+          <lb ed="#B" n="37"/>en que se encierran el marido y la muger y sus hijuelos, han de  
+          <lb ed="#B" n="38"/>dar sesenta o setenta hombres ordinarios que vengan cada día   
+          <lb ed="#B" n="39"/>a trabajar en lo que el encomendero les mandare: «Item, que  
+          
+          <pb ed="#B" n="164-v"/>
+          <lb ed="#B" n="1"/>Todo el pueblo siembre una sementera de treynta hanegas de 
+          <lb ed="#B" n="2"/>mayz cada año, y que la cure y desyerve y beneficie hasta la 
+          <lb ed="#B" n="3"/>cojer». En sembrar este mayz gastan mucho tiempo, porque lo 
+          <lb ed="#B" n="4"/>siembran grano a grano. «Item, le siembren siete hanegas 
+          <lb ed="#B" n="5"/>de trigo, y otras seys hanegas de frisoles», que son como atra 
+          <lb ed="#B" n="6"/>muces o habas, «y dos hanegas de algodón». «Item, que pue 
+          <lb ed="#B" n="7"/>da sacar del pueblo cada año mill y dozientos hombres.», que 
+          <lb ed="#B" n="8"/>apenas hay más personas en todo el pueblo, para que se car 
+          <lb ed="#B" n="9"/>guen y lleven la hazienda del español, como es agúcar o  
+          <lb ed="#B" n="10"/>otras cosas, al puerto que está del dicho pueblo quarenta le 
+          <lb ed="#B" n="11"/>guas; y por el corretaje da a cada uno el encomendero  
+          <lb ed="#B" n="12"/>cien cacaos o almendras, que valen hasta veynte maravedís  
+          <lb ed="#B" n="13"/>el ciento. «Item, dozientos xequiñiles de cacao», que es una medida 
+          <lb ed="#B" n="14"/>que cabe ocho mill almendras, cosa que ellos tienen de su 
+          <lb ed="#B" n="15"/>cosecha, y hanlo de yr a comprar a otras tierras o provincias. 
+          <lb ed="#B" n="16"/>«Item, que den sesenta hanegas de sal», lo qual han de yr a la 
+          <lb ed="#B" n="17"/>mar, veinte y treynta leguas de sus casas, o a compra 
+          <lb ed="#B" n="18"/>llos o a hazellas, donde tardan muchos días.  «Item, que cada Pas 
+          <lb ed="#B" n="19"/>qua le den cinquenta mantas de algodón que tiene dos varas 
+          <lb ed="#B" n="20"/>en quadra, y cinquenta camisas para la gente de su casa».  
+          <lb ed="#B" n="21"/>Estos no crían algodón porque la tierra no es por ello, y 
+          <lb ed="#B" n="22"/>han de yr a compralle treynta y quarenta leguas, y traello 
+          <lb ed="#B" n="23"/>a cuestas, y después hilallo, y después texello, y después coser 
+          <lb ed="#B" n="24"/>las camisas; y una gente que no tiene en su vida más caudal 
+          <lb ed="#B" n="25"/>de lo que suda en trabajos, cada día, para mantener a sí e a sus 
+          <lb ed="#B" n="26"/>mugeres y hijos, ¿Con qué comprarán en otras tierras lo que no  
+          <lb ed="#B" n="27"/>tienen ni crían?: esto compran con yr a servir algún tiempo 
+          <lb ed="#B" n="28"/>a las gentes que aquello tienen, y como donde lo van a com 
+          <lb ed="#B" n="29"/>prar es tierra caliente, muérense muchos antes buel 
+          <lb ed="#B" n="30"/>van a sus casas «Item, que dé al comendero doze gallinas 
+          <lb ed="#B" n="31"/>de la tierra» que son como abultadas, que para ser buenas 
+          <lb ed="#B" n="32"/>están en hazerse tres y quatro años, «y en cada Pasqua se 
+          <lb ed="#B" n="33"/>tenta gallinas, la pueblo servía. mitad de aquéllas, y las otras treynta 
+          <lb ed="#B" n="34"/>y cinco, de las de Castilla». «Item, que de todo el dicho mayz e 
+          <lb ed="#B" n="35"/>trigo e lo demás que sembraren y cogeren», como dicho es, le 
+          <lb ed="#B" n="36"/>traygan a la ciudad a cuestas, «quanto fuere menester». «Item, 
+          <lb ed="#B" n="37"/>que provean y reparen el ingenio y la estancia, conviene  
+          <lb ed="#B" n="38"/>a saber, de comida, que suelen estar en el ciento y cinquenta
+          <pb ed="#B" n="NaN"/>
+          <lb ed="#B" n="1"/>personas et offreces obraen el ingenio...
+          <!-- missing text here for this page -->
+          <!-- TODO Need to add text and linebreaks -->
+          <pb ed="#B" n="165-v"/>
+          <lb ed="#B" n="1"/>para moler el mayz o otras cosillas (dize la tassación) de que su 
+          <lb ed="#B" n="2"/>casa y hazienda tuviere necessidad
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e402">
+          Item, que le hilen <sic> algun <!-- edition has "algan"--> </sic>
+          <lb ed="#B" n="3"/>algodón para cosas necessarias de su casa, y que en cada 
+          sema<lb ed="#B" break="no" n="4"/>na le den cien huevos, y quando estuviere en el ingenio de 
+          <lb ed="#B" n="5"/>su estancia», que es como granja, o cortijo acá en España, «le den 
+          <lb ed="#B" n="6"/>la fruta e comida que hoviere menester», y <sic> es <!--edition includes [es]--> </sic> acaecido llevar
+          <lb ed="#B" n="7"/>consigo ochenta yndios cargados con su repuesto. Item, que cada
+          <lb ed="#B" n="8"/>año le den veinte cántaros de miel», lo qual han de andar
+          bus<lb ed="#B" break="no" n="9"/>cando por los montes, «y otras carguillas de cera», y 
+          <lb ed="#B" n="10"/>mandósele, por los que esto tasaron, que los indios que sirven
+          <lb ed="#B" n="11"/>en el ingenio no trabajen más de sol a sol. 
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e434">   
+          Desto dezir que <lb ed="#B" n="12"/> para justificar todos estos tributos, mandaron los tassadores
+          <lb ed="#B" n="13"/>destos tributos: que le diessen cada año diez cueros de tigres, 
+          <lb ed="#B" n="14"/>que para tomar uno se juntan mill indios en los montes, y
+          <lb ed="#B" n="15"/>primero que lo tomen y maten tiene desgarrados y
+          destri<lb ed="#B" break="no" n="16"/>pados quinze o veynte indios, porque es animal crudelíssimo
+          <lb ed="#B" n="17"/>y muy malo de vencer. Esa tassación deste pueblo y sus
+          sub<lb ed="#B" break="no" n="18"/>jectos, que son los vezinos dichos, hizieron un obispo y un
+          tyra<lb ed="#B" break="no" n="19"/>no harto señalado en matar indios, porque se vea
+          ignoran<lb ed="#B" break="no" n="20"/>tia y ceguedad del obispo y maldad del tyrano 
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e457">
+          Y aunque <lb ed="#B" n="21"/>ésta parece como lo es, abominable, digna de fuego infernal,
+          <lb ed="#B" n="22"/>pero sin comparación hay otras muy más crueles tasaciones
+          <lb ed="#B" n="23"/>en muchas partes de las Indias, señaladamente en las provincias 
+          <lb ed="#B" n="24"/>del Perú. Bien creo que queda provado ser las tales
+          encomien<lb ed="#B" break="no" n="25"/>das y el govierno de las Indias, iniquo, nefando y tyránico, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

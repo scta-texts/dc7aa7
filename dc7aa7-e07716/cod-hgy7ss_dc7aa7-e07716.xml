@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 24</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 24</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="179-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e07716"><!-- dd-c24 -->
+        <head xml:id="dc7aa7-e07716-Hd1e111">Capitulo 24</head>
+        <p xml:id="dc7aa7-e07716-d1e113">
+          <lb ed="#B" n="25"/>Capítulo 24</p>
+        <p xml:id="dc7aa7-e07716-d1e118">
+          <lb ed="#B" n="26"/>Quanto a la segunda parte de la Conclusión conviene a saber que sean
+          <lb ed="#B" n="27"/>obligados a restitución, etc.<sic> <!--edition joins sentences--> Pruévase </sic> así mismo por razones y 
+          <lb ed="#B" n="28"/>autoridades. La primera, porque como la restitución sea poner a
+          <lb ed="#B" n="29"/>otro en el estado que estava quando poseya lo que era suyo y le tomaron,
+          <lb ed="#B" n="30"/>conviene a saber, en la possessión y sefiorío de aquello que no
+          <lb ed="#B" n="31"/>es otra cosa sino guardar la igualdad de la justicia comutativa que
+          <lb ed="#B" n="32"/>consiste en cierta igualdad. Y así la restitución importa tornar
+          <lb ed="#B" n="33"/>o recompensar la cosa a su duefio, que injustamente le fue tomada
+          <lb ed="#B" n="34"/>para que la igualdad sea reparada; porque de otra manera no se guar
+          <pb ed="#B" n="179-v"/>
+          <lb ed="#B" break="no" n="1"/>daría la justicia. Y como hazer y guardar justicia sea necessario, sin 
+          <lb ed="#B" n="2"/>la guarda de la qual sea impossible alguno salvarse, de aquí es que la
+          <lb ed="#B" n="3"/>restitución del mal y injustamente tomado y usurpado es ne
+          <lb ed="#B" n="4"/>cessario a la salvación de cada uno, y sin ella es imposible sal
+          <lb ed="#B" break="no" n="5"/>varse. </p>
+        <p xml:id="dc7aa7-e07716-d1e158">Pues, como aquellos ciento y sesenta hombres injusta
+          <lb ed="#B" n="6"/>mente, con injuriosa violencia, <sic> <!--edition has hayan--> ayan</sic> usurpado aquel gran prin
+          <lb ed="#B" n="7"/>cipado, reynos y señoríos de aquel Rey Athabaliba y de sus he
+          <lb ed="#B" break="no" n="8"/>rederos <sic><!--edition has parens--> y de los demás señores, sus honrras, dignidades reales,</sic>
+          <lb ed="#B" n="9"/>los grandes thesoros que dió por su resgate, y los inmensos 
+          <lb ed="#B" n="10"/>de oro y plata y piedras preciosas que después, suyos y de sus
+          <lb ed="#B" n="11"/>vassallos y de otros muchos grandes señores y pueblos, ro
+          <lb ed="#B" n="12"/>baron con otros irreparables perjuyzios que todos con gravís
+          <lb ed="#B" break="no" n="13"/>simos e incomparables males y daños: síguese que para tornarlos
+          <lb ed="#B" n="14"/>y recompensarlos en su estado prístino, que es hazer y guardar
+          <lb ed="#B" n="15"/>justicia, son obligados a restituir todo aquello que robaron y 
+          <lb ed="#B" n="16"/>daños que hizieron.</p>
+        <p xml:id="dc7aa7-e07716-d1e194">La 2a razón: cada uno es obligado a dexar
+          <lb ed="#B" n="17"/>o desmanparar, a salir del peccado mortal que cometió, ni por un
+          <lb ed="#B" n="18"/>momento estar en el, porque sino es impossible salvarse, según
+          <lb ed="#B" n="19"/>aquello del <ref xml:id="dc7aa7-e07716-Rd1e202" target="http://scta.info/resource/sir21_2@1-6">Eclesiástico 21</ref>: <quote xml:id="dc7aa7-e07716-Qd1e205">Quasi a facie colubri fuge peccatum</quote>. Pues, no 
+          <lb ed="#B" n="20"/>sólo pecca mortalmente el que hurta o roba lo ageno contra vo
+          <lb ed="#B" n="21"/>luntad de su dueño, o de otra qualquiera manera dañifica al
+          <lb ed="#B" n="22"/>próximo en aquel acto y obra de usurpar o dañificar, pero
+          <lb ed="#B" n="23"/>también reteniendo contra voluntad de su dueño por un mo
+          <lb ed="#B" n="24"/>mento que la detiene, haze injuria y causa daño al próximo contra justicia; 
+          <lb ed="#B" n="25"/>luego, pecca mortalmente. La razón por la qual el que usurpa 
+          <lb ed="#B" n="26"/>lo ageno hazeinjuria e injusticia al dueño, y por consiguiente
+          <lb ed="#B" n="27"/>comete peccado, es porque aquel acto de robo o usurpación
+          <lb ed="#B" n="28"/>se haze contra voluntad del dueño. Luego, si aquella usurpación
+          <lb ed="#B" n="29"/>y detención de lo ageno dura después de aquel acto contra volun
+          <lb ed="#B" n="30"/>tad del dueño, siempre se le haze injuria y daño; luego, siem
+          <lb ed="#B" n="31"/>pre dura el peccado; luego, para desmamparar el peccado mor
+          <lb ed="#B" n="32"/>tal, necessaria es la restitución de lo hurtado y robado. Y así
+          <lb ed="#B" n="33"/>ninguna cosa es restituir lo mal havido y robado, sino cessar del
+          <lb ed="#B" n="34"/>peccado; y confírmase lo dicho, porque qualquiera que tiene
+          <pb ed="#B" n="180-r"/>
+          <lb ed="#B" n="1"/>lo ageno es constreñido a lo restituyr por precepto negativo: <ref xml:id="dc7aa7-e07716-Rd1e244">Ad 
+            <lb ed="#B" n="2"/>Romanos 13:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e250"> Nemini quicquam debeatis </quote>, et <ref xml:id="dc7aa7-e07716-Rd1e252">Leviticus 19</ref>. Desto véase <ref xml:id="dc7aa7-e07716-Rd1e254">S. 
+            <lb ed="#B" n="3"/>Thomas,2.2 q.62 a. final;</ref> et <ref xml:id="dc7aa7-e07716-Rd1e259">4 Sent., dist. 15 q.1 a.5 qc. 1</ref>.
+          <lb ed="#B" n="4"/>Pues así es que aquéllos que tantos robos y daños hizieron y a tantos <lb ed="#B" break="no" n="5"/>millares
+          de personas y altas y generosas y diversas qualida<lb ed="#B" break="no" n="6"/>des, son obligados
+          a restituyr e satisfacer todo lo que hovieron robado
+          <lb ed="#B" n="7"/>y dañificado, y si no lo hazen es impossible salvarse.</p>
+        <p xml:id="dc7aa7-e07716-d1e272">Lo 3°, todo
+          <lb ed="#B" n="8"/>lo que es de precepto divino ha de complir el hombre si ha de salvarse, 
+          <lb ed="#B" n="9"/>según aquello, <ref xml:id="dc7aa7-e07716-Rd1e278" target="http://scta.info/resource/mt19_17@15-20">Matheo 19</ref>: <quote xml:id="dc7aa7-e07716-Qd1e281">Si vis ad vitam ingredi, serva mandata</quote>. 
+          <lb ed="#B" n="10"/>Pues, la restitución de las cosas robadas es de precepto divino, <ref xml:id="dc7aa7-e07716-Rd1e286" target="http://scta.info/resource/ex20_15@1-3">Exodo 20</ref>:
+          <lb ed="#B" n="11"/>
+          <quote xml:id="dc7aa7-e07716-Qd1e291">Non furtum facies</quote>. Por la qual prohibición generalmente se pro<lb ed="#B" break="no" n="12"/>hibe 
+          toda illícita usurpación y daño del próximo, como parece 
+          <lb ed="#B" n="13"/>
+          <ref xml:id="dc7aa7-e07716-Rd1e297">14, q.6, c. penale;</ref> y <ref xml:id="dc7aa7-e07716-Rd1e300">S. Thomás, 2.2 q.122 a.6 ad 2</ref>. Y en
+          <lb ed="#B" n="14"/>detener lo ageno contra voluntad del dueño, se haze
+          <lb ed="#B" n="15"/>siempre injuria y daño como está probado; luego, si la restitución de lo robado, co<lb ed="#B" break="no" n="16"/>mo 
+          aquéllos robaron y los próximos tanto agraviaron, no se haze, 
+          <lb ed="#B" n="17"/>no se pueden salvarse. </p>
+        <p xml:id="dc7aa7-e07716-d1e311">Lo 4°, qualquiera que tiene voluntad de
+          <lb ed="#B" n="18"/>hurtar determinada, luego nasce de allí obligación y reatus de la 
+          <lb ed="#B" n="19"/>eternal dañación, aunque después se interrumpa a aquella vo
+          <lb ed="#B" n="20"/>luntad por su contraria, si por la penitencia a Dios no <sic>satisfaze:<!--edition joins sentences-->
+            <lb ed="#B" n="21"/>así</sic> por esta manera en el propósito, ninguno, después que incurre
+          <lb ed="#B" n="22"/>en obligación de restituir algo que <sic><!--edition has haya--> aya </sic> usurpado, es desobli
+          <lb ed="#B" n="23"/>gado si no restituye lo robado o lo que ha sido causa de que otros roben
+          <lb ed="#B" n="24"/>y satisfaze por los daños, pérdidas e injurias que a otro se <sic><!--edition has hayan--> ayan </sic>
+          <lb ed="#B" n="25"/>dado o causado, como parece en el dicho cap. <ref xml:id="dc7aa7-e07716-Rd1e343">si culpa tua, De injuria 
+            <lb ed="#B" n="26"/>et damno dato</ref>. </p>
+        <p xml:id="dc7aa7-e07716-d1e349">Lo 5°, baste aquella sentencia de la divina Escrip
+          <lb ed="#B" break="no" n="27"/>tura, <ref xml:id="dc7aa7-e07716-Rd1e353" target="http://scta.info/resource/lev19_13@10-17">Levitico 19: </ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e356">Non orabitur opus mercenarii tui usque ad mane</quote>. 
+          <lb ed="#B" n="28"/>La qual autoridad, según Thomás, se ha de entender en todas las
+          <lb ed="#B" n="29"/>otras restituciones, porque de todas parece ser una<sic> <!--edition joins sentences-->razón. Puesto</sic>
+          <lb ed="#B" n="30"/>que la de aquellos tyranos de que hablamos y semejantes, que con
+          <lb ed="#B" n="31"/>tan grandes injurias y tan irreparables daños de los próxi
+          <lb ed="#B" n="32"/>mos robaron y usurparon cosas de tan immensos valores y 
+          <lb ed="#B" n="33"/>estimaciones, deva de ser y correr contra ellos, otra razón más
+          <lb ed="#B" n="34"/>grave y obligatoria de restituir e satisfazer con mayor cuidado 
+          <pb ed="#B" n="180-v"/>
+          <lb ed="#B" n="1"/>aquello que les fuere possible, porque ya están impossibilitados 
+          <lb ed="#B" n="2"/>por la grandeza de las cosas robadas y gravedad de los daños
+          <lb ed="#B" n="3"/>que causaron, porque ni los Reyes de España si quissiesen sa
+          <lb ed="#B" n="4"/>tisfazer por ellos vendiendo todos sus reynos, si vendibles 
+          <lb ed="#B" n="5"/>fuessen y comprador se hallase, no bastaría a descargallos 
+          <lb ed="#B" n="6"/>e desobligallos. </p>
+        <p xml:id="dc7aa7-e07716-d1e395"> Pero, porque de restituir ni satisfacer <sic><!--edition has han--> an </sic>
+          <lb ed="#B" n="7"/>estado y son bivos bien descuidados, concluir
+          <lb ed="#B" n="8"/>podemos estar continuamente en peccado<sic><!--edition joins sentences--> mortal. Y </sic>en estado
+          <lb ed="#B" n="9"/>de eternal dañación los que dellos biven y en los infiernos los
+          <lb ed="#B" n="10"/>ya muertos, y así es impossible salvarse. Pruévase esto por a
+          <lb ed="#B" n="11"/>quello de <ref xml:id="dc7aa7-e07716-Rd1e416">s. Augustín, 14, q.6, cap. si res,</ref> donde dize: <quote xml:id="dc7aa7-e07716-Qd1e418">«Si res,
+            <lb ed="#B" n="12"/>propter quam peccatum est, reddi potest et non redditur, peniten
+            <lb ed="#B" n="13"/>tia non agitur, sed simulatur. Et non dimittitur peccatum nisi
+            <lb ed="#B" n="14"/>restituatur ablatum»</quote>. Facit cap. <ref xml:id="dc7aa7-e07716-Rd1e427">falsas, De penitentia, Dist. 5,</ref>
+          <lb ed="#B" n="15"/>et in <ref xml:id="dc7aa7-e07716-Rd1e432">d. c. si culpa.</ref> Dize otra partícula de la conclusión, ser
+          <lb ed="#B" n="16"/>obligados aquellos ciento y sesenta hombres a restituir todos los
+          <lb ed="#B" n="17"/>robos y daños que hizieron los españioles que después a aquellos
+          <lb ed="#B" n="18"/>reynos fueron y se multiplicaron, que son despojar a muchos gran
+          <lb ed="#B" n="19"/>des señores de sus honrras y dignidades y de sus vasallos y rique
+          <lb ed="#B" n="20"/>zas, y de poner en servidumbre del repartimiento donde fueron
+          <lb ed="#B" n="21"/>vexados y oppressos los pueblos, y de las muertes y diminuci
+          <lb ed="#B" break="no" n="22"/>ones de infinitas <sic><!--edition separates sentences-->gentes: pruévase:</sic> porque quanto al pecca
+          <lb ed="#B" break="no" n="23"/>do y a la restitución, es obligado el que a ocassión y abre la pri
+          <lb ed="#B" n="24"/>mera puerta de los pecados y de los daños que los próximos
+          <lb ed="#B" n="25"/>resciben, según la regla de Christo, <ref xml:id="dc7aa7-e07716-Rd1e460" target="http://scta.info/resource/mt18_7@4-17">Matheo 18</ref>: <quote xml:id="dc7aa7-e07716-Qd1e463">«Necesse est ut
+            <lb ed="#B" n="26"/>veniant scandala: veruntamen ve homini illi, per quem 
+            <lb ed="#B" n="27"/>scandalum venit»</quote> Porque <quote xml:id="dc7aa7-e07716-Qd1e470">«qui causam vel occasionem damni
+              <lb ed="#B" n="28"/>dat, damnum dedisse videtur»,</quote> ut in <ref xml:id="dc7aa7-e07716-Rd1e475">cap. Egressus,</ref> et in <ref xml:id="dc7aa7-e07716-Rd1e477">cap. si 
+                <lb ed="#B" n="29"/>culpa, De injuria et damno dato,</ref> como si uno a algunos hiziessen
+          <lb ed="#B" n="30"/>alguna injuria o daño a algún Príncipe, el qual para vengalla
+          <lb ed="#B" n="31"/>moviesse guerra a todo un reyno. De todos los daños y muertes
+          <lb ed="#B" n="32"/>y robos que aquel reyno padeciesse, serían aquél o aquellos reos: 
+          <lb ed="#B" n="33"/>
+          <ref xml:id="dc7aa7-e07716-Rd1e491">Argumentum, 23, q.2, c. Dominus noster</ref> y en el dicho cap. <ref xml:id="dc7aa7-e07716-Rd1e493">si culpa,</ref>
+          <lb ed="#B" n="34"/>se dize así: <quote xml:id="dc7aa7-e07716-Qd1e498">«Si culpa tua datum est damnum vel injuria irro<lb ed="#B" break="no" n="35"/>gata, 
+            seu aliis irrogantibus opem forte tulisti, aut hec imper<lb ed="#B" break="no" n="36"/>itia tua sive negligencia evenerunt: jure super his satisfacere 
+            <pb ed="#B" n="181-r"/>
+            <lb ed="#B" n="1"/>te oportet, nec ignorancia te excusat, si scire debuisti ex facto 
+            <lb ed="#B" n="2"/>tuo injuriam verisimiliter posse contingere vel Jacturam»</quote>. Hec ibi, 
+          <lb ed="#B" n="3"/>Haze a esto mucho<ref xml:id="dc7aa7-e07716-Rd1e513"> el capítulo Hi quoscumque</ref> y <ref xml:id="dc7aa7-e07716-Rd1e515">el capítulo pla
+            <lb ed="#B" n="4"/>cuit, el 29, 1, q. 113</ref>, <quote xml:id="dc7aa7-e07716-Qd1e520">Nihil enim interest, en occidit quis, an causam 
+              mor<lb ed="#B" break="no" n="5"/>tis prebeat»: </quote>
+          <ref xml:id="dc7aa7-e07716-Rd1e525">ff. Ad legem Corneliam, De siccariis</ref>. De aquí es lo que <ref xml:id="dc7aa7-e07716-Rd1e528">san 
+            Hie<lb ed="#B" break="no" n="6"/>ónimo</ref> dize, que las penas de Arrio no están aún determina
+          <lb ed="#B" break="no" n="7"/>das, porque aun no se ha concluído el número de los que por aquella
+          <lb ed="#B" n="8"/>heregía se han de perder. Contfírmase todo lo dicho por <ref xml:id="dc7aa7-e07716-Rd1e537" target="http://scta.info/resource/bgy6gt-d1e965-Dd1e691">ff., Ad legem Aquiliam, L. 
+            <lb ed="#B" n="9"/>aquil l. qui occidit, in hac;</ref> et <ref xml:id="dc7aa7-e07716-Rd1e542" target="http://scta.info/resource/bgy6gt-d1e954-d1e129">ff., Si quadrupes pauperiem fecisse,
+              <lb ed="#B" n="10"/>L. 1, sed et si instigatu</ref>; ex <ref xml:id="dc7aa7-e07716-Rd1e547">ff. Ad legem Aquiliam, L. si servus,
+                pen<lb ed="#B" break="no" n="11"/>últ</ref>. et <ref xml:id="dc7aa7-e07716-Rd1e553">ff. De servo corrupto, L. Neratius,</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

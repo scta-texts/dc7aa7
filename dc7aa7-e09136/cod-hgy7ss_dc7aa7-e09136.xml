@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 27</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 27</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="185-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e09136"><!-- dd-c27 -->
+        <head xml:id="dc7aa7-e09136-Hd1e111">Capitulo 27</head>
+        <p xml:id="dc7aa7-e09136-d1e113">
+          <lb ed="#B" n="19"/>Capítulo 27
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e118">
+          <lb ed="#B" n="20"/>Y porque <quote xml:id="dc7aa7-e09136-Qd1e122">jus Regis seu principis et jus subditorum seu totius comunitatis
+            <lb ed="#B" n="21"/>ad paria judicantur, et hec doctrina datur per textum clarum in c. 1, ex
+            <lb ed="#B" n="22"/>eadem, De lege Corradi quam Doctores in c.1, de forma fidelitatis!, et in c.
+            <lb ed="#B" n="23"/>de forma, 22, q. 5 ubi habetur quod eademque fide tenetur et obligatus est
+            <lb ed="#B" n="24"/>dominus suo sub-dito vel vassallo quemadmodum vassallus domino,</quote> y hay
+          <lb ed="#B" n="25"/>muchos derechos que a esto hazen. De aquí es que el Rey, Príncipe o
+          <lb ed="#B" n="26"/>Señor, es obligado como cabeza política de defender y librar de las angustias,
+          <lb ed="#B" n="27"/>daños y necessidades a todo el cuerpo y reyno, como la cabega natural
+          <lb ed="#B" n="28"/>en quanto en sí se provee, y se ocupa en el govierno para adquirir el bien y
+          <lb ed="#B" n="29"/>resistir al mal que acaege venir a todos los otros miembros. De aquí se
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e145">
+          <pb ed="#B" n="185-v"/>
+          <lb ed="#B" n="1"/>proviene que el Rey es obligado por librar sus súbditos, si padecen
+          <lb ed="#B" n="2"/>
+          <sic>alguno <!--edition has alguna--></sic>servidumbre o pressión y agravios y por razón no puede
+          <lb ed="#B" n="3"/>por los adversarios,a mover guerra y morir en ella si necessario,
+          <lb ed="#B" n="4"/>es por libertallos, mayormente contra tyranos, que le tienen por 
+          <lb ed="#B" n="5"/>fuerça sus súbditos. Lo uno, por su proprio interesse, que se le haze
+          <lb ed="#B" n="6"/>injuria y causa daño, por no tener sus vasallos o súbditos libres 
+          <lb ed="#B" n="7"/>para sin impedimiento poder ordenar dellos lo que a él y al reyno
+          <lb ed="#B" n="8"/>convenga, unde licet eis juvare oppressos súbditos:<ref xml:id="dc7aa7-e09136-Rd1e170"> ff., quod metus causa,
+            <lb ed="#B" n="9"/>L. etsi in partes, $ 1,</ref> possum enim ego vasallos et homines meos a tua ty
+          <lb ed="#B" break="no" n="10"/>ranide armata manu liberare?. Uterque utitur jure suo naturali,
+          <lb ed="#B" n="11"/>et adhuc civili: <ref xml:id="dc7aa7-e09136-Rd1e180">L. si servas, Codex, De his qui ad ecclesiam confugiunt".</ref> Lo otro,
+          <lb ed="#B" n="12"/>por evitar lasiinjurias e daños de los del reyno, y porque violen
+          <lb ed="#B" break="no" n="13"/>tia tyrani semper est in fieri et in actu permanente sive influ
+          <lb ed="#B" break="no" n="14"/>enti non in ctu transeunte per quam non solum infert conti
+          <lb ed="#B" break="no" n="15"/>nue vim ipsis subditis faciendo eos per metum obedire sibi sed
+          <lb ed="#B" n="16"/>etiam regibus vel dominis. Illis quidem, scilicet, subditis vim com
+          <lb ed="#B" break="no" n="17"/>pulsivam, istis autem, scilicet, regibus vel ominis vim expul
+          <lb ed="#B" break="no" n="18"/>sivam, ut notatur <ref xml:id="dc7aa7-e09136-Rd1e197">C. de vi et vi armata, L. 1, $ penult, in glosa. </ref>
+          <lb ed="#B" break="no" n="19"/>Idcirco et dominis acquiritur jus movendi bellum contra tyranum
+          <lb ed="#B" n="20"/>ratione violentie expulsive quandocunque et quotienscunque opor
+          <lb ed="#B" break="no" n="21"/>tunitatem abuerit. Princeps namque si est expulsus a suo prin
+          <lb ed="#B" n="22"/>cipatu vel dominio potest recuperare quodcunque propria auctoritate,
+          <lb ed="#B" n="23"/>quotiens facultas se obtulerit et diceturincontinenti recupe
+          <lb ed="#B" n="24"/>rase: Jason, in <ref xml:id="dc7aa7-e09136-Rd1e212">L. clam possidere, $qui ad nundinas, <sic>ff.,<!--edition has no ff--></sic> De 
+            <lb ed="#B" n="25"/>adquirenda possessione.</ref> Et similiter subditis acquisitum est jus bellum tyra
+          <lb ed="#B" n="26"/>no indicendi ratione violentie compulsive illumque interficere
+          <lb ed="#B" n="27"/>quia unicuique licet proprium sanguinem redimere: <ref xml:id="dc7aa7-e09136-Rd1e226">ff., De bonis eorum, L.
+            <lb ed="#B" n="28"/>1,</ref> et defendere suam libertatem: <ref xml:id="dc7aa7-e09136-Rd1e231" target="http://scta.info/resource/bgy6gt-d1e4929-Dd1e502"> ff., De captivis et postliminüs, L. nihil
+              <lb ed="#B" n="29"/>interest</ref>. Potissime quia tyranus dicitur interfector tot persona
+          <lb ed="#B" break="no" n="30"/>rum quot redigit in servitutem, <ref xml:id="dc7aa7-e09136-Rd1e238">ut 22, q.4, $ sed et cum his,
+            <lb ed="#B" n="31"/>et est sub can. Inter cetera</ref> et <ref xml:id="dc7aa7-e09136-Rd1e244">ibi glossa.</ref> Et homini vivo continue 
+          <lb ed="#B" n="32"/>infertur injuria personalis dum aufertur li libertas, vol detinetur
+          <lb ed="#B" n="33"/>in servuum aut aliud damnum injuste in persona patritun unde 
+          <pb ed="#B" n="186-r"/>
+          <lb ed="#B" n="1"/>vis quotidie committitur et quotidie nascitur. Ideo quotidie re
+          <lb ed="#B" n="2"/>sisti potest. Et talis liberatio habet rationem recuperationis fa
+          <lb ed="#B" break="no" n="3"/>cte incontinenti etsi post mille annos oportunitas liberandi
+          <lb ed="#B" n="4"/>se non se obtulisset: Baldus, in <ref xml:id="dc7aa7-e09136-Rd1e261">L. vis ezus, Codex, De probationibus.</ref> Unde non 
+          <lb ed="#B" n="5"/>solum unus populus sive unum regnum aut provintia sed etiam 
+          <lb ed="#B" n="6"/>qualibet persona particularis oppressa habet iustum bellum con
+          <lb ed="#B" break="no" n="7"/>tra tyranum oprimentem se et eum interficere potest. Ubi 
+          <lb ed="#B" n="8"/>dicit Baldus quod si homo per vim detinetur longissimo tempore
+          <lb ed="#B" n="9"/>quia vis quotidie comittitur, quotidie resisti potest; simile dicitur
+          <lb ed="#B" n="10"/>
+          <ref xml:id="dc7aa7-e09136-Rd1e276">
+            <sic><!--edition has Digest instead-->ff.</sic>, De usufructu acrescendo, L. 1, in fin. Hec Baldus.</ref>
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e284">
+          Et Lucas de Pena in <ref xml:id="dc7aa7-e09136-Rd1e286" target="http://scta.info/resource/azsw2e-d1e6196-Dd1e150">L.
+            <lb ed="#B" n="11"/>prohibitum, Codex, De jure fiscis, Lib. 10,</ref> dicit quod quando est notum capti
+          <lb ed="#B" n="12"/>vum contra iustitiam detineri, licitum est ei detentores occidere
+          <lb ed="#B" n="13"/>ut si non potest aliter cavere, caveat qualitercunque potestate. Alegat
+          <lb ed="#B" n="14"/>
+          <ref xml:id="dc7aa7-e09136-Rd1e297" target="http://scta.info/resource/bgy6gt-d1e4929-Dd1e502">L. nihil interest, <sic><!--edition has Digest instead-->ff.</sic>, De captivis et postliminus</ref> et nota <ref xml:id="dc7aa7-e09136-Rd1e305" target="http://scta.info/resource/gd-p1d1-Dd1e237">1 Dist., c. 
+            <lb ed="#B" n="15"/>ius gentium</ref>; <ref xml:id="dc7aa7-e09136-Rd1e310" target="http://scta.info/resource/gd-p1d50-d1e670">ad idem 50 Dist., quod vero;</ref>
+          <ref xml:id="dc7aa7-e09136-Rd1e313" target="http://scta.info/resource/bgy6gt-d1e612-Dd1e194">Digest., ex quibus causis maiores,
+            <lb ed="#B" n="16"/>L. succurritur;</ref> facit <ref xml:id="dc7aa7-e09136-Rd1e318">Digest., De edicto,</ref>
+          <ref xml:id="dc7aa7-e09136-Rd1e320" target="http://scta.info/resource/bgy6gt-d1e1728-d1e990@1-23">ff., L. bovem, $ si servus. </ref>Imo capite
+          <lb ed="#B" n="17"/>punitur qui captus iniuste non fugit cum potest: <ref xml:id="dc7aa7-e09136-Rd1e326" target="http://scta.info/resource/bgy6gt-d1e4940-d1e287@1-37">ff., De re militari, L.
+            <lb ed="#B" n="18"/>non omnes, qui captus.</ref> Imputatur enim ei qui potest reverti, et
+          <lb ed="#B" n="19"/>non revertitur.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e335">
+          Potest ergo iuste tyranus occidi non solum a Rege
+          <lb ed="#B" n="20"/>vel domino seu a tota comunitate quam injuste vel
+          <lb ed="#B" n="21"/>detinet vel opprimit, sed etiam a quolibet de populo. Hoc intelligitur de ty
+          <lb ed="#B" break="no" n="22"/>rano usurpante regnum alienum ut salvetur declaratio seu decre
+          <lb ed="#B" break="no" n="23"/>tum Concilii Constantie, Sessione 1*16; S. Thomas, Sentent., <ref xml:id="dc7aa7-e09136-Rd1e345">dist. 44 q.2
+            <lb ed="#B" n="24"/>a.2 ad 5 </ref>et <ref xml:id="dc7aa7-e09136-Rd1e351">Lib. 1, Cap. 6, De regimine principum; 2.2 q.64 a.3.,</ref>
+          <lb ed="#B" n="25"/>at hoc quomodolibet at qualitercunque
+          <lb ed="#B" n="26"/>insidias et comoditates de nocte sive de die aut quacunque
+          <lb ed="#B" n="27"/>ocasione casus oportunitas id agendi adduxerit sive comodi
+          <lb ed="#B" break="no" n="28"/>tas ipse invenerit. Cuius ratio est quia omnia eius modi sunt
+          <lb ed="#B" n="29"/>licita, habenti continuum justum bellum, nisi ex tali occasione,
+          <lb ed="#B" n="30"/>tyranidis maius periculum multidini venturum timentur,
+          <lb ed="#B" n="31"/>
+          <ref xml:id="dc7aa7-e09136-Rd1e368">S. Thomas, 2.2 q. 42 a.2 ad 3, </ref>nisi frangatur fides promissa
+          <lb ed="#B" n="32"/>quod hosti servandum est, ut iam diximus,
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e373">
+          Pues, como 
+          <lb ed="#B" n="33"/>aquellas gentes del Perú, los hijos y herederos del Rey Athabaliba
+          <pb ed="#B" n="186-v"/>
+          <lb ed="#B" n="1"/>y todos los pueblos de aquel reyno y reynos, viesen ya, y han visto 
+          <lb ed="#B" n="2"/>a su Rey injusta y tyránicamente preso y después muerto y mu
+          <lb ed="#B" break="no" n="3"/>chas otras gentes, y puestos todos aquellos reynos en servidumbre,
+          <lb ed="#B" n="4"/>perdida su libertad, usurpados sus estados y dignidades, sus juris
+          <lb ed="#B" break="no" n="5"/>dictiones y derechos reales posseydos todos de tyranos, robados tan
+          <lb ed="#B" n="6"/>inmensos thesoros; y que por los repartimientos, los pueblos y 
+          <lb ed="#B" n="7"/>los señores naturales herederos del dicho Rey Athabaliba y otros
+          <lb ed="#B" n="8"/>señores y todas las personas particulares biven en continua y dura
+          <lb ed="#B" n="9"/>oppressión, y se veen cada hora desde que los españoles en aquellas
+          <lb ed="#B" n="10"/>tierras entraron, disminuir y acabar; manifiesto es, y 
+          <lb ed="#B" n="11"/>aun lo será a qualesquier bárbaros, que desde la hora que allá entra
+          <lb ed="#B" break="no" n="12"/>ron y hizieron las obras de que tratamos, fue adquirido derecho
+          <lb ed="#B" n="13"/>los pueblos y todo el reyno y reynos de hazer guerra a los españoles.
+          <lb ed="#B" n="14"/>Lo uno, para librar su Rey mientras bivió; lo otro para después de
+          <lb ed="#B" n="15"/>muerto él, restituir a sus herederos en aquellos estados y reynados
+          <lb ed="#B" n="16"/>que él tenía, y los demás que después de muerto el Rey del Cuzco
+          <lb ed="#B" n="17"/>llamado Guázcar, su hermano, le podían pertenecer; lo otro, para
+          <lb ed="#B" n="18"/>restituir otros muchos señores que han despojado, y a todos en sus di
+          <lb ed="#B" n="19"/>gnidades y derechos reales; lo otro, para libertar todos aquellos rey
+          <lb ed="#B" break="no" n="20"/>nos de manos de los tiranos y recuperar su prístina libertad; lo otro,
+          <lb ed="#B" n="21"/>para recuperar los innumerables thesoros, quales robaron; lo otro, para
+          <lb ed="#B" n="22"/>redimir cada una persona particular su vexación y servidumbre tyrá
+          <lb ed="#B" break="no" n="23"/>nica, en que se vee cada hora fenecer él y su linaje.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e430">
+          Lo mismo, los reyes
+          <lb ed="#B" n="24"/>herederos de Athabaliba y los demás Señores tienen el mismo dere
+          <lb ed="#B" n="25"/>cho por su proprio interesse y por ayudar a los pueblos <sic> y reynos<!--edition excludes this--></sic>
+          <lb ed="#B" n="26"/>y librallos de tan grande adversidad, daños y males irreparables,
+          <lb ed="#B" n="27"/>adquirieron y tienen derecho fortíssimo de ley natural de hazer
+          <lb ed="#B" n="28"/>guerra a los españoles como a proprios y verdaderos tyranos; no sola
+          <lb ed="#B" break="no" n="29"/>mente los reyes y los pueblos y el reyno en común, pero cada perso
+          <lb ed="#B" n="30"/>na particular tiene el mismo derecho que le da la ley natural. De
+          <lb ed="#B" n="31"/>manera que, no solamente los señores, convocando gentes y ayuntan
+          <lb ed="#B" n="32"/>do exército y haziendo guerra pública, y los mismos pueblos 
+          <lb ed="#B" n="33"/>adunándose para hazella, pueden justíssimamente a los espa
+          <pb ed="#B" n="187-r"/>
+          <lb ed="#B" break="no" n="1"/>ñoles matar y anihilar sin que dexen memoria dellos, pero qual
+          <lb ed="#B" break="no" n="2"/>quiera indio particularjustíssimamente lo puede hazer por la 
+          <lb ed="#B" n="3"/>misma autoridad, durmiendo o velando, por detrás o por delante,
+          <lb ed="#B" n="4"/>o comoquiera que se le ofrezca, como da oportunidad, como queda
+          <lb ed="#B" n="5"/>provado; y la causa general, porque qualquiera del pueblo o comu
+          <lb ed="#B" n="6"/>nidad o reyno puede matar por como a enemigos. las dichas maneras al tyrano o 
+          <lb ed="#B" n="7"/>tyranos, porque ya son desafiados por toda la república, o tácita
+          <lb ed="#B" n="8"/>o expressamente. De expresso quidem aut publice diffidato, sci
+          <lb ed="#B" break="no" n="9"/>licet ominatim, patet in Bannito; de tacite autem diffidato, id est
+          <lb ed="#B" n="10"/>qui vere est hostis civitatis seu regni et patrie, qui per vim vel 
+          <lb ed="#B" n="11"/>oppressionem cepit sive usurpavit principatum in populo li
+          <lb ed="#B" n="12"/>bero, civibusinvitis vel ad consensum coactis et omnimodam li
+          <lb ed="#B" n="13"/>bertatem, et tamen propter eius potentiam nemo audet ad
+          <lb ed="#B" n="14"/>liberationem reipublice aspirare; cuius tyranide durante, po
+          <lb ed="#B" n="15"/>pulus vel regnum tacite videtur illum diffidasse et pro publico hoste
+          <lb ed="#B" n="16"/>habuisse, ac per consequens data intelligitur cuilibet e populo potes
+          <lb ed="#B" n="17"/>tas licite illum necare. Unde <ref xml:id="dc7aa7-e09136-Rd1e497">S. Thomas, 2 Sentent., dist. 44,
+            <lb ed="#B" n="18"/>a. penult., ad ultimum</ref>, dicit quod <quote xml:id="dc7aa7-e09136-Qd1e502">«quando non est recursus ad superiorem,
+              <lb ed="#B" n="19"/>laudabiliter tyrannus, qui per violentiam et metum se fecit dominum
+              <lb ed="#B" n="20"/>subditis invitis vel ad consensum coactis, occiditur a persona privata.» 
+              <lb ed="#B" n="21"/>
+            </quote>Hec ex illo. Adde quoad ladem, cundem S. Thomas: <quote xml:id="dc7aa7-e09136-Qd1e511">«nisi ex hoc maius detri
+              <lb ed="#B" break="no" n="22"/>mentum regno vel multidini sequeretur quod ex ipso regimine ty
+              <lb ed="#B" break="no" n="23"/>ranni»:</quote>
+          <ref xml:id="dc7aa7-e09136-Rd1e518">2.2 q. 42 a.2 ad 3;</ref> et<ref xml:id="dc7aa7-e09136-Rd1e520"> Lib. 1, cap. 6, De regimine principum</ref>.
+          <lb ed="#B" n="24"/>Queda luego manifiesto que las gentes de aquellos reynos y tierras
+          <lb ed="#B" n="25"/>del Perú tienen justa guerra contra los españoles, por razón de re
+          <lb ed="#B" n="26"/>cuperar lo que es possible de las injusticias rescebidas y satisfación
+          <lb ed="#B" n="27"/>de tan grandes males y daños.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 18</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 18</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="167-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05406"><!-- dd-c18 -->
+        <head xml:id="dc7aa7-e05406-Hd1e111">Capitulo 18</head>
+        <p xml:id="dc7aa7-e05406-d1e113">
+          Capítulo 18
+        </p>
+        <p xml:id="dc7aa7-e05406-d1e115">
+          <lb ed="#B" n="23"/>Y porque se vea quanto verdad es las dos maneras de ty<lb ed="#B" break="no" n="24"/>ranías que arriba dexamos dichas y provadas, conviene
+          <lb ed="#B" n="25"/>a saber, el tyránico ingresso que los españoles han introdu<lb ed="#B" break="no" n="26"/>zido en las Indias, por las quales las han destruydo: Queremos 
+          <lb ed="#B" n="27"/>aquí traer una provanga de que ninguno podrá dudar. Y ésta 
+          <lb ed="#B" n="28"/>es un prólogo de una Provissión y ordenación real y ge<lb ed="#B" break="no" n="29"/>neral, para que se guardase en todas las Indias, hecha en
+          <lb ed="#B" n="30"/>Granada a XXXI de jullio de mill y quinientos y veinte
+          <lb ed="#B" n="31"/>seis años. Y dize así:
+        </p>
+        <p xml:id="dc7aa7-e05406-d1e137">
+          <pb ed="#B" n="168-r"/>
+          <lb ed="#B" n="1"/>Don Carlos, por la gracia de Dios, etc... Por quanto nos
+          <lb ed="#B" n="2"/>somos certificados, y es notorio que por la desordenada cudicia
+          <lb ed="#B" n="3"/>de algunos de nuestros súbditos que passaron a las nuestras Islas
+          <lb ed="#B" n="4"/>y Tierra Firme del mar océano, por el mal tratamiento
+          <lb ed="#B" n="5"/>que hizieron a los indios naturales de las dichas Islas e Tierra
+          <lb ed="#B" n="6"/>Firme, así en los grandes y excessivos trabajos que les davan,
+          <lb ed="#B" n="7"/>tiniéndolos en las minas para sacar oro y en las pesquerías
+          <lb ed="#B" n="8"/>de las perlas y en otros labores y grangerías, haziéndoles tra
+          <lb ed="#B" n="9"/>bajar excessiva e immoderadamente, no les dando el vestir
+          <lb ed="#B" n="10"/>y mantenimiento necessario para sustentación de sus
+          <lb ed="#B" n="11"/>vidas, tractándolos con crueldad y desamor, mucho <sic>porque <!--edition has peor que instead--></sic>
+          <lb ed="#B" n="12"/>si fueran esclavos; lo qual todo ha sido y fue causa de la mu<lb ed="#B" break="no" n="13"/>erte de gran número de los dichos indios e tanta cantidad,
+          <lb ed="#B" n="14"/>que muchas de las Islas y parte de Tierra Firme quedaron
+          <lb ed="#B" n="15"/>yermas y sin población alguna de los dichos indios y naturales
+          <lb ed="#B" n="16"/>dellas; y que otros húyense y se fuessen y se absentasen de
+          <lb ed="#B" n="17"/>sus propias tierras y su naturaleza, y se fuessen a los montes
+          <lb ed="#B" n="18"/>y a otros lugares para salvar sus vidas y salir de la dicha
+          <lb ed="#B" n="19"/>subjeción y mal tratamiento, lo qual fue también gran
+          <lb ed="#B" n="20"/>estorvo a la conversión de los dichos indios a nuestra sancta fe
+          <lb ed="#B" n="21"/>cathólica, y de no haver venido todos ellos entera y general<lb ed="#B" break="no" n="22"/>mente con verdadero conoscimiento della. <sic><!--edition joins sentences--></sic> De que Dios 
+          <lb ed="#B" n="23"/>es nuestro Señor, El muy deservido. Y así mismo somos informados
+          <lb ed="#B" n="24"/>que los capitanes y otras gentes, que con nuestra licencia y mandado
+          <lb ed="#B" n="25"/>fueron a descubrir y poblar a algunas de las dichas Indias
+          <lb ed="#B" n="26"/>y Tierra Firme, seyendo como son, y es nuestro intento y deseo de traer
+          <lb ed="#B" n="27"/>a los dichos indios en cognoscimiento verdadero de Dios, nu
+          <lb ed="#B" n="28"/>estro Señor, y de su sancta fe, con predicación della y exemplo
+          <lb ed="#B" n="29"/>de personas doctas y buenos religiosos, con les hazer buenas o<lb ed="#B" break="no" n="30"/>bras y tractamentos de próximos, sin que en sus personas y
+          bie<lb ed="#B" break="no" n="31"/>nes no recibiessen fuerga, apremio, daño, ni desaguisado al<lb ed="#B" break="no" n="32"/>guno. Y haviendo todo esto se ydo así por nos ordenado y 
+          man<lb ed="#B" break="no" n="33"/>dado, llevando los dichos capitanes y otros nuestros officiales y
+          <pb ed="#B" n="168-v"/>
+          <lb ed="#B" n="1"/>gentes de las tales armadas por mandamiento e instrución
+          <lb ed="#B" n="2"/>particular, movidos por la dicha cudicia, olvidando el servicio
+          <lb ed="#B" n="3"/>de Dios, nuestro Señor y nuestro, hizieron y mataron a muchos de los
+          <lb ed="#B" n="4"/>dichos indios en los descubrimientos y conquistas y les tomaron
+          <lb ed="#B" n="5"/>sus bienes, sin que los dichos indios los oviesen dado causa justa
+          <lb ed="#B" n="6"/>para ello, ni hoviesen precedido ni hecho las amonestaciones que
+          <lb ed="#B" n="7"/>eran tenidos de las hazer, ni hecho a los christianos resistencia
+          <lb ed="#B" n="8"/>ni daño alguno para la predicación de nuestra sancta fe. Lo qual
+          <lb ed="#B" n="9"/>demás de averse ydo en gran offensa de Dios, nuestro Señor, dio oca<lb ed="#B" break="no" n="10"/>sión y fue culpa que no solamente los dichos indios que resci
+          <lb ed="#B" n="11"/>bieron las dichas fuergas y daños O agravios, pero otros muchos
+          <lb ed="#B" n="12"/>comarcanos que tuvieron dello noticia y sabiduría se levantaron
+          <lb ed="#B" n="13"/>y juntaron con mano armada contra los christianos, nuestros súb<lb ed="#B" break="no" n="14"/>ditos, y mataron muchos dellos; y aun a los religiosos y personas
+          <lb ed="#B" n="15"/>ecclesiásticas que nunca culpa tuvieron, y como mártyres pa<lb ed="#B" break="no" n="16"/>descieron, predicando la fe christiana. Por lo qual, todo
+          <lb ed="#B" n="17"/>suspendimos y sobreseymos en el dar de las licencias para las
+          <lb ed="#B" n="18"/>dichas conquistas y descubrimientos, queriendo proveer y pla<lb ed="#B" break="no" n="19"/>ticar así sobre el castigo de lo passado como en el remedio de
+          <lb ed="#B" n="20"/>lo venidero, y escusar los dichos daños e inconvenientos, y
+          <lb ed="#B" n="21"/>dar orden que los descubrimientos e poblaciones que de aquí a
+          <lb ed="#B" n="22"/>delante se hovieran de hazer, se hagan sin offensa de Dios,
+          <lb ed="#B" n="23"/>nuestro Señor, e sin muerte ni robo de los dichos indios, e sin captivarlos
+          <lb ed="#B" n="24"/>por esclavos indevidamente. De manera que el deseo que havemos
+          <lb ed="#B" n="25"/>tenido y tenemos de ampliar nuestra sancta fe cathólica, y que los dichos
+          <lb ed="#B" n="26"/>indios e infieles vengan en conocimiento della, se haga sin
+          <lb ed="#B" n="27"/>cargo de nuestras consciencias y se prosiga nuestro propósito
+          <lb ed="#B" n="28"/>a la intención y obra de los Cathólicos Reyes, nuestros Señores
+          <lb ed="#B" n="29"/>y abuelos, en todas aquellas partes de las Islas y Tierra Firme
+          <lb ed="#B" n="30"/>del mar occéano, que de nuestra conquista quedaron y quedan por descu<lb ed="#B" break="no" n="31"/>brir y poblar. Lo qual, visto con gran deliberación por los del nuestro
+          <lb ed="#B" n="32"/>Consejo de las Indias, y con nos consultado, fue acordado que devíamos
+          <lb ed="#B" n="33"/>mandar esta carta en la dicha razón. Por lo qual, ordena
+          <pb ed="#B" n="169-r"/>
+          <lb ed="#B" break="no" n="1"/>mos y mandamos que agora y de aquí adelante, así para remune<lb ed="#B" break="no" n="2"/>ración de lo passado como en los descubrimientos y poblaciones
+          <lb ed="#B" n="3"/>que por nuestro mandado y nuestro nombre se hizieren en las
+          <lb ed="#B" n="4"/>dichas Islas del mar océano, descubiertas y por descubrir en nuestros
+          <lb ed="#B" n="5"/>límites y demarcaciones, se guarde y cumpla lo que de yuso se<lb ed="#B" break="no" n="6"/>rá contenido en esta guisa, etc. Y si hasta el año de 1526 
+          <lb ed="#B" n="7"/>se havían cometido los estragos que la Provisión significa, tén<lb ed="#B" break="no" n="8"/>gase por cierto que desde entonces hasta el año de sesenta y
+          <lb ed="#B" n="9"/>tres en que estamos, han sido cinquenta y muchas más vezes en número
+          <lb ed="#B" n="10"/>y crueldad mayores. Esto parece porque desde entonces se es<lb ed="#B" break="no" n="11"/>tragó y destruyó y robó y despobló la Nueva España, Guatimala,
+          <lb ed="#B" n="12"/>Yucatán, Nicaragua, e los grandes reynos del Perú, 
+          <lb ed="#B" n="13"/>el nuevo reyno de Popayán, y el Río de la Plata, y Chile, y sus tierras y
+          <lb ed="#B" n="14"/>y provincias comarcanas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

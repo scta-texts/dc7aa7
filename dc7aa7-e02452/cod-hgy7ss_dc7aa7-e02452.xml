@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 8</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 8</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="150-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02452"><!-- dd-c8 -->
+        <head xml:id="dc7aa7-e02452-Hd1e111">Capitulo 8</head>
+        <p xml:id="dc7aa7-e02452-d1e113">
+          <lb ed="#B" n="3"/>Capítulo 8
+          <lb ed="#B" n="4"/>Principio 4°
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e120">
+          <lb ed="#B" n="5"/>La Sancta Sede Apostólica, en conceder el dicho principado y su  
+          <lb ed="#B" n="6"/>perioridad imperial de aquel indiano orbe a los Reyes nuestros  
+          <lb ed="#B" n="7"/>catholicos de Castilla y León, no entendió privar los reyes y señores   
+          <lb ed="#B" n="8"/>naturales de aquel dicho nuevo mundo de sus estados reales y señoríos  
+          <lb ed="#B" n="9"/>y jurisdicciones, honras y dignidades, ni a nuestros reyes Cathólicos   
+          <lb ed="#B" n="10"/>conceder alguna licencia o facultad con que pudiessen hazer, o de  
+          <lb ed="#B" n="11"/>xassen de hazer cosa, por lo qual la dilatación de la fe fuese frustra  
+          <lb ed="#B" n="12"/>da, y al Evangelio se pusiesse algún offendículo, de manera que la  
+          <lb ed="#B" n="13"/>conversión y salvación de aquellas gentes del todo se impediesse o se   
+          <lb ed="#B" n="14"/>retardase, que es lo que Christo y Su Vicario por principal fin pretenden.  
+          <lb ed="#B" n="15"/>Pruévase este 4a Principio por muchas razones y maneras. La 1a  
+          <lb ed="#B" n="16"/>sea por la probación de la 4? especie de infieles (Caps. IV, V y VI), donde   
+          <lb ed="#B" n="17"/>queda provado que aquellas gentes están fuera de toda juridición  
+          <lb ed="#B" n="18"/>temporal y espiritual de la Yglesia y de todo miembro della.   
+          <lb ed="#B" n="19"/>Porque no tenemos que hazer en malo ni en bueno con ella, más   
+          <lb ed="#B" n="20"/>de amallas y ser solícitos para el cognoscimiento de Dios traellas.  
+          <lb ed="#B" n="21"/>Lo 2o, se prueva por el precedente principio y su provanga, donde   
+          <lb ed="#B" n="22"/>Se mostró ser única y final causa de la dicha concessión, la predi  
+          <lb ed="#B" n="23"/>cación de la fe y conversión de aquellas gentes. Pues, ésta no es   
+          <lb ed="#B" n="24"/>sufficiente causa discusa para privar los infieles  
+          <lb ed="#B" n="25"/>de sus bienes, reynados, honrras, dignidades, estados y señoríos.   
+          <lb ed="#B" n="26"/>Porque sin privar los infieles de sus estados, honrras, bienes y  
+          <lb ed="#B" n="27"/>señoríos, se puede predicar la fe y la conversión de las gentes  
+          <lb ed="#B" n="28"/>conseguire. Antes, como es manifiesto, privarlos de sus señoríos   
+          <lb ed="#B" n="29"/>y bienes sería causa efficacíssima para turbar todo el mundo y   
+          <lb ed="#B" n="30"/>dalles motivo de estimar la ley de Christo y religión christiana   
+          <lb ed="#B" n="31"/>por injustísima y tenerle odio gravíssimo, y al Rey del cielo   
+          <lb ed="#B" n="32"/>que la fundó por tirano, y del linaje humano enemicíssimo.   
+          <lb ed="#B" n="33"/>Y por el justo miedo de perder sus bienes, dignidades y honores, etc,  
+          <lb ed="#B" n="34"/> ternían justíssimo derecho de hazernos guerra y destruyrnos. Luego,   
+          <lb ed="#B" n="35"/>no se ha de presumir que la Sede Apostólica entendiesse privar los Reyes   
+          <lb ed="#B" n="36"/>y Señores naturales de aquel orbe por la concessión que hizo a los Re  
+          <lb ed="#B" n="37"/>yes de León y Castilla, ni dalles facultad para que hiziessen cosa, / o  
+          
+          <pb ed="#B" n="150-v"/>
+          <lb ed="#B" n="1"/>o dexasse de hazer, que turbase los infieles y los pusiese en odio de la 
+          <lb ed="#B" n="2"/>fe, y tomasen ocasión de blasphemar del mismo lesu Christo. Lo 3o,  
+          <lb ed="#B" n="3"/>por el mismo fundamento: la causa única y final de la dicha con 
+          <lb ed="#B" n="4"/>cessión fue la promulgación del Evangelio y predicación de la fe  
+          <lb ed="#B" n="5"/>y conversión de aquellas gentes. Pues, para conseguir qualquiera fin,  
+          <lb ed="#B" n="6"/>necessariamente se han de tomar y escoger los medios proporciona 
+          <lb ed="#B" n="7"/>dos a él y evitar todo aquello que lo puede impedir, según el Philósofo, 
+          <lb ed="#B" n="8"/>2o de los Pbísicos, y dexarlos en sus estados y en ellos conservalles, 
+          <lb ed="#B" n="9"/>y aun augmentárselos y dalle de valde la fe, como Christo dexó  
+          <lb ed="#B" n="10"/>establecido, y otros bienes possibles; fuera y es medio proporcionado  
+          <lb ed="#B" n="11"/>para que el Evangelio sin offendículo se predique y los infieles 
+          <lb ed="#B" n="12"/>de buena gana resciban la fe, y privallos dellos sería impedir  
+          <lb ed="#B" n="13"/>para siempre, frustrar y destruir totalmente el dicho fin.  
+          <lb ed="#B" n="14"/>Luego, no es de presumir que la Sede Apostólica entendiesse por la dicha 
+          <lb ed="#B" n="15"/>concessión de la superioridad de aquel orbe a los Reyes de Castilla, privar 
+          <lb ed="#B" n="16"/>los Reyes y Señores naturaledse sus bienes, estados y señoríos. 4o,  
+          <lb ed="#B" n="17"/>porque la Sede Apostólica, por sus leyes o constituciones, privilegios y  
+          <lb ed="#B" n="18"/>donaciones, no acostumbra, ni acostumbró quitar o revocar o sus 
+          <lb ed="#B" n="19"/>pender sin legítima y necessaria causa los Derechos,  
+          <lb ed="#B" n="20"/>honrras y cosas que pertenecen a los hombres de derecho natural  
+          <lb ed="#B" n="21"/>y de las gentes y divino; antes protesta de inviolablemente guar 
+          <lb ed="#B" n="22"/>dar el defendellos, aunque por ello derrame la sangre y pierda 
+          <lb ed="#B" n="23"/>la vida, como parece por el capítulo sunt quidam, 25, q.1. Y si no 
+          <lb ed="#B" n="24"/>suele la Sede Apostólica sin causa legítima privar alguno de 
+          <lb ed="#B" n="25"/>su hazienda por poco que sea, mucho menos de sus honores y di 
+          <lb ed="#B" n="26"/>gnidades y de lo que a sus personas pertenece: argumento, ff, De poenis, L.  
+          <lb ed="#B" n="27"/>in servorum; arguye Andrés de Ysernia, in título Que sint regalia,  
+          <lb ed="#B" n="28"/>L. vectigalia, 3. col. Pues, si entendiera privar los reyes y señores  
+          <lb ed="#B" n="29"/>de aquel orbe de sus estados y señoríos por la dicha concessión o do 
+          <lb ed="#B" n="30"/>nación, fuera privarlos sin causa legítima de sus Derechos  
+          <lb ed="#B" n="31"/>y honrras y dignidades que les pertenecen de derecho natural,  
+          <lb ed="#B" n="32"/>de las gentes, y divino, como está dicho, lo que no se deve de la  
+          <lb ed="#B" n="33"/>Sancta Sede pensar y menos dezir. Luego, por la dicha donación,  
+          <lb ed="#B" n="34"/>no entendió la Sancta Sede privarlos de sus bienes, honras  
+          <lb ed="#B" n="35"/>y señoríos etc. Sirva por 5a razón el dicho Dominico 
+          <lb ed="#B" n="36"/>de Sancto Geminiano en el Consejo undécimo, y dize así, que 
+          <lb ed="#B" n="37"/> cada y quando el Papa concede algún derecho de nuevo, no se  
+          <lb ed="#B" n="38"/>entiende que sea su intención quitar el derecho que algun ter 
+          <lb ed="#B" n="39"/>cero antes tenía. Porque siempre se entiende, y ha de entender,   
+          
+          <pb ed="#B" n="151-r"/>
+          <lb ed="#B" n="1"/>que el Papa si algo concede es sin perjuycio del derecho ageno 
+          <lb ed="#B" n="2"/>ut in c. super eo, De officio delegati et De rescriptis, c. quamvis et c. si propter   
+          <lb ed="#B" n="3"/>tua debita, Lib. 6 et quod plus, inquit, est etiam si apponat ver  
+          <lb ed="#B" n="4"/>ba se referentia ad vitium de preterito, dicendo quod possit obici  
+          <lb ed="#B" n="5"/>vitium precedens. Quia per hoc verba generalia, non est inten  
+          <lb ed="#B" n="6"/>tio Pape auferre jus alteri que Valde notandum. situm ni re vel ad rem nisi hoc speci  
+          <lb ed="#B" n="7"/>fice dicat: dicto c.quamvis; et De consuetudine, c. cum olim. Todo esto es de   
+          <lb ed="#B" n="8"/>Dominico, y puede añadirse la razón de aquellos textos: Ne scilicet  
+          <lb ed="#B" n="9"/>inde nascantur injurie unde jura nascuntur: 1. meminerint,   
+          <lb ed="#B" n="10"/>Codex, De vi et vi armata. Concediendo, pues, el Vicario de Christo  
+          <lb ed="#B" n="11"/>a los Reyes de Castilla y León el imperio universal y superioridad   
+          <lb ed="#B" n="12"/>de aquel orbe indiano, no fue su intención privar los   
+          <lb ed="#B" n="13"/>Reyes y Señores de aquellas gentes cuyo es aquel orbe y no  
+          <lb ed="#B" n="14"/>nuestro, de sus reynos, estados, dignidades y señoríos, ni a nin  
+          <lb ed="#B" n="15"/>gún particular de sus bienes, ni el Papa les dio facultad para  
+          <lb ed="#B" n="16"/>hazer ni dexar hazer cosa por la qual la predicación de  
+          <lb ed="#B" n="17"/>la fe fuese frustrada y puesto algún offendículo el Evan  
+          <lb ed="#B" n="18"/>gelio y se impediesse la conversión de las ánimas, sino que   
+          <lb ed="#B" n="19"/>siendo universales Príncipes y Sefiores en favor de la fe,   
+          <lb ed="#B" n="20"/>se queden los naturales reyes con sus inmediatos goviernos  
+          <lb ed="#B" n="21"/>y señoríos. Pues, se compadecen muy bien el un señorío  
+          <lb ed="#B" n="22"/>con otro, como provamos en nuestro Tractado Comprobato  
+          <lb ed="#B" n="23"/>rio desta misma manera, el qual dedicamos al Rey don Felipe, nuestro  
+          <lb ed="#B" n="24"/>Rey y Señor, siendo Príncipe y asi parece  
+          <lb ed="#B" n="25"/>provado el 4a Principio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

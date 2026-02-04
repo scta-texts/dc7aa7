@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 14</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 14</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="160-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04119"><!-- dd-c14 -->
+        <head xml:id="dc7aa7-e04119-Hd1e111">Capitulo 14</head>
+        <p xml:id="dc7aa7-e04119-d1e113">
+          <lb ed="#B" n="23"/>Capítulo 14. 
+          <lb ed="#B" n="24"/>¶Agora es deber como los españoles gudaron ensu primer ingress¬ 
+          <lb ed="#B" n="25"/>o primer pieque pusieron en aquellas indias y en cada parte 
+          <lb ed="#B" n="26"/>dellas ladicha orden del deecho natural y divino ensus partes 
+          <lb ed="#B" n="27"/>y asi parecera la Justicia conque entraron.¶Quanto pues ala 
+          <lb ed="#B" n="28"/>primera parte queera entrar por paz: su ingresso y entrada 
+          <lb ed="#B" n="29"/>fue no como de hombres crueles ysin misericordia que ouiessen 
+          <lb ed="#B" n="30"/>grandes injurias y daños de otros rescubido y quisieran vengar 
+          <lb ed="#B" n="31"/>se haciendo matancas y estragos de industria senalados solamente. 
+          <lb ed="#B" n="32"/>sino como de imanes bestias y razonables: como de tygres en niños 
+          <lb ed="#B" n="33"/>para tragallos: como de hambrientos raujosos lobos en corderos 
+          <lb ed="#B" n="34"/>mansissimos innocentes: entrando encada pueblo matando y 
+          <lb ed="#B" n="35"/>despedacando hombres y mugeres niños y viejos señores y subdi¬ 
+          <lb ed="#B" n="36"/>tos sin diferencia alguna de edad ni sexo ni dignidad muchas 
+          <lb ed="#B" n="37"/>vezes dando enellos seguros en sus casas y camas alquarto dela 
+          <lb ed="#B" n="38"/>luna poniendo huego alas casas que mandose losque nosolian tan 
+          
+          <pb ed="#B" n="160-v"/>
+          <lb ed="#B" n="1"/>prosto: y los que salían huyendo del fuego, hallavan luego allí 
+          <lb ed="#B" n="2"/>las espadas que los desvarrigaban y hazían pedagos; muchas vezes,   
+          <lb ed="#B" n="3"/>saliendo con alegría y presentes de comida y de oro y de alhajas  
+          <lb ed="#B" n="4"/>ricas, de algodón, y otras cosas a rescebir, los españoles davan en ellos,  
+          <lb ed="#B" n="5"/>levantándoles que venían de mala arte y que era fingido aquel  
+          <lb ed="#B" n="6"/>rescibimiento, para colorar que los que tomavan, a vida eran   
+          <lb ed="#B" n="7"/>en buena guerra hechos esclavos?!. Otras vezes aún, ha de miedo se havían huj  
+          <lb ed="#B" n="8"/>do, que no les harían mal ni daño los quales confiando de su pala  
+          <lb ed="#B" n="9"/>bra viniendo a se poner en sus impías manos, los matavan y ha  
+          <lb ed="#B" n="10"/>zían esclavos. Y esta fue maldad de los nuestros, que nunca  
+          <lb ed="#B" n="11"/>guardaron [a] aquellas gentes fe ni verdad ni palabra, que de segu  
+          <lb ed="#B" n="12"/>ridad les hoviessen dado. Tyrano huvo que tenía por sobrenombre  
+          <lb ed="#B" n="13"/>Guerra, que como viniesen ciertos pueblos a se le dar y servirle   
+          <lb ed="#B" n="14"/>con presentes de paz, les respondió que él no quería paz porque se  
+          <lb ed="#B" n="15"/>llamava Guerra, y por tanto no quería recebillos de paz, sino que   
+          <lb ed="#B" n="16"/>por guerra los havía de tomar, y así hizo inumerables esclavos.   
+          <lb ed="#B" n="17"/>Una de las cosas que nosotros tyranos havemos tenido después de la   
+          <lb ed="#B" n="18"/>de henchirnos de oro, era hazer aquellas innocentes gentes escla  
+          <lb ed="#B" n="19"/>vos, por tenerlos y usar dellos a toda nuestra voluntad. Provavan   
+          <lb ed="#B" n="20"/>las espadas en ellos, apostando que henchería por miedo el indio  
+          <lb ed="#B" n="21"/>y le cortaría un piquete el pescuego. Echávanlos a perros   
+          <lb ed="#B" n="22"/>bravos para aquel officio amaestraeste dos, que en un credo los despedagavan.   
+          <lb ed="#B" n="23"/>Henchían los bohíos o casas de paja que comúnmente tenían indios   
+          <lb ed="#B" n="24"/>de gente, hombres y mugeres preñadas y paridas, niños y viejos,   
+          <lb ed="#B" n="25"/>y pegávanles fuego donde todos se quemavan. Poníanlos en ciertos   
+          <lb ed="#B" n="26"/>lechos hechos sobre horquetas baxas, y sobre ellas varas atadas   
+          <lb ed="#B" n="27"/>a manera de parrillas, y sobre ellas atados dos y tres y quatro, y debaxo  
+          <lb ed="#B" n="28"/>encendido fuego bravo, y allí los assavan. Y esto, yo lo vi por mis mis  
+          <lb ed="#B" n="29"/>mos ojos mortales. Hovo tyque porque le diesen oro, prende   
+          <lb ed="#B" n="30"/>al Rey y Señor de la tierra. e uno de los mayores si eran más de   
+          <lb ed="#B" n="31"/>uno los que La señoreavan hízolo assar de la manera dicha, y   
+          <lb ed="#B" n="32"/>él andavase, passeando, rezando el rosario, y de rato en rato de  
+          <lb ed="#B" n="33"/>zía «añadiesse fuego y bolvelde de ese otro lado». Ahorcavan   
+          <lb ed="#B" n="34"/>muchas mugeres, y los niños que criavan, de los pies de ellas   
+          <lb ed="#B" n="35"/>se los ahorcavan; otras enpalaban desde abaxo hasta arriba  
+          <lb ed="#B" n="36"/>abríanles los hijares y metíanles las criaturas por las   
+          <lb ed="#B" n="37"/>cabecitas, donde luego con la sangre de las madres se ahogavan.   
+          <lb ed="#B" n="38"/>Tuvieron siempre nuestros christianos, (si lo fueron con todo)  
+          <lb ed="#B" n="39"/>un propósito muy ordinario, y en cada parte que entravan, que  
+          <lb ed="#B" n="40"/>Sathanás les revistió en sus ánimas de hazer señalado y cruel estra  
+          <lb ed="#B" n="41"/>go y matanqa por engendrar y arraygar su temor en las ánimas   
+          <lb ed="#B" n="42"/>de aquellas ovejas y corderos mansos, para que por toda la  
+          <lb ed="#B" n="43"/>
+          <pb ed="#B" n="161-r"/>
+          <lb ed="#B" n="1"/>tierra su horrible nombre retumbase; y así en oyendo christi 
+          <lb ed="#B" n="2"/>anos, les temblavan, no como quiera sino sobre todo lo que se puede   
+          <lb ed="#B" n="3"/>encarecer, las carnes. Es verdad delante del Justo Juez que   
+          <lb ed="#B" n="4"/>nos ha de juzgar, que si hoviese de referir todas las especies de tor  
+          <lb ed="#B" n="5"/>mentos y el námero dellos que nuestra gente han hecho y hoy hazen  
+          <lb ed="#B" n="6"/>a aquellas naciones que nunca nos hizieron mal, sino muchos  
+          <lb ed="#B" n="7"/>bienes señalados, en las guerras y en lo demás de la vida, de los que  
+          <lb ed="#B" n="8"/>dellas con vida se escaparon, no bastase gran cantidad de papel  
+          <lb ed="#B" n="9"/>y no menos mucha parte de la vida para relatallo, y afirmo   
+          <lb ed="#B" n="10"/>que ni digo, ni encarezco una de mill partes. Esta es, pues, la paz  
+          <lb ed="#B" n="11"/>que los espanioles introduxeron en aquel Nuevo Mundo, y así  
+          <lb ed="#B" n="12"/>guardaron la orden divina y natural. Colija, pues, el lector  
+          <lb ed="#B" n="13"/>de aquí, si ser y haver sido tyránico el primer ingresso o entrada   
+          <lb ed="#B" n="14"/>de los espanioles en aquellas Indias, y en cada una de sus partes,  
+          <lb ed="#B" n="15"/>queda bien probado. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

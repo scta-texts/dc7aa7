@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 22</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 22</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="175-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06894"><!-- dd-c22 -->
+        <head xml:id="dc7aa7-e06894-Hd1e111">Capitulo 22</head>
+        <p xml:id="dc7aa7-e06894-d1e113">Capítulo 22</p>
+        <p xml:id="dc7aa7-e06894-d1e115">
+          <lb ed="#B" n="15"/>Y porque los que destos tales invasores y salteadores de los reynos
+          <lb ed="#B" n="16"/>agenos, y propiamente tyranos, compravan y han comprado
+          <lb ed="#B" n="17"/>los indios que tan injustamente hizieron esclavos, sabían y te<lb ed="#B" break="no" n="18"/>nían
+          sciencia todos los que hoy son y están en las Indias, y apenas
+          <lb ed="#B" n="19"/>se hallará uno que no la tuviese, como fueron hechos esclavos 
+          <lb ed="#B" n="20"/>con las injusticias susodichas. Y desto es un efficasísimo argu
+          <lb ed="#B" n="21"/>mento y claro, que por mandado del Rey muchos años ha gene
+          <lb ed="#B" n="22"/>ralmente fueron mandados en todas las Indias poner en su li
+          <lb ed="#B" n="23"/>bertad. Y quantos acá en Castilla vienen ante el Consejo del
+          <lb ed="#B" n="24"/>Rey a pedir libertad sin detenimiento ni probanca alguna, se la
+          <lb ed="#B" n="25"/>dan por ser notoriossísimo haver sido todos los que los hizieron se<lb ed="#B" break="no" n="26"/>ñialados
+          plagiarios. Y así comprándolos de aquellos plagiarios,
+          <lb ed="#B" n="27"/>o de otra qual
+          <lb ed="#B" n="28"/>quiera manera haviéndolos por esclavos, y todo el tiempo que los
+          <lb ed="#B" n="29"/>tuvieron y vendiéndolos o dándolos de gracia, siempre tuvie<lb ed="#B" break="no" n="30"/>ron
+          mala fe y estuvieron en peccado mortal.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e152">
+          Item, porque
+          <lb ed="#B" n="31"/>los mercaderes se ingerían e ingerieron de su propia voluntad 
+          <lb ed="#B" n="32"/>por sola su cumercaderías a los que dicia de las incomparables riquezas que por las mercaderías
+          <lb ed="#B" break="no" n="33"/>que llevaron y llevan, mayormente en tiempo que los 
+          <pb ed="#B" n="176-r"/>
+          <lb ed="#B" n="1"/>españoles hazían y hazen aquellas obligados a restituir. gentes guerra sin movellos
+          <lb ed="#B" n="2"/>ni llamallos ni mandárselo su Príncipe y no curaron de informar
+          <lb ed="#B" n="3"/>se de hombres doctos y temerosos de Dios de la verdad, siendo tan 
+          <lb ed="#B" n="4"/>notorios los clamores que en la Corte se davan por esta causa, y en
+          <lb ed="#B" n="5"/>España las disputas de los letrados y los sermones de los predicado<lb ed="#B" break="no" n="6"/>res,
+          que todo se enderecava para condenar por malo, o al menos 
+          <lb ed="#B" n="7"/>dudoso, lo que en las Indias se perpetrava,como queda declarado <sic><!--edition separates sentences--></sic>
+          <lb ed="#B" n="8"/>Y así mismo las obras crueles tan de sí malas que en las guerras 
+          <lb ed="#B" n="9"/>se obrava <sic><!--edition has parens--> en las quales o ellos vivían o sus compafieros y hazedores 
+            <lb ed="#B" n="10"/>se hallavan y ayudavan en ellas, </sic> de la justicia de las quales al me<lb ed="#B" break="no" n="11"/>nos
+          devieran dudar, y si verdad quieren confessar, ellos mismos
+          <lb ed="#B" n="12"/>por abominables las juzgavan. Lo qual podían y devían cognos
+          <lb ed="#B" n="13"/>ger por la calidad del tiempo y de las personas y de la cudicia suya,
+          <lb ed="#B" n="14"/>y de los tyranos; y probablemente su consciencia les dictava, 
+          <lb ed="#B" n="15"/>o devía dictar, ser pechos contra justicia y razón natural, como queda 
+          <lb ed="#B" n="16"/>probado. Lo qual todo, no obstante, se precipitaron como cerrados
+          <lb ed="#B" n="17"/>los ojos a llevar armas de toda especie, mayormente cavallos 
+          <lb ed="#B" n="18"/>que son los que mayor daño a aquellas gentes desnudas, como
+          <lb ed="#B" n="19"/>se dixo, hazen, y otras muchas cosas que a la iniqua subjeción
+          <lb ed="#B" n="20"/>que por guerras cruel España que llevaron armas destruyción de aquellos reynos ayu<lb ed="#B" break="no" n="21"/>davan,
+          en especial en la Nueva España quando el primer tyrano y tyranos
+          <lb ed="#B" n="22"/>en ella entraron y la sujuzgaron; y mucho más mal y peor
+          <lb ed="#B" n="23"/>en los reynos del Perú, donde todo lo malo se ha cometido,
+          <lb ed="#B" n="24"/>doblado y tres doblado, y mill vezes doblado, y de donde mayo<lb ed="#B" break="no" n="25"/>res
+          e inauditos thesoros se han robado <sic><!--edition separates sentences--></sic> y los mercaderes de la
+          <lb ed="#B" n="26"/>mayor parte an participado <sic><!--edition separates sentences, has han--></sic> por ende reos fueron y son de todos
+          <lb ed="#B" n="27"/>los pecados mortales que anos cometieron en las guerras, 
+          <lb ed="#B" n="28"/>de muertes, y despojos, y robos, y usurpaciones de los señores na<lb ed="#B" break="no" n="29"/>turales,
+          y son obligados a restitución de quanto se robó in solidum,
+          <lb ed="#B" n="30"/>porque ellos fueron los que más en las guerras ayudaron en da<lb ed="#B" break="no" n="31"/>ño
+          y perdición de aquellas gentes, señores de aquellas tierras
+          <lb ed="#B" n="32"/>naturales, con sus mercaderías, sustentando los que tan injusta<lb ed="#B" break="no" n="33"/>mente
+          aquellas gentes inocentes talavan y assolavan. A los
+          <lb ed="#B" n="34"/>quales, aunque no llevaran mercaderías por vía de ganancia,
+          <lb ed="#B" n="35"/>sino por hazerles limosna si estuvieran en estrema necessidad,
+          <lb ed="#B" n="36"/>peccaronmortalmente los mercaderes si aun las cosas que no eran
+          <pb ed="#B" n="176-v"/>
+          <lb ed="#B" n="1"/>armas sino mantenimientos les proveyeran, estando hazien<lb ed="#B" break="no" n="2"/>do
+          las obras que obravan; antes les avían de quitar toda susten
+          <lb ed="#B" n="3"/>tación si pudieran, porque dellas cessarán. La razón es porque so
+          <lb ed="#B" n="4"/>mos obligados así como a ayudar haziendo bien a los próximos, 
+          <lb ed="#B" n="5"/>también a impedirles por las vías possibles todo mal: <quote xml:id="dc7aa7-e06894-Qd1e267">«Non est 
+            <lb ed="#B" n="6"/>grandis differencia, an lethum inferas, pecado lo necesario para vel admittas. Mortem enim 
+            <lb ed="#B" n="7"/>languentibus probatur infligere, qui hanc, cum possit, non ex
+            <lb ed="#B" n="8"/>cludit» </quote>
+          <ref xml:id="dc7aa7-e06894-Rd1e276"> 83 disti, </ref> in principio y a desto mucho escripto, y así ni 
+          <lb ed="#B" n="9"/>limosna, aunque perecieran de hambre, se les podía dar sin pecado
+          <lb ed="#B" n="10"/>mortal. La razón es porque supuesto que en las tales obras perse
+          <lb ed="#B" n="11"/>veravan, eran los que se las davan partícipes de aquellos males y
+          <lb ed="#B" n="12"/>daños. Y desto hay en la Sacra Escriptura autoridad: <ref xml:id="dc7aa7-e06894-Rd1e287" target="http://scta.info/resource/qoh12_5 http://scta.info/resource/qoh12_6"> Ecclesiástico 12: </ref>
+          <lb ed="#B" n="13"/>
+          <quote xml:id="dc7aa7-e06894-Qd1e292">«Benefac humili, et non dederis impio. Prohibe panes illi dari, nec
+            <lb ed="#B" n="14"/>in ipsis potentior te sic. <sic> Nam duplicia mala inuerieres in omni
+              <lb ed="#B" n="15"/>bus bonis quecunque feceris illi: <!--edition exlcudes this part--></sic> quoniam et Altissimus odio habet pecca<lb ed="#B" break="no" n="16"/>dores,
+            et impiis reddet vindictam» </quote>, y en los cánones está registra<lb ed="#B" break="no" n="17"/>da
+          una sentencia de sant <!--edition has san--> Augustín en <ref xml:id="dc7aa7-e06894-Rd1e310"> la Epístola ad Vicentius <sic><!--edition has Vicentium--></sic>
+            <lb ed="#B" n="18"/>Donatistam, 5, q.5, c. non omnis: </ref>
+          <quote xml:id="dc7aa7-e06894-Qd1e318"> «Utilius esurienti panis tollitur,
+            <lb ed="#B" n="19"/>si de cibo securus justitiam negligat, quam esurienti panis frangatur.<sic><!--edition joins sentences--></sic>
+            <lb ed="#B" n="20"/>Ut injustitie seductus aquiescat».</quote> hec ibi. Y sancto Thomás al 
+          <lb ed="#B" n="21"/>propósito, en <ref xml:id="dc7aa7-e06894-Rd1e330"> el Opúsculo XIX, cap. 7, columna 17, ad 4m </ref> dize: <quote xml:id="dc7aa7-e06894-Qd1e332"> «Quam tunc 
+            <lb ed="#B" n="22"/>penaque subtrahendo est elemosina petentibus, quam ex acceptis occa<lb ed="#B" break="no" n="23"/>sionem
+            injustitie manifeste accipiunt» hec ille. </quote>
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e340">
+          Parece, pues,
+          <lb ed="#B" n="24"/>que los tales mercaderes nunca tuvieron buena fe sino mala
+          <lb ed="#B" n="25"/>consciencia, llevando las dichas mercaderías, aunque no fue<lb ed="#B" break="no" n="26"/>sen
+          armas. Y no los pudo excusar ignorancia ni la duda, co<lb ed="#B" break="no" n="27"/>mo
+          sean en todo más astutos y sepan primero que otros las cosas que 
+          <lb ed="#B" n="28"/>passan en la Corte y passavan en las Indias, y aun ellos son los
+          <lb ed="#B" n="29"/>primeros que tienen avisos de las cosas del mundo, y aun los Re<lb ed="#B" break="no" n="30"/>yes
+          no saben las nuevas tan presto. 
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e359">
+          Y así por todo lo dicho,
+          <lb ed="#B" n="31"/>parece tener verdad este 8? Principio, conviene a saber, que
+          <lb ed="#B" n="32"/>ningún español de los que han passado a las Indias, de cinquenta
+          <lb ed="#B" n="33"/>años a éste de 1563, en que por la misericordia de Dios hoy somos, <sic> aver <!--edition has haver--></sic>
+          <lb ed="#B" n="34"/>avido de los que se han hallado poco que mucho en la destruición y
+          <lb ed="#B" n="35"/>perdición de aquellas indianas gentes y tierras, que haya tenido
+          <lb ed="#B" n="36"/>ni tenga buena fe cerca de quatro cosas: La una, cerca 
+          <pb ed="#B" n="177-r"/>
+          <lb ed="#B" n="1"/>de las guerras. 
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e383"> La 2a cerca 
+          <lb ed="#B" n="2"/>de las armadas y salteamientos, que todo uno con las guerras
+          <lb ed="#B" n="3"/>que llamaron entradas y rancherías.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e390">
+          La 3a, cerca de comprar 
+          <lb ed="#B" n="4"/>los esclavos indios tomados en ellas, los que los compravan de los
+          <lb ed="#B" n="5"/>mismos que los hazían esclavos. 
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e397"> La 4*, cerca de las mercade<lb ed="#B" break="no" n="6"/>rías
+          que se llevavan y vendían a los que hazían y exercitavan
+          <lb ed="#B" n="7"/>las dichas guerras, etc. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

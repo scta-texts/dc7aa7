@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 6</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 6</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="148-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02206"><!-- dd-c6 -->
+        <head xml:id="dc7aa7-e02206-Hd1e111">Capitulo 6</head>
+        <p xml:id="dc7aa7-e02206-d1e113">
+          <lb ed="#B" n="16"/>Capítulo 6
+        </p>
+        <p xml:id="dc7aa7-e02206-d1e118">
+          <lb ed="#B" n="17"/>Y que las nuestras naciones indianas se comprehendan en esta 4a specie,  
+          <lb ed="#B" n="18"/>con poco trabajo lo que puede provar, aunque sea de los  
+          <lb ed="#B" n="19"/>de Sayago. Que tengan y posean gus reynos y tierras de Derecho natural   
+          <lb ed="#B" n="20"/>y de las gentes, no recognoscientes algún superior, de jure ni de facto   
+          <lb ed="#B" n="21"/>id est actu, fuera de sí mismos, como los hallamos en posessión dellos   
+          <lb ed="#B" n="22"/>y con tantos principados y señoríos sobre tan infinitos números de   
+          <lb ed="#B" n="23"/>mortales: de los quales no sólo eran servidos y obedecidos pero también   
+          <lb ed="#B" n="24"/>más que adorados, y sus Reyes y Príncipes usando y exercitando en   
+          <lb ed="#B" n="25"/>ellos libremente toda juridicción y potestad, alta y baxa, mero y   
+          <lb ed="#B" n="26"/>mixto imperio, sin que nadie fuesse poderoso para les yr a la mano,   
+          <lb ed="#B" n="27"/>y sus reynos y regiones tan lexos y con tan luenga distancia  
+          <lb ed="#B" n="28"/>de los nuestros apartados, y así muy agenos de avernos offendido a nos ni   
+          <lb ed="#B" n="29"/>a la Yglesia ni a la fe cathólica ni a miembroalguno della ni a per  
+          <lb ed="#B" n="30"/>sona del pueblo christiano, ni de tener con nosotros algún tracto ni vas  
+          <lb ed="#B" n="31"/>sallaje. ¿Quién, que tenga juyzio recto, podrá negallo? Son luego pro  
+          <lb ed="#B" n="32"/>piamente nuestras indianas naciones occidentales y meridionales   
+          <lb ed="#B" n="33"/>desta specie o differencia de infideles quarta. Confírmase esto por   
+          <lb ed="#B" n="34"/>un nuevo Decreto que constituyó el Papa Paulo 3. El qual en su bulla   
+          <lb ed="#B" n="35"/>plomada, que comienza Sublimis Deus sic dilexit humanum genus,  
+          <lb ed="#B" n="36"/>decerendo et declarando: Indos nostros et omnes rtot Alias gentes ad noti  
+          
+          <pb ed="#B" n="149-r"/>
+          <lb ed="#B" n="1"/>¬tiam christianorum in posterum deventuras, licet extra fidem Christi 
+          <lb ed="#B" n="2"/>existant, sua tamen libertate ac rerum suarum dominio pri  
+          <lb ed="#B" n="3"/>vatos vel privandos non esse, immo libertate et Dominio   
+          <lb ed="#B" n="4"/>Potira et gaudere etlicite posse, neque in servitutem redigi debere.   
+          <lb ed="#B" n="5"/>Ac quicquid secus fieri contigerit irritum et inane, nullius roboris   
+          <lb ed="#B" n="6"/>vel momenti; ipsosque Indos et alis gentes predicatione et exemplo bone   
+          <lb ed="#B" n="7"/>vite ad dictam fidem Christi invitandos fore autoritate apostolica, per   
+          <lb ed="#B" n="8"/>presentes decernimus et declaramus... Estas son palabras del dicho De  
+          <lb ed="#B" n="9"/>creto, en las quales asaz da a entender ser estas naciones y las semejantes   
+          <lb ed="#B" n="10"/>desta specie 4a, conviene a saber, no haver causa alguna en ellas de las  
+          <lb ed="#B" n="11"/>que concurren en las otras species de infieles para subjectallas  
+          <lb ed="#B" n="12"/>o que sean nuestros súbditos, ni que tengamos que hazer con ellos en bueno   
+          <lb ed="#B" n="13"/>ni en malo, sino sólo amallas y trabajar de ayudar y salvallas. Y   
+          <lb ed="#B" n="14"/>por consiguiente, que ningún Rey ni Emperador ni la Yglesia romana   
+          <lb ed="#B" n="15"/>las puede hazer guerra, ni por alguna manera molestallas, para con  
+          <lb ed="#B" n="16"/>tra su voluntad subjetárselas. Donde manifiestamente aqueste   
+          <lb ed="#B" n="17"/>Decreto confirma la verídica y cathólica doctrina del Caietano, que   
+          <lb ed="#B" n="18"/>arriba fue recitada. Es luego verdad este Principio 2o, (conviene   
+          <lb ed="#B" n="19"/>a saber,) haver quatro especies o differencias de infieles, cuya noticia   
+          <lb ed="#B" n="20"/>es a qualquiera que hoviere de tractar desta materia muy necessaria   
+          <lb ed="#B" n="21"/>para intolerablemente no errar/. Esto tractamos latíssimamente   
+          <lb ed="#B" n="22"/>en nuestra obra De unico vocationis modo omnium gentium ad veram   
+          <lb ed="#B" n="23"/>religionem, lib. 1, cap.3, s. 85.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

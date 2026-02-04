@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 2</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 2</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="145-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e01681"><!-- dd-c2 -->
+        <head xml:id="dc7aa7-e01681-Hd1e111">Capítulo 2</head>
+        <p xml:id="dc7aa7-e01681-d1e113">
+          <lb ed="#B" n="27"/>Capitulo 2.
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e118">
+          <lb ed="#B" n="28"/>Principio 2° 
+          <lb ed="#B" n="29"/>¶Quatro differencias hay de infieles, y asi de quatro differentes ma¬ 
+          <lb ed="#B" n="30"/>nerasnos devemos de haver con ellas. la ygnorancia deste principio 
+          <lb ed="#B" n="31"/>a causadoprincipalmente toda la destruycion delas indias como 
+          <lb ed="#B" n="32"/>podra constar delo quese dixere. 
+          <lb ed="#B" n="33"/>¶ Pruevase este principio por cada una discurriendo. La una es que al¬ 
+          <lb ed="#B" n="34"/>gunos infieles ay quemoran entre los christianos y son subjetos a los 
+          <lb ed="#B" n="35"/>principes o reyes christianos como son los judios y losmoros que solían 
+          <lb ed="#B" n="36"/>bivir en Castilla, que llamavamosmoros modéjares. Destos infieles mu¬ 
+          <lb ed="#B" n="37"/>has leyes y decretos ecclesiasticos y seglares ay escriptas y establecidos 
+          
+          <pb ed="#B" n="146-r"/>
+          <lb ed="#B" n="1"/>como parece todo el título de Judeis y sarracenis en las Decretales: y 
+          <lb ed="#B" n="2"/>en los decretos y en las leyes humanas ut Codex, de Judeis, et Codex, de paganis, 
+          <lb ed="#B" n="3"/>etc. ¶Estos tales infieles que viven infieles, como bivan debaxo del señorío y ju¬ 
+          <lb ed="#B" n="4"/>risdiccion/ o principado delos Reyes christianos, son subditos dellos 
+          <lb ed="#B" n="5"/>de jure y defacto. y asi son obligados aguardar las leyes justas que 
+          <lb ed="#B" n="6"/>les pusieren, biviendo segun ellas como todo subdito las del princi¬ 
+          <lb ed="#B" n="7"/>pio/ o superior, debaxo de cuya jurisdiccion bive, districto biue como 
+          <lb ed="#B" n="8"/>desi parece, y están los derechos. La una por razon canonico y 
+          <lb ed="#B" n="9"/>civil llenos dello. ¶ Quatro maneras ay de subditos segun los derechos. 
+          <lb ed="#B" n="10"/>la una por razon del domicilio bivienda /ohabitacion. la otra 
+          <lb ed="#B" n="11"/>por razon del origen O nascimiento propio/o de nuestros padres. la otra 
+          <lb ed="#B" n="12"/>por razón de delictos si alguno offende en tierra o jurisdiccion agena 
+          <lb ed="#B" n="13"/>o haze algun contrato. la otra, por razon/ o de pleito, homenaje y vassallaje 
+          <lb ed="#B" n="14"/>como son los que tienen algún feudo, etc. ¶ La 2a differencia /o especie 
+          <lb ed="#B" n="15"/>de infieles es y son aquellos que las tierras o señoríos y cosas que tienen: 
+          <lb ed="#B" n="16"/>tienen de facto y contra derecho (conviene a saber) quelas surparon 
+          <lb ed="#B" n="17"/>por violencia, injustamente, al pueblo christiano, como son los moros 
+          <lb ed="#B" n="18"/>y turcos, por guerras / opor otra qualquiera injusta/ o tyranica mane¬ 
+          <lb ed="#B" n="19"/>ra. Segun parece en los detenedores de la tierra sancta y africa y toda 
+          <lb ed="#B" n="20"/>Asia y parte de Ungria, y otras muchas partes y reynos que fueron 
+          <lb ed="#B" n="21"/>de la christiandad. Desta 2a especie son los que no se contentan con detener 
+          <lb ed="#B" n="22"/>nos usurpados nuestras tierras y Reynos: pero con todas sus fuercas 
+          <lb ed="#B" n="23"/>impugnan la republica christiana con sus crueles y sobervios exercitos 
+          <lb ed="#B" n="24"/>y guerras: matando y captivando los miembros de christo como cada 
+          <lb ed="#B" n="25"/>dia lo vemos y dolemos, cuyo fin principal es si pudiessen impedir, des¬ 
+          <lb ed="#B" n="26"/>truyr y anihilar la fe y nombre de Christo, y dilatar su nefanda 
+          <lb ed="#B" n="27"/>secta. Y estos son propiamente hostes fidei et religionis christiane. 
+          <lb ed="#B" n="28"/>Estos por razon de las offensas, daños gravissimos, injurias que contra 
+          <lb ed="#B" n="29"/>el pueblo christiano cometen: son subditos de la Yglesia dejure y no 
+          <lb ed="#B" n="30"/>de facto, por sus grandes bestiales fuergas y potencia: y por consiguiente 
+          <lb ed="#B" n="31"/>cada y quando que la Yglesia pudiere /o sus miembros que son los prin¬ 
+          <lb ed="#B" n="32"/>cipes christianos pudieren, los pueden punir e castigar como súbditos 
+          <lb ed="#B" n="33"/>delinquentes. Destos tracta Sancto Thomas 2.2 q.10 a.8 donde 
+          <lb ed="#B" n="34"/>dize contra estos tiene la Yglesia quatro vias juridicas para empece 
+          <lb ed="#B" n="35"/>llos. La una, jure recuperationis, para cobrar los reynos y tier¬ 
+          <lb ed="#B" n="36"/>ras que nos usurparon injustamente, como se prueva 23, q.2, c. 
+          <lb ed="#B" n="37"/>dominus noster et q. 3, c. fortitudo, et [q.8] c. dispar et c. igitur, et c. 
+          <lb ed="#B" n="38"/>omni timore, et c. hortatu et c. olim causa. De restitutione spoliatorum. ¶ La 2a, 
+          <lb ed="#B" n="39"/>jure defensionis, y esta es clara porque aun a una persona pribata 
+          
+          <pb ed="#B" n="146-v"/>
+          <lb ed="#B" n="1"/>es licito defenderse L. ut vim, ff. Digest. De iustitia et iure ¶La 3a, jure vindi¬ 
+          <lb ed="#B" n="2"/>cte sive punitionis aut ultionis, porque qualquier principe que no 
+          <lb ed="#B" n="3"/>recognosce superior, puede nosolo mover guerra para se defender y 
+          <lb ed="#B" n="4"/>recobrar loque le fuere usurpado: pero castigar y punir a los quele hi¬ 
+          <lb ed="#B" n="5"/>zieren injuria 23, q.1, c. quid culpatur. ¶La quarta, jure 
+          <lb ed="#B" n="6"/>liberandi, christianos oppressos quos captivos tyránica rabie detinent 
+          <lb ed="#B" n="7"/>ut q. 3, c. Maximianus, et christianos oppressos. per totem illam questionem, et c. 8, c.  
+          <lb ed="#B" n="8"/>scire vos oportet; et q. 5, c. regum officium. Y abaxo se dira mas largo.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

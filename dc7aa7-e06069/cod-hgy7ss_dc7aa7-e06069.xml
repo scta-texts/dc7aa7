@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 20</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 20</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="171-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06069"><!-- dd-c20 -->
+        <head xml:id="dc7aa7-e06069-Hd1e111">Capitulo 20</head>
+        <p xml:id="dc7aa7-e06069-d1e113">
+          Capítulo 20
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e115">
+          <lb ed="#B" n="28"/>La segunda razón o conjectura es: Porque para que las
+          <lb ed="#B" n="29"/>guerras injustas, y robos, dafios, y muertes, y captiverios, que
+          <lb ed="#B" n="30"/>en ellas siempre se hazen a los próximos sean escusables (y los
+          <pb ed="#B" n="171-v"/>
+          <lb ed="#B" n="1"/>que las mueven no sean reos dellas e instituídos en mala fe 
+          <lb ed="#B" n="2"/>hasta que se averigüe, quando están en duda, ser justa o in
+          <lb ed="#B" n="3"/>justamente movidas y hechas, y no consta claramente de
+          <lb ed="#B" n="4"/>la injusticia o iniquidad dellas), requiérese que lo hagan
+          <lb ed="#B" n="5"/>por mandado y autoridad de su Rey o Príncipe cuyos
+          <lb ed="#B" n="6"/>vasallos y súbditos son propiamente, y que el Rey los llame 
+          <lb ed="#B" n="7"/>y les mande que le vayan a servir en tal guerra, o executen
+          <lb ed="#B" n="8"/>tal y justicia; los quales así llamados y mandados por su
+          <lb ed="#B" n="9"/>Príncipe mientras no se sabe la verdad de la justicia, aunque
+          <lb ed="#B" n="10"/>las guerras sean injustas y los robos y muertes mandados
+          <lb ed="#B" n="11"/>hazer se hagan contra justicia, son escusados del peccado, y
+          <lb ed="#B" n="12"/>también de la restitución de lo por aquella causa adquirido,
+          <lb ed="#B" n="13"/>porque la obediencia del Príncipe o Rey proprio, los escusa 
+          <lb ed="#B" n="14"/>en tal duda, como <ref xml:id="dc7aa7-e06069-Rd1e156"> s. Agustín y los sanctos dizen: </ref>
+          <ref xml:id="dc7aa7-e06069-Rd1e158" target="http://scta.info/resource/gd-p2c23q1-Dd1e164"> c.23, q.1,
+            <lb ed="#B" n="15"/>c. quid culpatur. </ref> Y aun en este caso, quando son llamados y man<lb ed="#B" break="no" n="16"/>dados por su Príncipe, deven los dichos súbditos, si les occurre
+          <lb ed="#B" n="17"/>de la guerra alguna duda, inquirir y preguntar a los más sa<lb ed="#B" break="no" n="18"/>bios y temerosos de Dios, personas sin sospecha de interesse y
+          <lb ed="#B" n="19"/>tales como se dixo, la verdad; y si los tales le certificasen de la
+          <lb ed="#B" n="20"/>injusticia de la tal guerra, serían entonces obligados a no
+          <lb ed="#B" n="21"/>obedecer al mandado del Príncipe, aunque por ello 
+          <lb ed="#B" n="22"/>hoviessen de perder la vida. Y cerca deste artículo, sin preguntallo
+          <lb ed="#B" n="23"/>a personas quales dicho es, podrían los súbditos ver y tener
+          <lb ed="#B" n="24"/>tales y tan manifiestos indicios o señales de la injusticia e
+          <lb ed="#B" n="25"/>iniquidad de las tales guerras o mandamiento del Prín<lb ed="#B" break="no" n="26"/>cipe, que no los escusase la obediencia del Príncipe <sic><!--edition separates these sentences--></sic> así como 
+          <lb ed="#B" n="27"/>el Príncipe mandase despojar todos los ecclesiásticos de
+          <lb ed="#B" n="28"/>sus bienes, o saquear los monasterios, o también robar los
+          <lb ed="#B" n="29"/>pueblos pacíficos, y que constasse a todos que no sabían que era
+          <lb ed="#B" n="30"/>injusta la tal obra, no los escusaría. Porque esta tal ignorancia
+          <lb ed="#B" n="31"/>se llama/o <sic><!--edition has no o--></sic> crassa y supina, que no es escusa o affectada, que agravia
+          <lb ed="#B" n="32"/>los peccados. Porque de otra manera, escusados fueron los judíos
+          <lb ed="#B" n="33"/>que mataron al Hijo de Dios en quanto hombre, y los gentiles
+          <lb ed="#B" n="34"/>persiguiendo y matando los mártires. Pero contraria razón
+          <lb ed="#B" n="35"/>es de lo que no son llamados y mandados de su Príncipe, sino
+          <pb ed="#B" n="172-r"/>
+          <lb ed="#B" n="1"/>de su voluntad y por su cudicia e intereses se ingierent <sic><!--edition has ingieren, latin dictionary has to inflict violence or slaughter, press themselves/pose themselves on--></sic>
+          <lb ed="#B" n="2"/>y offrecen a tales guerras y obras, de las quales de necessi<lb ed="#B" break="no" n="3"/>dad se recrecen muertes y daños a los próximos, y acaecen 
+          <lb ed="#B" n="4"/>ser injustas porque a los tales no les escusa en las dudas la obe
+          <lb ed="#B" n="5"/>diencia, como está probado; y por tanto antes que se pongan 
+          <lb ed="#B" n="6"/>en aquel peligro, son obligados a informar de la verdad de la
+          <lb ed="#B" n="7"/>duda y salir della, quedando certificados que aquella obra y exerci<lb ed="#B" break="no" n="8"/>cio es lícita y justa. Y si en esto son negligentes y no curan dello
+          <lb ed="#B" n="9"/>por simplicidad necia y bestial, siempre son en mala fe y biven
+          <lb ed="#B" n="10"/>sin alguna duda en peccado mortal. De manera que sin estar en
+          <lb ed="#B" n="11"/>estado de eternal danación, no pueden a semejantes obras y exer<lb ed="#B" break="no" n="12"/>cicios offrecerse ni executallos.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e245"> Y esto a <sic><!--edition has ha--></sic> más lugar en las guer<lb ed="#B" break="no" n="13"/>ras donde tan ciertos y necessarios y tan gravíssimos son
+          <lb ed="#B" n="14"/>los daños malos irreparables que los próximos resciben, como 
+          <lb ed="#B" n="15"/>son muertes, captiverios, despojos de bienes temporales; y si son
+          <lb ed="#B" n="16"/>reynos de agenos señores, usurpaciones de señoríos/ <sic><!--edition separates sentences--></sic> la razón 
+          <lb ed="#B" n="17"/>de ser peccado mortal en la tal duda es porque se desvían de
+          <lb ed="#B" n="18"/>la recta razón, y en quanto en sí es, aman más aquello que
+          <lb ed="#B" n="19"/>a Dios y menosprecian el precepto divino, escogiendo más querer
+          <lb ed="#B" n="20"/>hazer aquella obra peligrosa con duda de incurrir el quebran<lb ed="#B" break="no" n="21"/>tamiento de la ley divina, que abstenerse de la dicha obra:
+          <lb ed="#B" n="22"/>con certidumbre de no errar ni offender a Dios/ <sic><!--edition separates sentences--></sic> y ésta es re<lb ed="#B" break="no" n="23"/>gla general de todos los Doctores que así los sábditos como los 
+          <lb ed="#B" n="24"/>no súbditos, y los llamados y mandados como los no llamados ni 
+          <lb ed="#B" n="25"/>mandados, que están de tal manera dispuestos a yr a las guer<lb ed="#B" break="no" n="26"/>ras a otros exercicios peligrosos a los próximos, no curando
+          <lb ed="#B" n="27"/>de la justicia o injusticia de la tal guerra o tal obra, sino el 
+          <lb ed="#B" n="28"/>ojo a adquirir dineros como quiera que haverlos pudiere, no
+          <lb ed="#B" n="29"/>hay duda alguna que no estén los tales siempre en peccado 
+          <lb ed="#B" n="30"/>mortal.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e296">
+          <!-- dbcheck -->pues, todo lo dicho a nuestro propósito 
+          <lb ed="#B" n="31"/>desta verdad, estén cierto todos los confessores <sic><!--edition has this in parens--> porque por ella
+            <lb ed="#B" n="32"/>podrán responder a muchos frívolos argumentos y confun<lb ed="#B" break="no" n="33"/>dir y dezhazer muchas falsas y fingidas escusas, como algu<lb ed="#B" break="no" n="34"/>nos pretenden en tan execrables y tan crueles estragos y 
+            la<lb ed="#B" break="no" n="35"/>trocinios</sic> que nunca los Reyes de Castilla, jamás provocaron 
+          <pb ed="#B" n="172-v"/>
+          <lb ed="#B" n="1"/>ni mandaron que fuesen algunos a las Indias a hazer guerras 
+          <lb ed="#B" n="2"/>a aquellas gentes que sabían ser de su natural pacíficas, ni con <sic><!--edition has sueldo--></sic> suelto
+          <lb ed="#B" n="3"/>ni sin él, ni por miedo, ni por promessas, ni por su manda<lb ed="#B" break="no" n="4"/>do, ni autoridad, jamás se hizo <sic><!--edition separates sentences--></sic> sino fue a los principios que
+          <lb ed="#B" n="5"/>se descubrieron aquellas tierras que el Rey y la Reyna cathó<lb ed="#B" break="no" n="6"/>licos embiaron cierta gente a sueldo, no para hazer guerra
+          <lb ed="#B" n="7"/>ni robar, o quitar a los indios lo suyo,ni matarlos, ni capti<lb ed="#B" break="no" n="8"/>varlos, sino solamente para que en la Isla Española pobla<lb ed="#B" break="no" n="9"/>sen, y para que se diesse manera más breve en la conversión 
+          <lb ed="#B" n="10"/>de aquellas ánimas. Sino que quantos a aquellos reynos
+          <lb ed="#B" n="11"/>
+          <sic><!--edition has han--></sic>an ido, ellos mismos se han ingerido y offrecido temeraria
+          <lb ed="#B" n="12"/>y ciegamente,intimando a los Reyes y a su Consejo que les 
+          <lb ed="#B" n="13"/>diessen licencia para passar allá, con fin de no salvar ánimas,
+          <lb ed="#B" n="14"/>sino de adquirir riquezas; y si con intención de haverlas con 
+          <lb ed="#B" n="15"/>justicia o injusticia, sus obras que han hecho en la destrución 
+          <lb ed="#B" n="16"/>y perdición de aquellos tan grandes reynos, verídico testi<lb ed="#B" break="no" n="17"/>monio dan. 
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e365">Passó mucha gente a las Indias con la invención
+          <lb ed="#B" n="18"/>que ordenó Sathanás, desta manera que venía un tyrano con diez 
+          <lb ed="#B" n="19"/>o doze mill castellanos o ducados, o más, que havía robado por 
+          <lb ed="#B" n="20"/>muchas vías en muertes de los indios, y offrecíase al Rey
+          <lb ed="#B" n="21"/>o a su Consejo que por su servicio quería yr a descubrir e poblar
+          <lb ed="#B" n="22"/>tal provincia a su costa, que le hiziessen Adelantado y otras
+          <lb ed="#B" n="23"/>mercedes que pedía y le assignavan en los pellejos de los indios 
+          <lb ed="#B" n="24"/>queavía de robar y matar, por la grande ignorancia no
+          <lb ed="#B" n="25"/>poco culpable que entonces en toda España havía. Este tal,
+          <lb ed="#B" n="26"/>venido a Sevilla, predicava grandes riquezas y thesoros
+          <lb ed="#B" n="27"/>largos que avía en la tierra, donde todos havían de ser felices.
+          <lb ed="#B" n="28"/>Con esta esperanga llegava la gente que quería, y llegados
+          <lb ed="#B" n="29"/>a la tierra su officio nunca fue otro sino comengar su 
+          <lb ed="#B" n="30"/>entrada, primero, como lobos hambrientos en mansíssi
+          <lb ed="#B" n="31"/>mas ovejas o corderos, saltear, despedagar, matar, robar,
+          <lb ed="#B" n="32"/>y meter las gentes libres en la servidumbre del reparti
+          <lb ed="#B" n="33"/>miento, allende de hazer esclavos para comprar y vender, 
+          <lb ed="#B" n="34"/>como en el 7° Principio queda dicho. Por manera que estos <sic><!--edition omits estos--></sic>
+          <lb ed="#B" n="35"/>no ignoravan que el Rey no los mandava passar a las
+          <pb ed="#B" n="173-r"/>
+          <lb ed="#B" n="1"/>Indias sino que éste les predicava y persuadía que passassen,
+          <lb ed="#B" n="2"/>prometiéndoles grandes cargas de oro y riquezas.</p>
+        <p xml:id="dc7aa7-e06069-d1e416">Item, 
+          <lb ed="#B" n="3"/>no ignoravan ni tampoco podían dudar, como Duda
+          <lb ed="#B" n="4"/>sea estar suspenso e indifferente cerca de ambas partes con<lb ed="#B" break="no" n="5"/>trarias, según se dixo, claro está que se acostavan o devían 
+          <lb ed="#B" n="6"/>acostar e inclinar a creer que no venían por el Rey mandados
+          <lb ed="#B" n="7"/>a hazer tan crueles guerras
+          <lb ed="#B" n="8"/>ni a robar los indios que estavan en sus casas y sin hazer mal
+          <lb ed="#B" n="9"/>a nadie, porque nunca tal guerra fue en Sevilla aprego
+          <lb ed="#B" n="10"/>nada ni en otra parte, ni tal licencia de robar y matarles
+          <lb ed="#B" n="11"/>avía sido concedida quando los cogían y persuadían; porque
+          <lb ed="#B" n="12"/>no osara el tal tyrano capitán a pregonarlas, como él truxese
+          <lb ed="#B" n="13"/>las Provisiones reales en contrario, puesto que según se cree y
+          <lb ed="#B" n="14"/>aun se sabe, callava y dissimulava las Provisiones e Instrucio<lb ed="#B" break="no" n="15"/>nes del Rey, y de secreto les dixesse o diese esperanza de señorear
+          <lb ed="#B" n="16"/>y robar ensanchando sus poderes; y esto les bastava para ser
+          <lb ed="#B" n="17"/>puestos en mala fe y perversa consciencia. </p>
+        <p xml:id="dc7aa7-e06069-d1e451">
+          <ref xml:id="dc7aa7-e06069-Rd1e453">Y según 
+            <lb ed="#B" n="18"/>los Doctores sobre el cap. sicut, el 3°, De jurejurando,</ref>
+          <quote xml:id="dc7aa7-e06069-Qd1e458">quando la guer<lb ed="#B" break="no" n="19"/>ra se mueve por autoridad de otro que no sea Príncipe, si
+            <lb ed="#B" n="20"/>empre se ha de presumir ser injusta quando hoviere duda y 
+            <lb ed="#B" n="21"/>haver según Hostiensis en aquel cap°, aunque sea por auto<lb ed="#B" break="no" n="22"/>ridad del Príncipe, estando la cosa en duda, se ha siempre 
+            <lb ed="#B" n="23"/>de presumir ser injusta.</quote>
+          <!--footnote says X 2.24: De iureiurando cap. 19 venientes, in sent.: «cum et leges etiam seculares
+            beneficium appelationis non denegent aggravatis». Hostiensis in X, ibidem, in
+            eadem sententia.--> Y esto parece ser más verdad,quan
+          <lb ed="#B" n="24"/>do se hoviere de tratar el negocio en el foro de la consciencia. 
+          <lb ed="#B" n="25"/>Porque la vía segura en tal caso se ha de seguir según todos los Docto
+          <lb ed="#B" n="26"/>res, mayormente theólogos. La razón es, porque como en las guer
+          <lb ed="#B" n="27"/>ras no se haga sino matar, robar, captivar y hazer males
+          <lb ed="#B" n="28"/>irreparables a los próximos, si no hay causa no colorada o fin<lb ed="#B" break="no" n="29"/>gida
+          sino que verdaderamente lo escuse, siempre se pecca mor<lb ed="#B" break="no" n="30"/>talmente
+          y hay obligación a la restitución, como sea expresa<lb ed="#B" break="no" n="31"/>mente
+          contra el quinto y séptimo preceptos del Decálogo.
+          <lb ed="#B" n="32"/>Pero si las guerras que aquellos han hecho a aquellas gentes
+          <lb ed="#B" n="33"/>fueran páblicamente apregonadas, pudieran presumir e creer 
+          <lb ed="#B" n="34"/>que el Rey hazer las mandava, aunque esto tampoco ha lugar, 
+          <pb ed="#B" n="173-v"/>
+          <lb ed="#B" n="1"/>porque todos sabian poco que mucho alla / o aca que el Rey pro<lb ed="#B" break="no" n="2"/>hibia
+          porsus prouissiones e instruciones las guerras: mandado
+          <lb ed="#B" n="3"/>que primero se hiziessen tantos y tales come timientos delos
+          <lb ed="#B" n="4"/>quales uno ni ninguno guardaron: y dela calidad dela per<lb ed="#B" break="no" n="5"/>sona 
+          del capitan y delas palabras quele oyan: y delas o<lb ed="#B" break="no" n="6"/>bras
+          quele vian hazer: y despues dela mansudumbre deaque<lb ed="#B" break="no" n="7"/>llas
+          gentes y delas crueldades / g enellos hazian y porotras
+          mu<lb ed="#B" break="no" n="8"/>chas circunstancias y desus proprias intenciones y obras y desus
+          <lb ed="#B" n="9"/>proprias consciencias ydela ley del entendimiento quees la
+          <lb ed="#B" n="10"/>sin deresis y habito que contiene los preceptos dela ley natural
+          <lb ed="#B" n="11"/>queson no hazer injusticia / oin juria anadie niagrauio:
+          <lb ed="#B" n="12"/>antes hazer bien atodos y dar acada uno lo suyo y menos
+          <lb ed="#B" n="13"/>usurparle loquele pertenece: ni hazer offensa adios eto.
+          <lb ed="#B" n="14"/>yquees imposible que hombre del mundo estos preceptos
+          <lb ed="#B" n="15"/>egnore por la lumbre que cada uno impressa en su anima
+          <lb ed="#B" n="16"/>tiene podian y devian entender quan inusto e diabolico
+          <lb ed="#B" n="17"/>era el exercicio y officio que trayan y obras sathaniras que
+          <lb ed="#B" n="18"/>cometian. 
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e539">Pues como todos los españoles que alas indias
+          <lb ed="#B" n="19"/>an passado ayanydoa ellas sin ser mouidos nillamados ni
+          <lb ed="#B" n="20"/>mandados o constrenidos porlos reyes decastilla: siono por
+          <lb ed="#B" n="21"/>su propria voluntad ycudicia se ovyan offrecudi e ingerido
+          <lb ed="#B" n="22"/>e importunado sobre auer las licencias para passar a ellas
+          <lb ed="#B" n="23"/>como queda dicho: a hallarse porsus personas proprias
+          <lb ed="#B" n="24"/>yse hallaron en las querras y muertes y captiverios y otros
+          <lb ed="#B" n="25"/>agrauios y daños irreparalles que hizieron en aquellas
+          <lb ed="#B" n="26"/>gentes pacificas: siguesse que aunque tuuiessen duda ser
+          <lb ed="#B" n="27"/>iustas ocon justa causa mouidas las tales guerras y las dichas
+          <lb ed="#B" n="28"/>obras nefandas en ellas cometidas eran obligados sobpena
+          <lb ed="#B" n="29"/>de incurrir grauissimos peccados mortales antes que
+          <lb ed="#B" n="30"/>alas indias fuessen / o almenos antes que enellas
+          <lb ed="#B" n="31"/>se hallasen y tales obras perpetrasen a inquirire pregun<lb ed="#B" break="no" n="32"/>tar
+          la verdad alas personas doctas y sin sospecha como
+          <lb ed="#B" n="33"/>fuedicho y no ir: o ya que alla estauan a no ayudar
+          <lb ed="#B" n="34"/>en ellas ni de tanto derramamiento de sangre ser partí
+          <pb ed="#B" n="174-r"/>
+          <lb ed="#B" break="no" n="1"/>cipes con alguna duda, sino con certidumbre de no contener 
+          <lb ed="#B" n="2"/>injusticia <!--edition separates sentences--> pues, la obediencia no los escusava del prin<lb ed="#B" break="no" n="3"/>cipio,
+          y porque no lo hizieron, y es cierto haver sido todo lo que
+          <lb ed="#B" n="4"/>en las Indias se ha hecho tyránico e iniquo, como todo el mundo, 
+          <lb ed="#B" n="5"/>si no son hombres bestiales, lo testifica; por ende todos fueron 
+          <lb ed="#B" n="6"/>reos de todas las guerras, de todas las muertes, estragos, robos,
+          <lb ed="#B" n="7"/>captiverios, despojos, injusticias, injurias y peccados mortales
+          <lb ed="#B" n="8"/>que en las dichas guerras se cometieron; y que no tuvieron buena
+          <lb ed="#B" n="9"/>fe y sino mala y perversa consciencia, y que si alegan igno<lb ed="#B" break="no" n="10"/>rancia
+          no dizen verdad, y si alguna tuvieron, fue affectada, o
+          <lb ed="#B" n="11"/>tener ignorancia sino affectada o crasa y supina que no excusa.
+          <lb ed="#B" n="12"/>quando menor fue crassa y supina.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

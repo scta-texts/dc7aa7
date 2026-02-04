@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 40</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 40</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="216-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e15519"><!-- dd-c40 -->
+        <head xml:id="dc7aa7-e15519-Hd1e111">Capitulo 40</head>
+        <p xml:id="dc7aa7-e15519-d1e113">
+          <pb ed="#B" n="216-v"/>
+          <lb ed="#B" n="1"/>Capítulo 40
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e120">
+          <lb ed="#B" n="2"/>Conclusión para la 10a Duda.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e125">
+          <lb ed="#B" n="3"/>Los españoles que se hallaron en la toma y usurpación vio
+          <lb ed="#B" n="4"/>lenta de la ciudad imperial del Cuzco y en el repartir de las ca
+          <lb ed="#B" n="5"/>sas y edificio entre sí y las tierras y heredades, peccaron mor
+          <lb ed="#B" n="6"/>talmente y son obligados a restitución a los Ingas y sus herederos
+          <lb ed="#B" n="7"/>y a los demás in solidum, aunque a algunos no les hoviese cabi
+          <lb ed="#B" n="8"/>do parte con los daños que todos causaron, y serán obligados
+          <lb ed="#B" n="9"/>a mayor restitución los que mejores paredes y casas alcangaron.
+          <lb ed="#B" n="10"/>Lo mismo es de las heredades, y tienen todo perdido quanto
+          <lb ed="#B" n="11"/>en la ciudad y en tierras del valle edificaron.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e147">
+          <lb ed="#B" n="12"/>La primera parte y segunda y tercera, para las provar
+          <lb ed="#B" n="13"/>no será menester de nuevo provallas, como parece arriba
+          <lb ed="#B" n="14"/>en los Cap. 24 y 25, y en la conclusión para la 
+          <lb ed="#B" n="15"/>2a Duda, Cap. 30. Todo lo demás desta Conclusión está claro, por lo 
+          <lb ed="#B" n="16"/>mucho que en las otras Conclusiones está demostrado.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e161">
+          Conclusión 1a para la 11a Duda.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e163">
+          <lb ed="#B" n="17"/>El ínclito y christianíssimo Rey de España, nuestro Rey
+          <lb ed="#B" n="18"/>e Señor en quanto Rey de Castilla y León, es obligado de necessidad
+          <lb ed="#B" n="19"/>de salvarse a procurar por todas las vías y medios proporcionados
+          <lb ed="#B" n="20"/>a este fin que le fueren possibles, conviene a saber, para traer al Rey
+          <lb ed="#B" n="21"/>Tito, nieto y heredero de Guaynacápac, que está huído con su
+          <lb ed="#B" n="22"/>exército en las montañas llamadas los Andes, a tierra llana
+          <lb ed="#B" n="23"/>donde él y sus gentes sean christianos.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e181">
+          <lb ed="#B" n="24"/>Pruévase la Conclusión por todo el Principio 4° y 5°, donde
+          <lb ed="#B" n="25"/>queda provado que la causa final de conceder la Sede Apostólica
+          <lb ed="#B" n="26"/>el summo principado de aquel orbe a los Reyes de Castilla, fue
+          <lb ed="#B" n="27"/>la predicación de la fe y conversión de aquellas ánimas, como
+          <lb ed="#B" n="28"/>Sus Altezas por su policitación a ello se obligaron,y allende su 
+          <pb ed="#B" n="217-r"/>
+          <lb ed="#B" n="1"/>promessa inpulsóles la Sancta Sede porque lo cumpliesen,precep
+          <lb ed="#B" n="2"/>to formal, como arriba Cap. IX se vido en el 5o Principio, que los
+          <lb ed="#B" n="3"/>obliga a peccado mortal, y en la Conclusión 4a a la 6a Du
+          <lb ed="#B" break="no" n="4"/>da, Cap. 35.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e205">Conclusión 2a para la Duda 11a.</p>
+        <p xml:id="dc7aa7-e15519-d1e207">
+          <lb ed="#B" n="5"/>El Rey cathólico de Castilla, nuestro Señor, es obligado de
+          <lb ed="#B" n="6"/>necesidad de salvarse, a restituir en el reyno a los reynos del Perú
+          <lb ed="#B" n="7"/>al suso dicho Rey Tito y a los demás propios señores Yngas lo que fue
+          <lb ed="#B" n="8"/>re suyo por la orden que se dirá, no embargante que algunos
+          <lb ed="#B" n="9"/>adversarios de la verdad y de la seguridad de la consciencia
+          <lb ed="#B" n="10"/>y prosperidad del imperial estado de Su Magestad digan
+          <lb ed="#B" n="11"/>no ser bien, porque se alcará.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e225">Pruévase la primera parte, porque los españoles tyenen tyra
+          <lb ed="#B" n="12"/>nizados aquellos reynos que eran de su agüelo Guaynacápac
+          <lb ed="#B" n="13"/>y de sus tíos Guáscar, Rey del Cuzco, y Athabaliba, Rey del Quito,
+          <lb ed="#B" n="14"/>y a Tito después de aquéllos le vienen aquellos reynos, según
+          <lb ed="#B" n="15"/>los pueblos que con él están huídos en los Andes lo tienen y obede
+          <lb ed="#B" n="16"/>cen y adoran por tal, y los demás que están en servidumbre
+          <lb ed="#B" n="17"/>repartidos por los españoles, por tal lo tienen y veneran, en au
+          <lb ed="#B" n="18"/>sencia en quanto en si es, como la pregunta o Duda habla. 
+          <lb ed="#B" n="19"/>Pues, como estén aquellos reynos tyranizados, según queda pro
+          <lb ed="#B" n="20"/>vado en el 7° Principio, Cap. 12 y 13 y los siguien
+          <lb ed="#B" n="21"/>tes y en otras partes deste tractado, y este rey e Señor y los demás por consi
+          <lb ed="#B" n="22"/>guiente contra justicia estén de sus reynos despojados, y aquellos 
+          <lb ed="#B" n="23"/>españoles sean de Su Magestad súbditos y, con su autoridad o en
+          <lb ed="#B" n="24"/>su nombre aunque contra su voluntad, hayan perpetrado tan
+          <lb ed="#B" n="25"/>tos estragos, tantas violencias, tantos robos, muertes y males,
+          <lb ed="#B" n="26"/>Síguese ser obligado a restituir aquel señor natural en sus reynos
+          <lb ed="#B" n="27"/>y a los demás de que contra justicia están despojados, de necessi
+          <lb ed="#B" n="28"/>dad de salvarse. Pruévase esta consequencia: Lo primero, por
+          <lb ed="#B" n="29"/>o que se ha traydo para prueva de la Conclusión 2a para la 6a pre
+          <pb ed="#B" n="217-v"/>
+          <lb ed="#B" break="no" n="1"/>gunta o Duda, Cap. 35. 
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e272">Lo 2°, porque es obligado a hazer justicia a a
+          <lb ed="#B" break="no" n="2"/>quellas gentes que de sus súbditos españoles han sido y son tan irre
+          <lb ed="#B" n="3"/>parablemente agraviados, y hazer justicia está en precepto, y no
+          <lb ed="#B" n="4"/>hazerla es peccado mortal, como arriba, Cap. 30 vi queda provado.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e281">Lo 3°, porque todo el tiempo que no los restituye en sus rey
+          <lb ed="#B" n="5"/>nos, o lo dissimulare, es participante y consentidor de los pecca
+          <lb ed="#B" n="6"/>dos y de los robos que aquéllos hazen, «non solum
+          <lb ed="#B" n="7"/>qui faciunt sed est qui consentiunt facientibus, participes ju
+          <lb ed="#B" n="8"/>dicantur. Et libat Domino prospera qui ab afflictis pellit adver
+          <lb ed="#B" n="9"/>sa. Et negligere cum possit pertubare perversos, nihil aliud est
+          <lb ed="#B" n="10"/>quam fovere. Nec caret scrupulo consentionis occulte, qui manifesto
+          <lb ed="#B" n="11"/>facinori desinit obviare: <ref xml:id="dc7aa7-e15519-Rd1e298">Dist., c. facientis culpam;</ref> et <ref xml:id="dc7aa7-e15519-Rd1e300">83
+            <lb ed="#B" n="12"/>Dist., c. error</ref> et <ref xml:id="dc7aa7-e15519-Rd1e305">c. consentire</ref>; et <ref xml:id="dc7aa7-e15519-Rd1e307">11, q.3., 
+              <lb ed="#B" n="13"/>c. qui consentit</ref>; et <ref xml:id="dc7aa7-e15519-Rd1e313">23, q. 3, 
+                <lb ed="#B" n="14"/>c. ostendit; et 24, q. 3, c. qui aliorum; et in cap. sicut dignum, 
+                <lb ed="#B" n="15"/>$ illi etiam, De homicidio.</ref>
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e321">Lo 4°, porque no restituyendo aquellos
+          <lb ed="#B" n="16"/>reyes y señores a sus estados, interpretativamente sería rati
+          <lb ed="#B" n="17"/>ficar y aprovar aquellos grandes peccados, como si de propósito
+          <lb ed="#B" n="18"/>los Reyes, nuestros Señores de Castilla, los mandaran, mayormente
+          <lb ed="#B" n="19"/>haviéndose cometido en su nombre, de lo que aquellos tyranos se
+          <lb ed="#B" n="20"/>jactan. <quote xml:id="dc7aa7-e15519-Qd1e334">«Et sic ratificans homicidium vel spolium nomine
+            <lb ed="#B" n="21"/>suo factum tenetur ac si mandasset»</quote>, Angelus in tractatu maleficio
+          <lb ed="#B" n="22"/>rum, verbo «mandatorem». Vide Gloam in L. 1, $ Sed et si cum
+          <lb ed="#B" n="23"/>quis, verbo «Ratihabitionem», 1£:» De vt et vi armata, et vide
+          <lb ed="#B" n="24"/>ibi textum expressum dicentem: «Ratihabitionem equipári mandato»”; 
+          <lb ed="#B" n="25"/>et ibi Bartholus et Baldus in <ref xml:id="dc7aa7-e15519-Rd1e347">L. fin. Codex, Ad Macedonem;</ref> et Paulus de 
+          <lb ed="#B" n="26"/>Castro in <ref xml:id="dc7aa7-e15519-Rd1e352">Consilio 263, in cap. «Videtur quod per predicta».</ref> Et quod
+          <lb ed="#B" n="27"/>ratificatio equiparetur mandato, notatur in L. si quis mibi bona,
+          <lb ed="#B" n="28"/>$ iussum, ff£., De acquirenda hereditate*”; et in Regula «Ratibabitio», <ref xml:id="dc7aa7-e15519-Rd1e358">De
+            <lb ed="#B" n="29"/>regulis juris, Lib. 6%, </ref> dicitur autem consensus verus qui habet ac
+          <lb ed="#B" n="30"/>tum elicitum et sic positiuum complacentie vel electionis. In
+          <lb ed="#B" n="31"/>terpretativus vero dicitur instar et ad similitudinem cause priva
+          <lb ed="#B" n="32"/>tive: consentit submersioni navis qui per suam absentiam quando 
+          <lb ed="#B" n="33"/>potuit et debuit navis prohibere submersionem et non prohibuit. 
+          <lb ed="#B" n="34"/>Et ita consensus negligentis est consensus interpretativus sine 
+          <pb ed="#B" n="218-r"/>
+          <lb ed="#B" n="1"/>etiam quocunque actu positivo; de quo vide s. Bonaventura
+          <lb ed="#B" n="2"/>2° Sentent., Dist. 14, et Petrus de Taranta 2 Sentent., Dist. eadem
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e382">Lo 5°, porque cierto no parece sino que el Rey les haze espaldas, y
+          <lb ed="#B" n="3"/>es castillo roquero y guarnición con que se defienden y están 
+          <lb ed="#B" n="4"/>seguros en su tyranía sin dalle por quererlo remediar. acostamiento alguno, sino de
+          <lb ed="#B" n="5"/>balde. Porque de dos millones o cerca dellos que llevan de los
+          <lb ed="#B" n="6"/>repartimientos que tienen cada un año, el Rey no lleva una
+          <lb ed="#B" n="7"/>blanca, y esto deverían de mirar y remediar, aunque no fuese
+          <lb ed="#B" n="8"/>sino por la honra del Rey los que tratan desto, sin que hoviese
+          <lb ed="#B" n="9"/>respeto alguno al temor de Dios. Y así parece el engaño grande que
+          <lb ed="#B" n="10"/>el Rey rescibe, que siendo obligado, como lo es Su Magestad, a dar cuenta 
+          <lb ed="#B" n="11"/>a Dios por los peccados que cada día cometen aquellos de tyranía
+          <lb ed="#B" n="12"/>y a restituir lo que ellos roban, que no lleve de aquello un solo caste
+          <lb ed="#B" n="13"/>llano.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e408">Es obligado, pues, el Rey, nuestro Señor, sopena de no salvarse, 
+          <lb ed="#B" n="14"/>a restituir aquellos reynos al Rey Tito, succosor o heredero
+          <lb ed="#B" n="15"/>de Guaynacápac y de los demás señores Yngas, y poner en ello
+          <lb ed="#B" n="16"/>todas sus fuergas y poder. Y si por bien aquellos que tienen los repar
+          <lb ed="#B" n="17"/>timientos no los quisieren dexar y acometiesen a perder la ver
+          <lb ed="#B" n="18"/>güenga y obediencia a su Rey, es obligado Su Magestad a hazelles
+          <lb ed="#B" n="19"/>guerra y morir si fuere menester en ella por extirpallos a todas 
+          <sic><!--edition missing this--> por librar</sic>aquellas gentes innocentes que tienen oppressas. Pruéva
+          <lb ed="#B" break="no" n="20"/>se esto, porque a los Reyes de Castilla están encomendadas todas
+          <lb ed="#B" n="21"/>aquellas gentes singularmente, y los mismos cathólicos Reyes a
+          <lb ed="#B" n="22"/>ellas se obligaron de su voluntad, como queda dicho. Y pues, aquéllas
+          <lb ed="#B" n="23"/>son innocentes y los españoles nocentíssimos y destruydores del
+          <lb ed="#B" n="24"/>las, obligados son los Reyes a salvar aquéstas y castigar aquéllos,
+          <lb ed="#B" n="25"/>aunque todos hoviessen de morir y fuessen mucho más, ma
+          <lb ed="#B" n="26"/>yormente resistiendoa la justicia que el Rey quiere hazer
+          <lb ed="#B" n="27"/>por liberación de tan infinitos agraviados, y muestran ser rebel
+          <lb ed="#B" n="28"/>des obstinados, y con autoridad sus facinorosas obras definen:
+          <lb ed="#B" n="29"/>23, q. 8, c. scire vos oportet, quod nunquam ab aliquibus nuestros homi
+          <lb ed="#B" n="30"/>nes sinimus opprimi; sed, si necessitas ulla occurrerit, presentialiter
+          <lb ed="#B" n="31"/>vindicamus, quia nostri gregis in omnibus ultores esse debemus et pre
+          <lb ed="#B" n="32"/>cipui adjutores». Hec ibi, et 23, q. 2. c. Dominus noster; et De ordine 
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e456">
+          <pb ed="#B" n="218-v"/>
+          <lb ed="#B" n="1"/>cognitionis cap. 2; et De restitutione spoliatorum, cap. 1; et De appellationibus, cap. dilectis, et ibi
+          <lb ed="#B" n="2"/>Innocentius et Hostiensis!^; et textus in Extravagante Joannis XXII, De majoritate et obedientia,
+          <lb ed="#B" n="3"/>ubi dicitur: <quote xml:id="dc7aa7-e15519-Qd1e466">«Ecclesie Romane suorumque subditorum dispendia dissi
+            <lb ed="#B" n="4"/>mulare non possumus, quin, postquam nobis cognita fuerint, ad
+            <lb ed="#B" n="5"/>versus ea opportunis remediis ocurramus». </quote>Hec ibi argumentum
+          <lb ed="#B" n="6"/>
+          <ref xml:id="dc7aa7-e15519-Rd1e476">ff., De dolo, L. cum aliquis; et ff., De officio presidis, L. preses, la 2</ref> Y siendo así 
+          <lb ed="#B" n="7"/>como es, según el derecho divino y natural y según las leyes y
+          <lb ed="#B" n="8"/>sacros cánones, no deve dormir la severidad y castigo durarísi
+          <lb ed="#B" n="9"/>mo aunque sea con muerte de todos ellos, porque se ha de antepo
+          <lb ed="#B" n="10"/>ner el bien y vida y salud de tan infinitas gentes y la salvación
+          <lb ed="#B" n="11"/>dellas y el favor de la fe (que aquéllos impiden, y aún la tienen
+          <lb ed="#B" n="12"/>infamada por todo aquel orbe), a su vida y a su bien con que
+          <lb ed="#B" n="13"/>tanto a Dios y al linaje humano offenden. <quote xml:id="dc7aa7-e15519-Qd1e493">«Parcendum enim
+            <lb ed="#B" n="14"/>multitudini non est nec severitate detrahendum aut misericordia
+            <lb ed="#B" n="15"/>delinquentibus impendenda, ubi non cessatur a sceleribus
+            <lb ed="#B" n="16"/>et obstinato animo in incorrigibilitate persisti»: </quote>23, q. 4,
+          <lb ed="#B" n="17"/>c. Non potest; ibi <quote xml:id="dc7aa7-e15519-Qd1e504">«non ut pertinaces impunitate donemus sicut
+            <lb ed="#B" n="18"/>enim erga penitentibus et obstinatis in malo misericordiam impende
+            <lb ed="#B" n="19"/>re prohibemur».</quote> Hec ibi". Et De penitentia, Dist. 6, c. 1 ubi dicitur: «Cum enim 
+          <lb ed="#B" n="20"/>tot sunt qui labuntur ut pristinam dignitatem ex autorita
+          <lb ed="#B" n="21"/>te defendant et quasi ausum peccandi faciant sibi, resciden
+          <lb ed="#B" n="22"/>da est spes ista, etc...». Idem, habetur, 82 Dist., c. plurimos et cc. se
+          <lb ed="#B" n="23"/>quentibus et 50 Dist., c. Domino sanctol. Y S. Thomas, 2.2
+          <lb ed="#B" n="24"/>q. 109 a.1 ad 5: <quote xml:id="dc7aa7-e15519-Qd1e522">«Quod peccatum principis quem sequitur multi
+            <lb ed="#B" n="25"/>tudo tolerandum est, si sine scandalo multitudinis puniri
+            <lb ed="#B" n="26"/>non posset, nisi forte esset tale peccatum principis quod magis
+            <lb ed="#B" n="27"/>noceret multitudinis vel spiritualiter, vel temporaliter quam scandalum
+            <lb ed="#B" n="28"/>quod inde oriretur»,</quote> Pues, los peccados de aquellos tyranos son tan
+          <lb ed="#B" n="29"/>graves y tan nocivos a tan infinitas muchedumbres de a
+          <lb ed="#B" break="no" n="30"/>quellas gentes por do aquel orbe, spiritual y temporalmente,
+          <lb ed="#B" n="31"/>porque impiden la fe y se la hazen blasphyemar cada día, y al cabo
+          <lb ed="#B" n="32"/>debaxo de su tyranía corporalmente parecen; luego, no se ha
+          <lb ed="#B" n="33"/>de curar del escándalo y daños que <sic><!--a repeated-->a a </sic>ellos, aunque sean muchos,
+          <pb ed="#B" n="219-r"/>
+          <lb ed="#B" n="1"/>succediere, por la salvación y amparo de tan innúmeros in
+          <lb ed="#B" n="2"/>nocentes. Todo esto se prueva otra vez: 45 Dist., c. Sed illud y se
+          <lb ed="#B" n="3"/>nota en el capítulo ut constitueretur, 50 Dist. et in c. Comesatione,
+          <lb ed="#B" n="4"/>44 Dist., et Glossa in c. quotidiens, el 2, 1, q. 7, et Glossa et Doctores in c.
+          <lb ed="#B" n="5"/>ex parte, De transactionibus. 
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e563">Por todo lo qual será justíssima la gue
+          <lb ed="#B" n="6"/>rra que el Rey en este caso contra aquellos moviere; y es obligado,
+          <lb ed="#B" n="7"/>sopena de salvarse, quando otro medio haver sin guerra no se
+          <lb ed="#B" n="8"/>pudiere, a movella de jure divino, y no lo haziendo deve temer
+          <lb ed="#B" n="9"/>Su Majestad en su real persona y en su reyno que Dios derrame
+          <lb ed="#B" n="10"/>su yra. De lo primero, Exodus 22: <quote xml:id="dc7aa7-e15519-Qd1e576">«Maleficos non patieris vivere»</quote>;
+          <lb ed="#B" n="11"/>et Deuteronomium 19: <quote xml:id="dc7aa7-e15519-Qd1e580">«Non miserearis eius, sed ¿nimam pro anima, etc...»,</quote>
+          <lb ed="#B" n="12"/>De lo 2°,3°; Regum 20, <quote xml:id="dc7aa7-e15519-Qd1e584">«dictum fuit fut Achab Achb regireg; per prophetam: «Quia
+            <lb ed="#B" n="13"/>dimisisti virum dignum morte de manu tua, erit anima tua
+            <lb ed="#B" n="14"/>pro anima eius et populus tuus pro populo eius».</quote> Et 1 Regum
+          <lb ed="#B" n="15"/>18: «Quia Saul pepercit Agag regi, nec fecit vindictam in A
+          <lb ed="#B" break="no" n="16"/>malechitas, sicut eus preceperat, amotus est Saul e regno et
+          <lb ed="#B" n="17"/>tota eius posteritate». Et <ref xml:id="dc7aa7-e15519-Rd1e598">Leviticus 20,</ref> dicitur: <quote xml:id="dc7aa7-e15519-Qd1e600">«Quod negligens populus
+            <lb ed="#B" n="18"/>terre, et quasi parvipendens imperium meum, dimiserit ho
+            <lb ed="#B" n="19"/>minem, scilicet pecatorem, nec volverit eum occidere: ponam
+            <lb ed="#B" n="20"/>faciem meam super illum, et cognationem eius, succidamque et 
+            <lb ed="#B" n="21"/>ipsum, et omnes qui consenserunt el, scilicet non puniendo»</quote>.
+        </p>
+        <p xml:id="dc7aa7-e15519-d1e612">Helí,
+          <lb ed="#B" n="22"/>summo sacerdote y sancto, porque no castigó a sus hijos con rigor,
+          <lb ed="#B" n="23"/>sino blandamente los reprehendió (los quales eran injuriosos a los
+          <lb ed="#B" n="24"/>hombres y robaban lo que podían, tyranigando el pueblo e impedían
+          <lb ed="#B" n="25"/>los hombres de los sacrificios y del culto divino, y así eran contra
+          <lb ed="#B" n="26"/>Dios impíos, según dize la Glosa Ordinaria y Josepho), y oydas sus
+          <lb ed="#B" n="27"/>obras díxoles: «Quare facitis reshujusmodi, quas ego audio, res
+          <lb ed="#B" n="28"/>pessimas, ab omni populo? Nolite filii mei: non est bona fama,
+          <lb ed="#B" n="29"/>quam ego audio, ut transgredi faciatis populum Domini. Si pecca
+          <lb ed="#B" n="30"/>verit vir in virum, placari ei poterit Deus: si cutem in Deum pecca
+          <lb ed="#B" n="31"/>verit vir, quis orabit pro eo» Y porque no los hizo matar como lo
+          <lb ed="#B" n="32"/>merecían, mereció oyr de Dios y por el Propheta: <quote xml:id="dc7aa7-e15519-Qd1e638">«Honorasti magis fi
+            <lb ed="#B" n="33"/>lios tuos quam me... Et idcirco juravi domui Heli quod non expietur ini
+            <lb ed="#B" n="34"/>quitas domus eius victimis et muneribus usque in eternum».</quote> Por lo qual
+          <pb ed="#B" n="219-v"/>
+          <lb ed="#B" n="1"/>permitió Dios que se viniessen los philisteos con gran exército, y mataron
+          <lb ed="#B" n="2"/>sobre treinta mill hombres de Israel y los hijos de Heli e tomaron
+          <lb ed="#B" n="3"/>el Arca del Testamento e la prof roranaron. Lo qual, oydo por Helí, cayó
+          <lb ed="#B" n="4"/>de angustia de la silla donde estava y murió y fue al cabo a los
+          <lb ed="#B" n="5"/>infiernos, según la Glosa dicha, 1 Regum, cap. 2 y 3. Tráctase:
+          <lb ed="#B" n="6"/>
+          <ref xml:id="dc7aa7-e15519-Rd1e660">47 Dist., $ necesse est, capítulo sicut bii, ubi ait</ref> Gratianus:
+          <lb ed="#B" n="7"/>
+          <quote xml:id="dc7aa7-e15519-Qd1e664">«Quia Heli falsa pietate superatus delinquentes filios ferire
+            <lb ed="#B" n="8"/>noluit, apud districtum judicem semetipsum cum filiis cru
+            <lb ed="#B" n="9"/>deli damnatione percussit; unde ei divina voce dicitur: «Ho
+            <lb ed="#B" n="10"/>norasu filios tuos magis quam me»</quote> ¿Quiénes más impíos a Dios y que
+          <lb ed="#B" n="11"/>más hayan Su divino culto y sacrificios impedido que hoy resplan
+          <lb ed="#B" n="12"/>decieran en aquellas immensas gentes por la fe ¿Y quién más
+          <lb ed="#B" n="13"/>a los hombres injuriosos y nocivos que los españoles que fueron 
+          <lb ed="#B" n="14"/>y tiranizaron las Indias? Informar, pues, desto a Su Magestad
+          <lb ed="#B" n="15"/>del Rey, nuestro Señor, que saque aquellas gentes de la tiranía
+          <lb ed="#B" n="16"/>de los españoles, aunque fuese con gran riesgo de su persona real,
+          <lb ed="#B" n="17"/>es hazelle muy gran servicio y tener cuenta con su ánima
+          <lb ed="#B" n="18"/>real, y ayudar a que sea feliz siempre su imperial estado.
+          <lb ed="#B" n="19"/>Es, pues, obligado de derecho natural y divino, y aún humano,
+          <lb ed="#B" n="20"/>así de necesidad de salvarse, a restituir en sus reynos a los
+          <lb ed="#B" n="21"/>Reyes y Señores que, en aquellas erra injustamente, están por los españoles
+          <lb ed="#B" n="22"/>despojados.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 29</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 29</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="189-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10034"><!-- dd-c29 -->
+        <head xml:id="dc7aa7-e10034-Hd1e111">Capitulo 29</head>
+        <p xml:id="dc7aa7-e10034-d1e113">
+          <lb ed="#B" n="18"/>Capítulo 29   
+          <!--<sic><!-\-edition notes-\->[PARS TERTIA DE LA CONCLUSION 2a A LA 1a DUDA]</sic>-->
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e120">
+          <lb ed="#B" n="19"/>Pars<sic> 3a <!--edition has tertia--></sic> nostre Conclusionis dicit bellum prefatum aut jus
+          <lb ed="#B" n="20"/>indicendi bellum contra nos habuisse habereque continuum
+          <lb ed="#B" n="21"/>et fore perpetuum usque in Diem iudicii: nisi aliquo quatuor modorum 
+          <lb ed="#B" n="22"/>interrumpatur vel terminetur. Nunc autem videamus an sit con
+          <lb ed="#B" break="no" n="23"/>tinuum vel terminatum seu interruptum De primo, scilicet
+          <lb ed="#B" n="24"/>quod sit continuum patet quia semper causa subest justi belli
+          <lb ed="#B" n="25"/>adversus nos. Tum 1°: quia nec de pace nec de tregua vel satisfactio
+          <lb ed="#B" break="no" n="26"/>ne aut depetenda remissione fuit unquam tractatum, ut constat
+          <lb ed="#B" n="27"/>cunctis qui ad partes illas transvolarunt imo nec dignati sunt
+          <lb ed="#B" n="28"/>vel de ipsa cogitare hispani vel quia semper duxerunt gentes
+          <lb ed="#B" n="29"/>illas loco vilium et contemnibilium personarum vel quia se jure ag
+          <lb ed="#B" break="no" n="30"/>gredi et subijcere sibi eas posse ac si fuissent mahometanos
+          <lb ed="#B" n="31"/>existimabant et proinde illas justo bello obtinuisse. 
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e155">
+          Tum 
+          <lb ed="#B" n="32"/>2° quia vis etinjuria personalis continue semper 
+          <pb ed="#B" n="190-r"/>
+          <lb ed="#B" n="1"/>incessanter que vivis infertur cum semper in servitude acerrima 
+          <lb ed="#B" n="2"/>detineantur captivi et usurpetur sua naturalis libertas et tam do
+          <lb ed="#B" break="no" n="3"/>mini et Reges quam judices et totus populus succumbentes semper
+          <lb ed="#B" n="4"/>jaceant sub illa. Unde vis seu violentia quotidie ac continue
+          <lb ed="#B" n="5"/>comittitur et quotidie ac semper nascitur estque in fieri et
+          <lb ed="#B" n="6"/>actu permanenti seu influenti per quam non solum infertur
+          <lb ed="#B" n="7"/>vis continue subditis faciendo eos per metum obedire tyranis
+          <lb ed="#B" n="8"/>et dominis violentis, ut sunt hispanorum singuli qui habent
+          <lb ed="#B" n="9"/>repartimentum sive comendam, verum etiam legitimis re
+          <lb ed="#B" break="no" n="10"/>gibus sive dominis naturalibus infertur. Illis quidem vis com
+          <lb ed="#B" break="no" n="11"/>pulsiva, istis autem expulsiva cui jure semper potest bellum
+          <lb ed="#B" n="12"/>propulsari et resisti, prout supra jam diximus. Ergo sem
+          <lb ed="#B" n="13"/>per subest causa bellum indicendi illud. 
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e190">
+          Unde quod prius ne
+          <lb ed="#B" n="14"/>cessario requiritur ad interrumpendum predictum jus: quod cesset
+          <lb ed="#B" n="15"/>injuriarum et lesionum sive eravaminum illatio et tyrannidis
+          <lb ed="#B" n="16"/>et oppresionis prememorati repartimiento aut comenda
+          <lb ed="#B" n="17"/>incursio, quia dum ipsa persisteret vel metus iterum inferendi
+          <lb ed="#B" n="18"/>ea, profecto nec pax nec tregua nec satisfactio nisi sola remissio 
+          <lb ed="#B" n="19"/>ad terminandum jus prodesset, ac per consequens non cessabit jus et
+          <lb ed="#B" n="20"/>causa, contra nos opprimentes et tyranice detinentes 
+          <lb ed="#B" n="21"/>homines liberos, movendi bellum. Et regula est quod peccati venia
+          <lb ed="#B" n="22"/>non datur misi correcto: <ref xml:id="dc7aa7-e10034-Rd1e211">De Regulis iuris, Peccati, Lib. VI, et 24 q.2 
+            <lb ed="#B" n="23"/>c. legatur </ref>et <ref xml:id="dc7aa7-e10034-Rd1e216">De Schismaticis, cap.1, Lib. VI.</ref> Et sic patet<sic> secundum <!--edition has 2m,--></sic>
+          <lb ed="#B" n="24"/>scilicet quod tale bellum non terminetur. 
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e227">
+          Si autem pax vel tregua
+          <lb ed="#B" n="25"/>interveniret dum ipsa duraret, non esset licitum bellum ex parte
+          <lb ed="#B" n="26"/>illarum gentium quia contra naturalem equitatem est pacta
+          <lb ed="#B" n="27"/>non servare, ut in L. conventionum, <ref xml:id="dc7aa7-e10034-Rd1e235">ff., De pactis;</ref> et <ref xml:id="dc7aa7-e10034-Rd1e237">ff., De captivis
+            <lb ed="#B" n="28"/>et postliminio, L. postliminium, $ induci; </ref>et <ref xml:id="dc7aa7-e10034-Rd1e243">L. non dubito et cap. per,
+              <lb ed="#B" break="no" n="29"/>venit el 22, De iureiurandum</ref>; et [que] supra iam dixi.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e249"> 
+          Quantum vero 
+          <lb ed="#B" n="30"/>ad satisfactionem indelligendum est de possibile quia ut supra di
+          <lb ed="#B" n="31"/>ximus impossibile foret illis secundum equalitatem reddere
+          <lb ed="#B" n="32"/>pro quibus restituere et satisfacere tenentur, non modo injuriarum 
+          <lb ed="#B" n="33"/>damnorum et lesionum que tot populis regibus et regnisa se 
+          pror<pb ed="#B" n="190-v"/>
+          <lb ed="#B" break="no" n="1"/>sus destructis et deletis intulerunt, ut taceamus et perditionem 
+          <lb ed="#B" n="2"/>innumerabilium animarum que absque fide et sacramentis ad e
+          <lb ed="#B" break="no" n="3"/>terna tormenta transmiserunt (quibus satisfieri non pot
+          <lb ed="#B" break="no" n="4"/>est nisi longe gravioribus flamis quam illa, si non peniteant, deputentur); 
+          <lb ed="#B" n="5"/>verum etiam tam immensorum ponderum auri et argenti et lapi
+          <lb ed="#B" break="no" n="6"/>dum preciosorum ceterarumque rerum mobilium et immobilium,
+          <lb ed="#B" n="7"/>proquibus nec Reges nostri quidem etiam si regna propria vende
+          <lb ed="#B" n="8"/>rent ad satisfaciendum non sufficerent. Idcirco si delinquentes
+          <lb ed="#B" n="9"/>offensores que hyspani satisfactionem possibilem offerent bona
+          <lb ed="#B" n="10"/>fide, gentes ille deberent esse <sic> <!--edition separates sentences-->contente sed</sic> qualis et quanta satis
+          <lb ed="#B" break="no" n="11"/>factio hec oporteret esse, alterius et temporis et considerationis 
+          <lb ed="#B" n="12"/>est. 
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e294">
+          Postremo dicitur in Conclusione: <quote xml:id="dc7aa7-e10034-Qd1e296">«sive remissione voluntaria».</quote>
+          <!--edition joins sentences here-->
+          <lb ed="#B" n="13"/>Quia videlicet lesi, hoc est omnes ille gentes, populi et reges, seu 
+          <lb ed="#B" n="14"/>dominii eorum, voluntarie ac sua sponte cessante omni fraude 
+          <lb ed="#B" n="15"/>quacunque vi metu coactione vel desperatione rerum recuperandarum 
+          <lb ed="#B" n="16"/>et in voluntario absoluto vel misto, scilicet conditionato, ut etiam 
+          <lb ed="#B" n="17"/>timore reverentie, ut <ref xml:id="dc7aa7-e10034-Rd1e311">Codex, De bis que vi metusve causa, per totum?; et in L.1, $ 
+            <lb ed="#B" n="18"/>que onerande</ref>, ad fin., <ref xml:id="dc7aa7-e10034-Rd1e316">ff., Quarum rerum actio non datur, 
+              <lb ed="#B" n="19"/>et ibi Glossa,</ref> remittant injurias et nocumenta sibi illata liberati
+          <lb ed="#B" n="20"/>forent lesores et offensores hispani, quia quocunque modo satisfactum
+          <lb ed="#B" n="21"/>fuerit creditori ad suam voluntatem habetur pro soluto et satisfacto
+          <lb ed="#B" n="22"/>licet non sit solutum, ut <ref xml:id="dc7aa7-e10034-Rd1e328">Digest., De pignorativa actione, L. si rem alienam </ref>et <ref xml:id="dc7aa7-e10034-Rd1e330">ff., 
+            <lb ed="#B" n="23"/>Quibus modis pignus vel bypotbeca solvitur, L. item liberatura
+            <lb ed="#B" n="24"/>in princ.</ref> et <ref xml:id="dc7aa7-e10034-Rd1e337">ff., De accusationibus, L. si rem, $ satisfactum?</ref>
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e340">Sed in hoc passu
+          <lb ed="#B" n="25"/>animadvertendum utique est quod erit semper vehemens presump
+          <lb ed="#B" break="no" n="26"/>tio quod nunquam ille gentes libera voluntate remittent hyspant ea que 
+          <lb ed="#B" n="27"/>tyranice abstulerunt, nec damna que intulerunt eis tum ex ma
+          <lb ed="#B" break="no" n="28"/>gnitudine debitorum tum et fortius quia nihil facient sicut
+          <lb ed="#B" n="29"/>modo nec faciunt aliquid, nisi ad vitandum aliquod 
+          <lb ed="#B" n="30"/>malum et sic semper involuntarie a Deo, timorem hispanorum 
+          <lb ed="#B" n="31"/>et eorum crudelitatum cordibus habent invisceratum. Nanque 
+          <lb ed="#B" n="32"/>tandiu metus durat tyranni, quamdiu vivit ille tyranus, quia ea
+          <lb ed="#B" break="no" n="33"/>dem causa metus semper manente vel durante, oportet eumden 
+          <lb ed="#B" n="34"/>effectum, id est, metum manere ac persequens ipsa oppressio  
+          <pb ed="#B" n="191-r"/>
+          <lb ed="#B" n="1"/>et in iustitia durat et manet. Probatur hoc per <ref xml:id="dc7aa7-e10034-Rd1e368">Cap. 1 cum ibi 
+            <lb ed="#B" n="2"/>notatis, De his que vi metusve causa fiunt</ref>, ubi apparet quandiu dura
+          <lb ed="#B" break="no" n="3"/>vit justus metus uxoris quamdiu vixit crudelis <sic><!--edition joins sentences-->maritus. Et</sic> notant 
+          <lb ed="#B" n="4"/>Glossa et Doctores ibi quod mulier aliquid gerens metu mariti excusatur
+          <lb ed="#B" n="5"/>nec valet aliquid de jure toto tempore vite mariti. Et Panormitanus, ibi 
+          <lb ed="#B" n="6"/>in 2° notabili, dicit quod metus mortis dicitur imminere non solum 
+          <lb ed="#B" n="7"/>durante vibratione gladii sed etiam postmodum si tanta est
+          <lb ed="#B" n="8"/>potentia minantis ut verisimilter timeatur mors. Et quod 
+          <lb ed="#B" n="9"/>Baldus, in L. 1, circa fin., <ref xml:id="dc7aa7-e10034-Rd1e392">Codex, De condictione ob turpem causam, quod idem est
+            <lb ed="#B" n="10"/>durante statuto tyranico</ref>, et Felinus, in<ref xml:id="dc7aa7-e10034-Rd1e397"> cap. significasti, el 2°, 5a colum.,
+              <lb ed="#B" n="11"/>numero 12, De homicidio,</ref> dicit quod quamdiu spolians est potentior spo
+          <lb ed="#B" break="no" n="12"/>liato tandiu dicitur ei fieri vis. Hec ille. Humani enim moris
+          <lb ed="#B" n="13"/>est illum timere cuius judicium nunc erigitur nunc deprimitur,
+          <lb ed="#B" n="14"/>
+          <ref xml:id="dc7aa7-e10034-Rd1e409">ut dicitur 16, q. 2, c. Visis </ref>. Et hec sententia notetur precor si comple
+          <lb ed="#B" break="no" n="15"/>tur in gentibus illis. Unde post metum illatum ex aliquo actu
+          <lb ed="#B" n="16"/>sequenti nunquam purgatur metus, etiam cum intervallo ea
+          <lb ed="#B" n="17"/>dem causa metus durante. Ita dicit Baldus, in L. 2, Quod metus
+          <lb ed="#B" n="18"/>causa. Et hec sunt valde notanda in ista materia indorum
+          <lb ed="#B" n="19"/>quia per ea plures frivoles objectiones peremptorie solvuntur.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e423">
+          <lb ed="#B" n="20"/>Sed ad Conclusionem reddeamus: Cum igitur gentes ille cum
+          <lb ed="#B" n="21"/>suis regibus et dominis naturalibus bellum continuum adver
+          <lb ed="#B" break="no" n="22"/>sus nos justissimum vel jus indicendi nobis habeant nec pax
+          <lb ed="#B" n="23"/>
+          <sic><!--edition has nec-->vel</sic> tregua in eas et hyspanos fuerit unquam facta nec satisfactio
+          <lb ed="#B" break="no" n="24"/>nem hyspani vel miniman aut fecerint aut obtulerint, imo
+          <lb ed="#B" n="25"/>nec de tali opere cogitarunt neque tot injurias et immensa
+          <lb ed="#B" n="26"/>et irreparabilia damna et mala que ab illis <sic><!--edition has illata fuerunt here--></sic> sustituerunt,
+          <lb ed="#B" n="27"/>remiserint lese partes nec minus injuriarum et <!--unsure if damnorum is correct here-->
+          <lb ed="#B" n="28"/>illatio et ipsa crudelis tyranis cessaverit, et quotidie ac in dies 
+          <lb ed="#B" n="29"/>magis addiderit et mala malis, peiora peioribus addant. 
+          <lb ed="#B" n="30"/>Ergo prefatum jus vel bellum continuum et perpetuum contra
+          <lb ed="#B" n="31"/>nos hispanos habent et nisi per aliquod predictorum quatuor 
+          <lb ed="#B" n="32"/>modorum terminetur aliquando, usque ad Diem judicii profecto 
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e463">
+          <lb ed="#B" n="33"/>durabit. Díxose en la Conclusión: <quote xml:id="dc7aa7-e10034-Qd1e467">«como enemigos del linaje 
+            <lb ed="#B" n="34"/>humano»,</quote> porque véanse las historias desde el diluvio y pasado 
+          <pb ed="#B" n="191-v"/>
+          <lb ed="#B" n="1"/>acá, no se hallará nación que tanto haya lastimado, diminuido
+          <lb ed="#B" n="2"/>y apocado el linaje humano, y con tan diversas y nuevas mane
+          <lb ed="#B" n="3"/>ras de inhumanas crueldades como nosotros havemos hecho
+          <lb ed="#B" n="4"/>en aquellas gentes innocentes en sesenta años. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

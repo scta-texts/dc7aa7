@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 32</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 32</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="196-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e11473"><!-- dd-c32 -->
+        <head xml:id="dc7aa7-e11473-Hd1e111">Capitulo 32</head>
+        <p xml:id="dc7aa7-e11473-d1e113">
+          <lb ed="#B" n="29"/>Capítulo 32
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e118">
+          <lb ed="#B" n="30"/>Conclusión 1a para la 4a duda
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e123">
+          <pb ed="#B" n="197-r"/>
+          <lb ed="#B" n="1"/>Los comenderos son obligados, so pena de pecado mortal,
+          <lb ed="#B" n="2"/>a procurar de instruir y enseñar aquellas gentes de sus en
+          <lb ed="#B" break="no" n="3"/>comiendas por los comenderos en lo sus mismas personas y por otras para ello há
+          <lb ed="#B" n="4"/>biles, sin que llevaran provecho alguno de los <sic><!--edition separates sentences-->yndios quánto</sic>
+          <lb ed="#B" n="5"/>más son obligados llevando lo que les roban de sus sudores y tra
+          <lb ed="#B" break="no" n="6"/>bajos cada día. 
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e145">
+          <lb ed="#B" n="7"/>Pruévasse la primera parte, porque cada hombre, mayormente
+          <lb ed="#B" n="8"/>cada christiano, es obligado a socorrer y ayudar a su próximo
+          <lb ed="#B" n="9"/>que estuviere o padeciere extrema necessidad del cuerpo, y
+          <lb ed="#B" n="10"/>más del ánima, constándole sopena de peccado mortal como 
+          <lb ed="#B" n="11"/>parece por el 5° Principio, y así de ley natural y precepto di
+          <lb ed="#B" n="12"/>vino según aquello, <ref xml:id="dc7aa7-e11473-Rd1e160">Juan 3:</ref>
+          <quote xml:id="dc7aa7-e11473-Qd1e162">«Qui viderit fratrem suum necesse 
+            <lb ed="#B" n="13"/>habere et clauserit viscera ab eo, quomodo charitas Dei manet
+            <lb ed="#B" n="14"/>in illo;</quote> y aquello, <ref xml:id="dc7aa7-e11473-Rd1e169">Eclesiástico 17: </ref>
+          <quote xml:id="dc7aa7-e11473-Qd1e171">«Unicuique mandavit Deus de proximo
+            <lb ed="#B" n="15"/>suo»</quote>; y aquello, <ref xml:id="dc7aa7-e11473-Rd1e176">Matheo 7:</ref>
+          <quote xml:id="dc7aa7-e11473-Qd1e179">«Quodcunque vultis ut faciant vobis ho
+            <lb ed="#B" break="no" n="16"/>mines, id facite illis».</quote> E así somos obligados a exercitar las obras
+          <lb ed="#B" n="17"/>de misericordia corporales y espirituales con los próximos, y de los 
+          <lb ed="#B" n="18"/>que pudiendo no las cumplen, dixo Christo: <quote xml:id="dc7aa7-e11473-Qd1e188">«Esurivi et non dedistis
+            <lb ed="#B" n="19"/>mihi manducare, etc...»</quote>
+          <ref xml:id="dc7aa7-e11473-Rd1e193">Matheo 25.</ref> Pues, aquellas gentes padecen
+          <lb ed="#B" n="20"/>extrema necessidad de ser enseñados en las cosas de la fe y en las ne
+          <lb ed="#B" n="21"/>cessarias a su salvación, y a los encomenderos consta esta necessidad; 
+          <lb ed="#B" n="22"/>luego, son obligados por sus personas y por otras, aunque de los indios
+          <lb ed="#B" n="23"/>no llevaran cosa, teniendo ellos para ellos facultad, a enseñallos
+          <lb ed="#B" n="24"/>y hazellos enseñar la ley divina y natural, y así su pena de peccado mor
+          <lb ed="#B" n="25"/>tal.</p>
+        <p xml:id="dc7aa7-e11473-d1e210">La 2a parte es clara, porque ellos tienen con qué pagar o man
+          <lb ed="#B" break="no" n="26"/>tener a los doctrinantes, clérigos o frayles, de los grandes bienes y ri
+          <lb ed="#B" n="27"/>quezas que roban y <sic> <!--edition has han--> an </sic> robado a los mismos necessitados contra justitia y toda
+          <lb ed="#B" n="28"/>razón y ley natural, y porque no lo hazen, están siempre en peccado mor
+          <lb ed="#B" n="29"/>tal y son reos de los que aún no se han convertido ni baptizado, y de las
+          <lb ed="#B" n="30"/>ánimas que, de los baptizados y no baptizados, por falta de doctrina
+          <lb ed="#B" n="31"/>cada día se condenan, y las que más se condenarán. porque son causa 
+          <lb ed="#B" n="32"/>privativa de su cierta dañación: 1, q. 1, c. placuit, el 2°, ubi dicitur: 
+          <lb ed="#B" n="33"/>
+          <quote xml:id="dc7aa7-e11473-Qd1e234">«Necesse est <sic> <!--edition does not have ut--> ut </sic>ab illis eorum perditio requiratur quorum spolia perti
+            <lb ed="#B" n="34"/>mescentes a baptismi gratia se substrarunt»</quote>
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e245">
+          <lb ed="#B" n="35"/>Conclusión 2a.[para la 4a Duda]
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e250">
+          <pb ed="#B" n="197-v"/>
+          <lb ed="#B" n="1"/>Ya queda dicho y demostrado que ni el Visorrey, ni los officiales,
+          <lb ed="#B" n="2"/>ni Juezes reales, ni el mismo Rey nuestro Señor, puede dar ni justificar
+          <lb ed="#B" n="3"/>las dichas encomiendas. Y por eso poco les aprovecha que no se hable
+          <lb ed="#B" n="4"/>en ellas, ni pensar que el Rey se las da por sus servicios, como quiera
+          <lb ed="#B" n="5"/>que no puedan ignorar ni negar sus obras nefandas y estén
+          <lb ed="#B" n="6"/>con mala fe como abaxo se probará, por las quales son dignos
+          <lb ed="#B" n="7"/>más de eternos fuegos que de algún temporal galardón.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e270">
+          <lb ed="#B" n="8"/>Conclusión 3a [para la 4a Duda]
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e275">
+          <lb ed="#B" n="9"/>Que no tengan bastante doctrina o la tengan bastante,obligado
+          <lb ed="#B" n="10"/>es todo quanto lleva y ha llevado de los yndios que están tasados o re
+          <lb ed="#B" n="11"/>tassados una y muchas vezes, excepto aquello que gastase con
+          <lb ed="#B" n="12"/>los que a los indios doctrinaren. 
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e286">
+          <lb ed="#B" n="13"/>Esta conclusión queda provada, con sus dos partes, por la 1a
+          <lb ed="#B" n="14"/>y 3a conclusión de la Duda passada.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e294">
+          <lb ed="#B" n="15"/>Para 5a Duda, y contraconclusión 1a,
+          <lb ed="#B" n="16"/>es puesta
+          <lb ed="#B" n="17"/>la conclusión de la 2a Duda, y su prueva.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e303">
+          <lb ed="#B" n="18"/>Todos los nombrados en la pregunta o Duda que con sus officios o
+          <lb ed="#B" n="19"/>exercicios no ayudan o aprovechan por alguna manera a los
+          <lb ed="#B" n="20"/>indios, sino sólo a los españoles, peccan mortalmente y son obli
+          <lb ed="#B" n="21"/>gados a restituir todo lo que los comenderos por el salario, o jornal
+          <lb ed="#B" n="22"/>o galardón, por satisfación o de
+          <lb ed="#B" n="23"/> gracia les dieron. 
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e319">
+          <lb ed="#B" n="24"/>Pruévase la conclusión: porque regla común y universal de todos
+          <lb ed="#B" n="25"/>los Doctores theólogos y juristas es que, quando el que está obligado
+          <lb ed="#B" n="26"/>a restituir los robos que <sic><!--edition has ha--> a</sic> hecho o usuras que ha llevado es más lo que
+          <lb ed="#B" n="27"/>deve que la hazienda que tiene, o así estando lo que ha de restituir
+          <lb ed="#B" n="28"/>que sobrepuja a toda su facultad, no puede enagenar cosa al
+          <lb ed="#B" break="no" n="29"/>guna de lo que possee por algún título que sea, si por aquello que en
+          <pb ed="#B" n="198-r"/>
+          <lb ed="#B" break="no" n="1"/>agena es menos poderoso para restituir a lo que está obligado;
+          <lb ed="#B" n="2"/>por manera que de aquello que tiene no puede donar o hazer 
+          <lb ed="#B" n="3"/>gracia, ni vender, ni prestar, ni casar los hijos ni ponellos
+          <lb ed="#B" n="4"/>al estudio, ni hazer limosna si no fuesse al que estuviesse en ex
+          <lb ed="#B" n="5"/>trema necessidad, ni hazer o dotar capillas ni capellanías,
+          <lb ed="#B" n="6"/>ni edificar yglesias o monesterios, ni dar a religiosos,
+          <lb ed="#B" n="7"/>ni pagar salarios de los que le sirviesen si no le sirven en cosas
+          <lb ed="#B" n="8"/>lícitas y a provecho de los despojados, en augmento o conserva
+          <lb ed="#B" n="9"/>ción de la hazienda que aquél tiene, ni puede gastar en comer
+          <lb ed="#B" n="10"/>ni en vestir, sino solamente aquello sin lo qual no podría bi
+          <lb ed="#B" n="11"/>vir él y su casa, que llamamos necessario. La razón de todo
+          <lb ed="#B" n="12"/>esto es porque no tiene cosa suya de que lo pagar, y a ninguno
+          <lb ed="#B" n="13"/>es lícito bivir de lo ageno contra voluntad de su dueño ut <sic><!--edition has(pasaje en blanco) here--></sic>
+          <lb ed="#B" n="14"/>y, pues, él no lo puede dar ni enage
+          <lb ed="#B" n="15"/>nar sin peccado mortal porque comete hurto, síguese que ningu
+          <lb ed="#B" n="16"/>no de los donatarios o tractantes con él lo puede rescebir sin
+          <lb ed="#B" n="17"/>peccado mortal, porque todo aquello es ageno y no de aquél; luego,
+          <lb ed="#B" n="18"/>contratando lo ageno contra la voluntad de su dueño comete hur
+          <lb ed="#B" n="19"/>to:<ref xml:id="dc7aa7-e11473-Rd1e384"> De furtis, L. 1a</ref>, luego, es pecado mortal; luego, aquéllos obli
+          <lb ed="#B" n="20"/>gados son a lo que resciben por qualquiera de aquellos títulos, restituyr.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e390">
+          <lb ed="#B" n="21"/>Y así, el que rescibió de gracia, por donación, alguna joya o cosa por 
+          <lb ed="#B" n="22"/>chica y de poco valor que sea, y el que compró o trocó y comutó si
+          <lb ed="#B" n="23"/>no le dio tanto valor como valía la cosa comprada o comutada,
+          <lb ed="#B" n="24"/>y el que rescibió el empréstido si algo dello se diminuyó, los hijos y
+          <lb ed="#B" n="25"/>hijas que se casaron con dotes y dineros de aquél, y los que <sic><!--edition has gastaron--> castaron </sic>
+          <lb ed="#B" n="26"/>en el estudio, y el Doctor o Maestro que rescibió algo porque les leyese
+          <lb ed="#B" n="27"/>o enseñase, y el pobre o pobres, fuera del caso de la extrema necessi
+          <lb ed="#B" n="28"/>dad, la limosna que rescibió, y los capellanes las pitangas que por
+          <lb ed="#B" n="29"/>dezir las missas lleva, y los que lo induzieron con eficacia a que
+          <lb ed="#B" n="30"/>hiziese las yglesias y monasterios, y los religiosos que rescibieron
+          <lb ed="#B" n="31"/>libros o otras limonas, y los médicos lo que por curallo rescibie
+          <lb ed="#B" n="32"/>ron, y los officiales, albañiles, carpinteros, sastres, capateros, que
+          <lb ed="#B" n="33"/>por sus trabajos y officios hovieron sus jornales, los escrivanos y 
+          <lb ed="#B" n="34"/>abogados en sus pleytos, los criados y de su familia a quien dió y 
+          <pb ed="#B" n="198-v"/>
+          <lb ed="#B" n="1"/>pagó su estipendio, y los carnigeros y otros, y los quele vendieron
+          <lb ed="#B" n="2"/>la comida con que havía de bivir y se mantener: todos éstos, y si al
+          <lb ed="#B" break="no" n="3"/>gunos más <sic> <!--edition has hoviere--> oviere</sic> que llevaren parte de la hazienda de aquél por <sic><!--edition has cual--> qual</sic>
+          <lb ed="#B" break="no" n="4"/>quiera manera que la deven, peccan mortalmente y son obligados 
+          <lb ed="#B" n="5"/>a restituyrlo, no a él, sino a los que por hurto o por robo o por usura,
+          <lb ed="#B" n="6"/>el desnudo y agravio, si no tiene alguna otra cosa de más, como de
+          <lb ed="#B" break="no" n="7"/>ximos, de lo ageno para lo supplir. Y es la razón de todo ello,
+          <lb ed="#B" n="8"/>porque aquello tiene menos de lo ageno que es obligado a restituir,
+          <lb ed="#B" n="9"/>casi es hecho menos poderoso para salir del peccado en que bive,
+          <lb ed="#B" n="10"/>no restituyendo. 
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e460">Esto se entiende si aquéllos saben, por ser
+          <lb ed="#B" n="11"/>público, que son obligados a restitución de la condición susodicha, con
+          <lb ed="#B" break="no" n="12"/>viene a saber, que lo que tienen es robado y mal havido,o dudan dello, 
+          <lb ed="#B" n="13"/>porque en las dudas son obligados a inquirir la verdad, y entre
+          <lb ed="#B" n="14"/>tanto que la inquieren, hanse guardar de rescebir cosa de aquella
+          <lb ed="#B" n="15"/>
+          <sic><!--edition separates sentences--> hazienda: y </sic> sino, no son excusados, como se dixo en el Principio 8?, 
+          <lb ed="#B" n="16"/>porque se ponen en peligro de caer y cometer hurto. Porque regla es
+          <lb ed="#B" n="17"/>de los Doctores que qualquiera que tiene consciencia, dudando ser 
+          <lb ed="#B" n="18"/>la cosa agena, es obligado a la restituyr como abaxo se dirá más
+          <lb ed="#B" n="19"/>claro.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e486">Allende lo dicho, de aquéstos hase de saber también que 
+          <lb ed="#B" n="20"/>la muger y hijos de aquel tal no pueden comer ni vestir de la
+          <lb ed="#B" n="21"/>hazienda del padre y <sic><!--edition separates sentences-->marido: y</sic> si lo gozan y comen o visten
+          <lb ed="#B" n="22"/>dello son obligados a lo restituir, si no fuere, no teniendo otro
+          <lb ed="#B" n="23"/>remedio, el qual es obligado buscar por todas las vías honestas que
+          <lb ed="#B" n="24"/>possibles le fueren<sic><!--edition joins sentences, has ha-->, y a </sic> de estar aparejada para que si por herencia
+          <lb ed="#B" n="25"/>o por alguna otra causa le acaesciesse venir a tener hazienda de que
+          <lb ed="#B" n="26"/>satisfazer, lo satisfará.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e513">Puede supplir entre tanto algo de lo
+          <lb ed="#B" n="27"/>que come y gasta honesta y modestamente, amonestando al ma
+          <lb ed="#B" n="28"/>rido y a los que viere poder aprovechar, que restituya lo que mal
+          <lb ed="#B" n="29"/>ganado tiene, y por todas las vías que pudiere favorecer el estado de los
+          <lb ed="#B" n="30"/>despojados. Pero no con una amonestación, ni con dos, pueden comer
+          <lb ed="#B" n="31"/>sin consciencia todo el año, sino que siempre <sic><!--edition has han--> an</sic> de tener a sus tiempos
+          <lb ed="#B" n="32"/>y sazón este cuidado. Así mismo los criados que le sirven pueden lle
+          <lb ed="#B" n="33"/>var sus salarios o soldadas si le sirven en cosas lícitas, pero si en las
+          <lb ed="#B" n="34"/>illícitas, a restitución son obligados, no pueden llevarlo.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e537">Ponen
+          <lb ed="#B" n="35"/>los Doctores cinco remedios para escusar a los suso <sic><!--edition joins sentences-->dichos.Primo </sic>
+          <pb ed="#B" n="199-r"/>
+          <lb ed="#B" n="1"/>propter procurationem, scilicet si causam expoliatorum agunt.
+          <lb ed="#B" n="2"/>2°, propter recompensationes, scilicet, quia tantum ei restituunt
+          <lb ed="#B" n="3"/>quantum recipiunt ut emptor et comutator et serviens in mercan
+          <lb ed="#B" break="no" n="4"/>tiis et huiusmodi licitis, augendo sustantiam eius. 3° propter restitu
+          <lb ed="#B" n="5"/>tionem, id est si restitutores proponant. Et ad hoc se nabituros fa
+          <lb ed="#B" break="no" n="6"/>cultatem probabiliter sperant. 4°, propter ignorantiam, nes
+          <lb ed="#B" n="7"/>ciendo rem esse usurpatam, nec habendo causam hoc sciendi.5°,
+          <lb ed="#B" n="8"/>propter necesitatem, ut quia filii in tali sunt etate quod aliter vi
+          <lb ed="#B" n="9"/>vere non possunt.
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e568">
+          <lb ed="#B" n="10"/>Los religiosos y predicadores pueden comer y <sic><!--edition has haver--> aver</sic> las cosas ne
+          <lb ed="#B" n="11"/>cessarias estrechamente si exortan y amonestan en sus sermones
+          <lb ed="#B" n="12"/>generales y en hablas familiares que restituyan y hagan peni
+          <lb ed="#B" n="13"/>tencia los tales obligados a restitución, como expresso parece en el
+          <lb ed="#B" n="14"/>capítulo Cum voluntate, <ref xml:id="dc7aa7-e11473-Rd1e585">$ 1, De sententia excomunionis,</ref> donde se dize:
+          <lb ed="#B" n="15"/>
+          <quote xml:id="dc7aa7-e11473-Qd1e589">«Predicatores quoque, qui penes excommunicatos vel necesaria sumere de bonis alios aliena
+            <lb ed="#B" n="16"/>rum rerum detentores in predicationibus et iniuste habitis quando confessionibus quasi
+            <lb ed="#B" n="17"/>gerunt causam vel curam corum ad quos res ipse spectare noscuntur, 
+            <lb ed="#B" n="18"/>elemosinas licite possunt ab illis recipere, presertim si alias non
+            <lb ed="#B" n="19"/>valeant in illo loco sustentationem habere».</quote> Hec ibi; et <ref xml:id="dc7aa7-e11473-Rd1e600">de hac causa,
+              <lb ed="#B" n="20"/>c. Ex parte</ref>; et <ref xml:id="dc7aa7-e11473-Rd1e605">11, q. 3, c. quoniam multos;</ref> et <ref xml:id="dc7aa7-e11473-Rd1e608">ff., De negotüs, L. 2,</ref> et <ref xml:id="dc7aa7-e11473-Rd1e610">L. Pom
+                <lb ed="#B" break="no" n="21"/>ponius, et L. Sed an.</ref> Pero estas limosnas entienden los Doctores
+          <lb ed="#B" n="22"/>que <sic> <!--edition has han--> an</sic> de ser no más de lo necessario, y en tanto que tengan esperan
+          <lb ed="#B" n="23"/>ca probable que restituyrán los que tienen lo robado o por usuras mal
+          <lb ed="#B" n="24"/>ganado, y si no hay tales esperangas, no son excusados los predicatores
+          <lb ed="#B" n="25"/>o religiosos tales, y así de todo lo que comieren y gastaren son a restitu
+          <lb ed="#B" n="26"/>ción obligados. Item, si non propter eorum expensas ipsis rapto
+          <lb ed="#B" break="no" n="27"/>ribus et ad restitutionem obligatis, facultas restituendi substrahitur vel
+          <lb ed="#B" n="28"/>in toto vel in magna parte: <ref xml:id="dc7aa7-e11473-Rd1e635">Argumentum, 2, q. 6, c. anteriorum, $ illud. </ref>
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e638">Y es aquí de considerar que como la amonestación o <sic><!--edition has persuación--> persuasión</sic>
+          <lb ed="#B" n="29"/>que los predicatores y religiosos han de hazer a los que tienen lo mal ga
+          <lb ed="#B" n="30"/>nado que lo restituyan, sea la causa final que los escusa en la limosna
+          <lb ed="#B" n="31"/>y comida que dellos resciben, porque de otra manera sería cometer hur
+          <lb ed="#B" n="32"/>to, participando en aprovecharse de lo ageno contra voluntad 
+          <lb ed="#B" n="33"/>de su dueño. Síguese que si los religiosos y predicatores no persuaden
+          <pb ed="#B" n="199-v"/>
+          <lb ed="#B" n="1"/>e induzen quanto en sí fuere con eficacia a los tales detenedores 
+          <lb ed="#B" n="2"/>de lo ageno que lo restituyan, no pueden comer ni bever o aprovecharse
+          <lb ed="#B" n="3"/>de un solo maravedí dello que no sean obligados a restituillo,
+          <lb ed="#B" n="4"/>porque cessando la causa final, cessa el effecto, y aquello <sic><!--edition has [que]--></sic> por ella se da
+          <lb ed="#B" n="5"/>O se <sic><!--edition joins sentences--> concede. ut</sic> in <ref xml:id="dc7aa7-e11473-Rd1e675">cap. Cum cessante, De apellationibus</ref> et <ref xml:id="dc7aa7-e11473-Rd1e677">L. adigere, $ quam
+            <lb ed="#B" n="6"/>vis, ff., De iure patronatus.</ref>
+        </p>
+        <p xml:id="dc7aa7-e11473-d1e683">Item, si son escusados en comer y rescebir las
+          <lb ed="#B" n="7"/>moderadas limosnas de lo ageno, es porque <quote xml:id="dc7aa7-e11473-Qd1e687">«gerunt negocium spolia
+            <lb ed="#B" break="no" n="8"/>tum ut restituantur bona sibi ablata vel extorta»:</quote>
+          <ref xml:id="dc7aa7-e11473-Rd1e692">ff., De negotiis gestis</ref>. 
+          <lb ed="#B" n="9"/>y en <ref xml:id="dc7aa7-e11473-Rd1e696">el dicho capítulo Cum voluntate:</ref>
+          <quote xml:id="dc7aa7-e11473-Qd1e699">«Ergo si non gerunt predican
+            <lb ed="#B" break="no" n="10"/>do, non possunt illa recipere»</quote>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

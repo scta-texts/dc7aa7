@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 33</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 33</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="199-v"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e12083"><!-- dd-c33 -->
+        <head xml:id="dc7aa7-e12083-Hd1e111">Capitulo 33</head>
+        <p xml:id="dc7aa7-e12083-d1e113">
+          <lb ed="#B" n="11"/>Capítulo 33
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e118">
+          <lb ed="#B" n="12"/>Todo lo susodicho es colegido de los Doctores si
+          <lb ed="#B" break="no" n="13"/>guientes: de <ref xml:id="dc7aa7-e12083-Rd1e124">Sancto Tomás: Opásculo 19, cap. 7, </ref>
+          <lb ed="#B" n="14"/>y del <ref xml:id="dc7aa7-e12083-Rd1e128">Quodlibet 12, q. 30</ref>; de Alexandro de A
+          <lb ed="#B" break="no" n="15"/>les: <ref xml:id="dc7aa7-e12083-Rd1e133">4a parte, q. 86, membro 3, a. 4°, $ 6, et
+            <lb ed="#B" n="16"/>a.5° per totum,</ref> donde largamente comprehende
+          <lb ed="#B" n="17"/>todo lo dicho. Petrus de Palude: en el 4° de <ref xml:id="dc7aa7-e12083-Rd1e140">las
+            <lb ed="#B" n="18"/>Sentencias, dist. 15, q.2, a.3 </ref>et <ref xml:id="dc7aa7-e12083-Rd1e145">q. 3, a.5,</ref>
+          <lb ed="#B" n="19"/>
+          <ref xml:id="dc7aa7-e12083-Rd1e150">conclusione prima</ref> et <ref xml:id="dc7aa7-e12083-Rd1e152">2a conclusione</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e155">
+          <lb ed="#B" n="20"/>Henricus de Gandavo:
+          <lb ed="#B" n="21"/>
+          <ref xml:id="dc7aa7-e12083-Rd1e161">Quodlibet 4, q. 27</ref> y <ref xml:id="dc7aa7-e12083-Rd1e163">Quodlibet 6, q.2</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e166">el Papa Adriano:
+          <lb ed="#B" n="22"/>en el 4° Sentent., in <ref xml:id="dc7aa7-e12083-Rd1e170">De restitutione; an liceat mercari cum usurario,</ref> ibi: Hoc
+          <lb ed="#B" n="23"/>igitur supposito, etc. 
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e176">el Caietano: en su <ref xml:id="dc7aa7-e12083-Rd1e178">Summa, título Restitutio.</ref>, ibi:
+          <lb ed="#B" n="24"/>tertius casus.
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e183">el Maestro y Padre fray Domingo de Soto: in <ref xml:id="dc7aa7-e12083-Rd1e185">«De justitia 
+            <lb ed="#B" n="25"/>et jure», libro 6, q. 1, in responsione ad argumenta</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e191">Ulrico, theó
+          <lb ed="#B" n="26"/>logo de la orden de Sancto Domingo, en <ref xml:id="dc7aa7-e12083-Rd1e195">el Libro 6, tractatus 3,
+            <lb ed="#B" n="27"/>c.5, in aliquibus et sequentibus,</ref> et <ref xml:id="dc7aa7-e12083-Rd1e200">$ Preter autem</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e203">Raymundo: en
+          <lb ed="#B" n="28"/>su <ref xml:id="dc7aa7-e12083-Rd1e207">Suma, 2°, título De restitutione, q. 66 </ref>y <ref xml:id="dc7aa7-e12083-Rd1e209">68</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e212">Hostiensis: en la 
+          <lb ed="#B" n="29"/>suya, donde muchas vezes allega a Raymundo,<ref xml:id="dc7aa7-e12083-Rd1e216"> Libro 5,título De penitentia
+            <lb ed="#B" n="30"/>et remissione, Quibus et qualiter, verbo «Quid de his qui non consen
+            <lb ed="#B" n="31"/>serunt»</ref>Pedro de Ancharano: en la <ref xml:id="dc7aa7-e12083-Rd1e223">repetición de la Régula Peccati, 
+              <lb ed="#B" n="32"/>en la q. 6</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e229">Joannes de Anania: sobre <ref xml:id="dc7aa7-e12083-Rd1e231">el capítulo Quanto de usuris, 3* 
+            <lb ed="#B" n="33"/>columna, y allega otros Doctores</ref>el sancto Arcobispo de Florencia:
+          <lb ed="#B" n="34"/>
+          <ref xml:id="dc7aa7-e12083-Rd1e238">parte 2, título 1, cap. 9, $ 19, y cap. 12, $ 16, 17, 18 y 192</ref> Guillermo:   
+          <pb ed="#B" n="200-r"/>
+          <lb ed="#B" n="1"/>en su <ref xml:id="dc7aa7-e12083-Rd1e245">Suma
+            <sic><!--stated in edition but not text-->la Suma Monaldi: </sic>título «De restitutione 
+            <lb ed="#B" n="2"/>raptorum», ibi, item: quicunque aliquid accipit de rapina</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e256">La
+          <lb ed="#B" n="3"/>Suma Pisanela: con el supplemento que son dos Doctores, <ref xml:id="dc7aa7-e12083-Rd1e260">tí
+            <lb ed="#B" n="4"/>tulo «Restitutio.», 4° et  5° </ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e266">La Suma confessorum: que refiere la de <ref xml:id="dc7aa7-e12083-Rd1e268">Raymundo,
+            <lb ed="#B" n="5"/>en el libro 2°, título 5, q. 66 y 67 y 68, y título 7, q. 18 y q 56 
+            <lb ed="#B" n="6"/>y q. 59 y q. 707;</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e276">
+          <ref xml:id="dc7aa7-e12083-Rd1e278">la Suma Angélica: in verbo «Furtum», $ 25</ref>
+          <lb ed="#B" n="7"/>Pero mejor lo pone la Suma Rosela: in verbo «Restitutio»
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e283">el 
+          <lb ed="#B" n="8"/>Silvestre: theólogo y jurista, en el título <ref xml:id="dc7aa7-e12083-Rd1e287">Restitutio. 2°, partícula 3° 
+            <lb ed="#B" n="9"/>y quarta,</ref> y el título <ref xml:id="dc7aa7-e12083-Rd1e292">Usura, 8, per totum</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e295">Joannes Tabiensis:
+          <lb ed="#B" n="10"/>en su Suma, a que se dize Tabiana, theólogo y jurista,
+          <lb ed="#B" n="11"/>en el título «<ref xml:id="dc7aa7-e12083-Rd1e301">Restitutio.», $ 29 y 24,</ref> y en el título <ref xml:id="dc7aa7-e12083-Rd1e303">«Usura», 6, $ 3 y 4</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e306">Estos 
+          <lb ed="#B" n="12"/>sabios, en sus facultados, <sic><!--text has he--> e</sic> podido <sic><!--text has haver-->aver </sic> a las manos, para que de ca
+          <lb ed="#B" n="13"/>da uno tomada su parte, y de los más que dizen el todo, fortificar
+          <lb ed="#B" n="14"/>la verdad de lo que pretendemos. Bien es de creer que el que los
+          <lb ed="#B" n="15"/>siguiere no se podrá dezir que yerra.
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e327">Tornando, pues, a la prue
+          <lb ed="#B" n="16"/>va de nuestra Conclusión, dezimos así que como los comenderos y con
+          <lb ed="#B" n="17"/>quistadores de aquellos reynos del Perú no tengan valor de un solo
+          <lb ed="#B" n="18"/>maravedí que no sea obligado a mill restituciones, antes es tanta
+          <lb ed="#B" n="19"/>y tan inestimable la obligación que tienen a restituyr e satisfazer,
+          <lb ed="#B" n="20"/>no sólo a los daños y pérdidas que con sus violencias y tyranías <sic> <!--edition has han--> an</sic>
+          <lb ed="#B" n="21"/>sucedido a aquellos reynos y vezinos naturales, de los que tantos <sic><!--see previous--> an</sic>
+          <lb ed="#B" n="22"/>parecido, a los quales todo el linaje humano satisfazer no sería
+          <lb ed="#B" n="23"/>possible, pero de los thesoros y riquezas que robaron a sus proprios
+          <lb ed="#B" n="24"/>dueños, reyes y súbditos; y las tierras y heredades y despojos de rey
+          <lb ed="#B" break="no" n="25"/>nos y dignidades que usurparon, y de diversos Señores y señoríos que
+          <lb ed="#B" n="26"/>de tienen injustamente, que si se hoviesse de vender toda España y aun
+          <lb ed="#B" n="27"/>Francia para restituirlo no bastaría, como en el Cap. 24 queda
+          <lb ed="#B" n="28"/>dicho; y los ynnumerables, violentos y desmedidos tributos que por fuer
+          <lb ed="#B" n="29"/>za dellos han havido y que hoy perseveran en su maliciosa tyranía, te
+          <lb ed="#B" n="30"/>niendo todas aquellas gentes en servidumbre donde se consumen
+          <lb ed="#B" n="31"/>y perecen cada día, y que el Rey con quanto poder tiene no basta a 
+          <lb ed="#B" n="32"/>sacárselos <sic><!--edition separates sentences-->della: y </sic>así todo quanto tienen es subjecto y obligado 
+          <lb ed="#B" n="33"/>a ser restituydo, y mucho más sin comparación que tuvieran.Y esto 
+          <lb ed="#B" n="34"/>es manifestíssimo en tanta manera, que ningún estado de hom
+          <pb ed="#B" n="200-v"/>
+          <lb ed="#B" break="no" n="1"/>bres de los que hay de nuestra nación en aquellas tierras puede igno
+          <lb ed="#B" n="2"/>rarlo, aunque pongan y estudien toda malicia. Y si algunos <sic><!--edition has hay--> ay</sic> que
+          <lb ed="#B" n="3"/>no sientan ser todo aquello mal havido, en especial las tierras
+          <lb ed="#B" n="4"/>que han usurpado y la servidumbre y vexaciones e injusticias
+          <lb ed="#B" n="5"/>cotidianas que padecen los indios, son más que mármol insensibles como se muestra en el 8° Principio, mayormente
+          <lb ed="#B" n="6"/>que quasi todos tienen alguna Duda de ser todo lo que los co
+          <lb ed="#B" n="7"/>menderos posseen es mal <sic><!--edition has havido--> avido </sic>, según la pregunta dize: 
+          <lb ed="#B" n="8"/>síguese necessariamente con toda verdad y justicia,
+          <lb ed="#B" n="9"/>los estados de hombres que biven o moran o que todos tratan en aquellos
+          <lb ed="#B" n="10"/>reynos, conviene a saber, mercaderes, letrados, abogados, pro
+          <lb ed="#B" n="11"/>curadores, escrivanos, médicos, traperos, sastres, capateros,
+          <lb ed="#B" n="12"/>barberos, mozos de soldada, monasterios, capellanes, minis
+          <lb ed="#B" n="13"/>tros de Iglesia, religiosos, predicadores, y si más otros de otros
+          <lb ed="#B" n="14"/>estados biven en ellas, peccan mortalmente y son
+          <lb ed="#B" n="15"/>obligados a restitución de qualquiera cosa de valor que resciban
+          <lb ed="#B" n="16"/>de gracia o donación o otro título lucrativo o título oneroso,
+          <lb ed="#B" n="17"/>por razón de venta o trueque o cambio o comutación o ser
+          <lb ed="#B" n="18"/>vicio o remuneración, o por limosna, excepto al pobre que
+          <lb ed="#B" n="19"/>padeciera extrema necessidad, o por offrenda y devoción
+          <lb ed="#B" n="20"/>
+          <sic><!--not in edition-->para las yglesias honrramentos calices y vasos y edificios</sic>
+          <lb ed="#B" n="21"/>con ellas o para ellas (ni ospitales, si no fuere para los mismos
+          <lb ed="#B" n="22"/>indios que la tiranía padecen), y otras qualesquiera cosas que se
+          <lb ed="#B" n="23"/>dediquen al servicio del culto divino, excepto los diezmos predia
+          <lb ed="#B" n="24"/>les, si de aquellos que lo resciben por qualquiera de los dos títu
+          <lb ed="#B" n="25"/>los no resulta bien para los indios; y en quanto en sí fuere cada
+          <lb ed="#B" n="26"/>uno, según su estado, no ayuda a que los indios que son bivos sean
+          <lb ed="#B" n="27"/>librados de tan tantas opressiones y tyranías, y que los comen
+          <lb ed="#B" n="28"/>deros sean persuadidos.a hazer penitencia y restituyr tan
+          <lb ed="#B" n="29"/>grandes intereses constreñidos. Y esto señaladamente in
+          <lb ed="#B" break="no" n="30"/>cumbe y pertenece más, porque mayor obligación tienen que 
+          <lb ed="#B" n="31"/>otro estado de hombres, a los predicadores y religiosos, allen
+          <lb ed="#B" n="32"/>de de lo predicar y en público y exhortar familiarmente,
+          <pb ed="#B" n="201-r"/>
+          <lb ed="#B" n="1"/>estudiando y mostrando, ante el Rey e su Consejo y los <sic><!--edition has governadores--> gober
+            <lb ed="#B" break="no" n="2"/>nadores</sic> y reales Audiencias, por derecho ser oppressas y robadas
+          <lb ed="#B" n="3"/>y tyranizadas aquéllas injustamente.
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e481">Esto queda y
+          <lb ed="#B" break="no" n="4"/>a probado por esta única razón quanto al peccado mortal, porque 
+          <lb ed="#B" n="5"/>cometen hurto contratando los bienes y cosas agenas contra vo
+          <lb ed="#B" n="6"/>luntad de sus dueños: <ref xml:id="dc7aa7-e12083-Rd1e489">ff., De furtis, L. 1, </ref>porque aquellos no tienen cosa
+          <lb ed="#B" n="7"/>suya que dar ni con que tratar ni con que galardonar, porque
+          <lb ed="#B" n="8"/>todo lo que tienen es ageno, robado y contra justicia havido. Y
+          <lb ed="#B" n="9"/>puede se añadir otra razón por lo qual los que resciben aquel
+          <lb ed="#B" break="no" n="10"/>los bienes peccan mortalmente, porque comunican y consienten con 
+          <lb ed="#B" n="11"/>los comenderos en el acto de pecado mortal que, ena
+          <lb ed="#B" n="12"/>genando aquello que dan que no es suyo, cometen, porque escripto
+          <lb ed="#B" n="13"/>está que <quote xml:id="dc7aa7-e12083-Qd1e507" source="http://scta.info/resource/rom1_32@15-21">«non solum digni sunt morte qui faciunt, sed qui facien
+            <lb ed="#B" break="no" n="14"/>tibus consentiunt»</quote>
+          <ref xml:id="dc7aa7-e12083-Rd1e512">Ad Romanos 1.</ref>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e515">Asílo afirma Alexandre de 
+          <lb ed="#B" n="15"/>Ales:<quote xml:id="dc7aa7-e12083-Qd1e519"> «Fur vel raptor peccat mortaliter si dat vel vendit rem fur
+            <lb ed="#B" n="16"/>tivam vel raptam; peccat etiam mortaliter recipiens eam gra
+            <lb ed="#B" n="17"/>tis vel emens a fure, sciens eam furtivam, (supple vel dubitans, ut
+            <lb ed="#B" n="18"/>superius dixi) nisi valde ei sit necessaria utpote in ultima
+            <lb ed="#B" n="19"/>necessitate, quia dat occasionem peccati mortalis ipsi furi; sicut
+            <lb ed="#B" n="20"/>peccat mortaliter qui accipit pecuniam ad usuram, cum det
+            <lb ed="#B" n="21"/>occasionem peccati mortalis usurario, nisi necessitate, etc...»</quote>
+          <lb ed="#B" n="22"/>Hec ille.
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e538">Quanto a la restitución, también la razón única es
+          <lb ed="#B" n="23"/>porque aquello que resciben se haze menos de lo que son obligados 
+          <lb ed="#B" n="24"/>los comenderos a restituyr, por poco que sea;y los que en esto 
+          <lb ed="#B" n="25"/>más offenden, y más averiguada es la razón que a restituyr
+          <lb ed="#B" n="26"/>todo lo que llevan los obliga, son los mercaderes que les venden
+          <lb ed="#B" n="27"/>cosas superfluas, como sedas y granas y paños más finos, y otras
+          <lb ed="#B" n="28"/>cosas de regalos para sus comidas, y armas de toda especie, ma
+          <lb ed="#B" n="29"/>yormente cavallos y arcabuzes con que se hazen más fuertes para
+          <lb ed="#B" n="30"/>perseverar en su tyranía y menos poderosos los indios para
+          <lb ed="#B" n="31"/>justamente resistillos, como tengan contra ellos guerra perpe
+          <lb ed="#B" n="32"/>tua y justíssima, como queda probado en la conclusión 2a a la 1a
+          <lb ed="#B" n="33"/>Duda, en el Cap. 26 y los siguientes.
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e564">Quiero también poner aquí lo que
+          <lb ed="#B" n="34"/>formalmente Alexandro de Ales escribe: <quote xml:id="dc7aa7-e12083-Qd1e568">«Qui comedunt vel in alios 
+            <pb ed="#B" n="201-v"/>
+            <lb ed="#B" n="1"/>usus convertunt aliquid de usura vel furto scienter, sive sint religiosi
+            <lb ed="#B" n="2"/>sive alii, tenentur ad restitutionem et etiam si dubitent an sint 
+            <lb ed="#B" n="3"/>
+            <!--there's a word before i can't read-->similiter, tenentur ne conmittant se discrimini. Habetur enim pro
+            <lb ed="#B" n="4"/>regula quod quicunque habet conocientiam de re quod sit aliena, tenetur illamque
+            <lb ed="#B" n="5"/>restituere».</quote> Hec Alexander de Ales.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

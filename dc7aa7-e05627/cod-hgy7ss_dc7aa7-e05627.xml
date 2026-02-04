@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulo 19</title>
+        <author ref="#per-bdlcbd">Bartolome de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulo 19</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="169-r"/>
+        <cb ed="#B" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05627"><!-- dd-c19 -->
+        <head xml:id="dc7aa7-e05627-Hd1e111">Capitulo 19</head>
+        <p xml:id="dc7aa7-e05627-d1e113">
+          Capítulo 19
+          Principio 8.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e115">
+          <lb ed="#B" n="15"/>Al menos de cinquenta años a este de mill y quinientos y sesenta
+          <lb ed="#B" n="16"/>y tres en que por la benigna misericordia de Dios hoy bivimos,
+          <lb ed="#B" n="17"/>no ha havido, y muchos menos hay hoy hombre en todas las Indias
+          <lb ed="#B" n="18"/>que haya tenido ni tenga buena fe, ni se pueda escusar con ella
+          <lb ed="#B" n="19"/>cerca de quatro cosas: La primera, <sic><!--edition shortens primera to 1a--></sic> cerca de las guerras que se han hecho
+          <lb ed="#B" n="20"/>de nuestra parte a los indios en todas las partes y lugares, reynos
+          <lb ed="#B" n="21"/>y provincias dellas. La 2a, cerca de las armadas y salteamientos,
+          <lb ed="#B" n="22"/>que todo es uno con las guerras que por la mar y por la tierra que llama<lb ed="#B" break="no" n="23"/>ron entradas y rancherías, hemos hecho y hoy se hazen como se
+          <lb ed="#B" n="24"/>hazían. La 3a, cerca del comprar los esclavos indios tomados
+          <lb ed="#B" n="25"/>en las dichas guerras. La 4a, cerca de las mercaderías que se llamavan
+          <lb ed="#B" n="26"/>y se vendían a los que exercitavan las dichas guerras, así
+          <lb ed="#B" n="27"/>como arcabuzes, pólvora, ballestas y señaladamente cava<lb ed="#B" break="no" n="28"/>llos, han sido a los indios más que otra arma nocivos.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e151">
+          <pb ed="#B" n="169-v"/>
+          <lb ed="#B" n="1"/>Este principio y verdad muy cierta, provamos por las razo<lb ed="#B" break="no" n="2"/>nes siguientes. Pero para mayor declaración es bien declarar
+          <lb ed="#B" n="3"/>dos términos o vocablos, que havemos de tocar muchas vezes:
+          <lb ed="#B" n="4"/>El primero: este vocablo duda <sic><!--edition has DUDA--></sic> Duda es, según <ref xml:id="dc7aa7-e05627-Rd1e167" target="http://scta.info/resource/wer3fe"> San Isidro en sus
+            <lb ed="#B" n="5"/>Ethimologías, </ref> y <ref xml:id="dc7aa7-e05627-Rd1e172" target="http://scta.info/resource/ta-l3d17q1-Dd1e662"> el Philósopho y sancto Thomás en el3° de las Senten
+              <lb ed="#B" n="6"/>cias, Dist. 17. di. 4 </ref> un movimiento de la razón indifferente
+          <lb ed="#B" n="7"/>a ambas partes de la contradición, o es igualdad de razones
+          <lb ed="#B" n="8"/>contrarias; y así el hombre propiamente se dize dudar de
+          <lb ed="#B" n="9"/>alguna cosa o cerca della, quando tiene razones iguales o quasi
+          <lb ed="#B" n="10"/>yguales, de tal manera que no se inclinará más a una parte
+          <lb ed="#B" n="11"/>que a otra notablemente.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e189">
+          <lb ed="#B" n="12"/>El<sic>2° <!--edition has segundo--></sic> vocablo es, quién será aquél 
+          <lb ed="#B" n="13"/>que con verdad se puede dezir que es possedor de buena o mala fe <sic><!--edition has POSEEDOR DE BUENA O MALA FE,--></sic>
+          <lb ed="#B" n="14"/>Aquél pues posseedor de buena o mala fe y conviene a saber: 
+          <lb ed="#B" n="15"/>de buena consciencia, que no sabe que aquello que tiene es ageno, y
+          <lb ed="#B" n="16"/>no lo restituye si puede. 
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e211">  
+          Aquel es posseedor de mala fe y mala
+          <lb ed="#B" n="17"/>consciencia si duda ser ageno; y la tal duda es firme que se dize
+          <lb ed="#B" n="18"/>también tener a la consciencia, y si procede la tal duda de
+          <lb ed="#B" n="19"/>justa y probable causa que tiene para dudar, de manera que más
+          <lb ed="#B" n="20"/>se le inclina el ánimo a que lo que tiene es ageno, que no a que es su
+          <lb ed="#B" n="21"/>yo; ésta es duda firme y que házeles a la consciencia, según <ref xml:id="dc7aa7-e05627-Rd1e224"> se
+            <lb ed="#B" n="22"/>colije de la Glossa en el cap. final del principio, <sic>in verbo <!--edition has verbis--></sic> «nulla 
+            <lb ed="#B" n="23"/>temporis parte» </ref> y <ref xml:id="dc7aa7-e05627-Rd1e235"> del Baldo, in cap. Vigilanti, De prescriptionibus, 2 columna, eodem título </ref>.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e238">
+          <lb ed="#B" n="24"/>Item, aquél está en la mala fe que duda y tiene a quien preguntar
+          <lb ed="#B" n="25"/>personas doctas, y que él siente que son temerosas de Dios. y que 
+          <lb ed="#B" n="26"/>no les va nada en dezir la verdad, y que tiene confianga que la dirá
+          <lb ed="#B" n="27"/>y no lo pregunta. <sic><!--edition joins sentences--></sic> Porque éste tal es obligado a inquirir con diligen<lb ed="#B" break="no" n="28"/>cia la verdad. Así como si uno dudase firmemente que la muger
+          <lb ed="#B" n="29"/>que tiene es suya o no, será obligado a no llegar a ella hasta pregun<lb ed="#B" break="no" n="30"/>tar y saber la verdad, y si entre tanto lo contrario hiziere, 
+          si<lb ed="#B" n="31"/>empre estará en mala fe, y así en peccado mortal. </p>
+        <p xml:id="dc7aa7-e05627-d1e261">
+          Item, aquél
+          <lb ed="#B" n="32"/>está en mala fe que haze alguna cosa contra el 
+          <lb ed="#B" n="33"/>derecho por ignorancia dél, como si alguno creyese que el <sic><!--edition has pupilo--></sic> publico
+          <lb ed="#B" n="34"/>que está debaxo del tutor o curador, tenía poder para vender 
+          <lb ed="#B" n="35"/>su hazienda o enagenarla por otra manera, y se la comprase. 
+          <lb ed="#B" n="36"/>A éste tal no no excusa la tal ignorancia del derecho: y está en mala
+          <pb ed="#B" n="170-r"/>
+          <lb ed="#B" n="1"/>fe. Pero porque la mala o buena fe consiste en el ánimo o cons<lb ed="#B" break="no" n="2"/>cientia de cada uno, y no se puede al menos en muchos casos
+          ver<lb ed="#B" n="3"/>daderamente provar, por tanto puédese al menos provar o
+          <lb ed="#B" n="4"/>presumir por algunas conjecturas: 
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e288">Una de las quales es: quan<lb ed="#B" break="no" n="5"/>do es denunciado aquello que se haze ser malo por personas a quien
+          <lb ed="#B" n="6"/>con razón se deve dar crédito. Así en nuestra otro propósito se presume
+          <lb ed="#B" n="7"/>contra los nuestros españoles que han ydo a las Indias y han sido en
+          <lb ed="#B" n="8"/>cometer aquellas obras nephandas, así en las guerras injustas
+          <lb ed="#B" n="9"/>que llaman conquistas, como en los repartimientos que se han re<lb ed="#B" break="no" n="10"/>latado. Porque desde el año de diez que fueron a la Isla Española
+          <lb ed="#B" n="11"/>los frayles de Sancto Domingo, personas tenidas por sanctas, pru
+          <lb ed="#B" n="12"/>dentes y muy letrados, viendo lo que passava de la oppresión
+          <lb ed="#B" n="13"/>y perdimiento de los indios, y sabido lo que havía pasado la gran
+          <lb ed="#B" n="14"/>multitud de gentes de que estava poblada y las pocas que restavan,
+          <lb ed="#B" n="15"/>luego el año de onze muy abierta y animosamente lo predicaron
+          <lb ed="#B" n="16"/>y detestaron, condenando todo lo hecho y lo que se hazía por tyráni<lb ed="#B" break="no" n="17"/>co y abominable. Vienen nuevas a España, y los religiosos
+          <lb ed="#B" n="18"/>en proseguimiento de su verdad. Házense en Burgos, donde a la sazón
+          <lb ed="#B" n="19"/>el Rey cathólico don Fernando estava, grandes ayuntamientos
+          <lb ed="#B" n="20"/>de letrados. <sic><!--edition separates these sentences--></sic> pareció al Rey todo lo hecho en aquellas Islas abo<lb ed="#B" break="no" n="21"/>minable, y a los que según Dios sentían ser contra Su ley, 
+          dolién<lb ed="#B" n="22"/>dose de la perdición de tantas ánimas y con tanta crueldad.
+          <lb ed="#B" n="23"/>De las Islas digo, porque aún no avía entrado en la Tierra Firme
+          <lb ed="#B" n="24"/>el diablo. Házense ciertas leyes y ordenangas, pero aprovecha<lb ed="#B" break="no" n="25"/>ron poco y nada. Todo esto fue público y notorio en España. 
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e339">
+          <lb ed="#B" n="26"/>Después, quánto más se yva descubriendo y entrando españo<lb ed="#B" break="no" n="27"/>les en las Islas y Tierra Firme y tyranizando y talando aquella
+          <lb ed="#B" n="28"/>tan gran parte del linaje humano. Tanto más vinieron reli<lb ed="#B" break="no" n="29"/>giosos y clérigos de buen zelo, dando clamores a los Reyes y los
+          <lb ed="#B" n="30"/>que por ellos estos reynos gobernavan, que pusiessen remedio
+          <lb ed="#B" n="31"/>que parecían aquellas gentes por la cudicia y ambicion de los
+          <lb ed="#B" n="32"/>de España. Hovo ayuntamientos en Madrid, en Valladolid, 
+          <lb ed="#B" n="33"/>en Aranda de Duero, en Caragoca, en Barcelona muchos y
+          <lb ed="#B" n="34"/>grandes en el año de 19, y el año de 26 en Gra
+          <pb ed="#B" n="170-v"/>
+          <lb ed="#B" n="1"/>nada como arriba se vido, el año de <sic><!--edition has numbers instead--></sic> veinte y nueve, y el año
+          <lb ed="#B" n="2"/>de quarenta y dos donde se hizieron las Leyes Nuevas en Valla<lb ed="#B" break="no" n="3"/>dolid y después en Barcelona y luego en Madrid, y después el
+          <lb ed="#B" n="4"/>año cinquenta y uno en el mismo Valladolid. <sic><!--text has crossed out stuff--></sic>
+          <lb ed="#B" n="5"/>En estos tiempos se hizieron muchas y grandes Provissio<lb ed="#B" break="no" n="6"/>
+          <sic><!--text has extra o--></sic> ones por mandado de los Reyes y de los que por ellos 
+          governa<lb ed="#B" break="no" n="7"/>van, en especial en los días del Emperador, que Dios tenga en su
+          <lb ed="#B" n="8"/>gloria, donde prohibían las tyránicas crueldades y ponían or<lb ed="#B" break="no" n="9"/>den en que menos mal los indios padeciessen, porque por la
+          <lb ed="#B" n="10"/>ceguedad que Dios ha permitido en España cerca desta materia
+          <lb ed="#B" n="11"/>por sus peccados, nunca se acertó a perfectamente ordenallo.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e397">
+          <lb ed="#B" n="12"/>Item, en todos tiempos hovo disputas públicas en los Cole<lb ed="#B" break="no" n="13"/>gios y en las Universidades sobre condenar estos estragos de gentes
+          <lb ed="#B" n="14"/>humanas, léyanse por leciones en las cáthedras. Hovo escriptos
+          <lb ed="#B" n="15"/>y respuestas dadas por letrados, hovo confessores
+          <lb ed="#B" n="16"/>quien no querían confesar ni absolver a los que querían
+          <lb ed="#B" n="17"/>passar a las Indias o a los que venían de allá con dineros.
+          <lb ed="#B" n="18"/>Y todo esto era público y notorio en toda España, y se clama<lb ed="#B" break="no" n="19"/>va quasi por las plagas que todo el dinero que venía de las
+          In<lb ed="#B" break="no" n="20"/>dias, no había ninguno que ignorasse yr cada día Provi<lb ed="#B" break="no" n="21"/>ssiones reales <sic><!--edition has pars--></sic> para en favor indios y en estorvo y alivio
+          <lb ed="#B" n="22"/>de los tormentos e injusticias y vida infernal que les<lb ed="#B" break="no" n="23"/>davan <sic><!--edition separates these sentences--></sic> y luego llegavan a noticia de los españoles, blas
+          <lb ed="#B" n="24"/>
+          <sic><!--edition spells it blasfemavan--></sic> phemavan del Consejo del Rey, diziendo que no sabían lo que
+          <lb ed="#B" n="25"/>proveyan y mandayan, <sic><!--edition omits y--></sic> /y por todas las vías y maneras que
+          <lb ed="#B" n="26"/>podían las impedían queno se executasen, hasta del todo perder
+          <lb ed="#B" n="27"/>la vergúenca y fidelidad que devían a su Rey, y se algaron ma<lb ed="#B" break="no" n="28"/>tándole a su Visorrey, hombre fiel a Dios y al Rey, en batal 
+          <lb ed="#B" n="29"/>la campal <sic><!--edition separates sentences--></sic> y finalmente se ha determinado por los más doctos
+          <lb ed="#B" n="30"/>theólogos <sic><!--edition has de España--></sic> despaña, clérigos y frayles, ser las obras que los espa<lb ed="#B" break="no" n="31"/>ñoles han hecho en las Indias, no de hombres sino de diablos: <sic><!--edition has ,--></sic>
+          <lb ed="#B" n="32"/>y que todo lo que viene de allá es iniquo y detestablemente
+          <lb ed="#B" n="33"/>ganado/ <sic><!--edition separates sentences--></sic> /al menos ninguno duda que no sea dudoso y <sic><!--edition has haya--></sic>aya
+          <lb ed="#B" n="34"/>presunción de injusticia, quanto de ella se trahe. Luego, esta 
+          <pb ed="#B" n="171-r"/>
+          <lb ed="#B" n="1"/>fue al menos duda probable que obligava a todos los que
+          <lb ed="#B" n="2"/>querían yr a las Indias a inquirir y saber la verdad, preguntan<lb ed="#B" break="no" n="3"/>do a los más siervos de Dios y más letrados que pudiesen hallar
+          <lb ed="#B" n="4"/>antes que passassen a aquellas partes. <ref xml:id="dc7aa7-e05627-Rd1e488"> «Est nam comparatum
+            <lb ed="#B" n="5"/>ut probis et honestis viris vehementius celeriusque credamus
+            <lb ed="#B" n="6"/>non solum in his rebus que certe explorateque sunt sed etiam
+            <lb ed="#B" n="7"/>omnino in his que in utranque partem asseruntur oppinionis 
+            <lb ed="#B" n="8"/>arbitrio», según el Philósofo, 1 Rethorice cap. 3°.<!--footnote says ref is Aristóteles, Rbet, 1 cap. 3-4. cf. D. Th. II, 1-3--></ref> Fueron en culpa, o 
+          <lb ed="#B" n="9"/>de ignorancia affectada que agravia el peccado, si a <!--edition has saviendas--> sabiendas
+          <lb ed="#B" n="10"/>y por malicia lo dexaron, o de ignorancia crassa y supina
+          <lb ed="#B" n="11"/>que no escusa del peccado ni la restitución que deve ser hecha;
+          <lb ed="#B" n="12"/>y por consiguiente no tuvieron buena sino mala fe. Porque
+          <lb ed="#B" n="13"/>mientras en esta duda estuvieron, eran obligados a abstenerse
+          <lb ed="#B" n="14"/>de todas aquellas obras y de la participación de los dineros y
+          <lb ed="#B" n="15"/>riquezas dellas y por ellas y con ellas adquiridos, porque no se
+          <lb ed="#B" n="16"/>pusiessen por ello en peligro de peccar mortalmente. Si injusto
+          <lb ed="#B" n="17"/>después pareciesse, contratando los bienes agenos contra la vo<lb ed="#B" break="no" n="18"/>luntad de sus dueños, despojados, agraviados injustamente, 
+          <lb ed="#B" n="19"/>oppressos y muertos, y los bivos en tyránica servidumbre meti<lb ed="#B" break="no" n="20"/>dos, porque regla es de los sanctos y no sanctos theólogos y
+          <lb ed="#B" n="21"/>juristas que, en las dudas, si la una parte es segura, por no ponerse en el tal peligro,
+          <lb ed="#B" n="22"/>porque <ref xml:id="dc7aa7-e05627-Rd1e533" target="http://scta.info/resource/bible-qoh3"> «qui amat periculum peribitin illo»: 
+            <lb ed="#B" n="23"/>Ecclesiástico 3, </ref> y por consiguiente los tales, aunque las dichas o<lb ed="#B" break="no" n="24"/>bras iniquas y crueles no se hizieran, si participaron de los 
+          <lb ed="#B" n="25"/>bienes por ellas havidos en qualquiera manera de participa<lb ed="#B" break="no" n="26"/>ción, no tuvieron ni tienen buena sino mala fe, y de mala
+          <lb ed="#B" n="27"/>fe y de mala consciencia fueron y son posseedores.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
