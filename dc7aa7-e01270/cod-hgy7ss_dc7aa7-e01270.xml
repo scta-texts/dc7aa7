@@ -52,14 +52,14 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#B" n="143-v"/>
-        <cb ed="#B" n="a"/>
+        <pb ed="#B" n="144-r"/>
       </div>
     </front>
     <body>
       <div xml:id="dc7aa7-e01270"><!-- dd-c1 -->
         <head xml:id="dc7aa7-e01270-Hd1e111">Capítulo 1</head>
-        <p xml:id="dc7aa7-e01270-d1e113">Capitulo 1.
+        <p xml:id="dc7aa7-e01270-d1e113">
+        <lb ed="#B" n="8"/>§ 1o.
         </p>
         <p xml:id="dc7aa7-e01270-d1e115">
           <lb ed="#B" n="8"/>Estas Dudas contienen en sí toda la difficultad de la materia que
@@ -95,48 +95,7 @@
         <p xml:id="dc7aa7-e01270-d1e178">Principio primero.
           <lb ed="#B" n="33"/>Todos los infieles, de qualquiera secta o religión que sean, o por quales
           <lb ed="#B" n="34"/>quiera peccados que tengan quanto al derecho natural y divino y al que   
-          <pb ed="#B" n="144-r"/>
-          <lb ed="#B" n="1"/>llaman derecho de las gentes, justamente tienen y poseen señorío
-          <lb ed="#B" n="2"/>sobre sus cosas que sin perjuycio de otro adquirieron. Y también
-          <lb ed="#B" n="3"/>con la misma justicia posseen sus principados, reynos, estados, dig
-          <lb ed="#B" n="4"/>nidades, jurisdicciones y señoríos. 
-        </p>
-        <p xml:id="dc7aa7-e01270-d1e196">Pruévase aqueste principio, quanto al señorío de las cosas, por aqu
-          <lb ed="#B" n="5"/>ello del <ref xml:id="dc7aa7-e01270-Rd1e200">Genesis 1</ref>: <quote source="http://scta.info/resource/gen1_26@3-26">Faciamus, etc... Et presit piscibus maris et volatili
-            <lb ed="#B" n="6"/>bus celi et bestiis universe terre</quote>, etc. Et infra: <quote>Replete terram, et subjicite
-              <lb ed="#B" n="7"/>eam, et dominano ha tomado a otro. Mini piscibus, etc...</quote>; et <ref>Ps. 8,</ref> <quote>loquens de homine: omo nia,
-              <lb ed="#B" n="8"/>inquit, subjecisti sub pedibus ejus</quote>, etc...; et Ps. 113: <quote source="http://scta.info/resource/ps113_24">Celum celi Domino,
-              <lb ed="#B" n="9"/>terram autem dedit filiis hominum.</quote> Et Philosophus, 2 Ethicorum: <ref xml:id="dc7aa7-e01270-Rd1e214"><quote>«Nos sumus
-                <lb ed="#B" n="10"/>finis quodammodo omnium et utimur tanquam propter nos omnibus que sunt» </quote>
-                <lb ed="#B" n="11"/>et 1 Politicorum dicit quod possessio rerum exteriorum est homini justa et
-                <lb ed="#B" n="12"/>naturalis: ponit exemplum in venatione animalium, etc</ref>.
-        </p>
-        <p xml:id="dc7aa7-e01270-d1e224">Quanto al dominio jurisdicional, principados, reynos, estados
-          <lb ed="#B" n="13"/>y governación de los hombres sobre otros hombres, pruévase tam
-          <lb ed="#B" n="14"/>bién ser derecho natural desta manera: quando al
-          <lb ed="#B" n="15"/>guna cosa es a otra natural, todo aquello le es también natural de ne
-          <lb ed="#B" n="16"/>cessidad, sin lo qual aquella no se puede haver o alcangar, porque la
-          <lb ed="#B" n="17"/>naturaleza no faltara en las cosas necessarias, según <ref>el Philósofo en
-          <lb ed="#B" n="18"/>seña en el 3 De anima.</ref> Pues, assí es que bivir los hombres en compa
-          <lb ed="#B" n="19"/>ñía de otros, vida política y social, como en lugares y cuidades, es a los
-          <lb ed="#B" n="20"/>hombres naturales segun <ref>el mismo Philósofo, 1 Politicorum,</ref> y la razón da, conv
-          <lb ed="#B" break="no" n="21"/>iene a saber: porque bivir un hombre solo, o una casa de marido y
-          <lb ed="#B" n="22"/>muger y hijos sola, no podría sustentarse ni bivir mucho tiempo
-          <lb ed="#B" n="23"/>por las muchas necessidades que ocurre, las quales no puede uno
-          <lb ed="#B" n="24"/>ni pocos remediar y supplir. Luego, todo aquello que para sustentar
-          <lb ed="#B" n="25"/>aquella compañía o sociedad fuere necessario, serle ha natural y de
-          <lb ed="#B" break="no" n="26"/>vérsele ha de Derecho natural. Y esto es, y principal entre otras cosas, tener
-          <lb ed="#B" n="27"/>quien rija y govierno aquella compañía y comunidad y tenga cargo 
-          <lb ed="#B" n="28"/>del bien común. Porque siendo muchos ayuntados sin quien los rija, y
-          <lb ed="#B" n="29"/>govierne aquella compañia y comunidad y tenga en cargo del bien comun
-          <lb ed="#B" n="30"/>porque siendo muchos ayuntados sin quien los rija engen 
-          <lb ed="#B" n="31"/>drarseía y a confussion como es claro: y por consiguiente la comunidad
-          <lb ed="#B" n="32"/>se desharía y no se conservaría, contra lo que la naturaleza pretende, 
-          <lb ed="#B" n="33"/>dando a los hombres de bivir en compañía inclinación natural. Y 
-          <lb ed="#B" n="34"/>esto muestra Salomón en los <ref xml:id="dc7aa7-e01270-Rd1e273">Proverbios 11: «Ubi non est guberna
-          <lb ed="#B" n="35"/>tor, populus corruet».</ref>Este regente o gobernador no es ni puede 
-          <lb ed="#B" n="36"/>ser otro, sino aquél que toda la comunidad eligió al prin
-          <lb ed="#B" n="37"/>cipio, o donde no lo tuviere elegido eligere, ut <ref xml:id="dc7aa7-e01270-Rd1e283"> De origine iurisdictionis, L. 2,</ref>
+          
           <pb ed="#B" n="144-v"/>
           <lb ed="#B" n="1"/>llaman derecho delas gentes. Justamente tienen y posseen señor 
           <lb ed="#B" n="2"/>sobre sus cosas que sin perjuyzio de otros adquirieron: y tambien 
@@ -145,14 +104,14 @@
         </p>
         <p xml:id="dc7aa7-e01270-d1e297">
           <lb ed="#B" n="5"/>Prueuase aqueste principio quanto al señorio delas cosas poraque
-          <lb ed="#B" break="no" n="6"/>llo del genesi. i. faciamus ety. Et presit piscibus maris etvolatili
+          <lb ed="#B" break="no" n="6"/>llo del genesi. i. <quote source="http://scta.info/resource/gen1_26@3-3">faciamus</quote> etc. Et presit piscibus maris etvolatili
           <lb ed="#B" break="no" n="7"/>bus celiet bestiis umiuerse terre. et infra replete terram et subijcit
-          <lb ed="#B" break="no" n="8"/>eam et dominamimi piscibus etp. Et <ref>ps. 8.</ref> <quote source="http://scta.info/resource/ps8_8/critical/transcription">loquens de homine omnia 
-          <lb ed="#B" n="9"/>inquit subrecisti subpedibus cius eto.</quote> et <ref>ps. 113.</ref> <quote>celum celi domin 
-          <lb ed="#B" n="10"/>terram aut dedit filiishominum.</quote> Et <ref>ph 9.2. Ethic.</ref> Nos sumns 
-          <lb ed="#B" n="11"/>finis quoda modo ommium etutimur tanqu pp nos omnibus que sun 
-          <lb ed="#B" n="12"/>Et. <ref>i. Politi. 4t.</ref> qp possessio rerum exteriorum est homini justa er 
-          <lb ed="#B" n="13"/>naturalis: ponit exemplum in venatione animalium eto. 
+          <lb ed="#B" break="no" n="8"/>eam et dominamimi piscibus etp. Et <ref>ps. 8.</ref> loquens de homine <quote source="http://scta.info/resource/ps8_8@1-5">omnia 
+          <lb ed="#B" n="9"/>inquit subiecisti sub pedibus eius etc.</quote> et <ref>ps. 113.</ref> <quote>celum celi domin 
+          <lb ed="#B" n="10"/>terram aut dedit filiis hominum.</quote> Et <ref>ph 9.2. Ethic.</ref> Nos sumus 
+          <lb ed="#B" n="11"/>finis quodam modo omnium et utimur tanquam propter nos omnibus que sunt 
+          <lb ed="#B" n="12"/>Et. <ref>i. Politi.</ref> dicit quod possessio rerum exteriorum est homini justa et
+          <lb ed="#B" n="13"/>naturalis: ponit exemplum in venatione animalium etc. 
           </p>
           <p>
           <lb ed="#B" n="14"/>Quanto al dominio jurisdicional principados reynos estados 
@@ -163,14 +122,14 @@
           <lb ed="#B" n="19"/>naturaleza nofaltara enlas cosas necessarias segun <ref>el philosopho en
           <lb ed="#B" break="no" n="20"/>seña enel 3. de anima.</ref> Pues asi es que biuir los hombres en compa
           <lb ed="#B" break="no" n="21"/>macon otros vida politica y social como en lugares y ciudadeses alos 
-          <lb ed="#B" break="no" n="22"/>hombres naturales segun el mismo pho. i. politi y la razon dal(con
+          <lb ed="#B" break="no" n="22"/>hombres naturales segun el mismo pho. i. politi y la razon dal (con
           <lb ed="#B" break="no" n="23"/>viene asaber) porque biuir un hombre solo / o una casa de marida y 
           <lb ed="#B" n="24"/>muger y hijos sola no podria sus tentarse ni biuir mucho tiempo 
           <lb ed="#B" break="no" n="25"/>por las muchas necessidades que occurren las quales no puede uno 
           <lb ed="#B" n="26"/>ni pocos remediar y supplir luego todo aquello que para sustento 
           <lb ed="#B" n="27"/>aquella compañia o sociedad fuere nescessario serlea natural y de 
           <lb ed="#B" break="no" n="28"/>uerselea derecho natural. y esto es y principal entre otras cosas tene
-          <lb ed="#B" break="no" n="29"/>quien rija y gouierno aquella compañia y comunidad y tenga cgo 
+          <lb ed="#B" break="no" n="29"/>quien rija y gouierno aquella compañia y comunidad y tenga cargo 
           <lb ed="#B" n="30"/>del bien comun: porque siendo muchos ayuntados sin quien los rija y 
           <lb ed="#B" n="31"/>gouierne aquella compañia y comumidad y tenga cargo del bien como 
           <lb ed="#B" n="32"/>porque siendo muchos ayuntados sin quienlos rija gouierne agen
@@ -180,13 +139,13 @@
           <lb ed="#B" break="no" n="36"/>esto muestra salomon enlos <ref>prouerbios 2i.</ref> <quote>ubi non est guberna
           <lb ed="#B" break="no" n="37"/>tor populus corruet.</quote> Este regente o gouernador noes nipuede
           <lb ed="#B" n="38"/>serotro sino aquel que toda la compania o comumidad eligio alp
-          <lb ed="#B" break="no" n="39"/>cipio / o donde nolo tuviese elegido eligere ut.ff. <ref>de origi. juris. l. 
-          
+          <lb ed="#B" break="no" n="39"/>cipio / o donde nolo tuviese elegido eligere ut.ff. <ref>de origi. juris. l.
           <pb ed="#B" n="145-r"/>
-          <lb ed="#B" n="1"/>de inde cumessent. et.§. nouissime. </ref> et 93. dist. c. legimus. Etquod 
+          <lb ed="#B" n="1"/>de inde cumessent. et.§. nouissime.</ref> et 93. dist. c. legimus. Etquod 
           <lb ed="#B" n="2"/>nota in. l exhocjure. ff. <ref>de Justi. et jur.</ref> 
           </p>
-          <p>yeste asi elegido tiene 
+          <p>
+          yeste asi elegido tiene 
           <lb ed="#B" n="3"/>toda la jurisdicion mero mixto imperio quando no recognosce ao
           <lb ed="#B" break="no" n="4"/>tro por superior como todos los reyes libres segunque largamente tra
           <lb ed="#B" break="no" n="5"/>tan los juristas enla d. l exhocjure y enel capitulo. que in ecclesia 4. 
@@ -204,13 +163,14 @@
           <lb ed="#B" n="17"/>jure. jam dicta ibi disperse suntgentes etfacta sunt regna eto. Seilicet 
           <lb ed="#B" break="no" n="18"/>per populi el ectionem.
           </p>
-          <p>Parece tambien porquela sagrada escriptu 
+          <p>
+          Parece tambien porquela sagrada escriptu 
           <lb ed="#B" break="no" n="19"/>ra que no habla ociosa ni super fluamente nombra en infinitos lu 
           <lb ed="#B" n="20"/>gazes del nueuo y viejo testamento reyes alos infieles que gouiernan 
           <lb ed="#B" n="21"/>ygouernauan los zeynos delos infieles y dexados los demas vease lo 
           <lb ed="#B" n="22"/>que se lee <ref>Daniel 2.</ref> donde Daniel recognoscien<ref>Daniel 2.</ref>do aNabuchodonasor 
-          <lb ed="#B" n="23"/>pessimo idolatra por rey puesto por Dios. <quote source="http://scta.info/resource/dan2_37/critical/transcription">Turex regum es: et Deus celi 
-          <lb ed="#B" break="no" n="24"/>regnum et fortitudinem et imperium et gloriam dedit tibi eto.</quote> 
+          <lb ed="#B" n="23"/>pessimo idolatra por rey puesto por Dios. <quote source="http://scta.info/resource/dan2_37@1-15">Tu rex regum es: et Deus celi 
+          <lb ed="#B" break="no" n="24"/>regnum et fortitudinem et imperium et gloriam dedit tibi etc.</quote>
           </p>
           <p>
           <lb ed="#B" n="25"/>De aqui es loque <ref>sant Augustin enlas questiones del viejo y nueuo 
@@ -221,19 +181,19 @@
           <lb ed="#B" break="no" n="30"/>injuriam facere videretur: qui his ordinibus honorem decreuit 
           <lb ed="#B" n="31"/>dei em imaginem habet: sicut eps christi. Quandiu ergo intradi 
           <lb ed="#B" break="no" n="32"/>tione est honorandus: sinon propter se vel propter ordinem. 
-          <lb ed="#B" n="33"/>onde aplus <ref>ad Roma. 13.</ref> potestatibus sublimioribus subditi estote: 
-          <lb ed="#B" n="34"/>non est potestas nisi adeo. que n. sunt adeo ordinata sunt. Himi
-          <lb ed="#B" break="no" n="35"/>est unde gentilem impotestate tamen positum honorificamus. li 
-          <lb ed="#B" break="no" n="36"/>cet ipse indignus sit qui deiordinem tenens gratias agit diabolo 
+          <lb ed="#B" n="33"/>onde aplus <ref>ad Roma. 13.</ref> <quote source="http://scta.info/resource/rom13_1@3-20">potestatibus sublimioribus subditi estote: 
+          <lb ed="#B" n="34"/>non est potestas nisi adeo. que n. sunt adeo ordinata sunt.</quote> Himi
+          <lb ed="#B" break="no" n="35"/>est unde gentilem impotestate tamen positum honorificamus. 
+          li<lb ed="#B" break="no" n="36"/>cet ipse indignus sit qui deiordinem tenens gratias agit diabolo 
           <lb ed="#B" n="37"/>potestas enimexigit quia meretur honorem. Ram ideo phara oni¬ 
-          
           <pb ed="#B" n="145-v"/>
           <lb ed="#B" break="no" n="1"/>famis somnium revelatum est: et Nabuchodonosor aliis secum 
           <lb ed="#B" n="2"/>assistentibus solus filium Dei vidit in camino ignis, non utique mer
           <lb ed="#B" break="no" n="3"/>ito suo qui in idolo se adorari voluit, sed merito ordinis regalis 
           <lb ed="#B" n="4"/>Hec <ref>Augustinus</ref> informa. 
           </p>
-          <p> Y asi parece que los reyes delos infie
+          <p> 
+          Y asi parece que los reyes delos infie
           <lb ed="#B" break="no" n="5"/>les quanto quiera que sean idolatras y pessimos, de derecho natural 
           <lb ed="#B" n="6"/>y divino y de las gentes ser verdaderos Reyesy se les deve el reyno y 
           <lb ed="#B" n="7"/>el imperio y la fortaleza y la gloria (conviene asaber) la excelen 
@@ -244,17 +204,18 @@
           <lb ed="#B" n="12"/>secta/o religión que sean, justamente tienen y posseen el seño
           <lb ed="#B" break="no" n="13"/>orio desus cosas y de sus estados y dignidades y reynados y son
           <lb ed="#B" break="no" n="14"/>rreyes de derecho natural y divino y de las gentes/ Y desto <ref>sancto 
-          <lb ed="#B" n="15"/>Thomas, 2a 2e.q.10 ai. 10. </ref>y sobre la epistola. <ref>1. ad corinthios c.6 </ref>
-          <lb ed="#B" n="16"/>dize <quote><!--copilot said this is paraphrased 1 cor 6:1-->Quod esset contra jus divinum impedire subditos etiam chris 
+          <lb ed="#B" n="15"/>Thomas, 2a 2e. q. 10 ai. 10.</ref> y sobre la epistola. <ref>1. ad corinthios c. 6</ref>
+          <lb ed="#B" n="16"/>dize Quod esset contra jus divinum impedire subditos etiam chris 
           <lb ed="#B" break="no" n="17"/>tianos ne compareant quotiens vocati fuerint coram princi
-          <lb ed="#B" break="no" n="18"/>vel judicibus infidelibus.</quote> hec ille. 
-          </p>
-          <p>Aquel dezimos ser rey 
-          <lb ed="#B" n="19"/>la suprema potestad y jurisdiccion delgovierno por el pue
-          <lb ed="#B" break="no" n="20"/>blo o comunidad o reyno es cometida. 
-          <lb ed="#B" n="21"/>Corrolario 
+          <lb ed="#B" break="no" n="18"/>vel judicibus infidelibus. hec ille. 
           </p>
           <p>
+          Aquel dezimos ser rey 
+          <lb ed="#B" n="19"/>la suprema potestad y jurisdiccion delgovierno por el pue
+          <lb ed="#B" break="no" n="20"/>blo o comunidad o reyno es cometida. 
+          </p>
+          <p>
+          <lb ed="#B" n="21"/>Corrolario 
           <lb ed="#B" n="22"/>De aqui, bien se sigue que el que las cosas de los infieles hurta 
           <lb ed="#B" n="23"/>o roba: y mucho mas si sus estados dignidades / jurisdicciones 
           <lb ed="#B" n="24"/>y senoriosles usurpa sin causa justa, comete hurto y rapifia. 
