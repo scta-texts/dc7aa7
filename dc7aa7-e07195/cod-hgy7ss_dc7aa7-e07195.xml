@@ -59,194 +59,206 @@
     <body>
       <div xml:id="dc7aa7-e07195"><!-- dd-c23 -->
         <head xml:id="dc7aa7-e07195-Hd1e111">Capitulo 23</head>
-        <p xml:id="dc7aa7-e07195-d1e113">Capítulo 23</p>
-        <p xml:id="dc7aa7-e07195-d1e115">
-          <lb ed="#B" n="8"/>Estos ocho principios y fundamentos así suppuestos, que es lo
-          <lb ed="#B" n="9"/>primero que prometimos al principio deste tratadillo, demos 
-          <lb ed="#B" n="10"/>obra a lo segundo, conviene a saber, inferir algunas conclusiones
-          <lb ed="#B" n="11"/>para solución de cada Duda responsivas. Quanto, pues, a la pri<lb ed="#B" break="no" n="12"/>mera Duda, sea ésta la Conclusión primera.
+        <p xml:id="dc7aa7-e07195-d1e113">
+        <lb ed="#B" n="8"/>§. 23.
         </p>
-        <!--conclusiones should be the bigger div, will have to go back and make chapters subdivisions-->
-        <p xml:id="dc7aa7-e07195-d1e130">Conclusión 1a a la 1a duda. 
-          <lb ed="#B" n="13"/>Francisco Pizarro y todos los españoles que se hallaron con él que
-          <lb ed="#B" n="14"/>fueron ciento y setenta hombres, poco más o menos, en la prisión
-          <lb ed="#B" n="15"/>de aquel gran Rey Atabaliba del Perú y lo mataron y quema<lb ed="#B" break="no" n="16"/>ron
-          con los demás, cometieron gravíssimos peccados mortales <sic> <!--edition excludes this--> de 
-            <lb ed="#B" n="17"/>injusticia y violencia: y son obligados a restitucion insolidum </sic>
-          <lb ed="#B" n="18"/>cada uno por el todo. <sic> y sin ella <!--edition excludes this--></sic> no se salvarán de la privaci<lb ed="#B" break="no" n="19"/>ón
-          del gran estado y principado del dicho Rey a sus herederos,
-          <lb ed="#B" n="20"/>o a quien de derecho o según su costumbre lo avía de haver, y de
-          <lb ed="#B" n="21"/>todos los grandes y nunca otros tales vistos ni oydos thesoros, 
-          <lb ed="#B" n="22"/>que contra justicia le llevaron por su resgate; y de los otros
-          <lb ed="#B" n="23"/>muchos que le robaron y usurparon, y de los otros quasi infi<lb ed="#B" break="no" n="24"/>nitos
-          que los españoles que succedieron han robado de oro y plata 
-          <lb ed="#B" n="25"/>y piedras preciosas y ganados y riquezas; y de todos los yncrey<lb ed="#B" break="no" n="26"/>bles
-          e irreparables daños y muertes, y menoscabos, y despojos
-          <lb ed="#B" n="27"/>de señoríos; y total perdición de aquellos reynos que después
-          <lb ed="#B" n="28"/>
-          <sic> an <!--edition has han--></sic> sucedido <sic><!--text separates sentences--></sic> y fueron fementidos, quebrantando la fe y promessa
-          <lb ed="#B" n="29"/>o postura que con el dicho Rey Athabaliba pusieron de ponelle
+        <p xml:id="dc7aa7-e07195-d1e115">
+          <lb ed="#B" n="9"/>¶Estos ocho principios y fundamentos así suppuestos, que <sic><!--text without es--></sic> lo
+          <lb ed="#B" n="10"/>primero que prometimos al principio deste tratadillo: demos 
+          <lb ed="#B" n="11"/>obra a lo segundo, (conviene a saber) inferir algunas conclusiones
+          <lb ed="#B" n="12"/>para solución de cada Duda responsivas. Quanto, pues, a la
+          pri<lb ed="#B" break="no" n="13"/>mera Duda, sea ésta la Conclusión primera / .
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e130">
+        <lb ed="#B" n="14"/>Conclusión 1a a la 1a duda. 
+          <lb ed="#B" n="15"/>¶Francisco Pizarro y todos los españoles que se hallaron con él (que
+          <lb ed="#B" n="16"/>fueron ciento y setenta hombres, poco más / o menos) en la prisión
+          <lb ed="#B" n="17"/>de aquel gran Rey Atabaliba del Perú y lo mataron y 
+          quema<lb ed="#B" break="no" n="18"/>ron con los demás, cometieron gravíssimos peccados mortales <sic> <!--edition excludes this--> de 
+          <lb ed="#B" n="19"/>injusticia y violencia: y son obligados a restitucion insolidum</sic>
+          <lb ed="#B" n="20"/>cada uno por el todo. Y sin ella no se salvarán de la 
+          privaci<lb ed="#B" break="no" n="21"/>ón del gran estado y principado del dicho Rey a sus herederos:
+          <lb ed="#B" n="22"/>o a quien de derecho / o según su costumbre lo avía de aver: y de
+          <lb ed="#B" n="23"/>todos los grandes y nunca otros tales vistos ni oydos thesoros, 
+          <lb ed="#B" n="24"/>que contra justicia le llevaron por su resgate; y de los otros
+          <lb ed="#B" n="25"/>muchos que le robaron y usurparon, y de los otros quasi 
+          infi<lb ed="#B" break="no" n="26"/>nitos que los españoles que succedieron han robado de oro y plata 
+          <lb ed="#B" n="27"/>y piedras preciosas y ganados y riquezas; y de todos los 
+          yncrey<lb ed="#B" break="no" n="28"/>bles e irreparables daños y muertes, y menoscabos, y despojos
+          <lb ed="#B" n="29"/>de señoríos; y total perdición de aquellos reynos que después
+          <lb ed="#B" n="30"/> an sucedido y fueron fementidos, quebrantando la fe y promessa
+          <lb ed="#B" n="31"/>o postura que con el dicho Rey Athabaliba pusieron de ponelle
           <pb ed="#B" n="177-v"/>
           <lb ed="#B" n="1"/>en su libertad si les diesse una casa llena de oro y plata, como
-          <lb ed="#B" n="2"/>hombres sin fe y sin themor de Dios y sin verdad.
+          <lb ed="#B" n="2"/>hombres sin fe y sin themor de Dios y sin verdad / .
         </p>
         <p xml:id="dc7aa7-e07195-d1e193">
-          <lb ed="#B" n="3"/>La primera parte desta Conclusión: que cometiesen gravíssi<lb ed="#B" break="no" n="4"/>mos
-          peccados mortales, etc. Pruévase por muchas razones. La
+          <lb ed="#B" n="3"/>¶La primera parte desta conclusión: que cometiesen 
+          gravíssi<lb ed="#B" break="no" n="4"/>mos peccados mortales, etc. Pruévase por muchas razones. La
           <lb ed="#B" n="5"/>1a, porque fueron propios y perfectos crueles tyranos, como en el
-          <lb ed="#B" n="6"/>primero Principio, Cap. I, y en el 119, en la 4a especie de infieles.
-          <lb ed="#B" n="7"/>Cap. IV, queda provado. 
+          <lb ed="#B" n="6"/>primero Principio, §. I, y en el 119, en la 4a especie de infieles.
+          <lb ed="#B" n="7"/>§. 4. queda probado. 
         </p>
         <p xml:id="dc7aa7-e07195-d1e206">
-          Tirano es aquél que usurpa por fuerca, sin
-          <lb ed="#B" n="8"/>justa causa, los estados y principados que pertenecen a los verda<lb ed="#B" break="no" n="9"/>deros
-          reyes y señores por derecho natural y de las gentes. Pues dónde 
+          ¶Tírano es aquél que usurpa por fuerca, sin
+          <lb ed="#B" n="8"/>justa causa, los estados y principados que pertenecen a los 
+          verdade<lb ed="#B" break="no" n="9"/>ros reyes y señores por derecho natural y de las gentes. Pues dónde 
           <lb ed="#B" n="10"/>jamás en el mundo así se verificó el nombre y officio de tyrano, 
-          <lb ed="#B" n="11"/>como de nosotros en aquellas partes. Díganlo los mismos nuestros
-          <lb ed="#B" n="12"/>tyranos, que yo confío que no lo negarán. Y <sic> si, <!--edition has así--></sic> añadiremos que 
-          <lb ed="#B" n="13"/>no sólo usurpan los agenos señoríos y principados, pero crudelíssi<lb ed="#B" break="no" n="14"/>mamente
-          tan sin culpa ni causa, matan y despedagan, y comun<lb ed="#B" break="no" n="15"/>mente queman bivos y con diversos tormentos de la haz de la
-          <lb ed="#B" n="16"/>tierra de reyes y sefiores naturales des como <sic> avemos <!--edition has havemos--></sic> en
-          <lb ed="#B" n="17"/>todas las Indias hecho. Y así hizo Pizarro y su quadrilla al Rey Athaba<lb ed="#B" break="no" n="18"/>liba
-          y otros muchos; cierto bien propiamente nos conviene y
+          co<lb ed="#B" break="no" n="11"/>mo de nosotros en aquellas partes. Díganlo los mismos nuestros
+          <lb ed="#B" n="12"/>tyranos, que yo confío que no lo negarán / . Y <sic>si, <!--edition has así--></sic> añadiremos que 
+          <lb ed="#B" n="13"/>no sólo usurpan los agenos señoríos y principados, pero 
+          crudelíssi<lb ed="#B" break="no" n="14"/>mamente tan sin culpa ni causa, matan y despedagan, y 
+          comun<lb ed="#B" break="no" n="15"/>mente queman bivos y con diversos tormentos de la haz de la
+          <lb ed="#B" n="16"/>tierra de reyes y señores naturales des como avemos en
+          <lb ed="#B" n="17"/>todas las Indias hecho: y <sic><!--in edition but not text-->así</sic> hizo Pizarro y su quadrilla al Rey 
+          Athaba<lb ed="#B" break="no" n="18"/>liba y otros muchos; cierto bien propiamente nos conviene y
           <lb ed="#B" n="19"/>pertenece, y a aquéllos perteneció el nombre y officio de tyranos.
-          <lb ed="#B" n="20"/>Succesores <sic> avemos <!--edition has havemos--></sic> sido de Nemroth: primero tyrano después del
-          <lb ed="#B" n="21"/>diluvio, fue aquél interfecto et oppressor hominum y por este modo
-          <lb ed="#B" n="22"/>se hizo rey, forgando los hombres a que le obedeciesen y sirviesen:
-          <lb ed="#B" n="23"/>
-          <quote xml:id="dc7aa7-e07195-Qd1e255"> «Erat quidem robustus venator coram Domino», </quote>
-          <ref xml:id="dc7aa7-e07195-Rd1e257" target="http://scta.info/resource/gen10_5"> Genesis 10, </ref> id est 
-          <lb ed="#B" n="24"/>interfector et extinctor, secundum Glossam, el qual segán Josepho, <quote xml:id="dc7aa7-e07195-Qd1e262" source="http://scta.info/resource/gen10_10@1-6"> «nova re<lb ed="#B" break="no" n="25"/>gni
-            cupiditate tyranidem exercuit, scilicet cogendo homines
-            <lb ed="#B" n="26"/>ut sibi subiicerentur fuit autem principium regni eius Babilon, etc...» </quote>
-          <lb ed="#B" n="27"/>
-          <ref xml:id="dc7aa7-e07195-Rd1e272" target="http://scta.info/resource/gen10_5"> Genesis 10,</ref>
+          <lb ed="#B" n="20"/>Succesores avemos sido de Nemroth: primero tyrano después del
+          <lb ed="#B" n="21"/>diluvio / fue aquél interfecto et oppressor hominum. Y por este modo
+          <lb ed="#B" n="22"/>se hizo rey, forzando los hombres a que le obedeciesen y sirviesen:
+          <lb ed="#B" n="23"/><quote source="http://scta.info/resource/gen10_9@2-6">Erat quidem robustus venator coram Domino</quote> <ref xml:id="dc7aa7-e07195-Rd1e257"> Genesis 10,</ref> id est 
+          <lb ed="#B" n="24"/>interfector et extinctor, secundum Glossam, el qual según Josepho, <quote xml:id="dc7aa7-e07195-Qd1e262" source="http://scta.info/resource/gen10_10@1-6">nova 
+          re<lb ed="#B" break="no" n="25"/>gni cupiditate tyranidem exercuit, scilicet cogendo homines
+          <lb ed="#B" n="26"/>ut sibi subiicerentur fuit autem principium regni eius Babilon, etc.</quote>
+          <lb ed="#B" n="27"/><ref xml:id="dc7aa7-e07195-Rd1e272"> Genesis 10.</ref>
         </p>
         <p xml:id="dc7aa7-e07195-d1e276">
-          Pues, los tyranos peccan mortalíssimamente; luego Piza<lb ed="#B" break="no" n="28"/>rro y sus compañeros cometieron gravíssimos peccados mortales.
+          ¶Pues, los tyranos peccan mortalíssimamente. Luego
+          Piza<lb ed="#B" break="no" n="28"/>rro y sus compañeros cometieron gravíssimos peccados mortales.
         </p>
         <p xml:id="dc7aa7-e07195-d1e281">
-          <lb ed="#B" n="29"/>Lo 2°, se prueva por el 7a Principio, Cap. 12, donde queda concluy<lb ed="#B" break="no" n="30"/>do por muchas razones haver sido el primer españo<lb ed="#B" break="no" n="31"/>les
-          en novo orbe inoresso de los españoles tyránico y abominable, y contra la orden natural
-          <lb ed="#B" n="32"/>que devían guardar en su entrada. <sic><!--edition separates sentences--></sic>quebrantar la or<lb ed="#B" break="no" n="33"/>den
-          natural, pecado es mortal, porque repugna a la divina dis<lb ed="#B" break="no" n="34"/>posición que con su sabiduría puso en todas las cosas.
+          <lb ed="#B" n="29"/>¶Lo 2o, se prueva por el 7o Principio, §. 12, donde queda 
+          concluy<lb ed="#B" break="no" n="30"/>do por muchas razones haver sido el primer 
+          españo<lb ed="#B" break="no" n="31"/>les tyránico y abominable, y contra la orden natural
+          <lb ed="#B" n="32"/>que devían guardar en su entrada quebrantar la 
+          or<lb ed="#B" break="no" n="33"/>den natural, pecado es mortal, porque repugna a la divina 
+          dis<lb ed="#B" break="no" n="34"/>posición que con su sabiduría puso en todas las cosas.
         </p>
         <p xml:id="dc7aa7-e07195-d1e300">
-          Lo 3°, se 
+          ¶Lo 3o, se 
           <lb ed="#B" n="35"/>prueva haver pecado mortalmente, porque hizieron contra el
           <pb ed="#B" n="178-r"/>
           <lb ed="#B" n="1"/>dictamen de la razón y ley natural, que enseña al hombre cómo se 
           <lb ed="#B" n="2"/>deve de haver con sus obras prácticas, para con Dios y para con los
-          <lb ed="#B" n="3"/>hombres, como sea luz que alumbra la consciencia y le haze cognos<lb ed="#B" break="no" n="4"/>cer
-          los primeros principios o preceptos y sus ymediatas con<lb ed="#B" break="no" n="5"/>clusiones
-          de las cosas agibles y morales, como son: <quote xml:id="dc7aa7-e07195-Qd1e317">«El bien se ha de pro
-            <lb ed="#B" n="6"/>seguir. E así a Dios se ha de obedecer, honrrar los padres, hazer bien
-            <lb ed="#B" n="7"/>a todos, y el mal se ha de huyr, evitar; y así contra Dios no se ha de de<lb ed="#B" break="no" n="8"/>zir
-            ni hazer cosa que no le convenga, e a ninguno se deve hazer
-            <lb ed="#B" n="9"/>injuria, no matar, no hurtar, etc...» </quote>Y estos principios o preceptos
-          <lb ed="#B" n="10"/>y conclusiones inmediatas, por sí misma la razón natural 
-          <lb ed="#B" n="11"/>de qualquiera hombre juzga que deve proseguir o no proseguir. 
+          <lb ed="#B" n="3"/>hombres, como sea luz que alumbra la consciencia y le haze 
+          cognos<lb ed="#B" break="no" n="4"/>cer los primeros principios o preceptos y sus ymediatas 
+          con<lb ed="#B" break="no" n="5"/>clusiones de las cosas agibles y morales, como son: <quote xml:id="dc7aa7-e07195-Qd1e317">El bien se ha de pro
+          <lb ed="#B" n="6"/>seguir: E así a Dios se ha de obedecer, honrrar los padres, hazer bien
+          <lb ed="#B" n="7"/>a todos, y el mal se ha de huyr, evitar; y así contra Dios no se ha de 
+          de<lb ed="#B" break="no" n="8"/>zir ni hazer cosa que no le convenga, e a ninguno se deve hazer
+          <lb ed="#B" n="9"/>injuria, no matar, no hurtar, etc.</quote> Y estos principios / o preceptos
+          <lb ed="#B" n="10"/>y conclusiones inmediatas: por sí misma la razón natural 
+          <lb ed="#B" n="11"/>de qualquiera hombre juzga que deve proseguir / o no proseguir. 
           <lb ed="#B" n="12"/>Y ésta es la ley o derecho natural que ordena a los hombres como 
           <lb ed="#B" n="13"/>deven averse convenientemente, para con Dios y para con sus 
           <lb ed="#B" n="14"/>próximos.
         </p>
-        <p xml:id="dc7aa7-e07195-d1e340">Pues, aquéllos que tanto daño y mal hizieron al Rey 
+        <p xml:id="dc7aa7-e07195-d1e340">
+          ¶Pues, aquéllos que tanto daño y mal hizieron al Rey 
           <lb ed="#B" n="15"/>Athabaliba prendiéndolo, desposseyéndolo de sus estados, de sus
-          <lb ed="#B" n="16"/>tierras y señoríos, matándolo y quemándolo, despojando y pri<lb ed="#B" break="no" n="17"/>vando
-          de los mismos estados y señoríos y de todos los otros bienes 
+          <lb ed="#B" n="16"/>tierras y señoríos, matándolo y quemándolo, despojando y 
+          pri<lb ed="#B" break="no" n="17"/>vando de los mismos estados y señoríos y de todos los otros bienes 
           <lb ed="#B" n="18"/>suyos a sus herederos sin culpa, ni causa, ni razón hizieron contra
-          <lb ed="#B" n="19"/>los preceptos de la ley o del derecho natural, y en cosas gravíssi
-          <lb ed="#B" n="20"/>mas y más essenciales; luego, gravíssimamente offendieron en
-          <lb ed="#B" n="21"/>pecados mortales.
+          <lb ed="#B" n="19"/>los preceptos de la ley / o del derecho natural, y en cosas 
+          gravíssi<lb ed="#B" break="no" n="20"/>mas y más essenciales. luego, gravíssimamente offendieron
+          <lb ed="#B" n="21"/>en pecados mortales.
         </p>
-        <p xml:id="dc7aa7-e07195-d1e359"> Lo 4°, aquéllos hizieron contra expressos
+        <p xml:id="dc7aa7-e07195-d1e359">
+        ¶Lo 4o, aquéllos hizieron contra expressos
           <lb ed="#B" n="22"/>textos del derecho divino negativos. Prohibido es por el derecho
-          <lb ed="#B" n="23"/>divino que no deseemos las cosas agenas y mucho más tomárselas,
-          <lb ed="#B" n="24"/>o en secreto como es hurtándolas, o por fuerga contra su voluntad
-          <lb ed="#B" n="25"/>que es violencia y rapiña, como parece <ref xml:id="dc7aa7-e07195-Rd1e369" target="http://scta.info/resource/ex20_2"> Exodo 20: </ref>
+          <lb ed="#B" n="23"/>divino que no deseemos las cosas agenas y mucho más tomárselas /
+          <lb ed="#B" n="24"/>o en secreto como es hurtándolas / o por fuerga contra su voluntad
+          <lb ed="#B" n="25"/>que es violencia y rapiña, como parece <ref xml:id="dc7aa7-e07195-Rd1e369">Exodo 20:</ref>
           <quote xml:id="dc7aa7-e07195-Qd1e373" source="http://scta.info/resource/ex20_15@1-3 http://scta.info/resource/ex20_17@1-22">Non furtum
-            <lb ed="#B" n="26"/>facies Non concupisces domun proximi tui: non agrum, non
-            <lb ed="#B" n="27"/>servum, non ancillam, non bovem, non asimum, et universa
-            <lb ed="#B" n="28"/>que illius sunt,</quote> et <ref xml:id="dc7aa7-e07195-Rd1e382">Deuteronomio 5</ref>, item: <quote xml:id="dc7aa7-e07195-Qd1e384" source="http://scta.info/resource/deut19_14@2-13">Non assumes et transfferes
-              <lb ed="#B" n="29"/>terminos proximi tul, quo fixerunt priores in possessiones suas </quote>
-          <lb ed="#B" n="30"/>
-          <ref xml:id="dc7aa7-e07195-Rd1e391"> Deuteronomio 9</ref> et <ref xml:id="dc7aa7-e07195-Rd1e393">Proverbiorum 22, item et cap. 23:</ref>
-          <quote xml:id="dc7aa7-e07195-Qd1e396" source="http://scta.info/resource/prov23_10@1-9 http://scta.info/resource/prov23_11@1-12">Non attingas parvulo
-            <lb ed="#B" n="31"/>rum terminos, et agrum pupillorum ne introeas: propinquus
-            <lb ed="#B" n="32"/>enim illorum, id est, Deus sortis est et ille judicabit contra te causa
-            <lb ed="#B" n="33"/>illorum.</quote> Hec ibi. Y S. Hierónimo, Ad Rusticum episcopum, et
-          <lb ed="#B" n="34"/>habetur in c. diaconi, 93 Dist. <quote xml:id="dc7aa7-e07195-Qd1e407">«Unusquisque ita in hoc mundo 
-            <lb ed="#B" n="35"/>visibili aliquid possidere jubetur ut sua tantum possessione sit
-            <lb ed="#B" n="36"/>contentus ac res non invadat alienas, non agrum pauperis
-            <pb ed="#B" n="178-v"/>
-            <lb ed="#B" n="1"/>tolla non vineam non subuectorium aliquod, non famulos, 
-            <lb ed="#B" n="2"/>non fructus». Hec ille.</quote>
+          <lb ed="#B" n="26"/>facies Non concupisces domun proximi tui: non agrum, non
+          <lb ed="#B" n="27"/>servum, non ancillam, non bovem, non asimum, et universa
+          <lb ed="#B" n="28"/>que illius sunt,</quote> et <ref xml:id="dc7aa7-e07195-Rd1e382">Deuteronomio 5</ref>, item: <quote xml:id="dc7aa7-e07195-Qd1e384" source="http://scta.info/resource/deut19_14@2-13">Non assumes et transfferes
+          <lb ed="#B" n="29"/>terminos proximi tul, quo fixerunt priores in possessiones suas</quote>
+          <lb ed="#B" n="30"/><ref xml:id="dc7aa7-e07195-Rd1e391">Deuteronomio 9</ref> et <ref xml:id="dc7aa7-e07195-Rd1e393">Proverbiorum 22, item et cap. 23:</ref> <quote xml:id="dc7aa7-e07195-Qd1e396" source="http://scta.info/resource/prov23_10@1-9 http://scta.info/resource/prov23_11@1-12">Non attingas parvulo
+          <lb ed="#B" n="31"/>rum terminos, et agrum pupillorum ne introeas: propinquus
+          <lb ed="#B" n="32"/>enim illorum, id est, Deus sortis est et ille judicabit contra te causa
+          <lb ed="#B" n="33"/>illorum.</quote> Hec ibi. Y S. Hierónimo, <ref>Ad Rusticum episcopum, et
+          <lb ed="#B" n="34"/>habetur in c. diaconi, 93 Dist.</ref> <quote xml:id="dc7aa7-e07195-Qd1e407">Unusquisque ita in hoc mundo 
+          <lb ed="#B" n="35"/>visibili aliquid possidere jubetur: ut sua tantum possessione sit
+          <lb ed="#B" n="36"/>contentus ac res non invadat alienas, non agrum pauperis
+          <pb ed="#B" n="178-v"/>
+          <lb ed="#B" n="1"/>tolla non vineam non subuectorium aliquod, non famulos, 
+          <lb ed="#B" n="2"/>non fructus.</quote> Hec ille.
         </p>
-        <p xml:id="dc7aa7-e07195-d1e421">Pues, aquéllos no sólo desearon las cosas
-          <lb ed="#B" n="3"/>agenas qualesquiera, no sólo las casas, las ovejas, no los siervos y
-          <lb ed="#B" n="4"/>las chácaras o heredades o las tierras en que hazían sus semen<lb ed="#B" break="no" n="5"/>teras,
-          pero los estados, las dignidades, las honrras y señoríos, los
+        <p xml:id="dc7aa7-e07195-d1e421">
+        ¶Pues, aquéllos no sólo desearon las cosas
+          <lb ed="#B" n="3"/>agenas qualesquiera / no sólo las casas, las ovejas, no los siervos y
+          <lb ed="#B" n="4"/>las chácaras o heredades / o las tierras en que hazían sus 
+          semen<lb ed="#B" break="no" n="5"/>teras: pero los estados, las dignidades, las honrras y señoríos / los
           <lb ed="#B" n="6"/>principados reales, las juridictiones y todos los vassallos, las tierras
           <lb ed="#B" n="7"/>y reynos con antiguos términos guardadas, los thesoros, y todo
-          <lb ed="#B" n="8"/>quanto en el mundo tenían y mandavan, y con ellos las <sic> vidas <!--edition joins sentences--> y </sic>
-          <lb ed="#B" n="9"/>todo esto con gran violencia e injuriosa mano. Luego, gravíssi
-          <lb ed="#B" break="no" n="10"/>ma y mortalíssimamente peccaron. </p>
-        <p xml:id="dc7aa7-e07195-d1e446"> Y si por quitar una terne
-          <lb ed="#B" break="no" n="11"/>zuela y un bueyezillo al próximo, Dios se haze propinquo al agra
-          <lb ed="#B" break="no" n="12"/>viado para vengallo, quánto más lo será y vengará lo que a tales
+          <lb ed="#B" n="8"/>quanto en el mundo tenían y mandavan, y con ellos las vidas y 
+          <lb ed="#B" n="9"/>todo esto con gran violencia e injuriosa mano. Luego, 
+          gravíssi<lb ed="#B" break="no" n="10"/>ma y mortalíssimamente peccaron. 
+          </p>
+        <p xml:id="dc7aa7-e07195-d1e446">
+        ¶Y si por quitar una terne<lb ed="#B" break="no" n="11"/>zuela y un bueyezillo al próximo, Dios se haze propinquo al 
+         agra<lb ed="#B" break="no" n="12"/>viado para vengallo, quánto más lo será y vengará: lo que a tales
           <lb ed="#B" n="13"/>personas y a tantas y en diversas y preciosas species, por
-          <lb ed="#B" n="14"/>aquellos fue dañificado. </p>
-        <p xml:id="dc7aa7-e07195-d1e457"> Sea la 5a razón y breve <sic> así<!--edition joins sentences--> todos </sic> los 
-          <lb ed="#B" n="15"/>que hazen contra justicia en caso notable, peccado cometen mor<lb ed="#B" break="no" n="16"/>tal.
-          <lb ed="#B" n="17"/>Porque qualquiera que alguna cosa no iusta haze, haze con<lb ed="#B" break="no" n="18"/>tra
-          <lb ed="#B" n="19"/>el precepto divino y la ley de Dios, que se reduze, o al hurto,
-          <lb ed="#B" n="20"/>o rapifia, o adulterio, o homicidio, etc. Y qualquiera de <sic> <!--this is not in edition--> estas
-            transgre<lb ed="#B" break="no" n="21"/>ssoines son peccado mortal. Item toda injusticia siempre confiste 
-            en algun </sic> da<lb ed="#B" break="no" n="22"/>ño que a otro se haze <sic> <!--edition excludes this-->y qualquiera nocumento y daño</sic> que a otro se haze repugna a la charidad que nos mueve o 
-          de<lb ed="#B" break="no" n="23"/>ve mover amarlo; luego, hazer injusticia es peccado mortal.Item, 
-          <lb ed="#B" n="24"/>según los juristas, los preceptos de la justicia son tres: El primero, 
-          <lb ed="#B" n="25"/>bivir honesta y virtuosamente. El 2°, a ninguno hazer mal ni 
-          <sic><!--edition joins sentences-->daño el</sic> 3°, dar a cada uno lo suyo.</p>
-        <p xml:id="dc7aa7-e07195-d1e503">Pues, los que aquellos tan
-          <lb ed="#B" n="26"/>estraños e irreparables males y daños al Rey Athabaliba y a to
-          <lb ed="#B" break="no" n="27"/>dos los suyos y a los demás Reyes y Sefiores y pueblos hicieron, estan
-          <lb ed="#B" break="no" n="28"/>do en sus tierras y reynos sin offensa nuestra y sin devernos nada; y
+          <lb ed="#B" n="14"/>aquellos fue dañificado. 
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e457"> 
+        ¶Sea la 5a razón y breve así. Todos los 
+          <lb ed="#B" n="15"/>que hazen contra justicia en caso notable, peccado cometen 
+          mor<lb ed="#B" break="no" n="16"/>tal. Porque qualquiera que alguna cosa no iusta haze, haze 
+          con<lb ed="#B" break="no" n="17"/>tra el precepto divino y la ley de Dios, que se reduze / o al hurto,
+          <lb ed="#B" n="18"/>o rapiña / o adulterio / o homicidio, etc. Y qualquiera de estas
+          transgre<lb ed="#B" break="no" n="19"/>ssoines son peccado mortal. Item toda injusticia siempre confiste 
+          <lb ed="#B" break="no" n="20"/>en algun daño que a otro se haze: y qualquiera nocumento y da
+         <lb ed="#B" break="no" n="21"/> ño que a otro se haze repugna a la charidad que nos mueve  / o 
+          de<lb ed="#B" break="no" n="22"/>ve mover amarlo: luego, hazer injusticia es peccado mortal. Item, 
+          <lb ed="#B" n="23"/>según los juristas, los preceptos de la justicia son tres / El primero, 
+          <lb ed="#B" n="24"/>bivir honesta y virtuosamente. El 2o, a ninguno hazer mal ni 
+          <lb ed="#B" n="25"/>daño el 3o, dar a cada uno lo suyo.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e503">
+        ¶Pues, los que aquellos tan
+          <lb ed="#B" n="26"/>estraños e irreparables males y daños al Rey Athabaliba y a 
+          to<lb ed="#B" break="no" n="27"/>dos los suyos y a los demás Reyes y Señores y pueblos hicieron, 
+          estan<lb ed="#B" break="no" n="28"/>do en sus tierras y reynos sin offensa nuestra y sin devernos nada: y
           <lb ed="#B" n="29"/>así, sin alguna vera ni colorada justa causa hizieron, no una, sino
-          <lb ed="#B" n="30"/>muchas notables y estrañas injusticias repugnantes a la charidad;
+          <lb ed="#B" n="30"/>muchas notables y estrañas injusticias repugnantes a la charidad 
           <lb ed="#B" n="31"/>y así, no sólo no bivieron honesta y virtuosamente, y a aquel gran
           <lb ed="#B" n="32"/>Rey e a tantos hizieron tanto mal y les tomaron y usurparon
-          <lb ed="#B" n="33"/>tantos bienes y tan preciosos suyos: luego, cometieron gravíssi
-          <lb ed="#B" n="34"/>mos peccados mortales. </p>
-        <p xml:id="dc7aa7-e07195-d1e525">Y que sean gravíssimos quanto a los pró
-          <lb ed="#B" n="35"/>ximos de sí están claros. Pero quanto a Dios, véase lo que queda
-          <lb ed="#B" n="36"/>escripto en el Principio 7°, Cap. 15, de los escándalos e infamias
+          <lb ed="#B" n="33"/>tantos bienes y tan preciosos suyos. Luego cometieron 
+          gravíssi<lb ed="#B" break ="no" n="34"/>mos peccados mortales. 
+          </p>
+        <p xml:id="dc7aa7-e07195-d1e525">
+          ¶Y que sean gravíssimos quanto a los 
+          pró<lb ed="#B" break="no" n="35"/>ximos de sí están claros. Pero quanto a Dios, véase lo que queda
+          <lb ed="#B" n="36"/>escripto en el Principio 7o, Cap. 15, de los escándalos e infamias
           <pb ed="#B" n="179-r"/>
-          <lb ed="#B" n="1"/>de la fe que con su mal bivir en aquellas gentes <sic><!--edition has han--> an</sic> causado,
-          <lb ed="#B" n="2"/>que creen que la religión christiana no es otra cosa sino robar y ma
-          <lb ed="#B" n="3"/>tar y cometer todas las abominagiones y fealdades que han come
-          <lb ed="#B" n="4"/>tido y <sic> cometen: y <!--edition separates sentences--></sic> es cierto que <sic><!--edition has han--> an</sic> hecho infame al nombre de
+          <lb ed="#B" n="1"/>de la fe que con su mal bivir en aquellas gentes an causado:
+          <lb ed="#B" n="2"/>que creen que la religión christiana no es otra cosa sino robar y 
+          ma<lb ed="#B" break="no" n="3"/>tar y cometer todas las abominagiones y fealdades que an 
+         come <lb ed="#B" break="no" n="4"/>tido y cometen: y es cierto que an hecho infame al nombre de
           <lb ed="#B" n="5"/>Jesu Christo, de tal manera que se tiene por el mayor milagro
           <lb ed="#B" n="6"/>que Dios en aquellas Indias haze: que aquellas gentes crean
-          <lb ed="#B" n="7"/>las cosas de la fe, viendo las obras de los que tienen nombre de 
-          <lb ed="#B" n="8"/>christianos. </p>
-        <p xml:id="dc7aa7-e07195-d1e565"> Y porque la gravedad de los peccados se consi
-          <lb ed="#B" n="9"/>dera según resultan en deshonor de la honrra de Dios, y éstos
-          <lb ed="#B" n="10"/>son gravíssimos; y después déstos los más graves según la grandeza
+          <lb ed="#B" n="7"/>las cosas de la fe: viendo las obras de los que tienen nombre de 
+          <lb ed="#B" n="8"/>christianos. 
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e565"> 
+        ¶Y porque la gravedad de los peccados se 
+         consi<lb ed="#B" break="no" n="9"/>dera según resultan en deshonor de la honrra de Dios, y éstos
+          <lb ed="#B" n="10"/>son gravíssimos: y después déstos los más graves según la grandeza
           <lb ed="#B" n="11"/>y gravedad del daño que a los próximos viene: y aquellos ciento
-          <lb ed="#B" n="12"/>y sesenta hayan sido causa que el nombre de Christo se blasphe<lb ed="#B" break="no" n="13"/>me
-          y se impida, que aquellas gentes no le cognozcan, y resciban, y
+          <lb ed="#B" n="12"/>y sesenta hayan sido causa que el nombre de Christo se 
+          blasphe<lb ed="#B" break="no" n="13"/>me y se impida, que aquellas gentes no le cognozcan, y resciban, y
           <lb ed="#B" n="14"/>veneren, honrren por verdadero Dios, y los daños que al Rey
-          <lb ed="#B" n="15"/>Athabaliba y a los demás fuesen los mayores tempora<lb ed="#B" break="no" n="16"/>les 
-          <lb ed="#B" n="17"/>que a ninguno en el mundo se puedan hazer; y los españoles
-          <lb ed="#B" n="18"/>
-          <sic> ayan <!--edition has hayan--></sic> sido causa que perezcan infinitas ánimas sin fe y sin sacra
-          <lb ed="#B" n="19"/>mentos para siempre en los eternales fuegos, síguese que los pec
-          <lb ed="#B" n="20"/>cados que aquéllos cometieron fueron sobre todos los peccados gra<lb ed="#B" break="no" n="21"/>víssimos. 
-          Desta gravedad de peccados, úsase <ref xml:id="dc7aa7-e07195-Rd1e599">S. Thomás: 
-            <lb ed="#B" n="22"/>1a. 2e q.73 a.8 ad 3m;</ref> y en <ref xml:id="dc7aa7-e07195-Rd1e604">las <sic>questiones <!--edition has cuestiones--></sic> «De malo»: q.2 a.10 corp.</ref>; 
-          <lb ed="#B" n="23"/>y en <ref xml:id="dc7aa7-e07195-Rd1e614">la 2.2 q.34 a.3 et q.78</ref>
-          <ref xml:id="dc7aa7-e07195-Rd1e616">a.3 et q.74 a.2
-            <lb ed="#B" n="24"/>corp. et q.154 a.12*,</ref>
+          <lb ed="#B" n="15"/>Athabaliba y a los demás fuesen los mayores 
+          tempora<lb ed="#B" break="no" n="16"/>les que a ninguno en el mundo se puedan hazer; y los españoles
+          <lb ed="#B" n="17"/>ayan sido causa que perezcan infinitas ánimas sin fe y sin 
+         sacra<lb ed="#B" break="no" n="18"/>mentos para siempre en los eternales fuegos, síguese que los 
+          pec<lb ed="#B" break="no" n="19"/>cados que aquéllos cometieron fueron sobre todos los peccados 
+          gra<lb ed="#B" break="no" n="20"/>víssimos. Desta gravedad de peccados, úsase <ref xml:id="dc7aa7-e07195-Rd1e599">S. Thomás: 
+          <lb ed="#B" n="21"/>1a. 2e q.73 a.8 ad 3m;</ref> y en <ref xml:id="dc7aa7-e07195-Rd1e604">las questiones «De malo»: q.2 a.10 corp.</ref>; 
+          <lb ed="#B" n="22"/>c. y en <ref xml:id="dc7aa7-e07195-Rd1e614">la 2.2 q.34 a.3 et q.78 a.3 et q.74 a.2 </ref>
+          <lb ed="#B" n="23"/><ref xml:id="dc7aa7-e07195-Rd1e616">corp. et q.154 a.12,</ref>
         </p>
       </div>
     </body>
