@@ -167,7 +167,7 @@
           <lb ed="#B" n="17"/>siguiente Dominus noster, y en el capítulo primero: <quote xml:id="dc7aa7-e08521-Qd1e364" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14">Justum est
           <lb ed="#B" n="18"/>bellum, quod ex edictore geritur de rebus repetendis, etc.</quote>
           </p>
-          <p>
+          <p xml:id="dc7aa7-e08521-d1e375">
           ¶La
           <lb ed="#B" n="19"/>4a es por causa de punir e castigar las injurias y daños rescebi
           <lb ed="#B" n="20"/>dos, y desta también haze mención el dicho capítulo, Dominus
@@ -259,7 +259,7 @@
           <lb ed="#B" n="25"/>bien común, que es más divino según <ref xml:id="dc7aa7-e08521-Rd1e609">el Philósopho 1 Ethicorum</ref>, y por éste
           <lb ed="#B" n="26"/>y para este bien público nasce cada uno, más que para el padre que
           <lb ed="#B" n="27"/>es particular, <quote xml:id="dc7aa7-e08521-Qd1e615">unde dicitur quod homo magis nascitur patrie, quam patri.</quote>
-<lb ed="#B" n="28"/>E por esto dize la ley: <quote source="http://scta.info/resource/bgy6gt-d1e4929-d1e402@20-29">Quod tuitio sine disciplina castrorum antiquior 
+<lb ed="#B" n="28"/>E por esto dize la ley: <quote xml:id="dc7aa7-e08521-Qd1e609" source="http://scta.info/resource/bgy6gt-d1e4929-d1e402@20-29">Quod tuitio sine disciplina castrorum antiquior 
 <lb ed="#B" n="29"/>fuit civibus et parentibus Romanis quam charitas liberorum</quote>: L. post
           <lb ed="#B" break="no" n="30"/>liminium, § filius, <ref xml:id="dc7aa7-e08521-Rd1e626">ff., De captivis et postliminiis</ref>. Unusquisque nim patrie sue nas
           <lb ed="#B" break="no" n="31"/>citur, ut L. 1, § Generaliter, ff., De ventre in possessionem mittendo. Et licet 
