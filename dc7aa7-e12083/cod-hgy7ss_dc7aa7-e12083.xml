@@ -94,14 +94,14 @@
           <lb ed="#B" break="no" n="25"/>logo de la orden de Sancto Domingo en <ref xml:id="dc7aa7-e12083-Rd1e195">el Libro 6, tractatus 3,
           <lb ed="#B" n="26"/>c.5, §. in aliquibus et sequentibus</ref>, et <ref xml:id="dc7aa7-e12083-Rd1e200">§. Preter autem</ref>
         </p>
-        <p xml:id="dc7aa7-e12083-d1e191">
+        <p xml:id="dc7aa7-e12083-d1e195">
           ¶  Raymundo en
             <lb ed="#B" n="27"/>su <ref xml:id="dc7aa7-e12083-Rd1e207">Suma, 2o, título De restitutione, q. 66 <sic><!--edition references just 66 and 68-->y 67</sic> y 68</ref>.
         </p>
         <p xml:id="dc7aa7-e12083-d1e203">
         ¶ Hostiensis en la 
           <lb ed="#B" n="28"/>suya donde muchas vezes allega a Raymundo. <ref xml:id="dc7aa7-e12083-Rd1e216">Libro 5,título De penitentia
-          <lb ed="#B" n="29"/>et remissione §. Quibus et qualiter, verbo</ref>. <quote>Quid de his qui non consen
+          <lb ed="#B" n="29"/>et remissione §. Quibus et qualiter, verbo</ref>. <quote xml:id="dc7aa7-e12083-Qd1e231">Quid de his qui non consen
           <lb ed="#B" break="no" n="30"/>serunt</quote>Pedro de Ancharano: en la <ref xml:id="dc7aa7-e12083-Rd1e223">repetición de la Régula Peccati,
           <lb ed="#B" n="31"/>en la q. 6</ref>.
         </p>
@@ -111,12 +111,15 @@
         </p>
         <p xml:id="dc7aa7-e12083-d1e229">
           ¶ El sancto Arcobispo de Florencia
-          <lb ed="#B" n="33"/><ref xml:id="dc7aa7-e12083-Rd1e238">parte 2, título 1, cap. 9, §. 19, y cap. 12, §. 16, 17, 18 y 19</ref>. Guillermo   
-          <pb ed="#B" n="200-r"/>
-          <lb ed="#B" n="1"/>en su Suma 
+          <lb ed="#B" n="33"/><ref xml:id="dc7aa7-e12083-Rd1e238">parte 2, título 1, cap. 9, §. 19, y cap. 12, §. 16, 17, 18 y 19</ref>.
         </p>
-        <p>
-          <ref xml:id="dc7aa7-e12083-Rd1e245">¶ La Suma Monaldi: título De restitutione
+        <p xml:id="dc7aa7-e12083-d1e258">
+          Guillermo   
+          <pb ed="#B" n="200-r"/>
+          <lb ed="#B" n="1"/>en su Suma <del rend="strikethrough">monaldi titul</del>
+        </p>
+        <p xml:id="dc7aa7-e12083-d1e268">
+          <ref xml:id="dc7aa7-e12083-Rd1e245">¶ La suma monaldi: título De restitutione
           <lb ed="#B" n="2"/>raptorum</ref> ibi. Item quicunque aliquid accipit de rapina.
         </p>
         <p xml:id="dc7aa7-e12083-d1e256">
@@ -132,8 +135,8 @@
         <p xml:id="dc7aa7-e12083-d1e276">
           <ref xml:id="dc7aa7-e12083-Rd1e278">¶ La Suma Angélica in verbo Furtum, §. 25</ref>
         </p>
-        <p>
-          <lb ed="#B" n="7"/>Pero mejor lo pone <ref>la Suma Rosela in verbo Restitutio</ref>
+        <p xml:id="dc7aa7-e12083-d1e303">
+          <lb ed="#B" n="7"/>Pero mejor lo pone <ref xml:id="dc7aa7-e12083-Rd1e307">la Suma Rosela in verbo Restitutio</ref>
         </p>
         <p xml:id="dc7aa7-e12083-d1e283">
         ¶ El 
