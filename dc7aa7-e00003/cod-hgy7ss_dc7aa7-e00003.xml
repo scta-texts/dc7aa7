@@ -49,7 +49,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="es">
     <front>
       <div xml:id="starts-on">
         <pb ed="#B" n="135-r"/>
@@ -73,50 +73,50 @@
           <lb ed="#B" n="8"/>Quanto sea el honor reverencía y a aratami quanta la obedencia a
           <lb ed="#B" n="9"/>mor fidelidad que a los Reyes por los subditos se deva catholica 
           <lb ed="#B" n="10"/>majesta cosa manifiesta a los estudiosos nosolo de los  librosde la
-          divi<lb ed="#B" break="no" n="11"/>na eseritura: pero tambien de los que dieron morales documentos co¬ 
-          <lb ed="#B" n="12"/>mosearan deordenar y conservar las republicas. 
+          divi<lb ed="#B" break="no" n="11"/>na eseritura: pero tambien de los que dieron morales documentos 
+          co<lb ed="#B" n="12" break="no"/>mosearan deordenar y conservar las republicas. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e147">
           ¶ La escriptura 
           di<lb ed="#B" break="no" n="13"/>vina señala por suprema razon ser los Reyes en sus Reynos quanto a lo 
-          <lb ed="#B" n="14"/>temporal vicarios substiuttas y lugar temientes de dios: principales mi¬ 
-          <lb ed="#B" n="15"/>mistros y executores de la divinal providencia. Per me Reyes regnant 
+          <lb ed="#B" n="14"/>temporal vicarios substiuttas y lugar temientes de dios: principales 
+          mi<lb ed="#B" n="15" break="no"/>mistros y executores de la divinal providencia. Per me Reyes regnant 
           <lb ed="#B" n="16"/>et legum conditores iusta de cernunt. Per me principes imperat et 
-          <lb ed="#B" n="17"/>potentes decernunt iustitiam <ref>proverb. 8.</ref> Y en el librode de la sabiduria 
-          <lb ed="#B" n="18"/>los nombres ministros de su Reyno. y sant <ref>Pablo a los  romanos capitulo 13</ref>. 
+          <lb ed="#B" n="17"/>potentes decernunt iustitiam <ref xml:id="dc7aa7-e00003-Rd1e160">proverb. 8.</ref> Y en el librode de la sabiduria 
+          <lb ed="#B" n="18"/>los nombres ministros de su Reyno. y sant <ref xml:id="dc7aa7-e00003-Rd1e164">Pablo a los  romanos capitulo 13</ref>. 
           <lb ed="#B" n="19"/>tratade de la obedencia que se les deue y sant Pedro ensu primera canonica c.z. 
-          <lb ed="#B" n="20"/>pone diprecepto de lareverencia y honor. Deum timete. Regen hono¬ 
-          <lb ed="#B" n="21"/>rificate. 
+          <lb ed="#B" n="20"/>pone diprecepto de lareverencia y honor. Deum timete. Regen 
+          hono<lb ed="#B" n="21" break="no"/>rificate. 
           </p>
-          <p>
-          ¶ Pero los varones prudentes que segun hombres escriuniero¬ 
-          <lb ed="#B" n="22"/>dan otra razon porque a los  Reyes las dichas preeminencias con otras 
+          <p xml:id="dc7aa7-e00003-d1e173">
+          ¶ Pero los varones prudentes que segun hombres 
+          escriuniero<lb ed="#B" n="22" break="no"/>dan otra razon porque a los  Reyes las dichas preeminencias con otras 
           <lb ed="#B" n="23"/>se devan y es esta la sobre excelencia de los Beneficios que dellos como de 
           <lb ed="#B" n="24"/>padres y pastores los pubelos resciben. Porque cierto ninguno se puede 
-          <lb ed="#B" n="25"/>comprar a los quelos Reyes hazen cuando iusta y realmente / o ro¬ 
-          <lb ed="#B" n="26"/>mo Reyes los Reynos risen. A que se puede comparar: tener los Reyes 
+          <lb ed="#B" n="25"/>comprar a los quelos Reyes hazen cuando iusta y realmente / o 
+          ro<lb ed="#B" n="26" break="no"/>mo Reyes los Reynos risen. A que se puede comparar: tener los Reyes 
           <lb ed="#B" n="27"/>Por niño buen govierno sus animales obligadas. Asilo dize sant Pablo 
-          <lb ed="#B" n="28"/>en la epistola a los <ref>hebreos capitulo 13</ref> para recomipensa destos sumos bene¬ 
-          <lb ed="#B" n="29"/>ficios no tenemos otra cosa mas preciosa queel honor y reverencia 
+          <lb ed="#B" n="28"/>en la epistola a los <ref xml:id="dc7aa7-e00003-Rd1e190">hebreos capitulo 13</ref> para recomipensa destos sumos 
+          bene<lb ed="#B" n="29" break="no"/>ficios no tenemos otra cosa mas preciosa queel honor y reverencia 
           <lb ed="#B" n="30"/>que los hazemos y obediencia y amor y fidelidad quelos guardamos: 
-          <lb ed="#B" n="31"/>porque estas virtudes son con las qu al mismo Dios recompensamos hon¬ 
-          <lb ed="#B" n="32"/>rramos y veneramos en nosotros es: y dellas es dias contento: 
+          <lb ed="#B" n="31"/>porque estas virtudes son con las qu al mismo Dios recompensamos 
+          hon<lb ed="#B" n="32" break="no"/>rramos y veneramos en nosotros es: y dellas es dias contento: 
           <lb ed="#B" n="33"/>porque sabe quele damos lomas precioso que tenemos: y asile deuen ser¬ 
           <pb ed="#B" n="135-v"/>
           <lb ed="#B" n="1"/><!--line coord error-->sus vicarios los Reyes y este es el premio que en esta vida finalmente deven 
           <lb ed="#B" n="2"/>esperar de sus trabajos y solicitud, segun los que como christianos y como
           <lb ed="#B" n="3"/>prudentes de esta materia escrivieron.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e215">
           ¶ De lo dicho (muy alto y muy
           <lb ed="#B" n="4"/>poderoso señor) se puede colegir que el amor conque los naturales del
-          <lb ed="#B" n="5"/>Reyno aman a sus Reyes es amor natural y segun la inclinacion natu¬ 
-          <lb ed="#B" n="6"/>ral y asi de ley natural allende ser de precepto divino. En lo mismo las
+          <lb ed="#B" n="5"/>Reyno aman a sus Reyes es amor natural y segun la inclinacion 
+          natu<lb ed="#B" n="6" break="no"/>ral y asi de ley natural allende ser de precepto divino. En lo mismo las
           <lb ed="#B" n="7"/>otras suso dichas virtudes con que honrramos revecenciamos acatamos
           <lb ed="#B" n="8"/>obedecemos servimos y guardamos fidelidad a los Reyes por tanto asi se
           <lb ed="#B" n="9"/>a de presumir y creer de todas los súbditos naturales de cada Reyno.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e231">
           ¶ Asi
           <lb ed="#B" n="10"/>pues muy católico y muy alto rey e señor trayendo lo susdico a mi 
           <lb ed="#B" n="11"/>proposito como ninguno me pueda deva exluyr desta comun y general
@@ -128,7 +128,7 @@
           <lb ed="#B" n="17"/>señor que aya santagloria y a Vuestra Magestad de quien rescebí y e
           <lb ed="#B" n="18"/>y rescibo señalada merced.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e253">
           ¶ Y allende que se deve de mí así creer por
           <lb ed="#B" n="19"/>las razones arriba dichas de fuera según es notorio en todo esto Reynos 
           <lb ed="#B" n="20"/>tratado los negocios de las indias. A los quales me ofreci viendo por
@@ -144,27 +144,27 @@
           <lb ed="#B" n="30"/>que Dios guarde muy católico señor no tuvierades y a indias y desto
           <lb ed="#B" n="31"/>todo el mundo lo testigo.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e284">
           ¶ Y porque al principio que lo comencé, se me 
           <lb ed="#B" n="32"/>represento la dificultad grande del negocio que acometia que des
           <lb ed="#B" n="33"/>afivia, tomándolo la ambición y cudicia deste siglo, de Dios 
           <pb ed="#B" n="136-r"/>
-          <lb ed="#B" n="1"/><sic><!--edition has aquel--></sic> tan enemiga y aborrecida y de lamayor parte del linaje hurna¬ 
-          <lb ed="#B" n="2"/>no que auía en aquel obre destruytiua: en cinqta años que desde año 
-          <lb ed="#B" n="3"/>de catorce a que comence siendo clerigo: y despues frayse y agora obis¬ 
-          <lb ed="#B" n="4"/>po con otros trece enque avia vista poque passaua: no ecessado de in¬ 
-          <lb ed="#B" n="5"/>fatigablemente inquirir el como segun Dios. y razon natural divina 
+          <lb ed="#B" n="1"/><sic><!--edition has aquel--></sic> tan enemiga y aborrecida y de lamayor parte del linaje 
+          hurna<lb ed="#B" n="2" break="no"/>no que auía en aquel obre destruytiua: en cinqta años que desde año 
+          <lb ed="#B" n="3"/>de catorce a que comence siendo clerigo: y despues frayse y agora 
+          obis<lb ed="#B" n="4" break="no"/>po con otros trece enque avia vista poque passaua: no ecessado de 
+          in<lb ed="#B" n="5" break="no"/>fatigablemente inquirir el como segun Dios. y razon natural divina 
           <lb ed="#B" n="6"/>y humana Justicia: con aquellas gentes nos deuiamos de aver. Cerca 
-          <lb ed="#B" n="7"/>de lo qual segun los tiempos: y los Reyes que Rey nauan y governado¬ 
-          <lb ed="#B" n="8"/>res que governavan estos reynos y las calamidades de aquellos gentes 
+          <lb ed="#B" n="7"/>de lo qual segun los tiempos: y los Reyes que Rey nauan y 
+          governado<lb ed="#B" n="8" break="no"/>res que governavan estos reynos y las calamidades de aquellos gentes 
           <lb ed="#B" n="9"/>crecian: y seme offrecia en cada tiempo ser obligado adenunciallas 
           <lb ed="#B" n="10"/>en insistir por el remedio asilas propomia y prosiguia y como por 
           <lb ed="#B" n="11"/>la divina misericordia meadado Dios tan larga vida acuido para todo 
           <lb ed="#B" n="12"/>tiempo. Agora como sea que dar me poco que biuir para complir con 
           <lb ed="#B" n="13"/>el talon. A que nuestro señor tuuo por bien concedorme y darlo del en su 
           <lb ed="#B" n="14"/>estrecho Juzgio si el la acceptare, buena omediana cuenta: parecio me: 
-          <lb ed="#B" n="15"/>ser obligado para safuarme a descubrir vuestro magestad un secreto y desengaña¬ 
-          <lb ed="#B" n="16"/>ble de un engaño grauissimo y peligrasissamo. que por los peccados de 
+          <lb ed="#B" n="15"/>ser obligado para safuarme a descubrir vuestro magestad un secreto y desengañ
+          a<lb ed="#B" n="16" break="no"/>ble de un engaño grauissimo y peligrasissamo. que por los peccados de 
           <lb ed="#B" n="17"/>españa a los Reyes passados y a su magestad el mundo / o por ignorancia / o 
           <lb ed="#B" n="18"/>por malicia a temido hasta agora encubierto. Esto puse en un tratado 
           <lb ed="#B" n="19"/>que tiene titulo de thesauris en latin. elqual propuse offrecer a su magestad 
@@ -176,24 +176,24 @@
           <lb ed="#B" n="25"/>esta materia y nomenos desoso de seruir a M. en el remedio 
           <lb ed="#B" n="26"/>de aquellas indias rezien venido dellas memouio y requirio aquelo 
           <lb ed="#B" n="27"/>y respondiese a doze dudas que avia rolegido de grande importancia 
-          <lb ed="#B" n="28"/>cerca del estado en que las dexava lo que decada una segun dias me pare¬ 
-          <lb ed="#B" n="29"/>cia. Fueme necessario respondelle obligado por precepto divino: el qual 
-          <lb ed="#B" n="30"/>promulgo sant <ref>Pedro en su primera canomica. c.z</ref>. parati semper ad 
-          <lb ed="#B" n="31"/>satissationem omni poscenti vos rationem deea quce in vobis est spe¬ 
-          <lb ed="#B" n="32"/>fide a a. y asi lo que que dixe quasi en suma en el tractado de 
+          <lb ed="#B" n="28"/>cerca del estado en que las dexava lo que decada una segun dias me 
+          pare<lb ed="#B" n="29" break="no"/>cia. Fueme necessario respondelle obligado por precepto divino: el qual 
+          <lb ed="#B" n="30"/>promulgo sant <ref xml:id="dc7aa7-e00003-Rd1e359">Pedro en su primera canomica. c.z</ref>. parati semper ad 
+          <lb ed="#B" n="31"/>satissationem omni poscenti vos rationem deea quce in vobis est 
+          spe<lb ed="#B" n="32" break="no"/>fide a a. y asi lo que que dixe quasi en suma en el tractado de 
           <lb ed="#B" n="33"/>thesauris en latin: explique particularmente en romance aunque 
           <pb ed="#B" n="136-v"/>
           <lb ed="#B" n="1"/>algunas partes lleua latinas: y es lo presente que podria seruir quasi 
           <lb ed="#B" n="2"/>como un codirilo. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e375">
           ¶ Resriba pues Vuestra Magestad estos dos tratadillos en 
           <lb ed="#B" n="3"/>volumen muy breues pero en sustancia y calidad porlas verdades 
           <lb ed="#B" n="4"/>que contienen a saz nueuas segun el mundo hoy, y grandes: con 
           <lb ed="#B" n="5"/>la bernigmidad imnata dequela diuina bondad doto a Vuestra Magestad no 
           <lb ed="#B" n="6"/>desechando della las entrañas de charidad y deseo de su verdadero 
-          <lb ed="#B" n="7"/>y no fingido seruicio conque se  offrecen. por los quales vuesta magestad conoce¬ 
-          <lb ed="#B" n="8"/>ra el desexuia. y engaño quelos Reyes sus predecessores y su real per 
+          <lb ed="#B" n="7"/>y no fingido seruicio conque se  offrecen. por los quales vuesta magestad 
+          conoce<lb ed="#B" n="8" break="no"/>ra el desexuia. y engaño quelos Reyes sus predecessores y su real per 
           <lb ed="#B" n="9"/>sona y estado rescibieron, y rescibe de tantos años atras. Y si como 
           <lb ed="#B" n="10"/>principe su premo pero humano y temporal, de quien penden 
           <lb ed="#B" n="11"/>tantos y tan continos cuydados y occurren incuitables 
@@ -210,8 +210,8 @@
           <lb ed="#B" n="22"/>bien avidos y chico exercito en el confiando alcancara mayores y mas 
           <lb ed="#B" n="23"/>ciertas victorias y triumphora desus enemigos con mayor gloria que 
           <lb ed="#B" n="24"/>con milliones que le vengan malganados como son todos los que 
-          <lb ed="#B" n="25"/>de las indias le traen <quote source="http://scta.info/resource/prov11_24@1-15">Quia non est Dominio defficile salvare vel immultis vel 
-          <lb ed="#B" n="26"/>impaucis</quote>. <ref>1 regum. 14.</ref> et <quote>non infortifudine equi voluntaton habebit 
+          <lb ed="#B" n="25"/>de las indias le traen <quote xml:id="dc7aa7-e00003-Qd1e427" source="http://scta.info/resource/prov11_24@1-15">Quia non est Dominio defficile salvare vel immultis vel 
+          <lb ed="#B" n="26"/>impaucis</quote>. <ref xml:id="dc7aa7-e00003-Rd1e432">1 regum. 14.</ref> et <quote xml:id="dc7aa7-e00003-Qd1e434">non infortifudine equi voluntaton habebit 
           <lb ed="#B" n="27"/>neque intibiyius viri beneplacitum esit ei. Beneplacitum est domino 
           <lb ed="#B" n="28"/>super timentis eum. et in eis qui sperant super misericordia euis</quote>. Dize 
           <lb ed="#B" n="29"/>el psalminsta y baste catholica magestad para prueva de la verdad dicha lo 
@@ -220,64 +220,64 @@
           <lb ed="#B" n="32"/>aquellas seguntan se lo gran ni medran antos sedes hazen como humo
           <lb ed="#B" n="33"/>con gran de ventanera / o como sal en agua. Y esto nolo callo el spiritu 
           <pb ed="#B" n="137-r"/>
-          <lb ed="#B" n="1"/>sancto en <ref>los proverbios</ref>. <quote>quirapount aliena semper sunt m agosta¬ 
-          <lb ed="#B" n="2"/>te</quote>. Sabe Dios mio señor christianissimo principe y él es el testigo 
+          <lb ed="#B" n="1"/>sancto en <ref xml:id="dc7aa7-e00003-Rd1e456">los proverbios</ref>. <quote xml:id="dc7aa7-e00003-Qd1e458">quirapount aliena semper sunt m 
+          agosta<lb ed="#B" n="2" break="no"/>te</quote>. Sabe Dios mio señor christianissimo principe y él es el testigo 
           <lb ed="#B" n="3"/>de mi voluntad quanto mas quisieza ser rausa de grande alegria 
           <lb ed="#B" n="4"/>a Vuestra Magestad serviendole, con avisos de grandes riquezas y thesoros no 
           <lb ed="#B" n="5"/>inficionadas con inusticia para que redimiera sus necessidades: que 
           <lb ed="#B" n="6"/>de la pena que por ventura. Vuestra Magestad de mis papeles rescibira de donde 
-          <lb ed="#B" n="7"/>se podra seguir que de aqui adelante nome mirara Vuestra Magestad con tan se¬ 
-          <lb ed="#B" n="8"/>rena y graciosa cara como siempre ami en particular por señalada
+          <lb ed="#B" n="7"/>se podra seguir que de aqui adelante nome mirara Vuestra Magestad con tan 
+          se<lb ed="#B" n="8" break="no"/>rena y graciosa cara como siempre ami en particular por señalada
           <lb ed="#B" n="9"/>merced y a todas suele mirar lo que me sera trabajo de sigual. Pero 
           ante<lb ed="#B" break="no" n="10"/>poniendo la salud eterna de a Vuestra Magestad que no va menos enesto y también 
-          <lb ed="#B" n="11"/>su felicidad temporal: con esperaca que tengo que dios a de ins¬ 
-          <lb ed="#B" n="12"/>pirar en el corazon de a Vuestra Magestad. Pues lo tiene mas singularmente
-          <lb ed="#B" n="13"/>en su mano quelos de los otros hombres la sustancia destas verda¬ 
-          <lb ed="#B" n="14"/>des y oblígacíon que Vuestra Magestad tiene de emendar aquellos malos: y 
+          <lb ed="#B" n="11"/>su felicidad temporal: con esperaca que tengo que dios a de 
+          ins<lb ed="#B" n="12" break="no"/>pirar en el corazon de a Vuestra Magestad. Pues lo tiene mas singularmente
+          <lb ed="#B" n="13"/>en su mano quelos de los otros hombres la sustancia destas 
+          verda<lb ed="#B" n="14" break="no"/>des y oblígacíon que Vuestra Magestad tiene de emendar aquellos malos: y 
           <lb ed="#B" n="15"/>llevar otro camino differntissíma del que sea llevado qualquiera 
           <lb ed="#B" n="16"/>impidíra el peligro enque biue y esta españa descuydada: de que 
           <lb ed="#B" n="17"/>Dios el rigor de su yra sobre ella derrame. Porque aquellas gentes 
           <lb ed="#B" n="18"/>tan agraviadas y lastimadas quasi cíertasde lavengaca cada día 
-          <lb ed="#B" n="19"/>claman aquello del <ref>psalmo</ref>. <quote source="http://scta.info/resource/ps136_8@1-12">filia babilomis mísora: beatus qui¬ 
-          <lb ed="#B" n="20"/>re tribuet tibi retributionem tuam quam quam retribuisti no¬ 
-          <lb ed="#B" n="21"/>bis</quote> (conviene a saber) robaste robastean: so juzgaste ecaptiuaste 
-          <lb ed="#B" n="22"/>subjetarte y captiuartean: mataste matartean epa todo lo¬ 
-          <lb ed="#B" n="23"/>que ami foca po puse romoso y obligado alo aregresar. En todo 
+          <lb ed="#B" n="19"/>claman aquello del <ref xml:id="dc7aa7-e00003-Rd1e500">psalmo</ref>. <quote xml:id="dc7aa7-e00003-Qd1e503" source="http://scta.info/resource/ps136_8@1-12">filia babilomis mísora: beatus 
+          qui<lb ed="#B" n="20" break="no"/>re tribuet tibi retributionem tuam quam quam retribuisti 
+          no<lb ed="#B" n="21" break="no"/>bis</quote> (conviene a saber) robaste robastean: so juzgaste ecaptiuaste 
+          <lb ed="#B" n="22"/>subjetarte y captiuartean: mataste matartean epa todo 
+          lo<lb ed="#B" n="23" break="no"/>que ami foca po puse romoso y obligado alo aregresar. En todo 
           <lb ed="#B" n="24"/>esto procuro y doy el honor y hago la reuerencía y acata mi yguar 
-          <lb ed="#B" n="25"/>do la fidelidad y amo Vuestra Magestad que como fiel subdito y como christia¬ 
-          <lb ed="#B" n="26"/>no devo dar hazer guardar y amar como ami Rey y señor. 
+          <lb ed="#B" n="25"/>do la fidelidad y amo Vuestra Magestad que como fiel subdito y como 
+          christia<lb ed="#B" n="26" break="no"/>no devo dar hazer guardar y amar como ami Rey y señor. 
           </p>
-          <p>
-          <lb ed="#B" n="27"/>¶ y porque lo que en los dichos escrivio: son colas muy nue¬ 
-          <lb ed="#B" n="28"/>vas y a lo que parecen rigidas: que por su movedad y estimarlo 
+          <p xml:id="dc7aa7-e00003-d1e521">
+          <lb ed="#B" n="27"/>¶ y porque lo que en los dichos escrivio: son colas muy 
+          nue<lb ed="#B" n="28" break="no"/>vas y a lo que parecen rigidas: que por su movedad y estimarlo 
           <lb ed="#B" n="29"/>rigor aprima haz a los que ígnoran los principios desta materia 
-          <lb ed="#B" n="30"/>espantara: si Vuestra Magestad fuere sevido dentro de su camara / senpu¬ 
-          <lb ed="#B" n="31"/>blico si le pluginere mas: mande juntar letrados theologos y juris¬ 
-          <lb ed="#B" n="32"/>tas de las miuersidades y de todo el Reyno si fuere menester con 
+          <lb ed="#B" n="30"/>espantara: si Vuestra Magestad fuere sevido dentro de su camara / 
+          senpu<lb ed="#B" n="31" break="no"/>blico si le pluginere mas: mande juntar letrados theologos y 
+          juris<lb ed="#B" n="32" break="no"/>tas de las miuersidades y de todo el Reyno si fuere menester con 
           <lb ed="#B" n="33"/>que asísta a lo real presencia de Vuestra Magestad y puestos en medio los 
           
           <pb ed="#B" n="137-v"/>
           <lb ed="#B" n="1"/>dichos tractados yo con licencia de Vuestra Magestad sustentandolos y los que 
           <lb ed="#B" n="2"/>quisieren impugnandolos se auerigue por falsa / o verdadera cada 
           <lb ed="#B" n="3"/>conclusion. Y si fueron falsas y ome retrare y firmare todo en 
-          <lb ed="#B" n="4"/>contrario: y hare permitencia de mi error y temeridad: y si ve¬ 
-          <lb ed="#B" n="5"/>daderas no quiero otro premio sino que Vuestra Magestad atajetase yrre¬ 
-          <lb ed="#B" n="6"/>rables daños antes que del todo se arabe deassolar y despoblar <sic><!--edition has antes--> aquí</sic> 
+          <lb ed="#B" n="4"/>contrario: y hare permitencia de mi error y temeridad: y si 
+          ve<lb ed="#B" n="5" break="no"/>daderas no quiero otro premio sino que Vuestra Magestad atajetase 
+          yrre<lb ed="#B" n="6" break="no"/>rables daños antes que del todo se arabe deassolar y despoblar <sic><!--edition has antes--> aquí</sic> 
           <lb ed="#B" n="7"/>tan grande orbe y haga cierta Vuestra Magestad su saluacion misma. Cuya 
           <lb ed="#B" n="8"/>gloriosa vida y sublime estado real niño Dios y señor prospero con 
           <lb ed="#B" n="9"/>Vuestra Magestad desea y losque con verdad le sirven por muchos años 
           <lb ed="#B" n="10"/>amen. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e568">
           <lb ed="#B" n="11"/>¶ Primera duda de los thesoros 
           <lb ed="#B" n="12"/>de Caxamalca.
           </p>
-          <p> 
+          <p xml:id="dc7aa7-e00003-d1e575"> 
           <lb ed="#B" n="13"/>¶ Los Reynos del Peru son muy grandes, llamase Peru donde el 
           <lb ed="#B" n="14"/>Reyno de Quito inclusive hasta el Reyno de Childe exclusive son mil 
           <lb ed="#B" n="15"/>llenguas de tierra en largo, y en ancho por partes ay quinitas y por 
-          par<lb ed="#B" break="no" n="16"/>tes mas seiscientas. Los indios destos reynos del peru antes que los es¬ 
-          <lb ed="#B" n="17"/>pañoles fuesen alla todos eran gentiles y dolatras, parte dellos adora 
+          par<lb ed="#B" break="no" n="16"/>tes mas seiscientas. Los indios destos reynos del peru antes que los 
+          es<lb ed="#B" n="17" break="no"/>pañoles fuesen alla todos eran gentiles y dolatras, parte dellos adora 
           <lb ed="#B" n="18"/>uan al sol. y otros a las piedras y otros a los cerros etc. los cuales indios 
           <lb ed="#B" n="19"/>antes que los españoles fuessen al peru nunca figieron injuria a 
           <lb ed="#B" n="20"/>español alguno, ni a la yglesia de Dios ni a ningun christian Jamas 
@@ -295,29 +295,29 @@
           <lb ed="#B" n="32"/>Athabaliba lo cumplio y los dio una casa llena de oro y plata el qual 
           <lb ed="#B" n="33"/>oro y plata los españoles repartieron entresi y dieron elquinto de 
           <pb ed="#B" n="138-r"/>
-          <lb ed="#B" n="1"/>todo ello al Rey de españa, y nole guardando la palabra al Athabali¬ 
-          <lb ed="#B" n="2"/>ba le dieron gazzoti y despues de muerto le quemaron por la causa que 
-          <lb ed="#B" n="3"/>tengo dicho (continue a saber) por posseer los Reyes del peru pacifi¬ 
-          <lb ed="#B" n="4"/>camente y sin algun impedimento. Su presta esta relacion verdade¬ 
-          <lb ed="#B" n="5"/>ra la duda es siesta obligado cada español de aquellos que se hallaron
+          <lb ed="#B" n="1"/>todo ello al Rey de españa, y nole guardando la palabra al 
+          Athabali<lb ed="#B" n="2" break="no"/>ba le dieron gazzoti y despues de muerto le quemaron por la causa que 
+          <lb ed="#B" n="3"/>tengo dicho (continue a saber) por posseer los Reyes del peru 
+          pacifi<lb ed="#B" n="4" break="no"/>camente y sin algun impedimento. Su presta esta relacion 
+          verdade<lb ed="#B" n="5" break="no"/>ra la duda es siesta obligado cada español de aquellos que se hallaron
           <lb ed="#B" n="6"/>en aquella prision y muestro de aquel Rey a restisuyer todo el oro 
           <lb ed="#B" n="7"/>y plata que todos tomaron / o siesta cada uno obligado arestituyr 
           <lb ed="#B" n="8"/>solamente lo que le cupo / o no nada /. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e643">
           <lb ed="#B" n="9"/>¶ 2a. duda del tiempo que no 
           <lb ed="#B" n="10"/>uvo casa en el Peru. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e650">
           <lb ed="#B" n="11"/>Quando las indias se comencaron a descubrir el papa Alexandro. 6.
           <lb ed="#B" n="12"/>en comendo el descubrimiento dellas por una bulla a los Reyes de 
           <lb ed="#B" n="13"/>Castilla y Leon para que con su christiandad y poder embiassen 
           <lb ed="#B" n="14"/>predicadores aquellas tierras que con vertiessen y atraxessen aquellas 
-          <lb ed="#B" n="15"/>gentesa la fe de Jesu christo. El emperador que en gloria sea embia¬ 
-          <lb ed="#B" n="16"/>va con buenas y sanctos instruciones sus caputa nos a estas tierras 
+          <lb ed="#B" n="15"/>gentesa la fe de Jesu christo. El emperador que en gloria sea 
+          embia<lb ed="#B" n="16" break="no"/>va con buenas y sanctos instruciones sus caputa nos a estas tierras 
           <lb ed="#B" n="17"/>para fin deconvertillas los quales capitanes y la de mas gente no 
-          <lb ed="#B" n="18"/>guardava aquellas instruciones mas antes porfas / o por nefas prou¬ 
-          <lb ed="#B" n="19"/>ravian aver el oro y plata que podian para venirse a España. Y asi 
+          <lb ed="#B" n="18"/>guardava aquellas instruciones mas antes porfas / o por nefas 
+          prou<lb ed="#B" n="19" break="no"/>ravian aver el oro y plata que podian para venirse a España. Y asi 
           <lb ed="#B" n="20"/>muerto Athabaliba señor principal en el peru. de los españoles 
           <lb ed="#B" n="21"/>unos si vinieron con aquellas riquezas que ouyeran en la muerte 
           <lb ed="#B" n="22"/>deste Rey. Y otros quedaron alla en el peru a fin de aver y mas adonde 
@@ -325,46 +325,46 @@
           <lb ed="#B" n="24"/>españoles al peru, y ellos alla y van porla tierra dentro
           subjetan<lb ed="#B" break="no" n="25"/>do por fuerca de armas a los indios, y haniendolos tributarios. y 
           <lb ed="#B" n="26"/>aun quasi esclauos porqueles tonnauan todo quanto temian sin 
-          <lb ed="#B" n="27"/>los dexar un solo grano de mayz y repartian los entiesu desta ma¬ 
-          <lb ed="#B" n="28"/>nera que el capitan sava a cada soldado un repartimiento de los pueblos 
+          <lb ed="#B" n="27"/>los dexar un solo grano de mayz y repartian los entiesu desta 
+          ma<lb ed="#B" n="28" break="no"/>nera que el capitan sava a cada soldado un repartimiento de los pueblos 
           <lb ed="#B" n="29"/>que le parecia a uno dava. 20. pueblos y a otro. 30. De manera que 
           <lb ed="#B" n="30"/>un soldado llevava cada año de los indios que el capitan lo avia dado. 
           <lb ed="#B" n="31"/>Diez mill pesos y otro soldado lleuaua. 30. mill pesos desus indios y otros 
           <pb ed="#B" n="138-v"/>
           <lb ed="#B" n="1"/>llevavan a cinquenta mill finalmente cada uno lleuaua todo quanto podia 
-          <lb ed="#B" n="2"/>sacar desus midios sin aver casa alguna en los tributos. Y desto mane¬ 
-          <lb ed="#B" n="3"/>ra fueron los españoles suietondo todala tierra del peru y reparti¬ 
-          <lb ed="#B" n="4"/>do la entre si y oy dia se haze desta misma manera en Chile y en 
+          <lb ed="#B" n="2"/>sacar desus midios sin aver casa alguna en los tributos. Y desto 
+          mane<lb ed="#B" n="3" break="no"/>ra fueron los españoles suietondo todala tierra del peru y 
+          reparti<lb ed="#B" n="4" break="no"/>do la entre si y oy dia se haze desta misma manera en Chile y en 
           <lb ed="#B" n="5"/>las de mas regiones que se descubren / y si algunos indios se ponian a 
           <lb ed="#B" n="6"/>defender su tierra los españoles como son mas valientes los matavan 
-          <lb ed="#B" n="7"/>ylos indias no pudiendo mas se subjetauan y desta manera estan oy to¬ 
-          <lb ed="#B" n="8"/>da los del peru subjetos. llevaron los soldados en comenderos los tributr¬ 
-          <lb ed="#B" n="9"/>assi como tengo dicho sin tasa en los Reynos del peru como catorce 
-          <lb ed="#B" n="10"/>o quinze años. es la duda siestos en comendozos son obligados a res¬ 
-          <lb ed="#B" n="11"/>tituyr cada uno dellos todo lo que lleua eneste tiempo asus indios y 
+          <lb ed="#B" n="7"/>ylos indias no pudiendo mas se subjetauan y desta manera estan oy 
+          to<lb ed="#B" n="8" break="no"/>da los del peru subjetos. llevaron los soldados en comenderos los 
+          tributr<lb ed="#B" n="9" break="no"/>assi como tengo dicho sin tasa en los Reynos del peru como catorce 
+          <lb ed="#B" n="10"/>o quinze años. es la duda siestos en comendozos son obligados a 
+          res<lb ed="#B" n="11" break="no"/>tituyr cada uno dellos todo lo que lleua eneste tiempo asus indios y 
           <lb ed="#B" n="12"/>si es obligado a zestigar cada uno insolidum todo lo que eneste 
           <lb ed="#B" n="13"/>tiempos lleuaron todos. O quanto sera obligado a restitueyz cada 
           <lb ed="#B" n="14"/>uno. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e731">
           <lb ed="#B" n="15"/>3a. duda del timepo que uvo 
           <lb ed="#B" n="16"/>tasas mi justas en el peru. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e738">
           <lb ed="#B" n="17"/>Despues deste tiempo viendo los religiosos y otras personas zelosas 
           <lb ed="#B" n="18"/>de la honrra de Dios la crueldad tan grande que en aquellas reynos 
           <lb ed="#B" n="19"/>passaua, por suadieron a los  efficio los del Rey que se pusiese alguna 
           <lb ed="#B" n="20"/>manera de tassa en los tributos de los indios de manera que no fuesen 
           <lb ed="#B" n="21"/>tan agraviados los indios sino que supiessen tener una manista 
           <lb ed="#B" n="22"/>por suya con que se cubrir. Y un zelemin de maiz para comer y asi 
-          <lb ed="#B" n="23"/>se puso una manera trassa en la tierra. Desta manera quelos tassa¬ 
-          <lb ed="#B" n="24"/>dores mandaron que diesse cada repartimiento de indios asu en come¬
-          <lb ed="#B" n="25"/>dero todas las cosas que avia menester para su casa y esto a instancia 
+          <lb ed="#B" n="23"/>se puso una manera trassa en la tierra. Desta manera quelos 
+          tassa<lb ed="#B" n="24" break="no"/>dores mandaron que diesse cada repartimiento de indios asu en 
+          come<lb ed="#B" n="25" break="no"/>dero todas las cosas que avia menester para su casa y esto a instancia 
           <lb ed="#B" n="26"/>de los mismos encomenderos los quales pidieron todas quantas cosas 
           <lb ed="#B" n="27"/>ymaginaron ser necessarias para una casa y tantas los concedieron 
           <lb ed="#B" n="28"/>los tassadores permitiendo que las llevassen no pudiendo hazer otra 
-          <lb ed="#B" n="29"/>cosa porque se levantara la tierra si no condesrendieran las tassa¬
-          <lb ed="#B" n="30"/>dores con los soldados encomenderos dandolos lo que pidian y ansi 
+          <lb ed="#B" n="29"/>cosa porque se levantara la tierra si no condesrendieran las 
+          tassa<lb ed="#B" n="30" break="no"/>dores con los soldados encomenderos dandolos lo que pidian y ansi 
           <lb ed="#B" n="31"/>mandaron dar en cada tassa mucho oro / o plata: indios vestidos 
           <lb ed="#B" n="32"/>muchos foldos muchos mantoles muchos costales muchas mantas
           <lb ed="#B" n="33"/>de cauallos mucho friya mucho mayz muchos carneros muchas    
@@ -379,69 +379,69 @@
           <lb ed="#B" n="8"/>zeleuados de aquel los diez mill. y asilo dixeron los trassadores 
           <lb ed="#B" n="9"/>por muchos dios. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e800">
           ¶ Lo 2o cerca deste punto es de notar que estas 
           <lb ed="#B" n="10"/>encomiendas aunque las hazian los officiales del Rey empero era 
           <lb ed="#B" n="11"/>contra la Voluntad del Rey y de los mismos officiales sino que asi 
           <lb ed="#B" n="12"/>el rrey como los officiales permitieron en estas encomiendas y las
           ta<lb ed="#B" break="no" n="13"/>ssas porque nose rebelasen los españoles yse alcasen con la tira. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e811">
           <lb ed="#B" n="14"/>¶ Lo. 3o. se a de notar que en las cedulas de las encomiendas que les 
           <lb ed="#B" n="15"/>davan a los soldados los mandavan fuiessen Doctrina en sus 
           <lb ed="#B" n="16"/>indios de los quales encomendeios algunos tenian un clergio y otros 
           <lb ed="#B" n="17"/>no tenian ninguno. Es la duda si esta obligado cada uno 
           <lb ed="#B" n="18"/>destos soldados encomendores a restitur todo lo que llevo a sus indios 
-          <lb ed="#B" n="19"/>estando asi como congo dicho tassados los tributos / o siestan obli¬ 
-          <lb ed="#B" n="20"/>gados alguna cosa y no todo y si sea de juzgar deotra manera del 
+          <lb ed="#B" n="19"/>estando asi como congo dicho tassados los tributos / o siestan 
+          obli<lb ed="#B" n="20" break="no"/>gados alguna cosa y no todo y si sea de juzgar deotra manera del 
           <lb ed="#B" n="21"/>que tuvo clergio en sus indios que no del que no lo tuvo. / 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e831">
           <lb ed="#B" n="22"/>¶ 4a duda desus tasadas que oy 
           <lb ed="#B" n="23"/>dia ay en el Peru. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e838">
           <lb ed="#B" n="24"/>Con estas tasas que tengo dicho sean quedado los mas de los en 
-          <lb ed="#B" n="25"/>comenderos hasta el dia de oy. el virrey marques de Cañete y la au¬ 
-          <lb ed="#B" n="26"/>diencia an retasado algunas de aquellas tasas quitando algu¬ 
-          <lb ed="#B" n="27"/>nas casas por desagraviar los indios aunque siempre las tasas queda
-          <lb ed="#B" n="28"/>muy <sic><!--edition has excessivas-->carcessivas</sic>. Tienen cada encomiendero un clergio un dos en sus in¬ 
-          <lb ed="#B" n="29"/>dios paraque los enseñan la Doctrina Raptican y casen etc. Danse 
+          <lb ed="#B" n="25"/>comenderos hasta el dia de oy. el virrey marques de Cañete y la 
+          au<lb ed="#B" n="26" break="no"/>diencia an retasado algunas de aquellas tasas quitando 
+          algu<lb ed="#B" n="27" break="no"/>nas casas por desagraviar los indios aunque siempre las tasas queda
+          <lb ed="#B" n="28"/>muy <sic><!--edition has excessivas-->carcessivas</sic>. Tienen cada encomiendero un clergio un dos en sus 
+          in<lb ed="#B" n="29" break="no"/>dios paraque los enseñan la Doctrina Raptican y casen etc. Danse 
           <lb ed="#B" n="30"/>al clergio quatrocientos pesos y quedanse ellos con quatros mill 
           <lb ed="#B" n="31"/>y algunos con 7 mill. Algunos tienen bastante doctrina y otros no 
-          <lb ed="#B" n="32"/>la tienen bastante. Porque algunos repartstimentos tienen ne¬ 
-          <lb ed="#B" n="33"/>cessidad de quatro clergios y tienen dos y otros tienen necessidad 
+          <lb ed="#B" n="32"/>la tienen bastante. Porque algunos repartstimentos tienen 
+          ne<lb ed="#B" n="33" break="no"/>cessidad de quatro clergios y tienen dos y otros tienen necessidad 
           <lb ed="#B" n="34"/>de 3. y tienen uno y algunos encomendezos tiene medio clergio desta 
           <pb ed="#B" n="139-v"/>
           <lb ed="#B" n="1"/>manera que se concierstan dos encomenderos y tienen entrambos un
           <lb ed="#B" n="2"/>clergio en sus dos repartimientos y algunos encomenderos no tienen 
-          <lb ed="#B" n="3"/>clergio ni doctrina ensus indios y ase depresuponer que en el pe¬ 
-          <lb ed="#B" n="4"/>ru de quismientos y mas repartimientos que puede aver los mas 
-          <lb ed="#B" n="5"/>repartimientos tienen muchos indios infieles que no estan bap¬ 
-          <lb ed="#B" n="6"/>tizados ni sequieren baptizar y muchos repartimientos tienen mas 
+          <lb ed="#B" n="3"/>clergio ni doctrina ensus indios y ase depresuponer que en el 
+          pe<lb ed="#B" n="4" break="no"/>ru de quismientos y mas repartimientos que puede aver los mas 
+          <lb ed="#B" n="5"/>repartimientos tienen muchos indios infieles que no estan 
+          bap<lb ed="#B" n="6" break="no"/>tizados ni sequieren baptizar y muchos repartimientos tienen mas 
           <lb ed="#B" n="7"/>de la meydad de los indios infieles no baptizados los quales tributan 
           <lb ed="#B" n="8"/>nimas ni menos que los baptizados destos en comenderas 
-          <lb ed="#B" n="9"/>algunas tienen los encomiendas dadas por al virrey / o por la pru¬ 
-          <lb ed="#B" n="10"/>diencia y nos damente por los gouernadores antoguos. De ma¬ 
-          <lb ed="#B" n="11"/>nera que a muchos soldados endado los officiales del Rey 
+          <lb ed="#B" n="9"/>algunas tienen los encomiendas dadas por al virrey / o por la 
+          pru<lb ed="#B" n="10" break="no"/>diencia y nos damente por los gouernadores antoguos. De 
+          ma<lb ed="#B" n="11" break="no"/>nera que a muchos soldados endado los officiales del Rey 
           <lb ed="#B" n="12"/>las encomiendas voluntariamento y otros las tienen contra 
-          <lb ed="#B" n="13"/>la voluntad del Rey de sus officiales a los  quales se les per¬ 
-          <lb ed="#B" n="14"/>miten con ellas y no se habla en ellas y ellos piensan que es 
+          <lb ed="#B" n="13"/>la voluntad del Rey de sus officiales a los  quales se les 
+          per<lb ed="#B" n="14" break="no"/>miten con ellas y no se habla en ellas y ellos piensan que es 
           <lb ed="#B" n="15"/>con voluntad del Rey por servicios que le an hecho. Esto 
           <lb ed="#B" n="16"/>se permitte asi porque no se alcen con la tierra y eneste 
           <lb ed="#B" n="17"/>estado esta oy en el peru. Es la duda que seran obligados a res 
-          <lb ed="#B" n="18"/>tituyr estos en comenderos ysi elque tiene bastante do¬ 
-          <lb ed="#B" n="19"/>ctrina en sus indios podra lleuar toda la tassa / o quanto 
+          <lb ed="#B" n="18"/>tituyr estos en comenderos ysi elque tiene bastante 
+          do<lb ed="#B" n="19" break="no"/>ctrina en sus indios podra lleuar toda la tassa / o quanto 
           <lb ed="#B" n="20"/>podra llevar / . 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e914">
           <lb ed="#B" n="21"/>5a duda del bosque tratan con los 
           <lb ed="#B" n="22"/>encomenderos en el peru. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e921">
           <lb ed="#B" n="23"/>¶ Destos encomendores que tengo dicho sale casi toda la pla
-          <lb ed="#B" break="no" n="24"/>ta y oro del peru porque destos lleva el escrivano laba¬ 
-          <lb ed="#B" n="25"/>ra de plata y el medico y el letrado abogado / y el sastre y los 
+          <lb ed="#B" break="no" n="24"/>ta y oro del peru porque destos lleva el escrivano 
+          laba<lb ed="#B" n="25" break="no"/>ra de plata y el medico y el letrado abogado / y el sastre y los 
           <lb ed="#B" n="26"/>cien pesos por hazer el vestido y el mercador lleva las dos 
           <lb ed="#B" n="27"/>y tres barras de paños y sedes / y los monasterios los cien pesos 
           <lb ed="#B" n="28"/>de limosna de missas y otras limosnas su puesto que las tierras 
@@ -464,25 +464,25 @@
           <lb ed="#B" n="12"/>escrivanos / medicos / letrados sastres etc. que destos llevan 
           <lb ed="#B" n="13"/>dineros. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e977">
           <lb ed="#B" n="14"/>6a. duda de las minas 
           <lb ed="#B" n="15"/>de oro y plata. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e984">
           <lb ed="#B" n="16"/>¶ Quando los españoles fueron al peru avia algunas minas 
           <lb ed="#B" n="17"/>descubiertos en aquellos reynos como las minas de porco / y otras 
           <lb ed="#B" n="18"/>muchas. De las quales algunas eran de guaynacapar el señor 
           <lb ed="#B" n="19"/>de aquella tierra y otras eran de indios particulares de las 
           qua<lb ed="#B" break="no" n="20"/>les sacavan la plata y oro que de tributnuan al mismo 
-          guay<lb ed="#B" break="no" n="21"/>nacapar. Despues que los españoles ficeron al peru sean descu¬ 
-          <lb ed="#B" n="22"/>bierto en aquellos reynos muchas misnas asi de oro como de 
+          guay<lb ed="#B" break="no" n="21"/>nacapar. Despues que los españoles ficeron al peru sean 
+          descu<lb ed="#B" n="22" break="no"/>bierto en aquellos reynos muchas misnas asi de oro como de 
           <lb ed="#B" n="23"/>plata. de las quales algunas an descubierto los indios y otras 
           <lb ed="#B" n="24"/>los españoles unas acaso y otros de propostio 
           buscan<lb ed="#B" break="no" n="25"/>dolas. todas quantas minas ay oy en el peru que valgan algo, 
           <lb ed="#B" n="26"/>un tomado los españoles para si. las que estavan descubiertas 
           <lb ed="#B" n="27"/>antes que ellos fuessen a aquella tierra y las que se descubieron 
-          <lb ed="#B" n="28"/>despues que ellos estan alla y las que no son de españoles particu¬ 
-          <lb ed="#B" n="29"/>lares son del Rey de españa de tal manera las posseen, que 
+          <lb ed="#B" n="28"/>despues que ellos estan alla y las que no son de españoles 
+          particu<lb ed="#B" n="29" break="no"/>lares son del Rey de españa de tal manera las posseen, que 
           <lb ed="#B" n="30"/>ni el Rey ni los españoles particulares dexan sacar a otro 
           al<lb ed="#B" break="no" n="31"/>guno metal desus minas. Destas minas que esan descubierto 
           <lb ed="#B" n="32"/>despues que los españoles fueron al peru algunos son antiguas 
@@ -490,28 +490,28 @@
           <pb ed="#B" n="140-v"/>
           <lb ed="#B" n="1"/>que se descubrieron como las de guamanga, etc. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1030">
           <lb ed="#B" n="2"/>¶ Todas quantas minas labran y descubren los españoles y 
           <lb ed="#B" n="3"/>labrado y descubierto hasta oy se tiene por cierto que es con toda 
           <lb ed="#B" n="4"/>la voluntad de los indios, por dos razones lo primero porque estas
           <lb ed="#B" n="5"/>minas estan en sus tierras y por tanto parece que son suyas. y 
           <lb ed="#B" n="6"/>se cree que las tienen los indios por suyas aunque no las gozen 
           <lb ed="#B" n="7"/>mayormente que no ay palmo de tierra en el peru no este
-          di<lb ed="#B" break="no" n="8"/>vidido entre los pueblos de las indios segun dizen losque sean in¬ 
-          <lb ed="#B" n="9"/>mado desto lo segundo se tiene por cierto ser contra su voluntad 
+          di<lb ed="#B" break="no" n="8"/>vidido entre los pueblos de las indios segun dizen losque sean 
+          in<lb ed="#B" n="9" break="no"/>mado desto lo segundo se tiene por cierto ser contra su voluntad 
           <lb ed="#B" n="10"/>porque todo eloro y plata que se saca destas minas lo sacan los 
           <lb ed="#B" n="11"/>indios a las quales los españoles las hazen yr por fuerza ella 
           <lb ed="#B" n="12"/>qual sienten grandissimo agrauio y intolerable trabajo los 
           <lb ed="#B" n="13"/>indios. los quales sinolo defiended os porque no pueden. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1059">
           <lb ed="#B" n="14"/>¶ Tambien se adenotar que los españoles estan y anestado en el 
           <lb ed="#B" n="15"/>peru basta el dia de oy ay en el peru. 20. pueblos de españoles 
           <lb ed="#B" n="16"/>siempre contra de la voluntad de los indios aunque el dia de oy ay 
           <lb ed="#B" n="17"/>en el peru. 20. pueblos de españoles entre chicos y grandes, lo 
           <lb ed="#B" n="18"/>qual permitten los indios porque no pueden mas. 
           </p>
-          <p>¶ El Rey 
+          <p xml:id="dc7aa7-e00003-d1e1072">¶ El Rey 
           <lb ed="#B" n="19"/>de castilla y leon tiene una bulla concedida por Alexandro 
           <lb ed="#B" n="20"/>en la qual pontifice la concede el descubrimiento de las indios 
           <lb ed="#B" n="21"/>como dixo en la 2a. duda para que el Rey castilla y leon 
@@ -531,11 +531,11 @@
           <lb ed="#B" n="1"/>seran obligados a restituyr a los indios asi la plata y oro que 
           <lb ed="#B" n="2"/>asta oy sea sacado como las mesmas minas.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1114">
           <lb ed="#B" n="3"/>¶ 7a. duda de las cosas offrecidas 
           <lb ed="#B" n="4"/>a las guacas. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1122">
           <lb ed="#B" n="5"/>¶ Guara en lengua de peru quiere degir lugar adonde adoran 
           <lb ed="#B" n="6"/>guacas llaman los indios qualquiera lugar adonde esta alguna
           <lb ed="#B" n="7"/>asa que ellos adoran y asi llaman Guaca al cerro que adoran, y 
@@ -546,93 +546,93 @@
           <lb ed="#B" n="12"/>adoran y almesmo pozo o fuente y al arbol y al cerro y a las 
           de<lb ed="#B" break="no" n="13"/>mas cosas que adoran. A estas Guacas offrecian los indios del 
           pe<lb ed="#B" break="no" n="14"/>ru en su gentilidad quando eran infieles muchooro y plata
-          <lb ed="#B" n="15"/>muchas ropas muy buenas muchas vasijas de oro y plata / mu¬ 
-          <lb ed="#B" n="16"/>chas piedras preciosas, etc. Entre otras Guacas que avia en el 
+          <lb ed="#B" n="15"/>muchas ropas muy buenas muchas vasijas de oro y plata / 
+          mu<lb ed="#B" n="16" break="no"/>chas piedras preciosas, etc. Entre otras Guacas que avia en el 
           pe<lb ed="#B" break="no" n="17"/>ru la principal era la guaca del Cuzco que era el templo del 
           <lb ed="#B" n="18"/>sol, el qual el dia de oy es monesterio de sancto Domingo. En 
           <lb ed="#B" n="19"/>este templo del sol avia muy grandes riquezas enpiezes de oro 
           <lb ed="#B" n="20"/>y plata las quales estauan de dicadas para el culto del sol al qual 
-          <lb ed="#B" n="21"/>adoravan los yngas que esla gente principal del peru. Avia mu¬ 
-          <lb ed="#B" n="22"/>chas piedras preciosas todas estas rignezas tomaron los espa¬ 
-          <lb ed="#B" n="23"/>ñoles avia otra guaca muy principal quatro leguas de Lima 
+          <lb ed="#B" n="21"/>adoravan los yngas que esla gente principal del peru. Avia 
+          mu<lb ed="#B" n="22" break="no"/>chas piedras preciosas todas estas rignezas tomaron los 
+          espa<lb ed="#B" n="23" break="no"/>ñoles avia otra guaca muy principal quatro leguas de Lima 
           <lb ed="#B" n="24"/>que se llamava Pachacamac que quiere dezir criador de la tierra 
           <lb ed="#B" n="25"/>en este templo de Pachacamac avia muy grandes riquezas 
           <lb ed="#B" n="26"/>tan grandes que si como las del Cuzco avia y ay oy dia otras 
-          <lb ed="#B" n="27"/>muchas Guacas muy ricas de las quales antomado los espa¬ 
-          <lb ed="#B" n="28"/>ñoles gran cantidad de oro y plata y ropas preciosas y per¬ 
-          <lb ed="#B" n="29"/>las, etc. De sola la guaca del Cuzco dizen que tomazon los 
-          <lb ed="#B" n="30"/>españoles mas de dozientos mill pesos. / y yo que esto escrivo ha¬ 
-          <lb ed="#B" n="31"/>lle en el Cuzco una guaca en la qual avia hasta quince ropas 
+          <lb ed="#B" n="27"/>muchas Guacas muy ricas de las quales antomado los 
+          espa<lb ed="#B" n="28" break="no"/>ñoles gran cantidad de oro y plata y ropas preciosas y 
+          per<lb ed="#B" n="29" break="no"/>las, etc. De sola la guaca del Cuzco dizen que tomazon los 
+          <lb ed="#B" n="30"/>españoles mas de dozientos mill pesos. / y yo que esto escrivo 
+          ha<lb ed="#B" n="31" break="no"/>lle en el Cuzco una guaca en la qual avia hasta quince ropas 
           <lb ed="#B" n="32"/>descubrí las mas ricas que evisto jamas en aquella tierra 
           <pb ed="#B" n="141-v"/>
-          <lb ed="#B" n="1"/>y hallé otras muchas cosas, como llantos muy buenos y plu¬ 
-          <lb ed="#B" n="2"/>majes, borlas, escudos etc. Es la Duda si los españoles que tomaron 
+          <lb ed="#B" n="1"/>y hallé otras muchas cosas, como llantos muy buenos y 
+          plu<lb ed="#B" n="2" break="no"/>majes, borlas, escudos etc. Es la Duda si los españoles que tomaron 
           <lb ed="#B" n="3"/>las riquezas destas guacas están obligados a restituyr todo 
-          <lb ed="#B" n="4"/>lo que tomaron y si lo están a quien se a de hazer la restitu¬ 
-          <lb ed="#B" n="5"/>cion / . 
+          <lb ed="#B" n="4"/>lo que tomaron y si lo están a quien se a de hazer la 
+          restitu<lb ed="#B" n="5" break="no"/>cion / . 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1198">
           <lb ed="#B" n="6"/>8a. Duda de las riquezas de las   
           <lb ed="#B" n="7"/>sepulturas. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1205">
           <lb ed="#B" n="8"/>¶ Los indios del Peru quandose enterravan antes que fuessen 
           <lb ed="#B" n="9"/>cristianos tenian costumbres en su gentilidad, a lo menos los 
           <lb ed="#B" n="10"/>que eran grandes señores de enterrar consigo sus Riquezas 
           <lb ed="#B" n="11"/>como oro y plata, ropas muy buenas esmeraldas / vasos / ollas/ 
-          <lb ed="#B" n="12"/>cántaros y otras muchas vasijas de oro y plata. Ha¬ 
-          <lb ed="#B" n="13"/>zían esto por dos causas lo primero, por parezelles que era hon¬ 
-          <lb ed="#B" n="14"/>ra para los que morían, como para los que quedavan vi¬ 
-          <lb ed="#B" n="15"/>vos tener sepulturas muy ricas y de gran pompa. Lo 2o, porque  
+          <lb ed="#B" n="12"/>cántaros y otras muchas vasijas de oro y plata. 
+          Ha<lb ed="#B" n="13" break="no"/>zían esto por dos causas lo primero, por parezelles que era 
+          hon<lb ed="#B" n="14" break="no"/>ra para los que morían, como para los que quedavan 
+          vi<lb ed="#B" n="15" break="no"/>vos tener sepulturas muy ricas y de gran pompa. Lo 2o, porque  
           <lb ed="#B" n="16"/>pensaban que todas aquellas riquezas havian detener en la 
-          <lb ed="#B" n="17"/>otra vida, y asiles parecia que quien llevava muy mucho se¬ 
-          <lb ed="#B" n="18"/>ria en la otra vida muy rico y muy temido, y quien no echa¬ 
-          <lb ed="#B" n="19"/>va nada consigo en la sepultura seria alla pobre y abati¬ 
-          <lb ed="#B" n="20"/>do / Y por esta causa havía sepulturas muy ricas, de padres, de abue¬ 
-          <lb ed="#B" n="21"/>los, de bisabuelos, etc. Anse hallado, dende el año decinquenta y qua¬ 
-          <lb ed="#B" n="22"/>tro hasta el día de hoy, mas de quinientos mill ducados en las sepul¬ 
-          <lb ed="#B" n="23"/>turas de sólo un pueblo del Perú que se llama Truxillo. De los 
+          <lb ed="#B" n="17"/>otra vida, y asiles parecia que quien llevava muy mucho 
+          se<lb ed="#B" n="18" break="no"/>ria en la otra vida muy rico y muy temido, y quien no 
+          echa<lb ed="#B" n="19" break="no"/>va nada consigo en la sepultura seria alla pobre y 
+          abati<lb ed="#B" n="20" break="no"/>do / Y por esta causa havía sepulturas muy ricas, de padres, de 
+          abue<lb ed="#B" n="21" break="no"/>los, de bisabuelos, etc. Anse hallado, dende el año decinquenta y 
+          qua<lb ed="#B" n="22" break="no"/>tro hasta el día de hoy, mas de quinientos mill ducados en las 
+          sepul<lb ed="#B" n="23" break="no"/>turas de sólo un pueblo del Perú que se llama Truxillo. De los 
           <lb ed="#B" n="24"/>quales, más de quatrozientos mill han tomado los españoles. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1244">
           <lb ed="#B" n="25"/>¶ Destas sepulturas, algunas tienen dueños, porque son sepulturas 
           <lb ed="#B" n="26"/>de hombres cuyos hijos o nietos son bivos. Otras ay que son tan 
           <lb ed="#B" n="27"/>antiguas que no saben los indios cuyas son, solamente saben 
-          <lb ed="#B" n="28"/>que eran de señores de aquel pueblo, más no saben como se llama¬ 
-          <lb ed="#B" n="29"/>van ni hay memoria dellos ni de sus hijos porque son muy anti¬       
+          <lb ed="#B" n="28"/>que eran de señores de aquel pueblo, más no saben como se 
+          llama<lb ed="#B" n="29" break="no"/>van ni hay memoria dellos ni de sus hijos porque son muy anti¬       
           <pb ed="#B" n="142-r"/>
           <lb ed="#B" n="1"/>guos.
           </p>
-          <p> ¶ Los españoles andan a buscar estas sepulturas contra la 
+          <p xml:id="dc7aa7-e00003-d1e1262"> ¶ Los españoles andan a buscar estas sepulturas contra la 
           <lb ed="#B" n="2"/>voluntad de los  indios y hanselas tomado todas las descubiertas /
           <lb ed="#B" n="3"/>y oy en este día las buscan con gran diligencia. Es la Duda si los 
-          <lb ed="#B" n="4"/>españoles son obligados a restituyr todo loquesacan destas sepul¬ 
-          <lb ed="#B" n="5"/>turas, y si hay differencia de las que no tienen dueños a las que no las 
-          <lb ed="#B" n="6"/>tienen de suerte que sepuedan quedar con los chesoros de las sepul¬ 
-          <lb ed="#B" n="7"/>uras que no tienen dueños particulares / y si están obligados a resti¬ 
-          <lb ed="#B" n="8"/>tuyr, a quién se ha de hazer la restitución.
+          <lb ed="#B" n="4"/>españoles son obligados a restituyr todo loquesacan destas 
+          sepul<lb ed="#B" n="5" break="no"/>turas, y si hay differencia de las que no tienen dueños a las que no las 
+          <lb ed="#B" n="6"/>tienen de suerte que sepuedan quedar con los chesoros de las 
+          sepul<lb ed="#B" n="7" break="no"/>uras que no tienen dueños particulares / y si están obligados a 
+          resti<lb ed="#B" n="8" break="no"/>tuyr, a quién se ha de hazer la restitución.
           </p>
-          <p> 
+          <p xml:id="dc7aa7-e00003-d1e1280"> 
           <lb ed="#B" n="9"/>9a. duda de las chácaras 
           <lb ed="#B" n="10"/>del Ynga.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1288">
           <lb ed="#B" n="11"/>¶ El Ynga Guaynacápac, Rey del Perú, en cada pueblo de los  
           <lb ed="#B" n="12"/>indios avía señalado un pedazo de tierra buena para si el qual 
           <lb ed="#B" n="13"/>pedazo de tierra se llamava y llama oy día la chácara del 
           <lb ed="#B" n="14"/>Ynga, porque chácara quiere dezir heredad y Ynga era 
           <lb ed="#B" n="15"/>su nombre del Rey, aunque todos los reyes de aquella tierra 
           <lb ed="#B" n="16"/>quele precedieron a éste y le sucedieron se llamavan Yngas, 
-          <lb ed="#B" n="17"/>como antiguamente los Reyes de Egipto se llamavan Phara¬ 
-          <lb ed="#B" n="18"/>ones. Estas chácaras señaló el Ynga para que en ellas le sembrasen 
+          <lb ed="#B" n="17"/>como antiguamente los Reyes de Egipto se llamavan 
+          Phara<lb ed="#B" n="18" break="no"/>ones. Estas chácaras señaló el Ynga para que en ellas le sembrasen 
           <lb ed="#B" n="19"/>los indios el mayz que le havían de dar de tributo. El qual mayz, o se lo 
           <lb ed="#B" n="20"/>llevavan a su corte que era en el Cuzco / o se la ponían en depósitos 
-          <lb ed="#B" n="21"/>en los pueblos de los mismos indios, para quando él mandase dis¬ 
-          <lb ed="#B" n="22"/>poner dello.
+          <lb ed="#B" n="21"/>en los pueblos de los mismos indios, para quando él mandase 
+          dis<lb ed="#B" n="22" break="no"/>poner dello.
           </p>
-          <p>
-          ¶ Este Ynga Guaynacápac, cuyos nietos hoy son bi¬ 
-          <lb ed="#B" n="23"/>vos, era Señor natural y legítimo de algunas provincias del Perú 
+          <p xml:id="dc7aa7-e00003-d1e1317">
+          ¶ Este Ynga Guaynacápac, cuyos nietos hoy son 
+          bi<lb ed="#B" n="23" break="no"/>vos, era Señor natural y legítimo de algunas provincias del Perú 
           <lb ed="#B" n="24"/>como del Cuzco etc. Y de otras dizen que no: si noque con tiranía, 
           <lb ed="#B" n="25"/>por fuerza de armas subjectó muchas provincias en el Perú 
           <lb ed="#B" n="26"/>y las hizo tributarias sin causa ninguna. Solamente, según dizen, 
@@ -642,40 +642,40 @@
           <lb ed="#B" n="30"/>entre sí todas las chácaras del Ynga, que es lo mejor de la tierra,  
           <lb ed="#B" n="31"/>y estas chácaras son hoy sus heredades, y en éstas han hecho casas 
           <pb ed="#B" n="142-v"/>
-          <lb ed="#B" n="1"/>huertas plantando viñas etc. Es la Duda si son obligados a res¬ 
-          <lb ed="#B" n="2"/>tituyrlas, y a quien se ha de hazer la restitución. 
+          <lb ed="#B" n="1"/>huertas plantando viñas etc. Es la Duda si son obligados a 
+          res<lb ed="#B" n="2" break="no"/>tituyrlas, y a quien se ha de hazer la restitución. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1346">
           <lb ed="#B" n="3"/>10a. dudade la ciudad del Cuzco. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1351">
           <lb ed="#B" n="4"/>¶ Quando los españoles fueron al Perú, yban por la tierra 
-          <lb ed="#B" n="5"/>adentro subjectando los indios como está dicho en la 2a. du¬ 
-          <lb ed="#B" n="6"/>da quando llegaron al Cuzco pusieronse los indios en defensa 
-          <lb ed="#B" n="7"/>de su pueblo, y como no pudiessen resistir a los españoles des¬ 
-          <lb ed="#B" n="8"/>ampararon la ciudad, que era pueblo principal en el Perú, 
+          <lb ed="#B" n="5"/>adentro subjectando los indios como está dicho en la 2a. 
+          du<lb ed="#B" n="6" break="no"/>da quando llegaron al Cuzco pusieronse los indios en defensa 
+          <lb ed="#B" n="7"/>de su pueblo, y como no pudiessen resistir a los españoles 
+          des<lb ed="#B" n="8" break="no"/>ampararon la ciudad, que era pueblo principal en el Perú, 
           <lb ed="#B" n="9"/>y huyeronse fuera della los españoles, como entraron, tomaron 
           <lb ed="#B" n="10"/>todo el despojo de aquella ciudad del Cuzco en la qual hallaron 
           <lb ed="#B" n="11"/>muy grandes riquezas, especialmente en el templo del Sol y en 
-          <lb ed="#B" n="12"/>de la Luna, y repartieron las entresí; y juntamente repartie¬ 
-          <lb ed="#B" n="13"/>ron entre sí las casas de aquella ciudad, las quales eran muy 
+          <lb ed="#B" n="12"/>de la Luna, y repartieron las entresí; y juntamente 
+          repartie<lb ed="#B" n="13" break="no"/>ron entre sí las casas de aquella ciudad, las quales eran muy 
           <lb ed="#B" n="14"/>buenas y estan oy en pie las paredes y estarán porque son de 
           <lb ed="#B" n="15"/>piedra fortíssimas. Muchos españoles dentro de las paredes 
           <lb ed="#B" n="16"/>de aquellas casas han edificado muy grandes edificios sobre
           a<lb ed="#B" break="no" n="17"/>quellas mesmas paredes, porque las casas de los indios eran de 
-          <lb ed="#B" n="18"/>paja la techumbre / y también eran todas sencillas y los espa¬ 
-          <lb ed="#B" n="19"/>ñoles an edificado de ceja y doblado las casas, y hecho grandes 
+          <lb ed="#B" n="18"/>paja la techumbre / y también eran todas sencillas y los 
+          espa<lb ed="#B" n="19" break="no"/>ñoles an edificado de ceja y doblado las casas, y hecho grandes 
           <lb ed="#B" n="20"/>corredores y entresuelo, etc. Avía que biven los españoles en la 
           <lb ed="#B" n="21"/>ciudad del Cuzco veynte y cinco años.
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1393">
           ¶ También los españoles 
           <lb ed="#B" n="22"/>tomaron a los indios las heredades que tenían en aquel valle 
           <lb ed="#B" n="23"/>sin les dexar un solo pie en la tierra en él / y repartiéronlas entre 
-          <lb ed="#B" n="24"/>sí. Las quales heredades hoy día tienen los españoles y valen mu¬ 
-          <lb ed="#B" n="25"/>cho dinero. En aquella ciudad como era pueblo principal y 
-          <lb ed="#B" n="26"/>estava allí la corte de Guaynacápac, avía muchos vezinos in¬ 
-          <lb ed="#B" n="27"/>dios, los quales biven oy en las arrabales de aquella ciudad 
+          <lb ed="#B" n="24"/>sí. Las quales heredades hoy día tienen los españoles y valen 
+          mu<lb ed="#B" n="25" break="no"/>cho dinero. En aquella ciudad como era pueblo principal y 
+          <lb ed="#B" n="26"/>estava allí la corte de Guaynacápac, avía muchos vezinos 
+          in<lb ed="#B" n="27" break="no"/>dios, los quales biven oy en las arrabales de aquella ciudad 
           <lb ed="#B" n="28"/>que son puros zerros, y labran y siembran en los mismos cerros 
           <lb ed="#B" n="29"/>porque están despojados, como digo, de las propias tierras que 
           <lb ed="#B" n="30"/>tenían. Las casas que los españoles tienen hoy día en aquella ciu¬   
@@ -690,7 +690,7 @@
           <lb ed="#B" n="8"/>luego que los españoles entraron en el Cuzco. 
           <lb ed="#B" n="9"/>11a. duda del señorío del Ynga. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1437">
           <lb ed="#B" n="10"/>¶ Guaynacapac era el señor del Peru Rey nava donde Chile hasta
           <lb ed="#B" n="11"/>Quito por espacio de mill leguas era muerto quando los españoles
           <lb ed="#B" n="12"/>fueron al Peru en el qual tiempo bivian dos hijos suyos Atabaliba y
@@ -739,7 +739,7 @@
           <lb ed="#B" n="16"/>del propio Rey. Y porque su Rey es oy día idólatra, pues todos los Yndios
           <lb ed="#B" n="17"/>tienen a este Tito por Rey. 
           </p>
-          <p>
+          <p xml:id="dc7aa7-e00003-d1e1542">
           ¶ Cerca desta materia es de notar otro
           <lb ed="#B" n="18"/>punto y es que Guaynacápac abuelo deste Tito fue legítmo Rey de
           al<lb ed="#B" break="no" n="19"/>gunas partes del Perú, de las quales fueron Reyes sus antepasados:
