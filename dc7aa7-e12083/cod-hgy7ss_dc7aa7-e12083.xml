@@ -76,7 +76,7 @@
           ¶ Henricus de Gandavo
           <lb ed="#B" n="20"/><ref xml:id="dc7aa7-e12083-Rd1e161">Quodlibet 4, q. 27</ref> y <ref xml:id="dc7aa7-e12083-Rd1e163">Quodlibet 6, q.2</ref>.
         </p>
-        <p>
+        <p xml:id="dc7aa7-e12083-d1e166">
           ¶ el Papa Adriano
           <lb ed="#B" n="21"/>en el 4o Sentent., in <ref xml:id="dc7aa7-e12083-Rd1e170">De restitutione; an liceat mercari cum usurario</ref>: ibi: hoc
           <lb ed="#B" n="22"/>igitur supposito, etc. 
