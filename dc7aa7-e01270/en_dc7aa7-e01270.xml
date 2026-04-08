@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 1</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 1</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+   <div xml:id="starts-on">
+   </div>
+  </front>
+    <body>
+      <div xml:id="dc7aa7-e01270">
+        <head xml:id="dc7aa7-e01270-Hd1e111">Chapter 1</head>
+        <p xml:id="dc7aa7-e01270-d1e113">§ 1</p>
+        <p xml:id="dc7aa7-e01270-d1e115">These doubts contain within themselves
+          all the difficulty of the matter treated concerning the Indies,
+          and through their truthful resolution,
+          if God should see fit to grant light and favor
+          to answer them in accordance with his law and commandment,
+          there will without doubt be uncovered and made known an abyss
+          of most pernicious errors
+          that have persisted in Spain until this day
+          since that new Indian world was discovered,
+          to the detriment of the greater part of humankind
+          that we found living within it.
+          And consequently, the certainty of the danger will become apparent
+          that many of us have incurred:
+          some through crass or willful ignorance,
+          others through affected ignorance
+          (which is the refusal to be taught
+          or to receive instruction in what they did not know);
+          and yet others, the majority, through pure and consummate malice.
+          All these failings had their origin
+          either in ignoring, or in caring little about,
+          the following principles — if indeed they were not ignored altogether.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e146">In order to respond, then, to the said doubts,
+          invoking divine grace and trusting solely in that supreme aid,
+          I will say two things as briefly as I am able,
+          though the matter is most weighty
+          and would require far more time and even greater capacity of mind,
+          referring the reader to my many treatises,
+          in which, as many learned men, lawyers, theologians, and jurists
+          who affirm it attest, I have made evident what I will say here.
+          The first, then, will be to set forth certain principles
+          most true and most firm,
+          which must of necessity be presupposed in this dispute,
+          and whoever should deny any of them
+          may rightly be excluded from it.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e168">The second will be to draw certain responsive conclusions
+          toward the resolution of each doubt,
+          submitting in this way all that I may say and write
+          to the final determination of the Holy Church,
+          or to its head, who is the Roman Pontiff.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e178">First Principle.
+          All unbelievers, of whatever sect or religion they may be,
+          or on account of whatever sins they may have,
+          with respect to natural and divine law
+          and to what is called the law of nations,
+          justly hold and possess lordship
+          over those things which they have acquired without harm to others;
+          and likewise with the same justice they possess
+          their principalities, kingdoms, states,
+          dignities, jurisdictions, and dominions.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e297">This principle is proved
+          with respect to lordship over things
+          by that passage of Genesis 1: <quote xml:id="dc7aa7-e01270-Qd1e204" source="http://scta.info/resource/gen1_26@3-3">"let us make"</quote> etc.,
+          and let him have dominion over the fish of the sea and the birds of the sky
+          and the beasts of the whole earth,
+          and further: fill the earth and subdue it
+          and have dominion over the fish, etc.
+          And <ref xml:id="dc7aa7-e01270-Rd1e212">Psalm 8</ref>, speaking of man,
+          <quote xml:id="dc7aa7-e01270-Qd1e214" source="http://scta.info/resource/ps8_8@1-5">"you have subjected all things," it says, "under his feet," etc.</quote>
+          And <ref xml:id="dc7aa7-e01270-Rd1e219">Psalm 113</ref>:
+          <quote xml:id="dc7aa7-e01270-Qd1e221">"the heaven of heavens belongs to the Lord, but the earth he has given to the children of men."</quote>
+          And <ref xml:id="dc7aa7-e01270-Rd1e226">the Philosopher, in book 9 of the Ethics</ref>:
+          we are in some manner the end of all things,
+          and we make use of all that exists as though for our own sake.
+          And in <ref xml:id="dc7aa7-e01270-Rd1e233">book 1 of the Politics</ref>,
+          he says that the possession of external things
+          is for man just and natural,
+          and gives the example of the hunting of animals, etc.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e238">As for jurisdictional dominion,
+          principalities, kingdoms, states,
+          and the governance of men over other men,
+          it is likewise proved to be of natural law in the following way.
+          When something is natural to another thing,
+          everything is also natural to it by necessity
+          without which that thing cannot be had or attained,
+          because nature will not be lacking in necessary things,
+          as <ref xml:id="dc7aa7-e01270-Rd1e253">the Philosopher teaches in book 3 of De anima</ref>.
+          Now it is the case that for men to live together with others,
+          a political and social life, as in towns and cities,
+          is natural to men,
+          according to the same Philosopher in book 1 of the Politics,
+          and reason confirms this, namely:
+          because for a man to live alone,
+          or a household of husband and wife and children alone,
+          could not sustain itself nor survive for long
+          on account of the many needs that arise,
+          which one person or a few cannot remedy and supply.
+          Therefore everything that is necessary for the sustenance
+          of that company or society
+          will be natural to it and owed to it by natural law.
+          And this is, and is chief among other things,
+          to have someone who rules and governs that company and community
+          and bears responsibility for the common good:
+          for when many are gathered together
+          without anyone to rule and govern them,
+          confusion would arise, as is plain;
+          and consequently the community would dissolve
+          and could not be preserved,
+          contrary to what nature intends
+          by giving men a natural inclination to live together.
+          And this Solomon shows in <ref xml:id="dc7aa7-e01270-Rd1e293">Proverbs 11</ref>:
+          <quote xml:id="dc7aa7-e01270-Qd1e295">"where there is no governor, the people will fall."</quote>
+          This ruler or governor can be none other
+          than the one whom the whole company or community chose at the outset,
+          or, where none has been chosen, the one they will choose,
+          ut ff. <ref xml:id="dc7aa7-e01270-Rd1e304">de origi. juris. l. de inde cum essent, et § novissime</ref>,
+          et 93. dist. c. legimus.
+          Et quod nota in l. ex hoc iure ff.
+          <ref xml:id="dc7aa7-e01270-Rd1e314">de Iusti. et iur.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e317">And the one so chosen holds
+          full jurisdiction, pure and mixed authority,
+          when he recognizes no other as his superior,
+          as all free kings do,
+          as the jurists treat at length
+          in the said l. ex hoc iure
+          and in the chapter que in ecclesia 4, de consti.,
+          and in other places.
+          Therefore to have a king, or rector, or whatever he may be called,
+          in each kingdom, or city, or community assembled
+          to live in a political manner,
+          is for men absolutely and universally,
+          believers or unbelievers alike, natural and of natural law,
+          just as what is natural to each species of things
+          is natural to all of them in common and to each one in particular:
+          natural to men in general,
+          and natural alike to unbelievers as to believers,
+          since all are of one species and nature,
+          the faithful being no more human as regards nature
+          than the unfaithful,
+          as appears from 1. dist. t. Jus naturale.
+          It is likewise proved by the law of nations,
+          which is common to all peoples, faithful or unfaithful,
+          that iure omnes fere omnes gentes utuntur,
+          capit. jus gentium, 1a. dist., l. ex hoc iure,
+          already cited: ibi dispersae sunt gentes et facta sunt regna, etc.,
+          scilicet per populi electionem.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e354">It appears also because Sacred Scripture,
+          which speaks neither idly nor superfluously,
+          names as kings in countless places in the Old and New Testaments
+          those unbelievers who govern
+          and governed the kingdoms of the unbelievers.
+          And setting aside all other instances, consider what is read in
+          <ref xml:id="dc7aa7-e01270-Rd1e364">Daniel 2</ref>,
+          where Daniel, acknowledging Nebuchadnezzar,
+          the most wicked idolater, as a king established by God:
+          <quote xml:id="dc7aa7-e01270-Qd1e371" source="http://scta.info/resource/dan2_37@1-15">"You are a king of kings: and the God of heaven
+            has given to you the kingdom, and strength, and power, and glory," etc.</quote>
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e377">From this comes what <ref xml:id="dc7aa7-e01270-Rd1e381">Saint Augustine,
+          in the Questions on the Old and New Testament, question 35</ref>, says:
+          By what reason does David call Saul, after God had withdrawn from him,
+          the anointed of the Lord, and pay him honor?
+          David was not unaware that the divine tradition lay
+          in the office of the royal order;
+          therefore he honors Saul, who was placed in that same tradition,
+          lest he appear to do injury
+          to one who decreed honor to those in such orders.
+          For he bears the image of God, as a bishop bears that of Christ.
+          Therefore, for as long as he remains within that tradition, he is to be honored,
+          whether or not on his own account, at least for the sake of the order.
+          Hence the Apostle, <ref xml:id="dc7aa7-e01270-Rd1e401">Romans 13</ref>:
+          <quote xml:id="dc7aa7-e01270-Qd1e403" source="http://scta.info/resource/rom13_1@3-20">"be subject to higher powers:
+            for there is no power but from God; and those that are, are ordained by God."</quote>
+          Hence it is that we honor even a pagan who nonetheless holds power,
+          though he himself may be unworthy,
+          holding God's order while giving thanks to the devil:
+          for power demands it, because it is deserving of honor.
+          For it was for this reason that the dream of the famine was revealed to Pharaoh,
+          and that Nebuchadnezzar, while others stood with him,
+          alone saw the Son of God in the furnace of fire,
+          not on account of his own merit, who wished to be worshipped in an idol,
+          but on account of the merit of the royal order.
+          Thus <ref xml:id="dc7aa7-e01270-Rd1e426">Augustine</ref> formally.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e430">And so it appears that the kings of the unbelievers,
+          however much they may be idolaters and most wicked,
+          are by natural and divine law and by the law of nations
+          true kings,
+          and are owed the kingdom and the empire
+          and the strength and the glory,
+          that is to say: the excellence, honor and reverence,
+          and the royal order;
+          because for as long as they remain in that supreme state and dignity,
+          they represent the image of God who instituted such a state,
+          and thus it belongs to them with that authority to be kings.
+          Therefore, whatever unbelievers,
+          of whatever sect or religion they may be,
+          justly hold and possess lordship over their things
+          and over their states and dignities and kingdoms,
+          and are kings by natural and divine law and by the law of nations.
+          And on this <ref xml:id="dc7aa7-e01270-Rd1e453">Saint Thomas, 2a 2ae, q. 10, a. 10</ref>,
+          and on the epistle <ref xml:id="dc7aa7-e01270-Rd1e459">1 Corinthians, c. 6</ref>,
+          says that it would be against divine law
+          to prevent subjects, even Christian ones,
+          from appearing as often as they are summoned
+          before infidel princes or judges. Thus far he.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e468">We call that person a king
+          to whom the supreme power and jurisdiction
+          of governance is entrusted by the people, community, or kingdom.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e475">Corollary.
+          From this it follows plainly that whoever steals or robs the things of unbelievers,
+          and far more so whoever usurps their states, dignities, jurisdictions,
+          and dominions without just cause,
+          commits theft and rapine.
+          Of this truth, no one who is not foolish
+          and without free judgment will doubt in any way.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
