@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 1</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 1</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+  <front>
+   <div xml:id="starts-on">
+   </div>
+  </front>
+    <body>
+      <div xml:id="dc7aa7-e01270">
+        <head xml:id="dc7aa7-e01270-Hd1e111">Capítulo 1</head>
+        <p xml:id="dc7aa7-e01270-d1e113">§ 1.º</p>
+        <p xml:id="dc7aa7-e01270-d1e115">Estas dudas contienen en sí
+          toda la dificultad de la materia que se trata de las Indias,
+          por cuyas soluciones verídicas,
+          si Dios tuviere por bien de dar lumbre y favor
+          para responder a ellas conforme a su ley y mandamiento,
+          sin alguna duda se descubrirá y conocerá un abismo
+          de errores perniciosísimos
+          que hasta hoy han permanecido en España
+          desde que aquel nuevo orbe indiano fue descubierto,
+          en detrimento de la mayor parte del linaje humano
+          que dentro de él hallamos que vivía.
+          Y por consiguiente, parecerá la certidumbre del peligro
+          que muchos hemos incurrido:
+          unos por ignorancia crasa o supina,
+          otros por afectada
+          (que es no querer ser enseñados
+          ni recibir doctrina de lo que ignoraban);
+          y otros, los más, por pura y consumada malicia.
+          Todos estos inconvenientes tuvieron su origen
+          o de ignorar, o de no mucho curar,
+          si no se ignoraron los siguientes principios.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e146">Para responder, pues, a las dichas dudas,
+          invocada la divina gracia, y solo confiando del supremo auxilio,
+          dos cosas diré lo más breve que pudiere,
+          aunque muy poderosa sea la materia,
+          que mucho más tiempo y aun capacidad de ingenio requería,
+          remitiendo a muchos tratados míos,
+          en los cuales, según muchos doctos, letrados, teólogos y juristas
+          que lo afirman, he de hacer evidencia de lo que aquí diré.
+          La primera, pues, será poner ciertos principios
+          verísimos y fortísimos,
+          que de necesidad se han de suponer en esta disputa,
+          y quien algunos de ellos negare
+          bien podrá ser excluido de ella.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e168">La segunda, inferirse algunas conclusiones
+          responsivas para solución de cada duda,
+          sometiendo así con todo lo que dijera y escribiere
+          a la final determinación de la Santa Iglesia,
+          o a su cabeza, que es el Romano Pontífice.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e178">Principio primero.
+          Todos los infieles, de cualquiera secta o religión que sean,
+          o por cualesquiera pecados que tengan,
+          quanto al derecho natural y divino
+          y al que llaman derecho de las gentes,
+          justamente tienen y poseen señorío
+          sobre sus cosas que sin perjuicio de otros adquirieron;
+          y también con la misma justicia poseen
+          sus principados, reinos, estados,
+          dignidades, jurisdicciones y señoríos.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e297">Pruébase este principio
+          cuanto al señorío de las cosas
+          por aquello del Génesis 1: <quote xml:id="dc7aa7-e01270-Qd1e204" source="http://scta.info/resource/gen1_26@3-3">faciamus</quote> etc.,
+          et presit piscibus maris et volatilibus celi
+          et bestiis universe terre,
+          et infra: replete terram et subiicite eam
+          et dominamini piscibus, etc.
+          Y el <ref xml:id="dc7aa7-e01270-Rd1e212">Salmo 8</ref>, hablando del hombre,
+          <quote xml:id="dc7aa7-e01270-Qd1e214" source="http://scta.info/resource/ps8_8@1-5">omnia, inquit, subiecisti sub pedibus eius, etc.</quote>
+          Y el <ref xml:id="dc7aa7-e01270-Rd1e219">Salmo 113</ref>:
+          <quote xml:id="dc7aa7-e01270-Qd1e221">celum celi Domino, terram autem dedit filiis hominum.</quote>
+          Y el <ref xml:id="dc7aa7-e01270-Rd1e226">Filósofo, en el libro 9 de la Ética</ref>:
+          nos sumus finis quodam modo omnium,
+          et utimur tanquam propter nos omnibus que sunt.
+          Y en el <ref xml:id="dc7aa7-e01270-Rd1e233">libro 1 de la Política</ref>,
+          dice que la posesión de las cosas exteriores
+          es para el hombre justa y natural,
+          y pone el ejemplo en la caza de animales, etc.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e238">En cuanto al dominio jurisdiccional,
+          principados, reinos, estados
+          y gobernación de los hombres sobre otros hombres,
+          pruébase también ser de derecho natural de esta manera.
+          Cuando alguna cosa es natural a otra,
+          todo aquello le es también natural de necesidad
+          sin lo cual aquella no se puede haber ni alcanzar,
+          porque la naturaleza no faltará en las cosas necesarias,
+          según <ref xml:id="dc7aa7-e01270-Rd1e253">el Filósofo enseña en el libro 3 del De anima</ref>.
+          Pues así es que vivir los hombres en compañía de otros,
+          vida política y social, como en lugares y ciudades,
+          es a los hombres natural,
+          según el mismo Filósofo en el libro 1 de la Política,
+          y la razón lo da, a saber:
+          porque vivir un hombre solo,
+          o una casa de marido y mujer e hijos sola,
+          no podría sustentarse ni vivir mucho tiempo
+          por las muchas necesidades que ocurren,
+          las cuales no puede uno ni pocos remediar y suplir.
+          Luego todo aquello que para sustento
+          de aquella compañía o sociedad fuere necesario,
+          serle ha natural y deberásele de derecho natural.
+          Y esto es, y lo principal entre otras cosas,
+          tener quien rija y gobierne aquella compañía y comunidad
+          y tenga cargo del bien común:
+          porque siendo muchos ayuntados
+          sin quien los rija y gobierne,
+          se engendraría confusión, como es claro;
+          y por consiguiente, la comunidad se desharía
+          y no se conservaría,
+          contra lo que la naturaleza pretende,
+          dando a los hombres inclinación natural de vivir en compañía.
+          Y esto muestra Salomón en los <ref xml:id="dc7aa7-e01270-Rd1e293">Proverbios 11</ref>:
+          <quote xml:id="dc7aa7-e01270-Qd1e295">ubi non est gubernator, populus corruet.</quote>
+          Este regente o gobernador no es ni puede ser otro
+          sino aquel que toda la compañía o comunidad eligió al principio,
+          o donde no lo tuviese elegido, elegirlo ha,
+          ut ff. <ref xml:id="dc7aa7-e01270-Rd1e304">de origi. juris. l. de inde cum essent, et § novissime</ref>,
+          et 93. dist. c. legimus.
+          Et quod nota in l. ex hoc iure ff.
+          <ref xml:id="dc7aa7-e01270-Rd1e314">de Iusti. et iur.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e317">Y este así elegido tiene
+          toda la jurisdicción, mero y mixto imperio,
+          cuando no reconoce a otro por superior,
+          como todos los reyes libres,
+          según que largamente tratan los juristas
+          en la dicha l. ex hoc iure
+          y en el capítulo que in ecclesia 4, de consti.,
+          y en otras partes.
+          Luego haber rey, o rector, o como quiera que se llame,
+          en cada reino, o ciudad, o comunidad ayuntada
+          para vivir políticamente,
+          es a los hombres absolutamente y en universal,
+          fieles o infieles, natural y de derecho natural,
+          como lo que es natural a cada especie de las cosas
+          es a todas en común y a cada una en particular:
+          natural a los hombres comunes,
+          y natural así a los infieles como a los fieles,
+          como sean todos de una especie y naturaleza,
+          no siendo más hombres cuanto a lo natural
+          los fieles que los infieles,
+          según parece, 1. dist. t. Jus naturale.
+          Pruébase también por el derecho de las gentes,
+          que es común a todas las gentes, fieles o infieles,
+          que iure omnes fere omnes gentes utuntur,
+          capit. jus gentium, 1a. dist., l. ex hoc iure,
+          jam dicta: ibi dispersae sunt gentes et facta sunt regna, etc.,
+          scilicet per populi electionem.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e354">Parece también porque la Sagrada Escritura,
+          que no habla ociosa ni superfluamente,
+          nombra en infinitos lugares del Nuevo y Viejo Testamento
+          reyes a los infieles que gobiernan
+          y gobernaban los reinos de los infieles.
+          Y dejados los demás, véase lo que se lee en
+          <ref xml:id="dc7aa7-e01270-Rd1e364">Daniel 2</ref>,
+          donde Daniel, reconociendo a Nabucodonosor,
+          pésimo idólatra, por rey puesto por Dios:
+          <quote xml:id="dc7aa7-e01270-Qd1e371" source="http://scta.info/resource/dan2_37@1-15">Tu rex regum es: et Deus celi
+            regnum et fortitudinem et imperium et gloriam dedit tibi, etc.</quote>
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e377">De aquí es lo que <ref xml:id="dc7aa7-e01270-Rd1e381">San Agustín,
+          en las Cuestiones del Viejo y Nuevo Testamento, cuestión 35</ref>, dice:
+          Qua ratione David Saul, postquam Deus ab eo recessit,
+          christum Domini vocat et honorem defert ei?
+          Non nescius David divinam esse traditionem
+          in officio ordinis regalis;
+          idcirco Saul, in eadem ad hunc traditionem positus, honorificat,
+          ne iniuriam facere videretur
+          qui his ordinibus honorem decrevit.
+          Dei enim imaginem habet, sicut episcopus Christi.
+          Quandiu ergo in traditione est, honorandus,
+          sive non propter se, vel propter ordinem.
+          Onde el Apóstol, <ref xml:id="dc7aa7-e01270-Rd1e401">ad Romanos 13</ref>:
+          <quote xml:id="dc7aa7-e01270-Qd1e403" source="http://scta.info/resource/rom13_1@3-20">potestatibus sublimioribus subditi estote:
+            non est potestas nisi a Deo; que enim sunt, a Deo ordinata sunt.</quote>
+          Hinc est unde gentilem in potestate tamen positum honorificamus,
+          licet ipse indignus sit
+          qui Dei ordinem tenens gratias agit diabolo:
+          potestas enim exigit, quia meretur honorem.
+          Nam ideo Pharaoni famis somnium revelatum est,
+          et Nabuchodonosor, aliis secum assistentibus,
+          solus Filium Dei vidit in camino ignis,
+          non utique merito suo, qui in idolo se adorari voluit,
+          sed merito ordinis regalis.
+          Haec <ref xml:id="dc7aa7-e01270-Rd1e426">Augustinus</ref> in forma.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e430">Y así parece que los reyes de los infieles,
+          cuanto quiera que sean idólatras y pésimos,
+          de derecho natural y divino y de las gentes
+          son verdaderos reyes,
+          y se les debe el reino y el imperio
+          y la fortaleza y la gloria,
+          conviene a saber: la excelencia, honra y reverencia,
+          y el orden real;
+          porque mientras en aquel estado y dignidad suprema estuvieren,
+          representan la imagen de Dios que tal estado instituyó,
+          y así les pertenece con aquella autoridad ser reyes.
+          Luego, cualesquiera infieles,
+          de cualquiera secta o religión que sean,
+          justamente tienen y poseen el señorío de sus cosas
+          y de sus estados y dignidades y reinados,
+          y son reyes de derecho natural y divino y de las gentes.
+          Y de esto <ref xml:id="dc7aa7-e01270-Rd1e453">Santo Tomás, 2a 2ae, q. 10, a. 10</ref>,
+          y sobre la epístola <ref xml:id="dc7aa7-e01270-Rd1e459">1 a los Corintios, c. 6</ref>,
+          dice que sería contra el derecho divino
+          impedir a los súbditos, aunque sean cristianos,
+          que comparezcan cuantas veces fueren llamados
+          ante príncipes o jueces infieles. Hasta aquí él.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e468">A aquel decimos ser rey
+          a quien la suprema potestad y jurisdicción
+          del gobierno por el pueblo, comunidad o reino es cometida.
+        </p>
+        <p xml:id="dc7aa7-e01270-d1e475">Corolario.
+          De aquí bien se sigue que el que las cosas de los infieles hurta o roba,
+          y mucho más si sus estados, dignidades, jurisdicciones
+          y señoríos les usurpa sin causa justa,
+          comete hurto y rapiña.
+          De esta verdad ninguno que no sea fatuo
+          y sin libre juicio dudará por alguna vía.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
