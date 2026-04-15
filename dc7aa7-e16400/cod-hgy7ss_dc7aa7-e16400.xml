@@ -58,103 +58,109 @@
     </front>
     <body>
       <div xml:id="dc7aa7-e16400"><!-- dd-c42 -->
-        <head xml:id="dc7aa7-e16400-Hd1e111">Capitulo 42</head>
-        <p xml:id="dc7aa7-e16400-d1e113">
-          Capítulo 42
+       <head xml:id="dc7aa7-e16400-Hd1e111">Capitulo 42</head> 
+       <p>
+       <lb ed="#B" n="31"/>da con larga provanga dicho. <!--continuation of bottom of ch. 41-->
+       </p>
+      <pb ed="#B" n="221-v"/>
+       <p xml:id="dc7aa7-e16400-d1e113">
+        <lb ed="#B" n="1"/>§. 42.
         </p>
         <p xml:id="dc7aa7-e16400-d1e115">
-          <lb ed="#B" n="1"/>Contra todo lo que en el precedente capítulo o la mayor parte dello queda 
-          <lb ed="#B" n="2"/>concluído, argúirá el que fuere buen legista, diziendo no ser necessa
-          <lb ed="#B" n="3"/>rio que los Reyes de aquellos reynos cedan y concedan a los Reyes,
-          <lb ed="#B" n="4"/>nuestros Señores, los mineros, porque la hora que el Papa los constituyó
-          <lb ed="#B" n="5"/>Príncipes supremos de aquel orbe de las Indias, visto es havelles con
-          <lb ed="#B" break="no" n="6"/>cedido ipso facto vel ipso jure todos los derechos reales, y aquellos que es
-          <lb ed="#B" n="7"/>anexo al supremo y real señorío. Estos, pues, son los mineros y salinas, y
-          <lb ed="#B" n="8"/>coletas, y los otros derechos que se contienen en el capítulo «que sint
-          <lb ed="#B" n="9"/>regalia», en el Libro de los Feudos!. Lo mismo es de los tributos y servicios,
-          <lb ed="#B" n="10"/>porque al Rey o Príncipe supremo, de derecho, se les deve, natural y di
-          <lb ed="#B" n="11"/>vino: Ad Romanos 13 «Ideo enim tributa prestetis», scilicet principibus
-          <lb ed="#B" n="12"/>«ministri enim Dei sunt etc...» Y así lo nota Baldo en el dicho capítulo
-          <lb ed="#B" n="13"/>«que sint regalia», ubi ait quod «si papa facit aliquem regem, omnia illa
-          <lb ed="#B" n="14"/>jura, scilicet regalia queruntur regi quasi specialiter concessa». Hec 
-          <lb ed="#B" n="15"/>ille.
+          <lb ed="#B" n="2"/>¶ Contra todo lo que en el precedente capítulo o la mayor parte dello queda 
+          <lb ed="#B" n="3"/>concluído, argúirá el que fuere buen legista, diziendo no ser necessa
+          <lb ed="#B" n="4"/>rio que los Reyes de aquellos reynos cedan y concedan a los Reyes,
+          <lb ed="#B" n="5"/>nuestros Señores, los mineros, porque la hora que el Papa los constituyó
+          <lb ed="#B" n="6"/>Príncipes supremos de aquel orbe de las Indias, visto es havelles con
+          <lb ed="#B" break="no" n="7"/>cedido ipso facto vel ipso jure todos los derechos reales, y aquellos que es
+          <lb ed="#B" n="8"/>anexo al supremo y real señorío. Estos, pues, son los mineros y salinas, y
+          <lb ed="#B" n="9"/>coletas, y los otros derechos que se contienen en el capítulo que sint
+          <lb ed="#B" n="10"/>regalia, en el Libro de los Feudos!. Lo mismo es de los tributos y servicios,
+          <lb ed="#B" n="11"/>porque al Rey o Príncipe supremo, de derecho, se les deve, natural y di
+          <lb ed="#B" n="12"/>vino: Ad Romanos 13 Ideo enim tributa prestetis, scilicet principibus
+          <lb ed="#B" n="13"/>ministri enim Dei sunt etc... Y así lo nota Baldo en el dicho capítulo
+          <lb ed="#B" n="14"/>que sint regalia, ubi ait quod si papa facit aliquem regem, omnia illa
+          <lb ed="#B" n="15"/>jura, scilicet regalia queruntur regi quasi specialiter concessa. Hec 
+          <lb ed="#B" n="16"/>ille.
         </p>
-        <p xml:id="dc7aa7-e16400-d1e150">Allende de esto, ya que se dan al Rey de Castilla y se someten
-          <lb ed="#B" n="16"/>a su jurisicción y govierno los reyes naturales de aquellos reynos, según sup
-          <lb ed="#B" n="17"/>ponemos darse vistos son, per quandam consequentiam también dar
-          <lb ed="#B" n="18"/>y someter sus pueblos y vassallos, sus ciudades, sus villas y lugares, y sus
-          <lb ed="#B" n="19"/>jurisdicciones, y todo lo demás, que al Príncipe supremo pertenece. Así lo
-          <lb ed="#B" n="20"/>dize el mismo Baldo en la L. si pater, ff., <ref xml:id="dc7aa7-e16400-Rd1e163">De adoptione et emancipatione,</ref> de ciertos
-          <lb ed="#B" n="21"/>capitanes infieles que se dieron al Rey de Ungría en su tiempo, porque «serviente
-          <lb ed="#B" n="22"/>capite, dize él, membra servire necesse est».Refiérelo Jasso in Autbent., ingressi, <ref xml:id="dc7aa7-e16400-Rd1e169">Codex, 
-            <lb ed="#B" n="23"/>De sacrosantis ecclesiis.</ref> Por lo cual parecen aquí dos cosas: la una, que los mineros todos
-          <lb ed="#B" n="24"/>de qualquiera riquezas que sean son de los Reyes de Castilla, y la segunda, que los pue
-          <lb ed="#B" n="25"/>blos de los indios vezinos dellos son immediatos súbditos de los Reyes de Castilla
-          <lb ed="#B" n="26"/>como los mismos señores naturales, y que le deven ser los unos y los otros tribu
-          <lb ed="#B" n="27"/>tarios, allende lo que los deven servir in recognoscimiento de su universal 
-          <lb ed="#B" n="28"/>señorío.
+        <p xml:id="dc7aa7-e16400-d1e150">
+          ¶ Allende de esto, ya que se dan al Rey de Castilla y se someten
+          <lb ed="#B" n="17"/>a su jurisicción y govierno los reyes naturales de aquellos reynos, según sup
+          <lb ed="#B" n="18"/>ponemos darse vistos son, per quandam consequentiam también dar
+          <lb ed="#B" n="19"/>y someter sus pueblos y vassallos, sus ciudades, sus villas y lugares, y sus
+          <lb ed="#B" n="20"/>jurisdicciones, y todo lo demás, que al Príncipe supremo pertenece. Así lo
+          <lb ed="#B" n="21"/>dize el mismo Baldo en la <ref xml:id="dc7aa7-e16400-Rd1e163">L. si pater, ff., De adoptione et emancipatione</ref>, de ciertos
+          <lb ed="#B" n="22"/>capitanes infieles que se dieron al Rey de Ungría en su tiempo, porque serviente
+          <lb ed="#B" n="23"/>capite, dize él, membra servire necesse est. Refiérelo Jasso in Authent., ingressi, <ref xml:id="dc7aa7-e16400-Rd1e169">Codex, 
+          <lb ed="#B" n="24"/>De sacrosantis ecclesiis.</ref> Por lo cual parecen aquí dos cosas: la una, que los mineros todos
+          <lb ed="#B" n="25"/>de qualquiera riquezas que sean son de los Reyes de Castilla, y la segunda, que los pue
+          <lb ed="#B" n="26"/>blos de los indios vezinos dellos son immediatos súbditos de los Reyes de Castilla
+          <lb ed="#B" n="27"/>como los mismos señores naturales, y que le deven ser los unos y los otros tribu
+          <lb ed="#B" n="28"/>tarios, allende lo que los deven servir in recognoscimiento de su universal 
+          <lb ed="#B" n="29"/>señorío /
         </p>
-        <p xml:id="dc7aa7-e16400-d1e186">A esto respondemos y quanto a lo primero dezimos que la senten
-          <lb ed="#B" n="29"/>cia del Baldo es de nuestro muy differente. Lo 1°, porque aquello se entiende 
-          <lb ed="#B" n="30"/>quando algún reyno careciese de rey y el Papa tuviese causa de proveello,
-          <lb ed="#B" n="31"/>o de nuevo alguna providencia que no fuese reyno en reyno la instituye, aun
-          <lb ed="#B" break="no" n="32"/>que los pueblos todavía en esto havían de er oydos, porque primeramente
+        <p xml:id="dc7aa7-e16400-d1e186">
+          ¶ A esto respondemos y quanto a lo primero dezimos que la senten
+          <lb ed="#B" n="30"/>cia del Baldo es de nuestro muy differente. Lo 1o, porque aquello se entiende 
+          <lb ed="#B" n="31"/>quando algún reyno careciese de rey y el Papa tuviese causa de proveello,
+          <lb ed="#B" n="32"/>o de nuevo alguna providencia que no fuese reyno en reyno la instituye, aun
+          <lb ed="#B" break="no" n="33"/>que los pueblos todavía en esto havían de er oydos, porque primeramente
           <pb ed="#B" n="222-r"/>
-          <lb ed="#B" n="1"/>estos derechos fueron de los pueblos y por ellos a los Reyes deputados y constituídos,
-          <lb ed="#B" n="2"/>y finalmente no fuesen a rey o a otro señor que fuese rey, los tales derechos antes
-          <lb ed="#B" n="3"/>adquiridos. La razón es porque como se provó en el 4° principio, Cap. 8, quando
-          <lb ed="#B" n="4"/>el Papa concede algún derecho de nuevo, no es su intención quitar el dere
-          <lb ed="#B" n="5"/>cho que algún tercero antes tenía, y siempre se ha de entender lo que
-          <lb ed="#B" n="6"/>provee ser sin perjuizio, como allí parece. Pues, a los Reyes de aquellos in
-          <lb ed="#B" n="7"/>dianos reynos, es derecho adquirido sobre aquellos reales derechos desde
-          <lb ed="#B" n="8"/>años antiquíssimos, porque casi natural cosa es, ya que aquellos derechos
-          <lb ed="#B" n="9"/>de los reyes que llamamos los señores supremos, pertenezcan a los reyes,
-          <lb ed="#B" n="10"/>aunque a los principios, como se dixo, fueron deputados para su susten
-          <lb ed="#B" n="11"/>tación por los pueblos, y es ya de jure gentium, y por esto se dizen «regalia,
-          <lb ed="#B" n="12"/>id est res et precipua cuiuscunque regis qui in regno suo est monarcha», co
-          <lb ed="#B" n="13"/>mo dize el mismo Baldo en la rübrica de aquel título. Luego, aquellos
+          <lb ed="#B" n="1"/>estos derechos fueron de los pueblos y por ellos a los Reyes deputados y constituydos:
+          <lb ed="#B" n="2"/>y finalmente no fuesen a rey o a otro señor que fuese Rey: los tales derechos antes
+          <lb ed="#B" n="3"/>adquiridos. Las razon es: porque como se provó en el 4o principio, §. 8, quando
+          <lb ed="#B" n="4"/>el Papa concede algún derecho de nuevo, no es su intención quitar el
+          dere<lb ed="#B" break="no" n="5"/>cho que algún tercero antes tenía: y siempre se ha de entender lo que
+          <lb ed="#B" n="6"/>provee ser sin perjuizio como allí parece. Pues a los Reyes de aquellos in
+          in<lb ed="#B" break="no" n="7"/>dianos reynos es derecho adquirido sobre aquellos reales derechos desde
+          <lb ed="#B" n="8"/>años antiquíssimos: porque casi natural cosa es, ya que aquellos derechos
+          <lb ed="#B" n="9"/>de los reyes que llamamos los señores supremos, pertenezcan a los Reyes
+          <lb ed="#B" n="10"/>aunque a los principios (como se dixo) fueron deputados para su
+          susten<lb ed="#B" break="no" n="11"/>tación por los pueblos, y es ya de jure gentium: y por esto se dizen regalia
+          <lb ed="#B" n="12"/>(id est) res et precipua cuiuscunque regis qui in regno suo est monarcha
+          co<lb ed="#B" break="no" n="13"/>mo dize el mismo Baldo. en la rubrica de aquel título luego, aquellos
           <lb ed="#B" n="14"/>derechos pertenecen a aquellos reyes y por consiguiente no fue intención
-          <lb ed="#B" n="15"/>del Papa en la constitución y promoción de nuestros Reyes a aquel principa 
-          <lb ed="#B" n="16"/>do concedelles ipso jure o ipso facto aquellos derechos.
+          <lb ed="#B" n="15"/>del Papa en la constitución y promoción de nuestros Reyes a aquel 
+          principa<lb ed="#B" break="no" n="16"/>do concedelles ipso jure o ipso facto aquellos derechos.
         </p>
-        <p xml:id="dc7aa7-e16400-d1e235">Lo 2°, en el Principio
-          <lb ed="#B" n="17"/>4°, queda provado generalmente no haver sido intención del Papa pri
-          <lb ed="#B" n="18"/>var los dichos reyes de aquellas gentes, de sus estados, dignidades, honras,
-          <lb ed="#B" n="19"/>y reales derecho, porque no hovo justa causa para hazerlo, porque fuera
-          <lb ed="#B" n="20"/>turbar el mundo y efficacíssimo impedimento para que aquellas gen
-          <lb ed="#B" n="21"/>tes rescibieran la fe; luego, ni privarlos de los dichos mineros ni de otros 
+        <p xml:id="dc7aa7-e16400-d1e235">
+          ¶ Lo 2o, en el Principio
+          <lb ed="#B" n="17"/>4o queda provado generalmente no haver sido intención del Papa
+          pri<lb ed="#B" break="no" n="18"/>var los dichos reyes de aquellas gentes, de sus estados / dignidades / honras
+          <lb ed="#B" n="19"/>y reales derecho: porque no ovo justa causa para hazerlo: porque fuera
+          <lb ed="#B" n="20"/>turbar el mundo y efficacíssimo impedimento para que aquellas
+          gen<lb ed="#B" break="no" n="21"/>tes rescibieran la fe: luego ni privarlos de los dichos mineros ni de otros 
           <lb ed="#B" n="22"/>qualesquiera derechos pertenecientes a los dichos reyes. 
         </p>
-        <p xml:id="dc7aa7-e16400-d1e251">Lo 3° pa
-          <lb ed="#B" n="23"/>rece por la conclusión 2a para la Duda 6a, y por la Contra Conclusión 4a, Cap. 36
+        <p xml:id="dc7aa7-e16400-d1e251">
+          ¶ Lo 3o
+          pa<lb ed="#B" break="no" n="23"/>rece por la conclusión 2a para la Duda 6a y por la Contra Conclusión 4a §. 36.
           <lb ed="#B" n="24"/>donde queda provado que el Rey de Castilla ni los españoles no pueden
-          <lb ed="#B" n="25"/>ni puede tener mina de oro ni plata, etc. sin licencia y beneplácito
-          <lb ed="#B" n="26"/>del Rey Inga, y que los españoles cometieron hurto y son obli
-          <lb ed="#B" n="27"/>gados a restitución de todo el oro y plata, etc. que de las minas han sacado
-          <lb ed="#B" n="28"/>o cogido; luego, la sentencia del Baldo ha lugar en otro caso del nuestro muy 
+          <lb ed="#B" n="25"/>ni puede tener mina de oro ni plata etc. sin licencia y beneplácito
+          <lb ed="#B" n="26"/>del Rey Inga y que los españoles <!--crossed out: no pueden--> cometieron hurto y son
+          obli<lb ed="#B" break="no" n="27"/>gados a restitución de todo el oro y plata etc. que de las minas an sacado
+          <lb ed="#B" n="28"/>o cogido. luego la sentencia del Baldo a lugar en otro caso del nuestro muy 
           <lb ed="#B" n="29"/>differente.
         </p>
         <p xml:id="dc7aa7-e16400-d1e269">
-          <lb ed="#B" n="30"/>Lo 4°, se entiende la sentencia del Baldo quando es absoluto
-          <lb ed="#B" n="31"/>Rey y no hay más de uno supremo en el reyno, y en nuestro caso dado que los
-          <lb ed="#B" n="32"/>Reyes de Castilla tengan el summo principado de aquellos reynos, después
-          <lb ed="#B" n="33"/>de que por los reyes naturales sean rescebidos, en y por favor de la fe,
-          <lb ed="#B" n="34"/>pero no son absolutos ni fieles, sino que,
-          <lb ed="#B" n="35"/>
-          <sic><!--in edition as a line, in text in margins --> como está provado en nuestro Tractado Comprobatorio que anda impresso, </sic>
-          <lb ed="#B" n="36"/>con su superioridad y preminencia se compadece que los Reyes naturales
-          <lb ed="#B" n="37"/>sean y permanezcan reyes subalternos a los Reyes de Castilla, 
+          ¶ Lo 4o, se entiende la sentencia del Baldo quando es absoluto
+          <lb ed="#B" n="30"/>rey y no ay más de uno supremo en el Reyno: y en nuestro caso dado que los
+          <lb ed="#B" n="31"/>Reyes de Castilla tengan el summo principado de aquellos reynos después
+          <lb ed="#B" n="32"/>de que por los reyes naturales sean rescebidos en y por favor de la fe:
+          <lb ed="#B" n="33"/>pero no son absolutos ni fieles sino que <!--big open gap-->. <sic><!--in edition this is its own line, in text in margins--> como está provado en nuestro Tractado Comprobatorio que anda impresso</sic>
+          <lb ed="#B" n="34"/>con su superioridad y preminencia se compadece que los Reyes naturales
+          <lb ed="#B" n="35"/>sean y permanezcan reyes subalternos a los Reyes de Castilla
           <pb ed="#B" n="222-v"/>
           <lb ed="#B" n="1"/>como en los tiempos antiguos el estado de los Reyes con la superioridad
-          <lb ed="#B" n="2"/>del emperador se compadecía, como las jurisdicciones y poderes sean
-          <lb ed="#B" n="3"/>de diversas especies, según se tracta por los juristas en la L. 1a, $ per
-          <lb ed="#B" n="4"/>banc. el 2°, <ref xml:id="dc7aa7-e16400-Rd1e303">Digest., De rei vindicatione, et ibi Bartholus, et in L. possideri,
-            <lb ed="#B" n="5"/>$ ex contrario, ff., De acquirenda possesione</ref> y en otros lugares, porque de otra
+          <lb ed="#B" n="2"/>del emperador se compadecía como las jurisdicciones y poderes sean
+          <lb ed="#B" n="3"/>de diversas especies según se tracta por los juristas en la L. 1a, §. per
+          <lb ed="#B" n="4"/>banc. el 2o <ref xml:id="dc7aa7-e16400-Rd1e303">Digest., De rei vindicatione, et ibi Bartholus, et in L. possideri
+          <lb ed="#B" n="5"/>§. ex contrario, ff., De acquirenda possesione</ref>. y en otros lugares: porque de otra
           <lb ed="#B" n="6"/>manera sería en gran desfavor de la fe y cometer grande injusticia
           <lb ed="#B" n="7"/>privar los Reyes naturales sin culpas suyas de sus reales estados y
-          <lb ed="#B" n="8"/>señoríos perteneciéndoles de derecho natural y divino, como en el pri
-          <lb ed="#B" n="9"/>mero Principio y en los demás queda dicernido. Y así la sentencia del Baldo en
-          <lb ed="#B" n="10"/>nuestro propósito no puede ser admitida.
+          <lb ed="#B" n="8"/>señoríos perteneciéndoles de derecho natural y divino como en el
+          pri<lb ed="#B" break="no" n="9"/>mero Principio y en los demás queda dicernido. Y así la sentencia del Baldo en
+          <lb ed="#B" n="10"/>nuestro propósito no puede ser admitida / .
         </p>
       </div>
     </body>
