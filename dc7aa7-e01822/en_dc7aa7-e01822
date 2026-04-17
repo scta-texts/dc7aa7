@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 3</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 3</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+     <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e01822">
+        <head xml:id="dc7aa7-e01822-Hd1e111">Chapter 3</head>
+        <p xml:id="dc7aa7-e01822-d1e113">§ 3</p>
+        <p xml:id="dc7aa7-e01822-d1e118">The third kind of unbelievers
+          is and are heretics and apostates,
+          who are subjects in law
+          of the universal Church
+          and of its head, who is the vicar
+          of the supreme pontiff and pope,
+          and of the other spiritual prelates.
+          The reason they are subjects is this:
+          by reason of origin, domicile, contract,
+          and by reason of offense,
+          they are subjects both in law and in fact, that is, in act,
+          as those who were born, or whose parents were born,
+          within the dominion of some Christian prince.
+          Others may be subjects only in law and not in fact, that is, in act,
+          as would happen if an entire kingdom with its king,
+          recognizing no temporal superior, were to turn heretic,
+          as did the unfortunate king and kingdom of England
+          and many provinces of Germany.
+          These, then, are subjects of the Church in law
+          by reason of having received the Catholic faith.
+          And the root of this subjection is the solemn vow
+          and the spontaneous profession and promise
+          they made upon receiving holy baptism,
+          by which every baptized person protests and promises
+          to believe in God, Three and One,
+          and to hold the faith of Jesus Christ.
+          This is proved in <ref xml:id="dc7aa7-e01822-Rd1e151">c. prima,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e156">c. postquam,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e158">c. primum interrogatur,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e161">postquam vos,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e163">c. cathecumenum. de consecratione. dist. 4.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01822-d1e169">Likewise, the baptized person binds himself by stipulation.
+          Stipulation is when one responds by conceding and promising
+          what the other asks or demands,
+          as in saying: do you promise? — I promise, and the like,
+          according to the jurists.
+          Thus the priest asks the one about to be baptized:
+          Do you believe in God? — He answers: I believe.
+          Do you renounce Satan? — I renounce him, etc.
+          And that exchange is an instance of stipulation,
+          and thus a contract or quasi-contract intervenes
+          between the priest as a public person
+          and minister of the Church,
+          and the one being baptized.
+        </p>
+        <p xml:id="dc7aa7-e01822-d1e187">Likewise, the baptized person, by the said contract
+          and by the said acts, promises implicitly and tacitly his obedience,
+          and transfers himself to the dominion, vassalage, and jurisdiction of Jesus Christ
+          and of his Church,
+          setting aside, fleeing, and renouncing the lordship
+          of the first lord, who is the devil,
+          who held him in his power,
+          in order from that point forward to live according to the divine evangelical law,
+          and thus to be numbered and joined
+          in the assembly of Christians,
+          which is the universal Church,
+          outside of which no salvation of the soul is or will be found,
+          as in <ref xml:id="dc7aa7-e01822-Rd1e206">c. postquam se baptizatus</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e211">c. ante baptismum in fi.</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e213">c. ab antiqua</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e216">c. postquam ascendit.</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e220">c. nullius, De consecratione, dist. 4.</ref>
+          It is manifest that every subject is bound
+          to live according to the laws of the one
+          to whose principality he submitted himself,
+          as in <ref xml:id="dc7aa7-e01822-Rd1e226">Codex, De summa Trinitate, L. cunctos populos.</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e229">cap. 1 De constitutionibus</ref>
+          and <ref xml:id="dc7aa7-e01822-Rd1e231">cap. fi. de foro competenti.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01822-d1e238">Since heretics and apostates were subjects of Christ
+          in a certain new way,
+          and of his Church as citizens of the Christian commonwealth,
+          by abandoning the Catholic faith
+          or by violating it with errors,
+          they break their vow and fail to honor the contract
+          concluded by stipulation.
+          Likewise they make themselves disobedient to the laws of Christ
+          and of his Christian commonwealth,
+          and in all of this they commit most grievous offenses and sins
+          and the crime of lèse-majesté.
+          Therefore the Church justly punishes and chastises them,
+          depriving them by operation of law or by deed itself
+          of all their temporal and spiritual goods:
+          of their states, honors, dignities,
+          of all lordship and royal or imperial jurisdiction,
+          as appears from <ref xml:id="dc7aa7-e01822-Rd1e259">cap. cum secundum leges, De hereticis. Lib. 6</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e264">in cap. vergentis</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e267">cap. excomunicamus, el 1.º, 1, Extra., eo. tit. et Codex, De hereticis, L. 4,</ref>
+          and in many other places,
+          and the many other penalties that both bodies of law impose on heretics.
+          And thus they are incapable of all jurisdiction:
+          <ref xml:id="dc7aa7-e01822-Rd1e276">c. quicumque hereticos, eo. tit., Lib. 6 and St. Thomas 2.2, q. 12, a. 2</ref>
+          in the body of the article.
+          And thus the kingdoms of heretics are said to be vacant,
+          and as things that have no owner,
+          the pope is accustomed and able to grant them
+          to some Christian king to occupy and possess as his own,
+          as throughout the title <ref xml:id="dc7aa7-e01822-Rd1e288">De hereticis, presertim in d. cap. excomunicamus, § moneantur</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e293">in cap. presidentes,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e295">in cap. acusatus, § seculares potestates,</ref>
+          et in <ref xml:id="dc7aa7-e01822-Rd1e300">cap. statutum, el 1, et cap. ut inquisitionis, eo. titulo, Lib. 6,</ref>
+          etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

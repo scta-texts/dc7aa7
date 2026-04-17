@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 3</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 3</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+    <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e01822">
+        <head xml:id="dc7aa7-e01822-Hd1e111">Capítulo 3</head>
+        <p xml:id="dc7aa7-e01822-d1e113">§ 3.º</p>
+        <p xml:id="dc7aa7-e01822-d1e118">La tercera especie de infieles
+          es y son los herejes y apóstatas,
+          los cuales son súbditos de jure
+          de la Iglesia universal
+          y de su cabeza, que es el vicario
+          del sumo pontífice y papa,
+          y de los otros prelados espirituales.
+          La razón de que son súbditos es:
+          por razón del origen, del domicilio, del contrato
+          y por razón del delito,
+          son súbditos de jure y de facto, id est actu,
+          como aquellos que nacieron, o cuyos padres nacieron,
+          en el señorío de algún príncipe cristiano.
+          Otros pueden ser solamente de jure y no de facto, id est actu,
+          como si un reino entero con su rey,
+          no reconociendo superior temporal, heretizase,
+          como hizo el infeliz rey y reino de Inglaterra
+          y muchas provincias de Alemania.
+          Son estos, pues, súbditos de la Iglesia de jure
+          por razón de haber recibido la fe católica.
+          Y la raíz de esta sujeción es el voto solemne
+          y la espontánea profesión y promesa
+          que hicieron al recibir el sagrado bautismo,
+          por las cuales todo bautizado protesta y promete
+          creer en Dios Trino y Uno
+          y tener la fe de Jesucristo.
+          Esto se prueba en el <ref xml:id="dc7aa7-e01822-Rd1e151">c. prima,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e156">c. postquam,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e158">c. primum interrogatur,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e161">postquam vos,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e163">c. cathecumenum. de consecratione. dist. 4.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01822-d1e169">Asimismo, el bautizado se obliga per stipulationem.
+          La estipulación es cuando se responde concediendo y prometiendo
+          uno lo que el otro pide o demanda,
+          como diciendo: ¿prometes? — prometo, et similia,
+          según los juristas.
+          Así el sacerdote pregunta al que se ha de bautizar:
+          ¿Crees en Dios? — Responde: creo.
+          ¿Renuncias a Satanás? — Renuncio, etc.
+          Y aquello es un lugar de estipulación,
+          y así interviene contrato o cuasi contrato
+          entre el sacerdote como persona pública
+          y ministro de la Iglesia,
+          y el que se bautiza.
+        </p>
+        <p xml:id="dc7aa7-e01822-d1e187">Asimismo, el bautizado por el dicho contrato
+          y por los dichos actos promete implícita y tácitamente obediencia,
+          y se traspasa al dominio, vasallaje y jurisdicción de Jesucristo
+          y de su Iglesia,
+          posponiendo, huyendo y renunciando el señorío
+          del primer señor, que es el diablo,
+          que lo tenía en su potestad,
+          para desde entonces vivir según la ley divina evangélica,
+          y así ser contado y acompañado
+          en la congregación de los cristianos,
+          que es la Iglesia universal,
+          fuera de la cual ninguna salvación se halla ni hallará del alma,
+          ut in <ref xml:id="dc7aa7-e01822-Rd1e206">c. postquam se baptizatus</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e211">c. ante baptismum in fi.</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e213">c. ab antiqua</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e216">c. postquam ascendit.</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e220">c. nullius, De consecratione, dist. 4.</ref>
+          Manifiesto es que todo súbdito está obligado
+          a vivir según las leyes de aquel
+          a cuyo principado se sometió,
+          ut <ref xml:id="dc7aa7-e01822-Rd1e226">Codex, De summa Trinitate, L. cunctos populos.</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e229">cap. 1 De constitutionibus</ref>
+          y <ref xml:id="dc7aa7-e01822-Rd1e231">cap. fi. de foro competenti.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01822-d1e238">Pues como fuesen los herejes y apóstatas súbditos de Cristo
+          por cierta nueva manera,
+          y de su Iglesia como ciudadanos de la república cristiana,
+          al dejar la fe católica
+          o al violarla con errores,
+          quebrantan el voto y no guardan el contrato
+          celebrado por la estipulación.
+          Asimismo se hacen desobedientes a las leyes de Cristo
+          y de su república cristiana,
+          y en todo esto cometen gravísimos delitos y pecados
+          y crimen de lesa majestad.
+          Por lo tanto, la Iglesia justamente los pena y castiga,
+          privándolos ipso iure vel ipso facto
+          de todos sus bienes temporales y espirituales:
+          de sus estados, honras, dignidades,
+          de todo señorío y jurisdicción real o imperial,
+          como parece por <ref xml:id="dc7aa7-e01822-Rd1e259">el cap. cum secundum leges, De hereticis. Lib. 6</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e264">in cap. vergentis</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e267">cap. excomunicamus, el 1.º, 1, Extra., eo. tit. et Codex, De hereticis, L. 4,</ref>
+          y en otros muchos lugares,
+          y otras muchas penas que ambos derechos dan a los herejes.
+          Y así son incapaces de toda jurisdicción:
+          <ref xml:id="dc7aa7-e01822-Rd1e276">c. quicumque hereticos, eo. tit., Lib. 6 y S. Tomás 2.2, q. 12, a. 2</ref>
+          in corp.
+          Y así los reinos de los herejes se dicen ser vacantes,
+          y como cosa que no tiene dueño,
+          el papa suele y puede concederlos
+          a algún rey cristiano que los ocupe y posea como cosa propia suya,
+          ut per totum titulum <ref xml:id="dc7aa7-e01822-Rd1e288">De hereticis, presertim in d. cap. excomunicamus, § moneantur</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e293">in cap. presidentes,</ref>
+          et <ref xml:id="dc7aa7-e01822-Rd1e295">in cap. acusatus, § seculares potestates,</ref>
+          et in <ref xml:id="dc7aa7-e01822-Rd1e300">cap. statutum, el 1, et cap. ut inquisitionis, eo. titulo, Lib. 6,</ref>
+          etcétera.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
