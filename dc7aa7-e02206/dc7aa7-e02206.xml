@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 6</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 6</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02206">
+        <head xml:id="dc7aa7-e02206-Hd1e111">Capítulo 6</head>
+        <p xml:id="dc7aa7-e02206-d1e113">§ 6.º</p>
+        <p xml:id="dc7aa7-e02206-d1e118">Y que nuestras naciones indianas se comprenden en esta cuarta especie,
+          con poco trabajo lo puede cualquiera probar,
+          aunque sea de los de Sayago.
+          Que tengan y posean sus reinos y tierras
+          de derecho natural y de gentes,
+          no reconociendo superior alguno,
+          de jure ni de facto, id est actu,
+          fuera de sí mismos,
+          como los hallamos en posesión de ellos
+          y con tantos principados y señoríos
+          sobre tan infinitos números de mortales:
+          de los cuales no solo eran servidos y obedecidos
+          sino también más que adorados,
+          y sus reyes y príncipes
+          usando y ejercitando en ellos libremente
+          toda jurisdicción y potestad,
+          alta y baja, mero y mixto imperio,
+          sin que nadie fuese poderoso para irles a la mano;
+          y sus reinos y regiones tan lejos
+          y con tan larga distancia de los nuestros apartados,
+          y así muy ajenos de habernos ofendido a nosotros
+          ni a la Iglesia ni a la fe católica
+          ni a miembro alguno de ella
+          ni a persona del pueblo cristiano,
+          ni de tener con nosotros algún trato ni vasallaje.
+          ¿Quién, que tenga juicio recto, podrá negarlo?
+          Son pues propiamente nuestras naciones indianas
+          occidentales y meridionales
+          de esta cuarta especie o diferencia de infieles.
+        </p>
+        <p xml:id="dc7aa7-e02206-d1e158">Confírmase esto por un nuevo decreto
+          que constituyó el papa Pablo III,
+          el cual en su bula plomada,
+          que comienza Sublimis Deus sic dilexit humanum genus,
+          decretando y declarando:
+          que nuestros indios y todas las demás naciones
+          que en adelante llegaren a conocimiento de los cristianos,
+          aunque estén fuera de la fe de Cristo,
+          no están ni deben ser privados
+          de su libertad ni del dominio de sus cosas;
+          antes bien pueden lícitamente usar y gozar
+          de su libertad y dominio,
+          y no deben ser reducidos a servidumbre.
+          Y cualquier cosa que en contrario se hiciere
+          será nula y sin valor, de ninguna fuerza ni momento;
+          y que dichos indios y las demás naciones
+          han de ser invitados a dicha fe de Cristo
+          mediante la predicación y el ejemplo de buena vida,
+          por autoridad apostólica,
+          así lo decretamos y declaramos por las presentes.
+          Estas son palabras del dicho decreto,
+          en las cuales da a entender suficientemente
+          que estas naciones y las semejantes de esta cuarta especie
+          —conviene a saber— no tienen en sí causa alguna
+          de las que concurren en las otras especies de infieles
+          para sujetarlas o que sean nuestros súbditos,
+          ni que tengamos que hacer con ellas en bueno ni en malo,
+          sino solo amarlas y trabajar de ayudarlas y salvarlas.
+          Y por consiguiente, que ningún rey ni emperador
+          ni la Iglesia romana
+          les puede hacer guerra
+          ni por alguna manera molestarlas
+          para contra su voluntad sujetárselas.
+          Donde manifiestamente este decreto
+          confirma la verídica y católica doctrina del Cayetano
+          que arriba fue recitada.
+          Es pues verdad este principio 2.º —conviene a saber—
+          que hay cuatro especies o diferencias de infieles,
+          cuyo conocimiento es muy necesario
+          para cualquiera que hubiere de tratar de esta materia,
+          a fin de no errar de manera intolerable.
+          Esto tratamos muy latamente
+          en nuestra obra <ref xml:id="dc7aa7-e02206-Rd1e218">De unico vocationis modo omnium gentium ad veram
+          religionem, lib. 1, cap. 3, s. 85.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
