@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 5</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 5</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02084">
+        <head xml:id="dc7aa7-e02084-Hd1e111">Chapter 5</head>
+        <p xml:id="dc7aa7-e02084-d1e113">§ 5</p>
+        <p xml:id="dc7aa7-e02084-d1e118">What was said above is confirmed by a most reasonable law,
+          which makes mention of the people of Persia
+          and of the kingdom and king of the Persians.
+          By this law Romans are forbidden to go and trade there,
+          lest it be suspected that the Roman people wished,
+          under the guise of commerce, to spy out foreign kingdoms:
+          <quote xml:id="dc7aa7-e02084-Qd1e132">"so that they may not pry into the secrets of another kingdom,
+          which is not fitting,"</quote>
+          it says there,
+          <ref xml:id="dc7aa7-e02084-Rd1e137">4, mercatores, Codex, De commerciis et mercatoribus.</ref>
+          Where the emperors Theodosius and Honorius confess
+          that the kingdom of the Persians is foreign to the Roman people.
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e144">I do not wish to omit what Bartolus notes in
+          <ref xml:id="dc7aa7-e02084-Rd1e148">L. christianis, Codex, De paganis</ref>
+          et templis eorum:
+          that war ought not to be waged against the Moors
+          unless they had usurped the Holy Land,
+          nor against the Turks unless they impeded the passage of Christians
+          who went with an army to recover it:
+          <quote xml:id="dc7aa7-e02084-Qd1e157">"Since they contend in something turbulent
+          and contrary to right,
+          because they do not permit us to go to them,
+          therefore the Church declares war upon them;
+          otherwise it would not declare it."</quote>
+          These are his words.
+          It appears from them that in the time of Bartolus
+          the Turks did not yet have as much power or as much malice as now
+          to persecute the Christian people.
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e169">So if we must be peaceable with the Moors and with the Turks,
+          we have nothing to do with them
+          for good or ill:
+          beyond loving them and desiring their salvation,
+          and insofar as we are able endeavoring to secure it,
+          provided they do not harm the universal Church
+          or do something against us contrary to right;
+          much less do we have anything to do
+          with the other peoples we placed in this fourth category,
+          peaceful ones who have done us no harm,
+          dwelling in their own and most remote regions and kingdoms,
+          far apart from ours,
+          beyond, as I said, loving them and endeavoring to save them.
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e190">Of this fourth category of unbelievers,
+          more clearly and distinctly than all others,
+          spoke <ref xml:id="dc7aa7-e02084-Rd1e194">Cardinal Cajetan on 2.2 q. 66, a. 8,</ref>
+          of which he says in particular the following:
+          "There are some unbelievers
+          who are subject neither in law nor in fact
+          to the temporal jurisdiction of Christian princes,
+          as would be the case if pagans were found who were never subjects of the Roman Empire,
+          inhabiting lands in which the Christian name has never been known;
+          for the rulers of these peoples,
+          though unbelievers, are nonetheless legitimate rulers,
+          whether they be governed by royal or by political rule.
+          Nor are they deprived of their rulership on account of unbelief,
+          since rulership derives from positive law
+          and unbelief from divine law,
+          which does not abrogate positive law.
+          And concerning these I know of no law
+          in temporal matters against them:
+          no king, no emperor, nor the Roman Church
+          may wage war to occupy their lands
+          or to subject them temporally;
+          because there is no cause of just war,
+          since Jesus Christ, King of kings,
+          to whom all power in heaven and on earth has been given,
+          sent to take possession of the world
+          not soldiers of an armed host,
+          but holy preachers,
+          as sheep among wolves.
+          And further:
+          'Therefore we would sin most gravely
+          if we were to strive to spread the faith of Christ by this path.
+          Nor would we be their legitimate rulers,
+          but would be committing great acts of robbery,
+          and would be bound to make restitution
+          as unjust combatants or occupiers.
+          Good preachers ought to be sent to these peoples
+          who by word and example would convert them to God,
+          and not those who would oppress, despoil, scandalize, and subjugate them.'"
+          Thus far Cajetan.
+          Who, in what he says, shows that he well understands
+          all the qualities that the unbelievers of this fourth kind or category possess,
+          and thus how greatly they differ from the other three kinds.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

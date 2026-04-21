@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 5</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 5</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02084">
+        <head xml:id="dc7aa7-e02084-Hd1e111">Capítulo 5</head>
+        <p xml:id="dc7aa7-e02084-d1e113">§ 5.º</p>
+        <p xml:id="dc7aa7-e02084-d1e118">Confírmase lo susodicho por una ley harto razonable,
+          que de la gente de Persia y del reino y rey de los persas mención hace.
+          Por la cual se prohíbe que los romanos no vayan a mercadear,
+          porque no se sospeche que el pueblo romano quería,
+          so color de comercio, escudriñar los reinos ajenos:
+          <quote xml:id="dc7aa7-e02084-Qd1e132">«para que no indaguen los secretos de un reino ajeno,
+          lo que no conviene»,</quote>
+          dice allí
+          <ref xml:id="dc7aa7-e02084-Rd1e137">4, mercatores, Codex, De commerciis et mercatoribus.</ref>
+          Donde confiesan los emperadores Teodosio y Honorio
+          ser ajeno el reino de los persas al pueblo romano.
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e144">No quiero dejar de referir
+          lo que nota Bártolo en la
+          <ref xml:id="dc7aa7-e02084-Rd1e148">L. christianis, Codex, De paganis</ref>
+          et templis eorum,
+          que a los moros no se debía hacer guerra
+          si no tuvieran usurpada la Tierra Santa,
+          ni a los turcos si no impidieran el paso a los cristianos
+          que iban con ejército a recobrarla:
+          <quote xml:id="dc7aa7-e02084-Qd1e157">«Puesto que contienden en algo turbulento
+          y contrario al derecho,
+          porque no nos permiten ir hacia ellos,
+          por eso la Iglesia les declara guerra;
+          de otro modo no se la declararía.»</quote>
+          Estas son sus palabras.
+          Parece por ellas que en tiempo de Bártolo
+          no tenían los turcos tanto poder o tanta malicia como ahora
+          para perseguir al pueblo cristiano.
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e169">Pues si con los moros y con los turcos
+          debemos ser pacíficos,
+          no tenemos que hacer con ellos
+          ni en bueno ni en malo:
+          más que amarlos y desear su salvación,
+          y en cuanto pudiéremos procurarla,
+          si no dañifican a la Iglesia universal
+          o no hacen contra nosotros algo contrario al derecho;
+          mucho menos tenemos que hacer
+          con las otras gentes que pusimos en esta cuarta especie,
+          pacíficas, que mal no nos hicieron,
+          habitantes en sus propias y remotísimas regiones y reinos,
+          apartadas de las nuestras,
+          más que, como dije, amarlas y procurar salvarlas.
+        </p>
+        <p xml:id="dc7aa7-e02084-d1e190">De esta cuarta diferencia de infieles,
+          más clara y distintamente que todos,
+          habló <ref xml:id="dc7aa7-e02084-Rd1e194">el cardenal Cayetano sobre la 2.2 q. 66, a. 8,</ref>
+          de la cual señaladamente dice así:
+          «Algunos hay infieles
+          que ni de derecho ni de hecho están sujetos
+          a la jurisdicción temporal de los príncipes cristianos,
+          como si se hallaran paganos que nunca fueron súbditos del Imperio romano,
+          que habitan tierras en las cuales el nombre cristiano nunca estuvo;
+          pues los señores de estos,
+          aunque infieles, son no obstante señores legítimos,
+          ya se gobiernen por régimen real o por régimen político.
+          Ni son privados de su señorío por razón de la infidelidad,
+          puesto que el señorío es de derecho positivo
+          y la infidelidad de derecho divino,
+          el cual no suprime el derecho positivo.
+          Y de estos no conozco ley alguna
+          en cuanto a lo temporal contra ellos:
+          ningún rey, ningún emperador ni la Iglesia romana
+          puede mover guerra para ocupar sus tierras
+          o someterlos temporalmente;
+          porque no hay causa de guerra justa,
+          pues Jesucristo, rey de reyes,
+          a quien fue dada toda potestad en el cielo y en la tierra,
+          envió a tomar posesión del mundo
+          no soldados de ejército armado,
+          sino santos predicadores,
+          como ovejas entre lobos.
+          Y más adelante:
+          "Por lo tanto, pecaríamos gravísimamente
+          si intentáramos dilatar la fe de Cristo por este camino.
+          Ni seríamos señores legítimos de ellos,
+          sino que cometeríamos grandes latrocinios,
+          y estaríamos obligados a la restitución
+          como injustos combatientes u ocupadores.
+          A estos se debería enviar buenos predicadores
+          que con palabra y ejemplo los convirtieran a Dios,
+          y no quienes los opriman, despojen, escandalicen y sometan."»
+          Hasta aquí Cayetano.
+          El cual, en lo que dice, muestra bien comprender
+          todas las cualidades que tienen los infieles
+          de esta cuarta especie o diferencia,
+          y así diferir mucho de las otras tres especies.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
