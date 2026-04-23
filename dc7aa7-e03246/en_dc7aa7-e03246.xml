@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 11</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 11</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Las Casas wrote this chapter almost entirely in Latin,
+          noting that he set it down in Latin so that learned men might read and correct it.
+          All prose has been translated into English.
+          Canon law and civil law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03246">
+        <head xml:id="dc7aa7-e03246-Hd1e111">Chapter 11</head>
+        <p xml:id="dc7aa7-e03246-d1e113">Chapter 11.
+          From the preceding fifth principle, the sixth follows.
+          And this one is set down in Latin, so that learned men may read it,
+          and correct it if they see fit.
+          Sixth Principle.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e126">In order that our illustrious kings may rightly,
+          that is, in accordance with the laws and with due circumstances,
+          acquire just possession of the supreme principality of the Indies,
+          it is necessarily required that the consent
+          of the kings and peoples of the said world intervene,
+          such that they freely consent to the institution or donation
+          made of our kings by the Apostolic See.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e143">This principle is proved in multiple ways.
+          First, thus:
+          the Apostolic See through the said institution or donation
+          did not deprive those peoples of their dominions,
+          dignities, royal prerogatives, states, and jurisdictions,
+          chiefly because these are known to belong to them
+          by natural law and the law of nations,
+          as appeared from the preceding principle;
+          therefore it did not deprive them of their liberty
+          or of those things that pertain to liberty,
+          because liberty is not well exchanged for all the gold in the world,
+          since it has no estimation,
+          as in <ref xml:id="dc7aa7-e03246-Rd1e162">L. libertas, ff., De regulis iuris.</ref>
+          For liberty is a natural faculty,
+          that is, the possibility of doing what one pleases,
+          save what is prohibited by force or by law.
+          Servitude, however, is that by which someone
+          is subjected against nature to another's dominion,
+          as in <ref xml:id="dc7aa7-e03246-Rd1e171">L. libertas, ff., De statu hominum.</ref>
+          Now, what pertains above all to liberty
+          is to consent or not consent to a foreign king or dominion,
+          since thereby free kings and peoples are reduced to servitude:
+          kings, because they must recognize a superior,
+          which is for kings naturally the greatest horror;
+          and peoples, because they are forced to suffer
+          a double and harsher servitude.
+          And this is the greatest prejudice to both.
+          For subjection and the oath of fealty are a kind of servitude,
+          and one who is under the jurisdiction of another
+          is said to be as it were that person's slave,
+          as in <ref xml:id="dc7aa7-e03246-Rd1e190">ff., De usufructuario, L.</ref>
+          si usufructus, 15; et L. cum servum, ad fin. et ibi
+          <ref xml:id="dc7aa7-e03246-Rd1e195">Doctores, Codex, De servis fugitivis; et in c. cum olim, el 2.º</ref>
+          de privilegio.
+          It is necessary that all those who are prejudiced
+          consent together and freely,
+          as in <ref xml:id="dc7aa7-e03246-Rd1e202">cap. cum omnes, De constitutionibus,</ref>
+          in the rule <quote xml:id="dc7aa7-e03246-Qd1e207">"What touches all,"</quote>
+          <ref xml:id="dc7aa7-e03246-Rd1e209">De regulis iuris, Lib. VI.</ref>
+          Therefore, in order that our illustrious kings
+          may rightly and justly acquire just possession
+          of the supreme principality of the Indies,
+          it is necessarily required that the consent
+          of the kings and peoples of the said world intervene, etc.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e219">It is likewise proved in the second place:
+          those kingdoms and peoples of that entire world
+          were free by natural law and the law of nations
+          at the time we found them,
+          having kings and princes,
+          recognizing no superior outside themselves
+          either in law or in fact, as has been said,
+          exercising full and pure authority
+          and all power and jurisdiction,
+          just as other kings of the world do.
+          For that new world, in the vast ocean sea,
+          is most remote from every region
+          that men have ever known,
+          occupied and possessed by those Indians from time immemorial,
+          and we found and saw with our own eyes
+          that their own natural kings reigned over it,
+          and so were entirely exempt or free from every superior.
+          This is proved by <ref xml:id="dc7aa7-e03246-Rd1e249">ff., De iustitia et iure, L. ex hoc iure,</ref>
+          where it says: <quote xml:id="dc7aa7-e03246-Qd1e254">"peoples were distinguished,
+          kingdoms founded, dominions set apart."</quote>
+          Where it appears that those peoples and their kings
+          were free, recognizing no superior,
+          by natural law and the law of nations.
+          Therefore without their free consent and goodwill,
+          another new king cannot be given to them.
+          Otherwise violence and most grievous injury
+          and the most enormous harm would be done to them,
+          if we were to subject free kings and subjects,
+          lords and vassals, to servitude against nature and reason.
+          And consequently such a principality would be violent,
+          usurped, and tyrannical,
+          as is proved by <ref xml:id="dc7aa7-e03246-Rd1e276">C. 1 q. 1, c. principatus;</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e278">L. decernimus, Codex, De sacrosanctis ecclesiis.</ref>
+          See Baldo, above in chapter IV.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e284">Since, therefore, it was not the intention of the supreme vicar of Christ
+          to inflict prejudice upon the liberty and rights
+          of the kings and peoples of that world,
+          or to bring violence to bear upon them in any way,
+          or injury, or to grant license for others to inflict it,
+          or to approve what had already been inflicted,
+          it is manifest that the supreme vicar of Christ understood and willed
+          that, in order for our kings to rightly and justly
+          acquire just possession of the supreme principality of that world,
+          the goodwill of the kings and peoples of the said world
+          should be sought,
+          such that they freely consent to the papal institution
+          or donation made of our kings.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e306">It is likewise proved in the third place thus:
+          whenever a free man, and still more a free people or community,
+          must be bound to bear some burden
+          or to discharge some debt,
+          and in general when the prejudice of many is at stake,
+          it is necessary to summon all those whom it touches
+          and to obtain their free consent.
+          Otherwise nothing that is done will be valid,
+          as is sufficiently clear among those learned in the law.
+          But if the king of Spain, insofar as he is king of Castile and León,
+          were imposed upon the Indian nations and their princes
+          as their universal or supreme king and lord,
+          in law or in fact,
+          they would be bound at least civilly,
+          as regards the judicial forum or human judgment,
+          to the most grievous burden and to the discharge of an intolerable debt:
+          namely, to recognize as their king and lord
+          a man wholly unknown to them,
+          king of another, foreign, barbarous, and at first sight very suspect nation,
+          and therefore to render him obedience, subjection, reverence,
+          revenues, tributes, services, new impositions,
+          and the other royal dues;
+          from which there would follow an incomparable
+          and perhaps irreparable harm.
+          Therefore it is necessary to summon all the kings and peoples
+          of those nations,
+          and to await and obtain from them their free consent.
+          All of this is plain.
+          For it is well known in law
+          that all those whom a matter principally touches must be cited,
+          as in the rule of law:
+          "and it must be approved or rejected by all,"
+          namely all those who are harmed,
+          or whose right is diminished,
+          or who are prejudiced,
+          to whom the power of consenting or dissenting
+          has been given by natural, divine, and human law,
+          as <ref xml:id="dc7aa7-e03246-Rd1e365">Baldo says in L. nam ita demum, ff., De adoptionibus,</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e367">the Gloss;</ref>
+          from which he draws the argument that when rescripts are sought,
+          those who would be harmed by the rescript must intervene:
+          <ref xml:id="dc7aa7-e03246-Rd1e374">ff., De natalibus restituendis, L. filium;</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e376">ff., De minoribus, L. in causae cognitione, causa;</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e381">in Autbent., Ut sponsalitia largitas, cap. ad hec, Collatio 8.</ref>
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e384">All the foregoing is proved and confirmed also in the fourth place:
+          because it is found so ordained in Sacred Scripture,
+          that in the granting and constitution
+          of a new and supreme prince from the beginning,
+          and even of the prince whom God had designated or chosen,
+          the free consent and authority,
+          or voluntary acceptance of the people, must intervene,
+          without which even the divine institution of the supreme prince
+          took no effect.
+          This is clear from <ref xml:id="dc7aa7-e03246-Rd1e401">Deuteronomy 17, where it is said:</ref>
+          <quote xml:id="dc7aa7-e03246-Qd1e403">"When you shall say: I will set a king over me,
+          as all the nations that are round about me have,
+          you shall set him over you whom the Lord your God shall choose, etc."</quote>
+          In which words the Lord decreed and commanded
+          that two things must concur for the just institution of a king.
+          The one, on the part of the one to be instituted:
+          namely, that he shall have been chosen by divine Providence,
+          awaiting in the election the judgment of God.
+          The other, on the part of the people:
+          namely, that the people should voluntarily receive
+          and willingly ratify the one elected by God as king,
+          and deliver to him the possession of the kingdom.
+          Which two things the aforesaid words sufficiently denote:
+          "you shall set over you him whom God shall choose";
+          where a voluntary act was required,
+          that is, the consent and approval of the people
+          in "you shall set over you," that is, you shall ratify and accept,
+          and shall have as king the one whom God shall have given to be understood as chosen.
+          Wherefore, although God could have set a king over the Hebrew people
+          even without their consent, being Lord of all,
+          <ref xml:id="dc7aa7-e03246-Rd1e383">Hebrews 1</ref> and <ref xml:id="dc7aa7-e03246-Rd1e388">Daniel 4,</ref>
+          he was nonetheless unwilling to deprive that people
+          of the privilege of natural law
+          which pertains to all men and to every free people:
+          to submit of their own free will to another's governance
+          if they see it to be useful to them.
+          For God does not destroy or abrogate his own work
+          or the natural law which from the beginning
+          he himself instituted so wisely, so orderly, and so immutably.
+          For it is not the character of divine providence
+          to force or corrupt natures;
+          and the great Dionysius, <ref xml:id="dc7aa7-e03246-Rd1e405">lib. 4, De divinis nominibus,</ref>
+          says that he "preserves" them.
+          Wherefore, just as by divine ordination
+          it had the force of a precept
+          that the people should voluntarily set over themselves as king
+          the one whom the Lord should choose —
+          that is, ratify such an election of God
+          and deliver to him the possession of the kingdom —
+          so by the same just divine ordination
+          the consent of the people, the ratification,
+          and the delivery of possession of the kingdom
+          were necessarily required for the exercise of royal power.
+          For if God did not require this consent of the people,
+          he would simply have said:
+          <quote xml:id="dc7aa7-e03246-Qd1e485">"He shall be king over you whom the Lord shall choose";</quote>
+          and it would not have been necessary to add:
+          <quote xml:id="dc7aa7-e03246-Qd1e490">"You shall set over you him whom the Lord shall choose, etc."</quote>
+          For the words of Sacred Scripture must be weighed carefully,
+          since it is full of mysteries,
+          and it would be wrong to suppose
+          that anything improper, superfluous, or deficient could be found in it.
+          This indeed is also clearly evident in the two first kings,
+          Saul and David, of the people of Israel.
+          For as is recorded in <ref xml:id="dc7aa7-e03246-Rd1e504">1 Kings, chapter 10,</ref>
+          although Saul had first been anointed by the command of God
+          through Samuel as king,
+          and through that anointing had obtained
+          right and title to that kingdom,
+          it was nonetheless afterwards necessary
+          that he be instituted and accepted by the people as king,
+          and that the possession of the kingdom be delivered to him.
+          For he did not dare to exercise jurisdiction
+          or the authority of royal power,
+          nor could he do so with full right,
+          before the people had consented to the election made of him
+          and had delivered or granted him possession of the kingdom,
+          as is plain there; see there again.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e529">The same you will find in 2 Kings, namely David,
+          who although he had also been anointed as king
+          by the prophet Samuel by the command of God,
+          as in <ref xml:id="dc7aa7-e03246-Rd1e535">1 Kings, chapter 16,</ref>
+          nonetheless did not dare to involve himself
+          in the exercise of royal power immediately after the death of Saul,
+          nor did he assume the kingdom to himself,
+          though he knew perfectly well that he had been elected and anointed by God
+          for the kingdom of that people by his command;
+          not being unaware that by divine precept
+          he was to be constituted and enthroned in the kingdom
+          by the consent and authority of the people:
+          first, at Hebron, through the tribe of Judah —
+          the men of Judah came, it says,
+          and anointed David there to reign over Judah,
+          <ref xml:id="dc7aa7-e03246-Rd1e552">2 Kings, chapter 2</ref> —
+          and then, second,
+          all the tribes of Israel came,
+          and the elders of Israel came to the king at Hebron,
+          and he made a covenant with them at Hebron before the Lord,
+          and they anointed David king over Israel, etc.
+          This in <ref xml:id="dc7aa7-e03246-Rd1e563">chapter 5.</ref>
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e566">Behold how David, beyond the divine institution,
+          promotion, and anointing,
+          needed the approval and acceptance
+          and delivery of possession of the kingdom
+          through the free consent of the whole people,
+          in order to have a legitimate and juridical entry into the kingdom;
+          that is, to obtain rightly and justly
+          the possession and exercise of royal power in that kingdom.
+          Therefore, by the example of the divine law,
+          in order for our kings to rightly and justly obtain
+          just possession of the supreme principality of the world of the Indies,
+          the institution, promotion, or donation alone
+          of the Most Holy Apostolic See does not suffice,
+          but it is necessarily required
+          that the consent of the kings and peoples
+          of those nations intervene,
+          such that they freely consent
+          to the said institution, promotion, or donation
+          made of our kings by the same Holy See.
+          On this, see more fully our treatise in
+          <ref xml:id="dc7aa7-e03246-Rd1e596">the book De thesauris, chapter 22</ref>
+          and following.
+          And thus the sixth principle is made plain.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
