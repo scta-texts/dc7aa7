@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 10</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 10</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Los pasajes dañados o corruptos se han reconstruido en la medida de lo posible
+          a partir del contexto y de las fuentes citadas.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02906">
+        <head xml:id="dc7aa7-e02906-Hd1e111">Capítulo 10</head>
+        <p xml:id="dc7aa7-e02906-d1e113">Capítulo 10</p>
+        <p xml:id="dc7aa7-e02906-d1e118">La segunda parte, conviene a saber:
+          que si aquellas gentes, después de haberles predicado la fe
+          y ellos haberla recibido, no quisieren pagar las expensas
+          que los reyes hubieren hecho en ello,
+          no pueden ser compelidos al pago
+          ni a contribuir parte alguna de ellas.
+          Pruébase por muchas razones.
+          La primera, porque por precepto de Cristo,
+          somos obligados a dar graciosamente,
+          así como graciosamente recibimos la fe.
+          <ref xml:id="dc7aa7-e02906-Rd1e135">Mateo 10:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e137" source="http://scta.info/resource/mt10_10/critical/transcription">«El obrero digno es de su sustento»,</quote>
+          id est, según Jerónimo, solamente:
+          <quote xml:id="dc7aa7-e02906-Qd1e142">«Tomad lo que en vestido y sustento os sea necesario».</quote>
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e148">Lo segundo, porque al sumo pastor de la Iglesia universal,
+          y a los demás a quienes por oficio les incumbiere,
+          o a quienes él se lo encomendare,
+          les incumbe por precepto divino dado absolutamente por Cristo
+          proveer y mandar que se predique el Evangelio a todas las gentes,
+          por todo el mundo,
+          sin diferencia ni mención ni condición alguna de precio
+          ni de las expensas.
+          Porque, mandada la predicación,
+          se manda también que se pongan los gastos y las expensas,
+          como está dicho.
+          Así lo mandó Cristo: <ref xml:id="dc7aa7-e02906-Rd1e169">Marcos, último capítulo:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e171">«Id por todo el mundo y predicad el Evangelio a toda criatura»,</quote>
+          et <ref xml:id="dc7aa7-e02906-Rd1e177">Mateo, último capítulo:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e179">«Id y enseñad a todas las gentes, etc.»</quote>
+          Y San Pablo, <ref xml:id="dc7aa7-e02906-Rd1e184">1 a los Corintios 9,</ref>
+          conociendo serle precepto, dijo:
+          <quote xml:id="dc7aa7-e02906-Qd1e188">«Pues si evangelizare, no es para mí gloria,
+          porque necesidad me es impuesta»,</quote>
+          como si dijese: «pocas gracias a mí si lo cumpliere,
+          porque a ello soy obligado so pena de eterna condenación
+          por precepto divino»,
+          por lo que se sigue:
+          <quote xml:id="dc7aa7-e02906-Qd1e198">«¡Ay de mí si no evangelizare!», id est,
+          <ref xml:id="dc7aa7-e02906-Rd1e202">según la Glosa y Santo Tomás:</ref>
+          ciertamente se frustraría mi gloria celestial
+          si predicase para recibir dineros»,</quote>
+          etc.
+          Lo tercero, porque la predicación de la fe,
+          por la divina ordenación, se debe sin diferencia alguna
+          a todas las gentes del mundo,
+          porque aquello se debe a cada uno
+          que le es ordenado según el orden de la divina sabiduría,
+          según enseña <ref xml:id="dc7aa7-e02906-Rd1e216">Santo Tomás, 1 q. 2 a. 1 ad 3.</ref>
+          Y por tanto, por pagar el hombre lo que debe,
+          no le es lícito pedir las expensas al acreedor.
+          Pues el sumo pontífice y los otros ministros de la Iglesia,
+          deudores de convertir las gentes
+          — que en cuanto a esto son sus acreedores —,
+          según aquello de <ref xml:id="dc7aa7-e02906-Rd1e226">San Pablo, Romanos 1:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e229">«A griegos y a bárbaros, a sabios y a ignorantes, soy deudor;
+          de esta manera, en cuanto está en mí,
+          pronto estoy también a anunciaros el Evangelio a vosotros que estáis en Roma.»</quote>
+          San Bernardo, <ref xml:id="dc7aa7-e02906-Rd1e237">libro 3.º, De consideratione, al papa Eugenio:</ref>
+          «Si pues reconoces que eres deudor
+          de sabios e ignorantes, no señor sino deudor,
+          has de poner sumo cuidado y toda vigilancia en considerar
+          de qué manera los que no son sabios lleguen a serlo
+          y los que lo son no caigan en la insensatez.
+          Eres pues deudor también respecto de los infieles,
+          tanto judíos como griegos y gentiles.
+          Justo es por lo tanto que pongas toda la diligencia que puedas
+          en que los incrédulos se conviertan a la fe,
+          y los ya convertidos no se aparten de ella, etc.»
+          Hasta aquí Bernardo.
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e255">Lo cuarto, porque si a los infieles oyentes del Evangelio
+          les pidiésemos las expensas u otra cosa a precio,
+          estimarían que les vendemos el Evangelio
+          y que por ganancia y granjería se lo predicamos,
+          y no para convertirlos a Cristo y salvarles las almas.
+          Así lo dice <ref xml:id="dc7aa7-e02906-Rd1e268">San Jerónimo sobre San Mateo:</ref>
+          si los apóstoles recibieran oro y plata,
+          parecería que predicaban no por la salvación de los hombres, sino por lucro.
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e277">Y la glosa sobre aquello de <ref xml:id="dc7aa7-e02906-Rd1e281">2 a los Corintios 12</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e283">«no busco lo vuestro sino a vosotros»,</quote>
+          dice: no busca dadivas ni dones, sino el fruto,
+          no sea que parezca vendedor del Evangelio.
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e291">Solamente pues permitió Cristo a sus predicadores
+          recibir y tomar la comida de aquellos a quienes predicasen el Evangelio.
+          Y esto mismo muestra el apóstol:
+          «teniendo alimento y con qué cubrimos, con esto seremos contentos»,
+          <ref xml:id="dc7aa7-e02906-Rd1e301">1 a los Corintios 6.</ref>
+          Y a dar más, Cristo no obligó a los que la fe se les predicare y la recibieren.
+          E incluso esta comida, si los tales no quisieren darla,
+          no impuso penas corporales o temporales;
+          así como no impuso penas en este mundo
+          a los que no quisieren recibir a los predicadores del Evangelio,
+          ni recibirlos ni oírlos;
+          antes el castigo y punición de aquel pecado
+          reservó para sí en el día del juicio final:
+          «Y el que no os recibiere ni oyere vuestras palabras,
+          salid de aquella casa o ciudad y sacudid el polvo de vuestros pies.
+          En verdad os digo que en el día del juicio
+          habrá menos rigor para la tierra de Sodoma y de Gomorra
+          que para aquella ciudad.»
+          <ref xml:id="dc7aa7-e02906-Rd1e325">Mateo 10.</ref>
+          «Y el que no creyere, será condenado.»
+          Por esta autoridad deberían ponerse el dedo en la boca
+          los que presumen afirmar que si los infieles no recibieren a los predicadores
+          ni los quisieren oír,
+          pueden ser forzados a ello por los católicos;
+          que no son sino pretextos para escandalizar y robar a los infieles,
+          usurpar sus señoríos,
+          y hacer que nunca vengan a la fe,
+          como parece por lo dicho.
+          Volviendo al propósito:
+          San Pablo no excomulgó a los corintios, como pudiera,
+          después de recibida la fe,
+          ni fulminó alguna otra pena temporal
+          contra los que por su propia avaricia
+          no querían ni quisieron proveer de comida a él y a sus compañeros.
+          No hizo más de
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e408">echárselo en cara como a desagradecidos, diciendo:
+          <quote xml:id="dc7aa7-e02906-Qd1e351">«Porque os prediqué el Evangelio de Dios de gracia,
+          despojé a otras Iglesias, recibiendo salario, es decir, alimento,
+          para el ministerio a vosotros.
+          Y cuando estaba entre vosotros y padecía necesidad,
+          a nadie fui carga;
+          pues lo que me faltaba, lo suplieron los hermanos
+          que vinieron de Macedonia.
+          Y en todo me guardé y me guardaré de seros gravoso, etc.»</quote>
+          Algunas veces trabajó con sus propias manos
+          para comprar de comer para sí
+          y para los que con él andaban y le ayudaban.
+          Estando en Mileto, dijo a los que había predicado:
+          <quote xml:id="dc7aa7-e02906-Qd1e371">«La plata y el oro o el vestido de nadie codicié,
+          como vosotros mismos sabéis.
+          Para lo que me era necesario a mí
+          y a los que están conmigo,
+          estas manos ministraron.
+          En todo os he mostrado que, trabajando así,
+          es necesario sostener a los débiles,
+          y recordar las palabras del Señor Jesús,
+          que dijo: más bienaventurado es dar que recibir.»</quote>
+          <ref xml:id="dc7aa7-e02906-Rd1e384">Hechos 20.</ref>
+          No impide a lo dicho que no solo de derecho divino,
+          como ha parecido, sino también de derecho natural,
+          prueba el apóstol debérseles lo necesario
+          a los que predican y sirven al Evangelio:
+          <quote xml:id="dc7aa7-e02906-Qd1e393" source="http://scta.info/resource/Icor9_7/critical/transcription">«Pues nadie milita a sus propias expensas»,</quote>
+          <ref xml:id="dc7aa7-e02906-Rd1e396">1 a los Corintios 9.</ref>
+          Porque a cualquiera que sirve al bien común,
+          la razón natural dicta que se le debe lo necesario a la vida.
+          Lo cual todo es verdad;
+          luego, pueden ser constreñidos a que cumplan en este caso
+          la deuda que deben a los predicadores,
+          de derecho natural y divino, etc.
+          A lo cual respondemos que los infieles,
+          aunque después de convertidos,
+          por su propia avaricia u otra razón irracional,
+          no quisieren dar lo necesario a las mismas personas
+          que les predicaron o predican,
+          pecan gravemente, no solo obrando como desagradecidos;
+          pero aquel pecado no es punible por hombres en esta vida
+          con pena espiritual o temporal,
+          sino en el otro mundo,
+          que la punición de él reservó para sí Jesucristo,
+          como se ha visto.
+          Porque aunque esta obligación sea de derecho natural,
+          es empero como la obligación antidotal
+          que nace de aquella natural equidad
+          que dicta que agradezcamos y hagamos bien
+          a quien nos hace bien;
+          de la cual tratan los legistas en la
+          <ref xml:id="dc7aa7-e02906-Rd1e434">L. sed in lege, § consuluit, ff. De petitione hereditatis,</ref>
+          et <ref xml:id="dc7aa7-e02906-Rd1e439">in c. cum in officiis, de testamentis;</ref>
+          pero de ella no nace ni compete acción alguna:
+          nec potest deduci in compensationem,
+          <ref xml:id="dc7aa7-e02906-Rd1e447">L. hoc iure, penúlt., De donationibus.</ref>
+          Y por tanto, ninguno puede ser compelido a pagar la deuda
+          que por esta obligación ha contraído,
+          así como tampoco a dar limosna al prójimo pobre
+          que vive en extrema necesidad,
+          y así con las demás obras de misericordia,
+          a las cuales es empero obligado todo hombre
+          de derecho natural y divino,
+          so pena de pecado mortal y condenación eterna,
+          como parece en <ref xml:id="dc7aa7-e02906-Rd1e465">Mateo 25:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e467">«Tuve hambre y no me disteis de comer, etc.»</quote>
+          Pero ningún juez espiritual o temporal
+          tiene poder para punir ni constreñir a los tales.
+          Y esto, porque la punición de ello reservó Cristo para sí,
+          dejando tales obras a la libertad de cada uno y a su libre albedrío.
+          Así de la misma manera, dejó Cristo a la voluntad de los que oyesen
+          o no oyesen la fe de buena gana,
+          y la recibiesen o no la recibiesen,
+          que mantuviesen o proveyesen a los predicadores
+          de lo necesario a la vida.
+          Dígase notablemente: «no quisieren dar a las mismas personas que predican
+          lo necesario»;
+          porque a más de lo que las mismas personas han menester necesariamente
+          no son obligados,
+          porque ha de entenderse que todo lo demás que les piden
+          para superfluidades,
+          como hacer suntuosas iglesias o monasterios y otros excesos
+          que con pretextos y color de la predicación les piden
+          y hicieron hacer:
+          todo es robado,
+          y han de dar cuenta estrecha a Dios de ello.
+          Todo esto se prueba por aquella licencia limitada que Cristo dio:
+          <quote xml:id="dc7aa7-e02906-Qd1e502">«El obrero digno es de su sustento»</quote>
+          y «comed lo que os pusieren delante»,
+          <ref xml:id="dc7aa7-e02906-Rd1e507">Lucas 10.</ref>
+          No dijo: «tomaréis la comida superflua ni la necesaria ni lo demás»,
+          sino:
+          <quote xml:id="dc7aa7-e02906-Qd1e514">«Comed lo que os dieren,
+          y si no os lo dieren, id a otra parte,
+          porque al fin yo tengo provisto
+          que ninguna cosa de las necesarias os ha de faltar».</quote>
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e522">Y así parece que no pueden ser compelidos los infieles,
+          ni después de cristianos, a pagar los gastos
+          que se hicieren para ir a predicarles,
+          sino que los reyes de Castilla se encargaron,
+          en cuanto a lo de las Indias, de hacerlos convertir,
+          y el papa les impuso precepto sobre ello,
+          sin que por ello les lleven un maravedí habido por fuerza.
+          Y la misma razón es de cualquiera otra persona pública o privada
+          a quien el vicario de Cristo este cuidado y oficio cometiera
+          en general y en particular,
+          que fuera obligada a poner los gastos
+          sin pedir remuneración alguna de ellos,
+          al menos forzándolos a ella;
+          porque escrito está, <ref xml:id="dc7aa7-e02906-Rd1e543">Eclesiástico 17:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e545">«A cada uno mandó Dios acerca de su prójimo»,</quote>
+          y <ref xml:id="dc7aa7-e02906-Rd1e551">Mateo 7:</ref>
+          «Todo lo que queráis que os hagan los hombres, hacédselo también vosotros a ellos.»
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
