@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 12</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 12</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas en latín insertadas en el texto español han sido traducidas al español;
+          las citas de derecho canónico y civil se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03660">
+        <head xml:id="dc7aa7-e03660-Hd1e111">Capítulo 12</head>
+        <p xml:id="dc7aa7-e03660-d1e113">§ 12.
+          Principio 7.º
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e123">El primer ingreso o pie con que los españoles entraron
+          en las Indias y en cada provincia, reino y parte de ellas,
+          desde que se descubrieron en el año de 1492 hasta hoy inclusive,
+          que estamos en diciembre del año de 1563,
+          fue violento, nefando y tiránico y crudelísimo,
+          y propio de crueles enemigos;
+          y tal que ninguna gente, por bárbara y sin ley y razón que fuera,
+          pudiera haberlo hecho.
+          Asimismo, el progreso y desorden
+          del gobierno que por todo aquel orbe impusieron.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e143">La primera parte de este principio se puede probar
+          por mil maneras,
+          pero por abreviar la probaremos por esta.
+          Porque en el dicho ingreso, primera entrada,
+          nunca guardaron, antes quebrantaron,
+          la orden del derecho natural y divino, y también humano.
+          Esto parecerá trayendo a la memoria
+          las partes que contiene la dicha orden
+          del susodicho derecho natural, humano y divino.
+          La primera es que, siendo la causa única y final
+          de su navegación por aquellos mares
+          y entrada en aquellos reinos ajenos
+          no otra ni posible de ser otra
+          sino la predicación de la fe y conversión de aquellas gentes,
+          se requería por la orden natural y divina
+          que lo primero que de nuestra parte se hiciese
+          y a las gentes se ofreciese, fuese paz.
+          Esta primera parte se prueba por
+          <ref xml:id="dc7aa7-e03660-Rd1e173">san Mateo, capítulo 10</ref>
+          y por <ref xml:id="dc7aa7-e03660-Rd1e175">san Lucas y san Marcos,</ref>
+          donde Cristo puso precepto de que lo primero
+          que usasen los cristianos que fuesen a convertir infieles, fuese paz:
+          <quote xml:id="dc7aa7-e03660-Qd1e182">«Entrando en la casa, saludadla, diciendo: paz a esta casa, etc.»</quote>
+          Supone la predicación de la fe y conversión de las gentes la paz.
+          Porque, según dice una Extravagante in omnibus, título de usuris:
+          <quote xml:id="dc7aa7-e03660-Qd1e192">«Sabemos y colegimos de la evidencia del hecho
+          que solo en tiempo de paz se rinde buen culto al autor de la paz.»</quote>
+          Y así debiera haber sido pacífico
+          el primer pie y primer ingreso o entrada
+          de los españoles en las Indias.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e203">La segunda parte de la orden del derecho natural y divino:
+          que aquel ingreso fuese pausado y espacioso,
+          poco a poco y con mucho tiento,
+          para que no se turbasen los reyes y gentes de aquellos pueblos
+          al ver gentes tan nuevas, barbadas y al parecer feroces en el aspecto;
+          porque todas las cosas nuevas y no acostumbradas
+          causan por su naturaleza turbación,
+          pues parecen mayores males de lo que son
+          y menos remediables,
+          como dice <ref xml:id="dc7aa7-e03660-Rd1e220">san Agustín en el libro 2 de las Confesiones.</ref>
+          Y bien se prueba esto por la ley observare antequam, ff.
+          <ref xml:id="dc7aa7-e03660-Rd1e227">De officio proconsulis,</ref>
+          donde manda que cuando fuere proveído alguno
+          como asistente o gobernador a alguna provincia o ciudad,
+          avise primero a los ciudadanos de que va,
+          y que les gane la benevolencia
+          significándoles que va para su utilidad y para hacerles bien, etc.
+          Y la razón de la ley, ella misma la declara:
+          <quote xml:id="dc7aa7-e03660-Qd1e240">«Porque muchas veces las cosas inciertas e inesperadas
+          turban a los provinciales e impiden los actos del ingreso, etc.»</quote>
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e247">La tercera requiere la orden del derecho natural y divino
+          en este tan supremo negocio:
+          que aquel ingreso y primera entrada en cada provincia
+          fuese inocuo e irreprensible;
+          conviene a saber, que los españoles enviados
+          no saltasen sobre los reyes naturales y sus pueblos.
+          Porque si contra la voluntad de ellos,
+          y mayormente si expresamente les fuere prohibida la entrada
+          por obras o por palabras,
+          entonces sería dañoso, culpable e injurioso;
+          y justamente aquellos reyes y pueblos
+          tendrían causa de turbarse e indignarse contra los españoles
+          y moverles guerra y castigarlos como a súbditos suyos,
+          o por mejor decir, como a enemigos.
+          Puede cualquier rey o señor prudente,
+          por autoridad del derecho natural y divino y aun humano,
+          prohibir libremente la entrada en su reino
+          a cualesquiera personas extrañas no conocidas,
+          presumiendo que no vengan con intención
+          de escudriñar los puntos débiles y secretos de la tierra
+          para después usurparla.
+          Y esta prohibición asaz se prueba por lo que dijo José a sus hermanos,
+          aunque para afligirlos, pero con color razonable:
+          <quote xml:id="dc7aa7-e03660-Qd1e286">«Vosotros sois espías, dijo,
+          habéis venido a ver los lugares débiles de la tierra,
+          por la salud del Faraón, etc.»</quote>
+          <ref xml:id="dc7aa7-e03660-Rd1e291">Génesis 42.</ref>
+          Y los consejeros del rey Amón daban esta misma razón
+          sospechando de David,
+          que como era hombre belicoso,
+          los mensajeros que envió para consolar a Hanún
+          sobre la muerte de su padre,
+          fuesen con aquel pretexto a conocer los lugares
+          más dispuestos para entrarle con guerra;
+          dijeron al rey:
+          «Quizá piensas que David te ha enviado consoladores
+          por honrar a tu padre;
+          no adviertes que sus siervos han venido a ti
+          para explorar, investigar y escudriñar tu tierra.»
+          <ref xml:id="dc7aa7-e03660-Rd1e312">1 Paralipómenos 19.</ref>
+          Esto también se prueba por la
+          <ref xml:id="dc7aa7-e03660-Rd1e317">L. mercatores, Codex, De commerciis et mercatoribus;</ref>
+          y en la <ref xml:id="dc7aa7-e03660-Rd1e322">L. ut vim, ff. De iustitia et iure.</ref>
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e325">Lo cuarto requiere la orden del derecho natural y divino,
+          y esto muy principalmente:
+          que los españoles que nuestro rey y señor enviase
+          con los predicadores de la fe,
+          pues ninguna otra causa legítima tuvieron
+          para ir a aquellas tierras ajenas propias de aquellas gentes,
+          viviesen cristianamente,
+          y que fuese tal su conversación y ejemplo
+          que aquellos infieles, viéndola,
+          se moviesen y animasen a profesar la religión cristiana
+          recibiendo la fe y el bautismo,
+          y alabasen a Dios que tal gente les enviara para convertirlos.
+          Esto se prueba por aquello de
+          <ref xml:id="dc7aa7-e03660-Rd1e348">Mateo 5:</ref>
+          «Así brille vuestra luz, esto es vuestra vida,
+          delante de los hombres,
+          para que vean vuestras obras
+          y glorifiquen a vuestro Padre que está en los cielos.»
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e356">Y <ref xml:id="dc7aa7-e03660-Rd1e358">1 Pedro:</ref>
+          «Teniendo entre los gentiles una buena conducta,
+          para que en aquello en que murmuran de vosotros como de malhechores,
+          al ver vuestras buenas obras
+          glorifiquen a Dios en el día de la visitación,
+          esto es, cuando Dios visita a los infieles
+          enviándoles predicadores de la fe.»
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e369">San Juan Crisóstomo, sobre las dichas palabras de
+          <ref xml:id="dc7aa7-e03660-Rd1e373">san Mateo,</ref> dice:
+          «Por aquellos que enseñan y obran, Dios es glorificado.
+          Por los que enseñan y no obran, es blasfemado.
+          Si enseñan bien y los gentiles ven que así lo hacen,
+          los gentiles que lo ven dicen:
+          <quote xml:id="dc7aa7-e03660-Qd1e382">«Bendito sea Dios que tiene tales siervos;
+          verdaderamente su Dios es el verdadero Dios.
+          Porque si él mismo no fuera justo,
+          nunca tendría a su pueblo tan firmemente en la justicia;
+          pues la disciplina del señor se demuestra
+          por las costumbres de su familia.»</quote>
+          Pero si enseñan bien y se conducen mal,
+          los que los ven dicen:
+          <quote xml:id="dc7aa7-e03660-Qd1e395">«¿Cómo es su Dios, que consiente que hagan tales cosas?
+          ¿Acaso los toleraría si no aprobara sus obras? etc.»</quote>
+          Y sobre <ref xml:id="dc7aa7-e03660-Rd1e402">1 Timoteo 3,</ref>
+          después de muchas cosas bellísimas,
+          dice el mismo Crisóstomo:
+          <quote xml:id="dc7aa7-e03660-Qd1e406">«Ciertamente nadie seguiría siendo gentil
+          si nosotros mismos nos cuidáramos de ser cristianos como es debido
+          y obedeciéramos los mandatos y enseñanzas de Dios,»</quote>
+          y poco más abajo:
+          <quote xml:id="dc7aa7-e03660-Qd1e418">«No habría nadie tan bestia feroz
+          que no acudiese de inmediato al culto de la verdadera religión
+          si viera que todos lo practican.»</quote>
+          Crisóstomo.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e424">La quinta requiere la orden del derecho natural y divino:
+          que los españoles, en cada provincia a la que llegaran
+          de parte del rey de Castilla,
+          después de haber entrado con la voluntad de los reyes y pueblos,
+          como queda dicho,
+          debían exponerles y declararles la causa final de su ida
+          a aquellas tierras;
+          conviene a saber, darles noticia de un verdadero Dios,
+          Criador y Señor de todos los mundos, etc.
+          La cual debía darse muy despacio y a sus tiempos,
+          de manera modesta, suave y blanda,
+          y con todas las demás circunstancias
+          que para cualquier buena obra, para que lo sea, se requieren.
+          Esto se prueba por la segunda y tercera razón.
+          Porque si no se hiciera así,
+          no carecería tal entrada de sospecha,
+          y los reyes y sus pueblos se turbarían y escandalizarían,
+          y por consiguiente los daños y males que de allí se siguieran
+          a los españoles se les imputarían, etc.
+          Y señaladamente que sin la previa notificación
+          se requiere un espacio de mucho tiempo,
+          porque antes habían de aprender las lenguas
+          para que unos y otros se entendiesen,
+          sin lo cual nada de lo que se hiciere valdría algo de derecho,
+          ut <ref xml:id="dc7aa7-e03660-Rd1e465">L. 1, fin., ff., De verborum significatione,</ref>
+          cum ibi nota et alibi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
