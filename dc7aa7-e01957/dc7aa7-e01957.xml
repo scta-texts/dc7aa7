@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 4</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 4</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e01957">
+        <head xml:id="dc7aa7-e01957-Hd1e111">Capítulo 4</head>
+        <p xml:id="dc7aa7-e01957-d1e113">§ 4.º</p>
+        <p xml:id="dc7aa7-e01957-d1e118">Es la cuarta especie o diferencia de infieles,
+          que ni tierras tienen usurpadas que hayan sido nuestras,
+          ni con injuria nos hayan despojado de ellas.
+          Asimismo, que nunca nos hayan hecho injuria, daño ni mal alguno,
+          ni tengan propósito de hacerlo;
+          ni perjudiquen o impidan a nuestra santa fe,
+          ya sea porque nunca la oyeron,
+          ya sea porque en bueno ni en malo
+          no tienen cuidado alguno de ella.
+          Asimismo, los que ni en el presente
+          ni en los siglos pasados fueron súbditos del Imperio cristiano
+          ni de algún miembro de la Iglesia,
+          de jure ni de facto, id est actu,
+          ni por razón del origen ni del domicilio,
+          ni por delito que contra nosotros
+          y la Iglesia hayan cometido,
+          ni por razón del contrato,
+          ni por otra causa de sujeción
+          de las que arriba referimos,
+          como hay muchas naciones en el mundo
+          que de todos estos cargos están libres;
+          mayormente si se hallasen algunos paganos o gentiles
+          que tienen sus reinos, regiones, provincias
+          y propias tierras apartadas de las nuestras,
+          las cuales antes que otras gentes ocuparon
+          y de ninguna otra eran.
+          Y así todas las otras naciones, pueblos y gentes:
+          griegos, bárbaros, tártaros, persas,
+          macedonios, escitas, másagas, siracusanos, tragloditas,
+          dacios, nómadas, sogdianos, bactrianos,
+          albanos, cumanos, indios o gente de la India,
+          etíopes, turcos, sarracenos;
+          los que adoran ídolos,
+          los que honran o creen en Mahoma,
+          o los que de nefandas supersticiones y errores
+          y de abominables vicios estén llenos:
+          con tal que de las maneras susodichas,
+          o con alguna de ellas,
+          la fe católica o la república cristiana no ofendan.
+          Todas estas, digo, las susodichas,
+          y si otras más hay de esta manera,
+          las ponemos en esta cuarta especie;
+          y por consiguiente, con ellas ni con alguna de ellas
+          tenemos nada que hacer:
+          <quote xml:id="dc7aa7-e01957-Qd1e177">«porque nada nos toca juzgar a los de fuera»,</quote>
+          <ref xml:id="dc7aa7-e01957-Rd1e182">1 Corintios 5,</ref>
+          más que amarlas como a nosotros mismos,
+          y procurar con doctrina y buenos ejemplos
+          traerlas y ganarlas para Cristo:
+          <ref xml:id="dc7aa7-e01957-Rd1e189">De penitentia, dist. 2, c. charitas, el 29.</ref>
+          Tienen estas sus regiones, sus provincias, sus reinos,
+          sus señoríos, sus reyes, sus jurisdicciones altas y bajas,
+          sus jueces y magistrados y sus territorios,
+          dentro de los cuales usan legítimamente
+          y pueden libremente usar de su potestad;
+          y dentro de ellos a ningún rey del mundo,
+          sin violar el derecho natural,
+          le es lícito entrar sin licencia de sus reyes o de sus repúblicas,
+          y menos usar ni ejercitar jurisdicción ni potestad alguna.
+          Todo esto queda probado por el principio primero
+          y por todos los canonistas en el capítulo
+          que in ecclesiarum, De constitutionibus,
+          e Inocencio en el <ref xml:id="dc7aa7-e01957-Rd1e210">cap. quod super his, De voto;</ref>
+          y más claro que otros juristas,
+          <ref xml:id="dc7aa7-e01957-Rd1e214">Baldo en la L. decernimus, Codex, De sacrosancta Ecclesia,</ref>
+          donde dice así:
+          <quote xml:id="dc7aa7-e01957-Qd1e216">«Las provincias que no acostumbran ser regidas por príncipes,
+          aun los reyes deben estar bajo cuyo dominio natural son,
+          esto es, por derecho de gentes.»</quote>
+          ff. <ref xml:id="dc7aa7-e01957-Rd1e223">De iustitia et iure, L. ex hoc iure.</ref>
+          Y si otro toma allí el dominio contra la voluntad
+          del rey o del príncipe,
+          ese tal es tirano,
+          y por eso los dominios usurpados
+          se llaman tiranías.
+        </p>
+        <p xml:id="dc7aa7-e01957-d1e233">Hace bien a este propósito lo que dice
+          Bártolo en el libro hostes, ff,
+          <ref xml:id="dc7aa7-e01957-Rd1e237">De captivis et postliminio,</ref>
+          que hay algunos pueblos con quienes no tenemos paz
+          ni guerra ni otra cosa que hacer,
+          y pone el ejemplo en los que moran en la India,
+          y concluye así:
+          <quote xml:id="dc7aa7-e01957-Qd1e243">«que nada nos toca de los que están fuera»,</quote>
+          conviene a saber: los que viven fuera
+          de nuestros términos y territorios,
+          si no nos ofenden por alguna de las dichas maneras;
+          y mucho menos con los que nunca conocimos
+          si existían en el mundo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 4</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 4</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e01957">
+        <head xml:id="dc7aa7-e01957-Hd1e111">Chapter 4</head>
+        <p xml:id="dc7aa7-e01957-d1e113">§ 4</p>
+        <p xml:id="dc7aa7-e01957-d1e118">The fourth kind or category of unbelievers
+          is those who neither hold usurped lands that were once ours,
+          nor have wrongfully despoiled us of them.
+          Likewise, those who have never done us any injury, harm, or wrong,
+          nor have any intention of doing so;
+          who neither harm nor impede our holy faith,
+          whether because they have never heard it,
+          or because for good or ill
+          they have no concern for it whatsoever.
+          Likewise, those who neither in the present
+          nor in past ages were subjects of the Christian Empire
+          or of any member of the Church,
+          in law or in fact, that is, in act,
+          whether by reason of origin or of domicile,
+          or by reason of any offense committed against us
+          or against the Church,
+          or by reason of contract,
+          or by any other cause of subjection
+          of the kinds we listed above;
+          as there are many nations in the world
+          that are free of all such charges.
+          This applies especially if there were found any pagans or gentiles
+          who have their own kingdoms, regions, provinces,
+          and native lands apart from ours,
+          which they occupied before any other peoples
+          and which belonged to no others.
+          And so too all other nations, peoples, and peoples:
+          Greeks, barbarians, Tartars, Persians,
+          Macedonians, Scythians, Massagetae, Syracusans, Troglodytes,
+          Dacians, Nomads, Sogdians, Bactrians,
+          Albanians, Cumans, Indians or people of India,
+          Ethiopians, Turks, Saracens;
+          those who worship idols,
+          those who honor or believe in Muhammad,
+          or those who are filled with abominable superstitions and errors
+          and abominable vices:
+          provided that in the ways mentioned above,
+          or by any of them,
+          they do not offend the Catholic faith or the Christian commonwealth.
+          All of these, I say, the aforementioned,
+          and if there are yet others of this kind,
+          we place them in this fourth category;
+          and consequently, with them or with any of them
+          we have nothing to do:
+          <quote xml:id="dc7aa7-e01957-Qd1e177">"for what have we to do with judging those who are outside?"</quote>
+          <ref xml:id="dc7aa7-e01957-Rd1e182">1 Corinthians 5,</ref>
+          beyond loving them as ourselves,
+          and endeavoring through teaching and good example
+          to bring them and win them to Christ:
+          <ref xml:id="dc7aa7-e01957-Rd1e189">De penitentia, dist. 2, c. charitas, el 29.</ref>
+          These have their regions, their provinces, their kingdoms,
+          their dominions, their kings, their high and low jurisdictions,
+          their judges and magistrates and their territories,
+          within which they exercise their power legitimately
+          and may freely use it;
+          and within those territories no king in the world,
+          without violating natural law,
+          is permitted to enter without the leave of their kings or their commonwealths,
+          still less to exercise or practice any jurisdiction or power whatsoever.
+          All of this stands proved by the first principle
+          and by all the canonists in the chapter
+          que in ecclesiarum, De constitutionibus,
+          and by Innocent in <ref xml:id="dc7aa7-e01957-Rd1e210">cap. quod super his, De voto;</ref>
+          and more plainly than other jurists,
+          <ref xml:id="dc7aa7-e01957-Rd1e214">Baldo in L. decernimus, Codex, De sacrosancta Ecclesia,</ref>
+          where he says this:
+          <quote xml:id="dc7aa7-e01957-Qd1e216">"Provinces that are not accustomed to being ruled by princes
+          must remain under the natural dominion of their own rulers,
+          that is, by right of nations."</quote>
+          ff. <ref xml:id="dc7aa7-e01957-Rd1e223">De iustitia et iure, L. ex hoc iure.</ref>
+          And if another seizes dominion there against the will
+          of the king or prince,
+          that person is a tyrant,
+          and therefore the usurped dominions
+          are called tyrannies.
+        </p>
+        <p xml:id="dc7aa7-e01957-d1e233">Well suited to this purpose is what
+          Bartolus says in the book hostes, ff,
+          <ref xml:id="dc7aa7-e01957-Rd1e237">De captivis et postliminio,</ref>
+          that there are some peoples with whom we have no peace,
+          no war, and no other dealings,
+          and he gives the example of those who dwell in India,
+          and concludes thus:
+          <quote xml:id="dc7aa7-e01957-Qd1e243">"that we have nothing to do with those who are outside,"</quote>
+          that is to say: those who live outside
+          our borders and territories,
+          provided they do not offend us in any of the said ways;
+          and still less with those whom we never knew
+          even existed in the world.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
