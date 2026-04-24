@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 7</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 7</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02315">
+        <head xml:id="dc7aa7-e02315-Hd1e111">Capítulo 7</head>
+        <p xml:id="dc7aa7-e02315-d1e113">§ 7.º</p>
+        <p xml:id="dc7aa7-e02315-d1e118">Principio 3.º</p>
+        <p xml:id="dc7aa7-e02315-d1e124">La causa única y final de conceder la Sede Apostólica
+          el principado supremo y superioridad imperial
+          de aquel nuevo orbe de las Indias
+          a los reyes de Castilla y León,
+          fue la predicación del Evangelio
+          y dilatación de la fe y religión cristiana
+          y la conversión de aquellas gentes naturales de él,
+          y no para hacerlos mayores señores
+          ni más ricos príncipes de lo que eran.
+        </p>
+        <p xml:id="dc7aa7-e02315-d1e140">Pruébase este principio.
+          Lo primero, porque para entremeterse el sumo pontífice
+          a usar de jurisdicción y de su potestad
+          en disponer de las cosas temporales de los seglares,
+          no lo suele hacer sin causa verdadera,
+          discutida y necesaria.
+          Y esto aun dentro de la Iglesia universal entre los cristianos,
+          que en cuanto a lo espiritual somos todos sus súbditos;
+          y en cierto caso y con causa, también en cuanto a lo temporal.
+          Todo esto es manifiesto por los teólogos en
+          <ref xml:id="dc7aa7-e02315-Rd1e157">las Sentencias 2 d. 44,</ref>
+          en especial
+          <ref xml:id="dc7aa7-e02315-Rd1e162">Tomás 2.2 q. 88 a. 11 y 12,</ref>
+          y en <ref xml:id="dc7aa7-e02315-Rd1e165">De regimine principum, lib. 3, c. 13</ref>
+          y <ref xml:id="dc7aa7-e02315-Rd1e170">Enrique de Gante, Quodlibeta, IV et VI,
+          Agustín de Ancona, Lib. De potestate Pape, q. 23 a. 2</ref>
+          et <ref xml:id="dc7aa7-e02315-Rd1e175">3,
+          Pedro de Palude, Lib. De potestate Pape,</ref>
+          y otros doctores en diversos tratados
+          que sobre la materia escribieron,
+          y por los canonistas en
+          <ref xml:id="dc7aa7-e02315-Rd1e184">el cap. novit, De indiciis;</ref>
+          et in <ref xml:id="dc7aa7-e02315-Rd1e187">cap. per venerabilem,
+          Extra, Qui filii sint legitimi,</ref>
+          et in <ref xml:id="dc7aa7-e02315-Rd1e192">cap. que in ecclesiarum, De Constitutionibus,</ref>
+          y por los legistas en la
+          <ref xml:id="dc7aa7-e02315-Rd1e196">L. fin., Codex, Si contra ius et utilitatem publicam.</ref>
+        </p>
+        <p xml:id="dc7aa7-e02315-d1e203">Pues los reinos y gentes de aquel orbe,
+          y así de la cuarta diferencia de infieles
+          y fuera de la Iglesia universal,
+          ni en cuanto a lo espiritual ni en cuanto a lo temporal
+          son súbditos de ella ni de miembro alguno de ella,
+          porque ni tienen tierras ni reinos ajenos,
+          ni han hecho daño a la Iglesia ni a sus miembros,
+          ni han impedido la fe,
+          ni por domicilio ni por contrato
+          ni por otra causa de sujeción,
+          sino que totalmente son libres;
+          luego, mucho menos se entremetió ni se entrometería
+          el vicario de Cristo
+          en disponer de los bienes temporales
+          sin causa verdadera, discutida y necesaria
+          de aquellos y de los semejantes infieles.
+          Pues ninguna hubo ni pudo haber de derecho
+          verdadera ni justa,
+          supuesto todo lo susodicho,
+          sino la predicación de la fe
+          y la conversión de los mismos,
+          como de sí parece.
+          Luego, la causa única y final de conceder
+          la Sede Apostólica el principado supremo
+          y superioridad de aquel nuevo orbe de las Indias
+          a los reyes de Castilla y León,
+          fue la predicación del Evangelio
+          y dilatación de la fe y la conversión de aquellas gentes, etc.
+        </p>
+        <p xml:id="dc7aa7-e02315-d1e240">Segundamente, se prueba el principio 3.º
+          por las mismas palabras expresas
+          del mismo sumo pontífice Alejandro VI
+          que hizo la dicha concesión,
+          el cual dice así:
+          «deseando que el nombre de nuestro Salvador
+          sea llevado a aquellas partes,
+          os exhortamos en gran manera en el Señor,
+          por la recepción del sagrado bautismo
+          con que estáis obligados a los mandatos apostólicos,
+          y con todo el ardor de la misericordia
+          de nuestro Señor Jesucristo os requerimos atentamente,
+          que cuando con ánimo pronto y con celo de la fe ortodoxa
+          estéis dispuestos a proseguir y asumir
+          enteramente esta empresa,
+          queráis y debáis inducir a los pueblos
+          de las dichas islas y tierras
+          a abrazar la religión cristiana, etc.»
+          Y para que conste que esta es la causa única y final,
+          véase el Tractado Comprobatorio del Derecho
+          que tienen los Reyes de Castilla y León en las Indias,
+          en la última probación de la primera conclusión,
+          donde se hallará copiosamente probado.
+          Luego, la causa única y final
+          de conceder la Sede Apostólica, etc.,
+          fue la predicación del Evangelio
+          y dilatación de la fe y la conversión de aquellas gentes, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

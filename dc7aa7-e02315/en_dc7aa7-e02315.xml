@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 7</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 7</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law and scholastic citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02315">
+        <head xml:id="dc7aa7-e02315-Hd1e111">Chapter 7</head>
+        <p xml:id="dc7aa7-e02315-d1e113">§ 7</p>
+        <p xml:id="dc7aa7-e02315-d1e118">Third Principle</p>
+        <p xml:id="dc7aa7-e02315-d1e124">The sole and final cause for the Apostolic See
+          granting the supreme principality and imperial superiority
+          over that new world of the Indies
+          to the kings of Castile and León,
+          was the preaching of the Gospel
+          and the spreading of the Christian faith and religion
+          and the conversion of those peoples native to it,
+          and not in order to make them greater lords
+          or richer princes than they already were.
+        </p>
+        <p xml:id="dc7aa7-e02315-d1e140">This principle is proved.
+          First, because for the Supreme Pontiff to involve himself
+          in exercising jurisdiction and his power
+          in disposing of the temporal affairs of laypeople,
+          he is not accustomed to do so without a true,
+          examined, and necessary cause.
+          And this even within the universal Church among Christians,
+          of whom we are all his subjects in spiritual matters;
+          and in a certain case and with cause, in temporal matters as well.
+          All of this is made plain by the theologians in
+          <ref xml:id="dc7aa7-e02315-Rd1e157">the Sentences 2 d. 44,</ref>
+          and in particular
+          <ref xml:id="dc7aa7-e02315-Rd1e162">Thomas 2.2 q. 88 a. 11 and 12,</ref>
+          and in <ref xml:id="dc7aa7-e02315-Rd1e165">De regimine principum, lib. 3, c. 13</ref>
+          and <ref xml:id="dc7aa7-e02315-Rd1e170">Henry of Ghent, Quodlibeta, IV et VI,
+          Augustinus of Ancona, Lib. De potestate Pape, q. 23 a. 2</ref>
+          et <ref xml:id="dc7aa7-e02315-Rd1e175">3,
+          Peter of Palude, Lib. De potestate Pape,</ref>
+          and other doctors in various treatises
+          that they wrote on the subject,
+          and by the canonists in
+          <ref xml:id="dc7aa7-e02315-Rd1e184">cap. novit, De indiciis;</ref>
+          et in <ref xml:id="dc7aa7-e02315-Rd1e187">cap. per venerabilem,
+          Extra, Qui filii sint legitimi,</ref>
+          et in <ref xml:id="dc7aa7-e02315-Rd1e192">cap. que in ecclesiarum, De Constitutionibus,</ref>
+          and by the civil lawyers in
+          <ref xml:id="dc7aa7-e02315-Rd1e196">L. fin., Codex, Si contra ius et utilitatem publicam.</ref>
+        </p>
+        <p xml:id="dc7aa7-e02315-d1e203">Now the kingdoms and peoples of that world,
+          belonging as they do to the fourth category of unbelievers
+          and standing outside the universal Church,
+          are subjects of it neither in spiritual nor in temporal matters,
+          nor of any member of it,
+          because they hold no foreign lands or kingdoms,
+          nor have they done harm to the Church or its members,
+          nor impeded the faith,
+          whether by domicile or by contract
+          or by any other cause of subjection,
+          but are entirely free;
+          therefore, still less would the vicar of Christ involve himself,
+          or have involved himself,
+          in disposing of the temporal goods
+          of those and like unbelievers
+          without a true, examined, and necessary cause.
+          For there was and could have been no cause in law
+          that was true and just,
+          given all that has been said above,
+          save the preaching of the faith
+          and the conversion of those same peoples,
+          as is self-evident.
+          Therefore, the sole and final cause for the Apostolic See
+          granting the supreme principality and superiority
+          over that new world of the Indies
+          to the kings of Castile and León,
+          was the preaching of the Gospel
+          and the spreading of the faith and the conversion of those peoples, etc.
+        </p>
+        <p xml:id="dc7aa7-e02315-d1e240">Secondly, the third principle is proved
+          by the express words of the very supreme pontiff Alexander VI himself,
+          who made the said concession,
+          who says the following:
+          "desiring that the name of our Savior
+          be brought to those parts,
+          we exhort you greatly in the Lord,
+          by the reception of the holy baptism
+          by which you are bound to the apostolic commandments,
+          and with all the fervor of the mercy
+          of our Lord Jesus Christ we earnestly require of you,
+          that when with prompt spirit and with zeal for the orthodox faith
+          you are prepared to pursue and undertake this enterprise entirely,
+          you are willing and must induce the peoples
+          of the said islands and lands
+          to embrace the Christian religion, etc."
+          And that this is the sole and final cause,
+          see the Tractado Comprobatorio del Derecho
+          que tienen los Reyes de Castilla y León en las Indias,
+          in the final proof of the first conclusion,
+          where it will be found copiously demonstrated.
+          Therefore, the sole and final cause
+          for the Apostolic See granting it, etc.,
+          was the preaching of the Gospel
+          and the spreading of the faith and the conversion of those peoples, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
