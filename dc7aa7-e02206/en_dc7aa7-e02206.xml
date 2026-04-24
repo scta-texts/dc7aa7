@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 6</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 6</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          the title of the work cited in the final reference has been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02206">
+        <head xml:id="dc7aa7-e02206-Hd1e111">Chapter 6</head>
+        <p xml:id="dc7aa7-e02206-d1e113">§ 6</p>
+        <p xml:id="dc7aa7-e02206-d1e118">And that our Indian nations fall within this fourth category,
+          anyone can prove with little effort,
+          even the most simple-minded among us.
+          That they hold and possess their kingdoms and lands
+          by natural law and the law of nations,
+          recognizing no superior,
+          in law or in fact, that is, in act,
+          outside of themselves,
+          as we found them in possession of those kingdoms
+          and with so many principalities and dominions
+          over such infinite numbers of people:
+          by whom they were not only served and obeyed
+          but indeed more than worshipped,
+          their kings and princes freely using and exercising over them
+          all jurisdiction and power,
+          high and low, pure and mixed authority,
+          with no one powerful enough to stay their hand;
+          and their kingdoms and regions so far away
+          and separated from ours by so great a distance,
+          and thus utterly remote from having offended us
+          or the Church or the Catholic faith
+          or any member thereof
+          or any person of the Christian people,
+          or from having had any dealings or vassalage with us.
+          Who, with right judgment, could deny it?
+          Our Indian nations of the west and south are therefore
+          properly and truly of this fourth kind or category of unbelievers.
+        </p>
+        <p xml:id="dc7aa7-e02206-d1e158">This is confirmed by a new decree
+          established by Pope Paul III,
+          who in his leaden bull,
+          which begins Sublimis Deus sic dilexit humanum genus,
+          decreeing and declaring:
+          that our Indians and all other nations
+          that shall hereafter come to the knowledge of Christians,
+          although they exist outside the faith of Christ,
+          are not and must not be deprived
+          of their liberty or of dominion over their things;
+          rather they may lawfully use and enjoy
+          their liberty and dominion,
+          and must not be reduced to servitude.
+          And whatever is done to the contrary
+          shall be null and void, of no force or moment;
+          and that the said Indians and the other nations
+          are to be invited to the said faith of Christ
+          through preaching and the example of a good life,
+          by apostolic authority,
+          as we decree and declare by these presents.
+          These are the words of the said decree,
+          in which he makes sufficiently clear
+          that these nations and others like them of this fourth kind
+          — that is to say — contain in themselves no cause
+          of the kinds that are present in the other categories of unbelievers
+          for subjecting them or making them our subjects,
+          nor do we have anything to do with them for good or ill,
+          but only to love them and to labor to help and save them.
+          And consequently, that no king, no emperor,
+          nor the Roman Church
+          may make war upon them
+          or in any way molest them
+          in order to subject them against their will.
+          Whereby this decree manifestly confirms
+          the truthful and Catholic doctrine of Cajetan
+          that was cited above.
+          This second principle is therefore true — that is to say —
+          that there are four kinds or categories of unbelievers,
+          knowledge of which is most necessary
+          for anyone who is to treat of this matter,
+          so as not to err in an intolerable manner.
+          We have treated this at very great length
+          in our work <ref xml:id="dc7aa7-e02206-Rd1e218">De unico vocationis modo omnium gentium ad veram
+          religionem, lib. 1, cap. 3, s. 85.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
