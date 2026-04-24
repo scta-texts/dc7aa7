@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 12</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 12</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All Latin quotations embedded in the Spanish text have been translated.
+          Canon law and civil law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03660">
+        <head xml:id="dc7aa7-e03660-Hd1e111">Chapter 12</head>
+        <p xml:id="dc7aa7-e03660-d1e113">§ 12.
+          Seventh Principle.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e123">The first entry or foothold by which the Spaniards entered
+          the Indies and each province, kingdom, and part of them,
+          from the time of their discovery in the year 1492 until today inclusive,
+          as we are in December of the year 1563,
+          was violent, abominable, tyrannical, and most cruel,
+          and worthy of cruel enemies;
+          and such that no people, however barbarous and lawless and irrational,
+          could have done worse.
+          Likewise, the course and disorder
+          of the governance they imposed throughout that world.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e143">The first part of this principle can be proved
+          in a thousand ways,
+          but to be brief we will prove it by this one.
+          For in the said entry, that first entrance,
+          they never observed but rather violated
+          the order of natural and divine law, and also human law.
+          This will be apparent by calling to mind
+          the elements contained in the said order
+          of the aforesaid natural, human, and divine law.
+          The first is that, since the sole and final cause
+          of their navigation through those seas
+          and entry into those foreign kingdoms
+          could not be and was no other
+          than the preaching of the faith and the conversion of those peoples,
+          the natural and divine order required
+          that the very first thing done on our part
+          and offered to those peoples should be peace.
+          This first part is proved by
+          <ref xml:id="dc7aa7-e03660-Rd1e173">Saint Matthew, chapter 10</ref>
+          and by <ref xml:id="dc7aa7-e03660-Rd1e175">Saint Luke and Saint Mark,</ref>
+          where Christ laid down the precept that the first thing
+          Christians going to convert unbelievers should use, was peace:
+          <quote xml:id="dc7aa7-e03660-Qd1e182">"Entering the house, greet it, saying: peace be to this house, etc."</quote>
+          The preaching of the faith and the conversion of peoples presupposes peace.
+          For, as a certain Extravagant in omnibus, title de usuris, says:
+          <quote xml:id="dc7aa7-e03660-Qd1e192">"We know and gather from the evidence of the fact
+          that good worship is offered to the author of peace
+          only in time of peace."</quote>
+          And thus the first foothold and first entry
+          of the Spaniards into the Indies
+          ought to have been peaceable.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e203">The second part of the order of natural and divine law:
+          that that entry be slow and unhurried,
+          little by little and with great caution,
+          so that the kings and peoples of those towns
+          would not be alarmed at seeing such unfamiliar people,
+          bearded and fierce in appearance;
+          for all new and unaccustomed things
+          by their nature cause alarm,
+          seeming greater evils than they are
+          and less remediable,
+          as <ref xml:id="dc7aa7-e03660-Rd1e220">Saint Augustine says in book 2 of the Confessions.</ref>
+          And this is well proved by the law observare antequam, ff.
+          <ref xml:id="dc7aa7-e03660-Rd1e227">De officio proconsulis,</ref>
+          which commands that when someone is appointed
+          as an assistant or governor to some province or city,
+          he should first give notice to the citizens that he is coming,
+          and win their goodwill by signifying to them
+          that he comes for their benefit and to do them good, etc.
+          And the reason of the law, it itself declares:
+          <quote xml:id="dc7aa7-e03660-Qd1e240">"For uncertain and unexpected things often alarm the provincials
+          and impede the acts of entry, etc."</quote>
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e247">The third, the order of natural and divine law requires,
+          in this most supreme matter,
+          that that entry and first entrance into each province
+          be harmless and blameless;
+          that is to say, that the Spaniards sent
+          should not fall upon the natural kings and their peoples.
+          For if it were against their will,
+          and especially if the entry were expressly forbidden to them
+          by deeds or by words,
+          then it would be harmful, blameworthy, and injurious;
+          and those kings and peoples would justly have cause
+          to be alarmed and enraged against the Spaniards
+          and to make war upon them and punish them as their own subjects,
+          or more precisely, as enemies.
+          Any prudent king or lord may freely,
+          by the authority of natural and divine and even human law,
+          forbid entry into his kingdom
+          to whatever foreign persons are unknown to him,
+          on the presumption that they do not come with the intention
+          of probing the weaknesses and secrets of the land
+          in order to usurp it afterwards.
+          And this prohibition is amply proved by what Joseph said to his brothers,
+          though it was to afflict them, yet with reasonable pretext:
+          <quote xml:id="dc7aa7-e03660-Qd1e286">"You are spies," he said,
+          "you have come to see the weak points of the land,
+          by the life of Pharaoh, etc."</quote>
+          <ref xml:id="dc7aa7-e03660-Rd1e291">Genesis 42.</ref>
+          And the counselors of King Ammon gave this same reason,
+          suspecting that David, being a man of war,
+          had sent the messengers to console Hanun
+          over his father's death
+          under that pretext to reconnoiter the places
+          most suitable for attacking him with war;
+          they said to the king:
+          "Perhaps you think David has sent consolers to you
+          out of honor for your father;
+          do you not see that his servants have come to you
+          to explore, investigate, and spy out your land?"
+          <ref xml:id="dc7aa7-e03660-Rd1e312">1 Chronicles 19.</ref>
+          This is likewise proved by the
+          <ref xml:id="dc7aa7-e03660-Rd1e317">L. mercatores, Codex, De commerciis et mercatoribus;</ref>
+          and in <ref xml:id="dc7aa7-e03660-Rd1e322">L. ut vim, ff. De iustitia et iure.</ref>
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e325">The fourth, the order of natural and divine law requires,
+          and this above all:
+          that the Spaniards whom our king and lord should send
+          with the preachers of the faith,
+          since they had no other legitimate cause
+          for going to those foreign lands belonging to those peoples,
+          should live as Christians,
+          and that their conversation and example should be such
+          that those unbelievers, seeing it,
+          might be moved and encouraged
+          to profess the Christian religion
+          by receiving the faith and baptism,
+          and might praise God for having sent them such people
+          to convert them.
+          This is proved by that passage of
+          <ref xml:id="dc7aa7-e03660-Rd1e348">Matthew 5:</ref>
+          "So let your light shine, that is, your life,
+          before men,
+          that they may see your works
+          and glorify your Father who is in heaven."
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e356">And <ref xml:id="dc7aa7-e03660-Rd1e358">1 Peter:</ref>
+          "Having your conduct among the Gentiles honorable,
+          so that in the very thing in which they speak against you as evildoers,
+          seeing your good works
+          they may glorify God on the day of visitation,
+          that is, when God visits the unbelievers
+          by sending them preachers of the faith."
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e369">Saint John Chrysostom, on the said words of
+          <ref xml:id="dc7aa7-e03660-Rd1e373">Saint Matthew,</ref> says:
+          "By those who teach and act, God is glorified.
+          By those who teach and do not act, he is blasphemed.
+          If they teach well and the Gentiles see that they act accordingly,
+          the Gentiles who see it say:
+          <quote xml:id="dc7aa7-e03660-Qd1e382">'Blessed be God who has such servants;
+          truly their God is the true God.
+          For if he were not himself just,
+          he would never hold his people so firmly to justice;
+          for the discipline of the lord is shown
+          by the conduct of his household.'</quote>
+          But if they teach well and live badly,
+          those who see them say:
+          <quote xml:id="dc7aa7-e03660-Qd1e395">'What kind of a God is theirs,
+          who lets them do such things?
+          Would he tolerate them doing so
+          if he did not consent to their works? etc.'"</quote>
+          And on <ref xml:id="dc7aa7-e03660-Rd1e402">1 Timothy 3,</ref>
+          after many most beautiful things,
+          the same Chrysostom says:
+          <quote xml:id="dc7aa7-e03660-Qd1e406">"Certainly no one would still be a pagan
+          if we ourselves took care to be Christians as we ought
+          and obeyed the commands and teachings of God,"</quote>
+          and a little further on:
+          <quote xml:id="dc7aa7-e03660-Qd1e418">"There would be no one so fierce a beast
+          as not to run at once to the worship of the true religion
+          if he saw everyone practicing it."</quote>
+          Chrysostom.
+        </p>
+        <p xml:id="dc7aa7-e03660-d1e424">The fifth, the order of natural and divine law requires:
+          that the Spaniards, in each province they came to
+          on behalf of the king of Castile,
+          after having entered with the goodwill of the kings and peoples,
+          as has been said,
+          should set forth and declare to them
+          the final cause of their coming to those lands;
+          that is to say, to bring them knowledge of the one true God,
+          Creator and Lord of all the worlds, etc.
+          Which ought to be given very slowly and at their own pace,
+          modestly, gently, and quietly,
+          and with all the other circumstances
+          required for any good work to be good.
+          This is proved by the second and third reasons.
+          For if it were not done thus,
+          such an entry would not be free of suspicion,
+          and the kings and their peoples would be alarmed and scandalized,
+          and consequently the harms and evils that followed from it
+          would be imputed to the Spaniards, etc.
+          And in particular, even without any notification,
+          a very long span of time is required,
+          because first they would have to learn the languages
+          so that both sides could understand each other,
+          without which nothing done would be worth anything in law,
+          ut <ref xml:id="dc7aa7-e03660-Rd1e465">L. 1, fin., ff., De verborum significatione,</ref>
+          cum ibi nota et alibi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
