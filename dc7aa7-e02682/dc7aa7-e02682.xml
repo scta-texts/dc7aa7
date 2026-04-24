@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 9</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 9</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02682">
+        <head xml:id="dc7aa7-e02682-Hd1e111">Capítulo 9</head>
+        <p xml:id="dc7aa7-e02682-d1e113">§ 9.º
+          Principio 5.º
+        </p>
+        <p xml:id="dc7aa7-e02682-d1e120">Los ínclitos reyes de Castilla y León,
+          después que se ofrecieron y obligaron
+          por su propia policitación
+          a tener cargo de proveer
+          cómo se predicase la fe católica
+          y se convirtiesen aquellas gentes indianas,
+          son obligados por precepto divino
+          a poner los gastos y expensas
+          que para la consecución del dicho fin fueren necesarios,
+          y no pueden compeler a los indios
+          con alguna pena temporal o corporal
+          a que se los paguen,
+          ni alguna parte de ellas,
+          si ellos de su libre voluntad pagar no los quisieren.
+        </p>
+        <p xml:id="dc7aa7-e02682-d1e145">La primera parte se prueba
+          porque cualquier rey católico
+          es obligado por precepto divino
+          a ensalzar, dilatar y defender
+          la fe católica y religión cristiana a su costa,
+          no solo de dineros,
+          sino que si fuere menester,
+          aventurar y perder por ello la vida;
+          mayormente si el vicario de Cristo, sumo pontífice,
+          por precepto se lo mandase.
+          Lo primero se prueba porque todo fiel cristiano
+          es obligado a confesar la fe por los actos exteriores,
+          según la materia y posibilidad tuviere,
+          según aquello de <ref xml:id="dc7aa7-e02682-Rd1e165">Romanos 10:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e167">«La confesión con la boca se hace para la salvación»,</quote>
+          y aquello de <ref xml:id="dc7aa7-e02682-Rd1e170">Marcos 8</ref>
+          et <ref xml:id="dc7aa7-e02682-Rd1e175">Lucas 9 y 12:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e177">«El que me confesare delante de los hombres,
+          yo también le confesaré delante de mi Padre.
+          Y el que se avergonzare de mí,
+          de él se avergonzará el Hijo del hombre
+          cuando viniere en su majestad, etc.»</quote>
+          Conviene a saber, cada y cuando que se ofreciere caso
+          en el cual el honor y honra divina se disminuyese,
+          o los prójimos cristianos algún peligro
+          en su salud espiritual padeciesen:
+          de esto, <ref xml:id="dc7aa7-e02682-Rd1e191">Santo Tomás, 2.2 q. 4 a. 1 et 2.</ref>
+          Pues los reyes son fieles
+          y las causas de la fe son comunes a todo cristiano,
+          y aparece en <ref xml:id="dc7aa7-e02682-Rd1e198">96 dist., c. ubinam legistis, etc.</ref>
+          et <ref xml:id="dc7aa7-e02682-Rd1e203">c. Nos ad fidem, 23, q. 5, c.</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e205">«Los príncipes del siglo no pocas veces mantienen
+          dentro de la Iglesia la cima del poder que han obtenido,
+          para que por ese mismo poder
+          defiendan la disciplina eclesiástica, etc.
+          Conozcan los príncipes del siglo que deben rendir cuentas a Dios
+          por la Iglesia que reciben de Cristo para protegerla, etc.»</quote>
+          Luego los reyes y príncipes fieles cristianos,
+          con todas sus fuerzas son obligados de derecho divino
+          a confesar la fe,
+          ya sea ensalzándola, ya sea defendiéndola,
+          ya sea dilatándola o conservándola,
+          que son los actos exteriores por los cuales manifiestan
+          tener la fe que tienen todos los fieles cristianos.
+        </p>
+        <p xml:id="dc7aa7-e02682-d1e226">Lo segundo se prueba también,
+          conviene a saber, mayormente
+          si el vicario de Cristo, sumo pontífice, por precepto se lo manda;
+          porque el sumo pontífice puede mandar
+          a cualquier rey cristiano
+          como al ministro del reino de Jesucristo,
+          según aquello de <ref xml:id="dc7aa7-e02682-Rd1e240">Sabiduría 6:</ref>
+          «Oíd, reyes de la tierra, y entended;
+          aprended, jueces de los confines de la tierra;
+          porque fue dada por el Señor la potestad a vosotros
+          y la fortaleza por el Altísimo,
+          porque siendo ministros de su reino, etc.»;
+          et <ref xml:id="dc7aa7-e02682-Rd1e246">Romanos 13;</ref>
+          que a su costa y expensas,
+          después de haber suplido las necesidades de su propio reino,
+          supla y socorra las de la Iglesia universal,
+          así para ampliarla como para defenderla y conservarla,
+          y el rey es obligado por precepto divino a obedecerle
+          como al mismo Jesucristo.
+          Esto parece porque el papa es el supremo arquitecto,
+          como maestro mayor en todo el edificio espiritual
+          que conduce y lleva al fin último de la vida eterna.
+          Del oficio del arquitecto, a quien pertenece el fin último,
+          es ordenar y mandar a los ministros
+          que han de obrar los medios y fines
+          enderezados para la consecución del último fin,
+          según lo que profesa la filosofía,
+          ut in I Metaphysicorum;
+          y a él ha de estar sujeto
+          cuanto convenga para lo susodicho.
+          Luego, en las cosas de la fe
+          y concernientes al edificio espiritual de la religión cristiana,
+          sujetos son los reyes al vicario de Cristo
+          y obligados a obedecer y cumplir sus mandamientos
+          como al mismo Jesucristo,
+          según aquello de <ref xml:id="dc7aa7-e02682-Rd1e281">Lucas 10:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e283">«El que a vosotros oye, a mí me oye;
+          y el que a vosotros menosprecia, a mí me menosprecia»;</quote>
+          y <ref xml:id="dc7aa7-e02682-Rd1e287">San Pablo, Hebreos 13:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e290">«Obedeced a vuestros prelados, etc.»</quote>
+          Et San Cirilo en el <ref xml:id="dc7aa7-e02682-Rd1e294">Libro de los tesoros,</ref>
+          post multa:
+          <quote xml:id="dc7aa7-e02682-Qd1e296">«Sino que como miembros permanezcan en nuestra cabeza,
+          el trono apostólico de los romanos pontífices,
+          del cual debemos inquirir qué hemos de creer y qué hemos de sostener,
+          venerándolo, suplicándolo antes que a todos,
+          porque solo a él corresponde reprender, corregir
+          y establecer, y disponer, y desatar,
+          y en su lugar ligar a quien él edificó;
+          y a nadie más que solo a él dio lo que es suyo.
+          Al cual todos de derecho divino inclinan la cabeza,
+          y los príncipes del mundo
+          como a Cristo Señor Jesús obedecen, etc.»;</quote>
+          y Santo Tomás, <ref xml:id="dc7aa7-e02682-Rd1e316">De regimine principum, lib. 1, cap. 24,</ref>
+          dice lo mismo,
+          y en el <ref xml:id="dc7aa7-e02682-Rd1e319">lib. 2 Sentent., dist. 44, in fin.,</ref>
+          y sobre la Epístola <ref xml:id="dc7aa7-e02682-Rd1e324">2 a los Corintios, cap. 12, lectio 2,</ref>
+          y <ref xml:id="dc7aa7-e02682-Rd1e328">a los Filipenses, cap. 4,</ref>
+          dice que para proveer las necesidades de una patria,
+          puede el papa imponer subsidio a las otras partes del mundo.
+          Conforme con lo dicho, lo que el papa recuerda
+          en la bula de concesión de las Indias,
+          donde adjura y conjura a los reyes de Castilla y León:
+          «por la recepción del sagrado bautismo, dice,
+          con que estáis obligados a los mandatos apostólicos, etc.»,
+          y así les impuso precepto formal,
+          obligándoles a lo dicho.
+          «Y además, dice, os mandamos en virtud de la santa obediencia,
+          como también prometéis,
+          y no dudamos que habéis de cumplir
+          por vuestra grandísima devoción y magnanimidad regia,
+          que debéis destinar a las dichas tierras firmes e islas
+          hombres buenos y temerosos de Dios,
+          doctos, expertos, para instruir
+          a los moradores y habitantes susodichos en la fe católica
+          e imbuirlos en las buenas costumbres,
+          poniendo en todo ello toda la debida diligencia, etc.»
+          Y así parece que pudo el papa obligar,
+          y obligó, a los señores reyes de Castilla y León
+          a la predicación de la fe y conversión de aquellas gentes,
+          y por consiguiente a las expensas
+          que para conseguir aquel fin fueren necesarias.
+          Y la razón es clara porque,
+          impuesto el precepto del fin,
+          necesariamente se sigue ser puesto precepto para los medios
+          sin los cuales no se puede conseguir el fin,
+          <ref xml:id="dc7aa7-e02682-Rd1e374">ex 2 Physicorum y Santo Tomás, 2.2 q. 44 a. 1,</ref>
+          y es materia de juristas en el
+          <ref xml:id="dc7aa7-e02682-Rd1e378">cap. 1 y cap. preterea, De officio delegati.</ref>
+          Los medios para esto necesarios son las expensas,
+          y mayormente que los dichos señores reyes
+          se convidaron a ello,
+          y por su propia policitación se obligaron,
+          como parece por las palabras de la bula referidas.
+          Luego verdad tiene la primera parte del principio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

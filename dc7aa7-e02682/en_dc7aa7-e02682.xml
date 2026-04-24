@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 9</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 9</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages and scriptural quotations have been translated into English;
+          canon law and scholastic citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02682">
+        <head xml:id="dc7aa7-e02682-Hd1e111">Chapter 9</head>
+        <p xml:id="dc7aa7-e02682-d1e113">§ 9
+          Fifth Principle
+        </p>
+        <p xml:id="dc7aa7-e02682-d1e120">The illustrious kings of Castile and León,
+          after they offered and obligated themselves
+          by their own solemn promise
+          to take charge of ensuring
+          that the Catholic faith be preached
+          and those Indian peoples converted,
+          are bound by divine precept
+          to bear the costs and expenses
+          that shall be necessary for the achievement of the said end,
+          and they may not compel the Indians
+          by any temporal or bodily penalty
+          to pay those costs,
+          nor any part of them,
+          if the Indians of their own free will do not wish to pay them.
+        </p>
+        <p xml:id="dc7aa7-e02682-d1e145">The first part is proved
+          because every Catholic king
+          is bound by divine precept
+          to exalt, spread, and defend
+          the Catholic faith and Christian religion at his own cost,
+          not only of money,
+          but, if it should be necessary,
+          to risk and lose his very life for it;
+          and especially if the vicar of Christ, the Supreme Pontiff,
+          should command it by precept.
+          The first point is proved because every faithful Christian
+          is bound to confess the faith through outward acts,
+          according to the matter and ability he has,
+          as that passage of <ref xml:id="dc7aa7-e02682-Rd1e165">Romans 10</ref> says:
+          <quote xml:id="dc7aa7-e02682-Qd1e167">"For with the mouth confession is made unto salvation,"</quote>
+          and that of <ref xml:id="dc7aa7-e02682-Rd1e170">Mark 8</ref>
+          and <ref xml:id="dc7aa7-e02682-Rd1e175">Luke 9 and 12:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e177">"Whoever confesses me before men,
+          him will I also confess before my Father.
+          And whoever is ashamed of me,
+          of him will the Son of Man be ashamed
+          when he comes in his majesty, etc."</quote>
+          That is to say, whenever a case arises
+          in which the divine honor and glory would be diminished,
+          or neighboring Christians would suffer some danger
+          to their spiritual salvation:
+          on this, <ref xml:id="dc7aa7-e02682-Rd1e191">Saint Thomas, 2.2 q. 4 a. 1 et 2.</ref>
+          Now kings are faithful Christians
+          and the causes of the faith are common to every Christian,
+          as appears in <ref xml:id="dc7aa7-e02682-Rd1e198">96 dist., c. ubinam legistis, etc.</ref>
+          et <ref xml:id="dc7aa7-e02682-Rd1e203">c. Nos ad fidem, 23, q. 5, c.</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e205">"The princes of this world not infrequently hold
+          within the Church the heights of power they have obtained,
+          so that through that same power
+          they may defend ecclesiastical discipline, etc.
+          Let the princes of this world know that they must render account to God
+          for the Church which they receive from Christ to protect, etc."</quote>
+          Therefore faithful Christian kings and princes,
+          with all their strength are bound by divine law
+          to confess the faith,
+          whether by exalting it, defending it,
+          spreading it, or preserving it,
+          which are the outward acts by which they manifest
+          the faith held by all faithful Christians.
+        </p>
+        <p xml:id="dc7aa7-e02682-d1e226">The second point is likewise proved,
+          namely, and especially so,
+          if the vicar of Christ, the Supreme Pontiff, commands it by precept;
+          because the Supreme Pontiff may command
+          any Christian king
+          as a minister of the kingdom of Jesus Christ,
+          according to that passage of <ref xml:id="dc7aa7-e02682-Rd1e240">Wisdom 6:</ref>
+          "Hear, O kings of the earth, and understand;
+          learn, you who are judges of the ends of the earth;
+          for power was given to you by the Lord
+          and strength by the Most High,
+          because being ministers of his kingdom, etc.";
+          et <ref xml:id="dc7aa7-e02682-Rd1e246">Romans 13;</ref>
+          that at his own cost and expense,
+          after having supplied the needs of his own kingdom,
+          he supply and assist those of the universal Church,
+          both to extend it and to defend and preserve it,
+          and the king is bound by divine precept to obey him
+          as he would Jesus Christ himself.
+          This is evident because the pope is the supreme Architect,
+          as the master builder of the entire spiritual edifice
+          which he directs and leads toward the ultimate end of eternal life.
+          It belongs to the office of the Architect, to whom the ultimate end pertains,
+          to order and command the ministers
+          who are to employ the means and subordinate ends
+          directed toward the achievement of the ultimate end,
+          as philosophy professes,
+          ut in I Metaphysicorum;
+          and to him everything must be subject
+          insofar as this is fitting for the aforesaid purpose.
+          Therefore, in matters of the faith
+          and those concerning the spiritual edifice of the Christian religion,
+          kings are subject to the vicar of Christ
+          and bound to obey and fulfill his commandments
+          as those of Jesus Christ himself,
+          according to that passage of <ref xml:id="dc7aa7-e02682-Rd1e281">Luke 10:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e283">"He who hears you, hears me;
+          and he who despises you, despises me";</quote>
+          and <ref xml:id="dc7aa7-e02682-Rd1e287">Saint Paul, Hebrews 13:</ref>
+          <quote xml:id="dc7aa7-e02682-Qd1e290">"Obey your prelates, etc."</quote>
+          And Saint Cyril in the <ref xml:id="dc7aa7-e02682-Rd1e294">Book of Treasures,</ref>
+          after much else:
+          <quote xml:id="dc7aa7-e02682-Qd1e296">"But that as members they may remain in our head,
+          the apostolic throne of the Roman pontiffs,
+          from whom we must inquire what we ought to believe and what to hold,
+          venerating him, beseeching him before all others,
+          for it belongs to him alone to rebuke, correct,
+          and establish, and dispose, and loose,
+          and in his place to bind the one whom he has built up;
+          and to no other but to him alone did he give what is his.
+          To whom all by divine right bow their heads,
+          and the princes of the world
+          obey as Christ the Lord Jesus, etc.";</quote>
+          and Saint Thomas, <ref xml:id="dc7aa7-e02682-Rd1e316">De regimine principum, lib. 1, cap. 24,</ref>
+          says the same,
+          and in <ref xml:id="dc7aa7-e02682-Rd1e319">lib. 2 Sentent., dist. 44, in fin.,</ref>
+          and on the Epistle <ref xml:id="dc7aa7-e02682-Rd1e324">2 Corinthians, cap. 12, lectio 2,</ref>
+          and <ref xml:id="dc7aa7-e02682-Rd1e328">Philippians, cap. 4,</ref>
+          he says that to provide for the needs of one land,
+          the pope may impose a subsidy upon other parts of the world.
+          In keeping with what has been said, what the pope recalls
+          in the bull of concession of the Indies,
+          where he adjures and conjures the kings of Castile and León:
+          "by the reception of the holy baptism," he says,
+          "by which you are bound to the apostolic commandments, etc.,"
+          and thus he imposed a formal precept upon them,
+          binding them to what was said.
+          "And furthermore," he says, "we command you
+          in virtue of holy obedience,
+          as you also promise,
+          and we do not doubt that you will carry out
+          by your very great devotion and royal magnanimity,
+          that you must dispatch to the said mainland and islands
+          men who are upright and God-fearing,
+          learned and skilled, to instruct
+          the said inhabitants and dwellers in the Catholic faith
+          and imbue them with good morals,
+          applying to all of this every due diligence, etc."
+          And so it appears that the pope was able to bind,
+          and did bind, the lords kings of Castile and León
+          to the preaching of the faith and the conversion of those peoples,
+          and consequently to the expenses
+          necessary to achieve that end.
+          And the reason is clear because,
+          once the precept of the end has been imposed,
+          it necessarily follows that a precept has been imposed for the means
+          without which the end cannot be achieved,
+          <ref xml:id="dc7aa7-e02682-Rd1e374">ex 2 Physicorum and Saint Thomas, 2.2 q. 44 a. 1,</ref>
+          and it is a matter for jurists in
+          <ref xml:id="dc7aa7-e02682-Rd1e378">cap. 1 y cap. preterea, De officio delegati.</ref>
+          The means necessary for this are the expenses,
+          and especially since the said lords kings
+          offered themselves to this,
+          and by their own solemn promise bound themselves to it,
+          as appears from the words of the bull cited above.
+          The first part of the principle is therefore proved.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
