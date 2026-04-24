@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 8</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 8</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02452">
+        <head xml:id="dc7aa7-e02452-Hd1e111">Capítulo 8</head>
+        <p xml:id="dc7aa7-e02452-d1e113">§ 8.º
+          Principio 4.º — se sigue de los precedentes.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e120">La Santa Sede Apostólica,
+          al conceder el dicho principado
+          y superioridad imperial de aquel orbe indiano
+          a los reyes nuestros católicos de Castilla y León,
+          no entendió privar a los reyes y señores naturales
+          de aquel dicho nuevo mundo
+          de sus estados reales y señoríos
+          y jurisdicciones, honras y dignidades,
+          ni conceder a nuestros reyes católicos
+          licencia o facultad alguna con que pudiesen hacer,
+          o dejar de hacer, cosa alguna
+          por la cual la dilatación de la fe fuese frustrada,
+          y se pusiera algún obstáculo al Evangelio,
+          de manera que la conversión y salvación de aquellas gentes
+          del todo se impidiera o retardara,
+          que es lo que Cristo y su vicario por principal fin pretenden.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e145">Pruébase este cuarto principio por muchas razones y maneras.
+          La primera sea por la probación de la cuarta especie de infieles
+          (§§ 4.º, 5.º y 6.º),
+          donde queda probado que aquellas gentes
+          están fuera de toda jurisdicción temporal y espiritual
+          de la Iglesia y de todo miembro de ella.
+          Porque no tenemos que hacer en malo ni en bueno con ellas,
+          más que amarlas y ser solícitos en traerlas al conocimiento de Dios.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e161">Lo segundo, se prueba por el precedente principio y su probanza,
+          donde se mostró ser causa única y final de la dicha concesión
+          la predicación de la fe y conversión de aquellas gentes.
+          Pues esta no es causa suficiente, discutida y necesaria
+          para privar a los infieles de sus bienes,
+          reinados, honras, dignidades, estados y señoríos.
+          Porque sin privar a los infieles de sus estados, honras, bienes y señoríos
+          se puede predicar la fe
+          y conseguir la conversión de las gentes.
+          Antes bien, como es manifiesto,
+          privarlos de sus señoríos y bienes
+          sería causa eficacísima para turbar todo el mundo
+          y darles motivo de estimar la ley de Cristo
+          y la religión cristiana por injustísima,
+          y tenerle odio gravísimo,
+          y al Rey del cielo que la fundó por tirano
+          y enemicísimo del linaje humano.
+          Y por el justo miedo de perder sus bienes, dignidades y honores,
+          tendrían justísimo derecho de hacernos guerra y destruirnos.
+          Luego, no se ha de presumir que la Sede Apostólica
+          entendiese privar a los reyes y señores naturales de aquel orbe
+          por la concesión que hizo a los reyes de León y Castilla,
+          ni darles facultad para que hicieran cosa,
+          o dejaran de hacer,
+          que turbara a los infieles y los pusiera en odio de la fe,
+          y tomaran ocasión de blasfemar del mismo Jesucristo.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e208">Lo tercero,
+          por el mismo fundamento:
+          la causa única y final de la dicha concesión
+          fue la promulgación del Evangelio
+          y predicación de la fe y conversión de aquellas gentes.
+          Pues, para conseguir cualquier fin,
+          necesariamente se han de tomar y escoger
+          los medios proporcionados a él,
+          y evitar todo aquello que lo puede impedir,
+          según <ref xml:id="dc7aa7-e02452-Rd1e221">el Filósofo, libro 2.º de los Físicos;</ref>
+          y dejarlos en sus estados
+          y conservárselos en ellos,
+          y aun acrecentárselos,
+          y darles de gracia la fe, como Cristo dejó establecido,
+          y otros bienes posibles:
+          fue y es medio proporcionado
+          para que el Evangelio se predique sin obstáculo
+          y los infieles reciban de buena gana la fe;
+          y privarlos de ellos sería impedir para siempre,
+          frustrar y destruir totalmente el dicho fin.
+          Luego, no es de presumir que la Sede Apostólica entendiese
+          por la dicha concesión de la superioridad de aquel orbe
+          a los reyes de Castilla,
+          privar a los reyes y señores naturales
+          de sus bienes, estados y señoríos.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e244">Lo cuarto,
+          porque la Sede Apostólica, por sus leyes o constituciones,
+          privilegios y donaciones,
+          no acostumbra ni acostumbró
+          quitar, revocar o suspender sin causa legítima y necesaria
+          los derechos, honras y cosas que pertenecen a los hombres
+          de derecho natural, de las gentes y divino;
+          antes bien protesta guardarlos e inviolablemente defenderlos,
+          aunque por ello derrame sangre y pierda la vida,
+          como parece por el capítulo sunt quidam, 25, q. 1.
+          Y si no suele la Sede Apostólica sin causa legítima
+          privar a alguno de su hacienda por poca que sea,
+          mucho menos de sus honores y dignidades
+          y de lo que a sus personas pertenece:
+          argumento, ff, <ref xml:id="dc7aa7-e02452-Rd1e267">De poenis, L. in servorum;</ref>
+          arguye Andrés de Isernia, in título
+          <ref xml:id="dc7aa7-e02452-Rd1e273">Que sint regalia, L. vectigalia, 3. col.</ref>
+          Pues, si entendiese privar a los reyes y señores
+          de aquel orbe de sus estados y señoríos
+          por la dicha concesión o donación,
+          fuera privarlos sin causa legítima
+          de sus derechos y honras y dignidades
+          que les pertenecen de derecho natural, de las gentes y divino,
+          como está dicho,
+          lo que no se debe de la Santa Sede pensar,
+          y menos decir.
+          Luego, por la dicha donación,
+          no entendió la Santa Sede privarlos
+          de sus bienes, honras y señoríos, etc.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e294">Sirva por quinta razón lo dicho por Dominico de Santo Gemignano
+          en el Consejo undécimo,
+          y dice así:
+          que cada y cuando el papa concede algún derecho de nuevo,
+          no se entiende que sea su intención
+          quitar el derecho que algún tercero antes tenía.
+          Porque siempre se entiende, y ha de entender,
+          que el papa si algo concede, es sin perjuicio del derecho ajeno,
+          ut in c. super eo, De officio delegati,
+          et <ref xml:id="dc7aa7-e02452-Rd1e311">De rescriptis, c. quamvis et c. si propter
+          tua debita, Lib. 6;</ref>
+          y lo que es más, dice él,
+          aunque añada palabras que se refieran a un vicio del pasado,
+          diciendo que puede oponerse el vicio precedente,
+          por estas palabras generales no es intención del papa
+          quitar el derecho a otro, lo que es muy de notar,
+          a no ser que lo diga específicamente:
+          dicho <ref xml:id="dc7aa7-e02452-Rd1e325">c. quamvis; et De consuetudine, c. cum olim.</ref>
+          Todo esto es de Dominico,
+          y puede añadirse la razón de aquellos textos:
+          que no nazcan injurias allí donde nacen los derechos:
+          <ref xml:id="dc7aa7-e02452-Rd1e331">l. meminerint, Codex, De vi et vi armata.</ref>
+          Concediendo, pues, el vicario de Cristo
+          a los reyes de Castilla y León
+          el imperio universal y superioridad de aquel orbe indiano,
+          no fue su intención privar a los reyes y señores
+          de aquellas gentes cuyo es aquel orbe y no nuestro,
+          de sus reinos, estados, dignidades y señoríos,
+          ni a ningún particular de sus bienes;
+          ni el papa les dio facultad para hacer
+          ni dejar hacer cosa alguna
+          por la cual la predicación de la fe fuese frustrada
+          y se pusiera algún obstáculo al Evangelio
+          y se impidiera la conversión de las almas;
+          sino que siendo universales príncipes y señores en favor de la fe,
+          se queden los reyes naturales
+          con sus inmediatos gobiernos y señoríos.
+          Pues se compadecen muy bien el un señorío con el otro,
+          como probamos en nuestro Tractado Comprobatorio
+          desta misma manera,
+          el cual dedicamos al rey don Felipe,
+          nuestro rey y señor, siendo príncipe.
+          Y así parece probado el cuarto principio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

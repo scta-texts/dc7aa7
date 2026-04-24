@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 8</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 8</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law and legal citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02452">
+        <head xml:id="dc7aa7-e02452-Hd1e111">Chapter 8</head>
+        <p xml:id="dc7aa7-e02452-d1e113">§ 8
+          Fourth Principle — follows from the preceding ones.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e120">The Holy Apostolic See,
+          in granting the said principality
+          and imperial superiority over that Indian world
+          to our Catholic kings of Castile and León,
+          did not intend to deprive the natural kings and lords
+          of that said new world
+          of their royal states and dominions
+          and jurisdictions, honors, and dignities,
+          nor to grant our Catholic kings
+          any license or faculty by which they might do,
+          or fail to do, anything
+          by which the spreading of the faith would be frustrated,
+          and any obstacle placed before the Gospel,
+          such that the conversion and salvation of those peoples
+          would be entirely impeded or delayed,
+          which is what Christ and his vicar intend as their principal end.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e145">This fourth principle is proved by many reasons and means.
+          The first is through the proof of the fourth category of unbelievers
+          (§§ 4, 5, and 6),
+          where it was established that those peoples
+          stand outside all temporal and spiritual jurisdiction
+          of the Church and of every member of it.
+          Because we have nothing to do with them for good or ill,
+          beyond loving them and being diligent in bringing them to the knowledge of God.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e161">The second, it is proved by the preceding principle and its demonstration,
+          where it was shown that the sole and final cause of the said concession
+          was the preaching of the faith and the conversion of those peoples.
+          For this is not a sufficient, examined, and necessary cause
+          to deprive unbelievers of their goods,
+          kingdoms, honors, dignities, states, and dominions.
+          Because without depriving unbelievers of their states, honors, goods, and dominions
+          the faith can be preached
+          and the conversion of peoples achieved.
+          Indeed, as is manifest,
+          depriving them of their dominions and goods
+          would be a most efficacious cause for disturbing the whole world
+          and giving them reason to regard the law of Christ
+          and the Christian religion as most unjust,
+          and to bear it the gravest hatred,
+          and to regard the King of heaven who founded it as a tyrant
+          and the greatest enemy of the human race.
+          And out of the justified fear of losing their goods, dignities, and honors,
+          they would have the most rightful claim to make war upon us and destroy us.
+          Therefore it must not be presumed that the Apostolic See
+          intended to deprive the natural kings and lords of that world,
+          through the concession it made to the kings of León and Castile,
+          of anything, nor to give them faculty to do,
+          or to fail to do,
+          anything that would disturb the unbelievers and turn them against the faith,
+          and give them occasion to blaspheme Jesus Christ himself.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e208">The third,
+          by the same foundation:
+          the sole and final cause of the said concession
+          was the promulgation of the Gospel
+          and the preaching of the faith and the conversion of those peoples.
+          Now, to achieve any end,
+          the means proportionate to it must of necessity be chosen and adopted,
+          and everything that can impede it must be avoided,
+          according to <ref xml:id="dc7aa7-e02452-Rd1e221">the Philosopher, book 2 of the Physics;</ref>
+          and to leave them in their states
+          and preserve those states for them,
+          and even to increase them,
+          and to give them the faith freely, as Christ ordained,
+          and other possible goods:
+          this was and is a means proportionate
+          for the Gospel to be preached without obstacle
+          and for unbelievers to receive the faith willingly;
+          and to deprive them of those things would be to impede forever,
+          to frustrate and totally destroy the said end.
+          Therefore it must not be presumed that the Apostolic See intended,
+          through the said concession of superiority over that world
+          to the kings of Castile,
+          to deprive the natural kings and lords
+          of their goods, states, and dominions.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e244">The fourth,
+          because the Apostolic See, through its laws or constitutions,
+          privileges and donations,
+          is not and never was accustomed
+          to remove, revoke, or suspend without legitimate and necessary cause
+          the rights, honors, and things belonging to men
+          by natural law, by the law of nations, and by divine law;
+          rather it professes to preserve and inviolably defend them,
+          even though it should shed blood and lose life in doing so,
+          as appears from the chapter sunt quidam, 25, q. 1.
+          And if the Apostolic See is not accustomed without legitimate cause
+          to deprive anyone of their property however small,
+          much less of their honors and dignities
+          and of what belongs to their persons:
+          argument, ff, <ref xml:id="dc7aa7-e02452-Rd1e267">De poenis, L. in servorum;</ref>
+          as argued by Andreas of Isernia, in the title
+          <ref xml:id="dc7aa7-e02452-Rd1e273">Que sint regalia, L. vectigalia, 3. col.</ref>
+          For if it intended to deprive the kings and lords
+          of that world of their states and dominions
+          through the said concession or donation,
+          it would be depriving them without legitimate cause
+          of their rights and honors and dignities
+          belonging to them by natural law, by the law of nations, and by divine law,
+          as has been said,
+          which ought not to be thought of the Holy See,
+          and still less said.
+          Therefore, through the said donation,
+          the Holy See did not intend to deprive them
+          of their goods, honors, and dominions, etc.
+        </p>
+        <p xml:id="dc7aa7-e02452-d1e294">Let the fifth reason be what Dominicus of San Gimignano says
+          in his eleventh consilium,
+          and he says thus:
+          that whenever the pope grants some new right,
+          it is not to be understood that his intention is
+          to take away the right that some third party previously held.
+          Because it is always to be understood, and must be understood,
+          that if the pope grants anything, it is without prejudice to another's right,
+          ut in c. super eo, De officio delegati,
+          et <ref xml:id="dc7aa7-e02452-Rd1e311">De rescriptis, c. quamvis et c. si propter
+          tua debita, Lib. 6;</ref>
+          and what is more, he says,
+          even if he adds words referring to a past fault,
+          saying that a preceding fault may be opposed,
+          through these general words it is not the pope's intention
+          to take away the right of another — which is very much to be noted —
+          unless he says so specifically:
+          said <ref xml:id="dc7aa7-e02452-Rd1e325">c. quamvis; et De consuetudine, c. cum olim.</ref>
+          All of this is from Dominicus,
+          and to it may be added the reasoning of those texts:
+          that injuries should not arise from where rights arise:
+          <ref xml:id="dc7aa7-e02452-Rd1e331">l. meminerint, Codex, De vi et vi armata.</ref>
+          In granting, therefore, to the kings of Castile and León
+          the universal empire and superiority over that Indian world,
+          the vicar of Christ did not intend to deprive the kings and lords
+          of those peoples — whose world that is and not ours —
+          of their kingdoms, states, dignities, and dominions,
+          nor any private person of their goods;
+          nor did the pope give them faculty to do
+          or to allow anything
+          by which the preaching of the faith would be frustrated
+          and some obstacle placed before the Gospel
+          and the conversion of souls impeded;
+          but rather that, as universal princes and lords in favor of the faith,
+          the natural kings should remain
+          with their immediate governments and dominions.
+          For the one lordship and the other are very well compatible,
+          as we proved in our Tractado Comprobatorio
+          in the same fashion,
+          which we dedicated to King Philip,
+          our king and lord, while he was still prince.
+          And thus the fourth principle appears to be proved.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
