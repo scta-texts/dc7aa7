@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 10</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 10</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages and scriptural quotations have been translated into English;
+          canon law and legal citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e02906">
+        <head xml:id="dc7aa7-e02906-Hd1e111">Chapter 10</head>
+        <p xml:id="dc7aa7-e02906-d1e113">Chapter 10</p>
+        <p xml:id="dc7aa7-e02906-d1e118">The second part, namely:
+          that if those peoples, after the faith has been preached to them
+          and they have received it, do not wish to pay the expenses
+          that the kings shall have incurred in this,
+          they may not be compelled to pay
+          nor to contribute any part of those expenses.
+          This is proved by many reasons.
+          The first, because by precept of Christ,
+          we are bound to give freely,
+          just as we freely received the faith.
+          <ref xml:id="dc7aa7-e02906-Rd1e135">Matthew 10:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e137" source="http://scta.info/resource/mt10_10/critical/transcription">"The worker is worthy of his food,"</quote>
+          that is, according to Jerome, only this:
+          <quote xml:id="dc7aa7-e02906-Qd1e142">"Take what is necessary for your clothing and sustenance."</quote>
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e148">The second, because upon the supreme pastor of the universal Church,
+          and upon the others upon whom by office it falls,
+          or upon those to whom he entrusts it,
+          there falls by divine precept given absolutely by Christ
+          the duty to ensure and command
+          that the Gospel be preached to all peoples, throughout the whole world,
+          without distinction or mention or any condition of price
+          or of expenses.
+          For when preaching is commanded,
+          it is also commanded that the costs and expenses be borne,
+          as has been said.
+          So Christ commanded: <ref xml:id="dc7aa7-e02906-Rd1e169">Mark, last chapter:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e171">"Go into all the world and preach the Gospel to every creature,"</quote>
+          et <ref xml:id="dc7aa7-e02906-Rd1e177">Matthew, last chapter:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e179">"Go and teach all nations, etc."</quote>
+          And Saint Paul, <ref xml:id="dc7aa7-e02906-Rd1e184">1 Corinthians 9,</ref>
+          recognizing that it was a precept for him, said:
+          <quote xml:id="dc7aa7-e02906-Qd1e188">"For if I preach the Gospel, I have no cause for boasting,
+          for necessity is laid upon me,"</quote>
+          as if to say: "little thanks to me if I fulfill it,
+          for I am bound to it under pain of eternal damnation
+          by divine precept,"
+          for which reason what follows:
+          <quote xml:id="dc7aa7-e02906-Qd1e198">"Woe to me if I preach not the Gospel!" — that is,
+          <ref xml:id="dc7aa7-e02906-Rd1e202">according to the Gloss and Saint Thomas:</ref>
+          my heavenly glory would surely be forfeited
+          if I preached in order to receive payment,</quote>
+          etc.
+          The third, because the preaching of the faith,
+          by divine ordination, is owed without any distinction
+          to all the peoples of the world,
+          because that is owed to each one
+          which is ordained for him according to the order of divine wisdom,
+          as <ref xml:id="dc7aa7-e02906-Rd1e216">Saint Thomas, 1 q. 2 a. 1 ad 3,</ref> teaches.
+          And therefore, in paying what he owes,
+          a man is not permitted to demand expenses from the creditor.
+          For the Supreme Pontiff and the other ministers of the Church,
+          as debtors bound to convert the peoples
+          — who in this respect are their creditors —
+          as that passage of <ref xml:id="dc7aa7-e02906-Rd1e226">Saint Paul, Romans 1</ref> says:
+          <quote xml:id="dc7aa7-e02906-Qd1e229">"To Greeks and to barbarians, to the wise and to the unwise, I am a debtor;
+          so, as much as in me is,
+          I am ready to preach the Gospel to you also who are at Rome."</quote>
+          Saint Bernard, <ref xml:id="dc7aa7-e02906-Rd1e237">book 3, De consideratione, to Pope Eugenius:</ref>
+          "If then you recognize that you are not a lord but a debtor
+          to the wise and the unwise,
+          you must take the greatest care and apply all vigilance to considering
+          how those who are not wise may become so
+          and how those who are wise may not fall into folly.
+          You are therefore also a debtor to unbelievers,
+          both Jews and Greeks and gentiles.
+          It is therefore right that you devote all the diligence you can
+          to the end that unbelievers be converted to the faith,
+          and those already converted do not turn away from it, etc."
+          Thus far Bernard.
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e255">The fourth, because if we were to ask of the unbelieving hearers of the Gospel
+          their expenses or any other thing at a price,
+          they would think we were selling them the Gospel
+          and that we preached it to them for gain and profit,
+          and not to convert them to Christ and save their souls.
+          So says <ref xml:id="dc7aa7-e02906-Rd1e268">Saint Jerome on Saint Matthew:</ref>
+          if the apostles received gold and silver,
+          they would seem to be preaching not for the salvation of men but for profit.
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e277">And the gloss on that passage of <ref xml:id="dc7aa7-e02906-Rd1e281">2 Corinthians 12,</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e283">"I seek not yours but you,"</quote>
+          says: he seeks not gifts or donations, but fruit,
+          lest he appear to be a vendor of the Gospel.
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e291">Christ therefore permitted his preachers only
+          to receive and take food from those to whom they preached the Gospel.
+          And this the apostle himself shows:
+          "Having food and clothing, with these we shall be content,"
+          <ref xml:id="dc7aa7-e02906-Rd1e301">1 Corinthians 6.</ref>
+          And to give more than this, Christ did not bind those
+          to whom the faith is preached and who receive it.
+          And even as regards this food, if such persons are unwilling to give it,
+          he imposed no bodily or temporal penalties;
+          just as he imposed no penalties in this world
+          upon those who were unwilling to receive the preachers of the Gospel,
+          or to receive them or hear them;
+          rather the punishment and chastisement of that sin
+          he reserved for himself on the day of final judgment:
+          "And whoever will not receive you or hear your words,
+          go out of that house or city and shake off the dust from your feet.
+          Truly I say to you, it shall be more tolerable
+          for the land of Sodom and Gomorrah on the day of judgment
+          than for that city."
+          <ref xml:id="dc7aa7-e02906-Rd1e325">Matthew 10.</ref>
+          "And whoever does not believe shall be condemned."
+          By this authority, those who presume to affirm
+          that if unbelievers do not receive the preachers
+          or are unwilling to hear them,
+          they can be forced to do so by Catholics,
+          ought to put their finger to their lips;
+          for these are nothing but pretexts to scandalize and rob the unbelievers,
+          to usurp their dominions,
+          and to ensure that they never come to the faith,
+          as appears from what has been said.
+          Returning to the subject:
+          Saint Paul did not excommunicate the Corinthians, as he could have,
+          after they had received the faith,
+          nor did he thunder any other temporal penalty
+          against those who out of their own greed
+          would not and did not provide food to him and his companions.
+          He did no more than
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e408">reproach them as ungrateful, saying:
+          <quote xml:id="dc7aa7-e02906-Qd1e351">"Because I preached the Gospel of God to you freely,
+          I robbed other churches, receiving wages, that is, food,
+          for my ministry to you.
+          And when I was with you and in need,
+          I was not a burden to anyone;
+          for what I lacked, the brethren supplied
+          who came from Macedonia.
+          And in all things I kept and will keep myself from being a burden to you, etc."</quote>
+          At times he worked with his own hands
+          to buy food for himself
+          and for those who went with him and helped him.
+          Being at Miletus, he said to those he had preached to:
+          <quote xml:id="dc7aa7-e02906-Qd1e371">"Silver or gold or clothing I coveted from no one,
+          as you yourselves know.
+          For what was needed for me
+          and for those who are with me,
+          these hands provided.
+          In all things I have shown you that by so laboring
+          it is necessary to support the weak,
+          and to remember the words of the Lord Jesus,
+          who said: it is more blessed to give than to receive."</quote>
+          <ref xml:id="dc7aa7-e02906-Rd1e384">Acts 20.</ref>
+          What has been said is not hindered by the fact that not only by divine law,
+          as has appeared, but also by natural law,
+          the apostle proves that those who preach and serve the Gospel
+          are owed what is necessary:
+          <quote xml:id="dc7aa7-e02906-Qd1e393" source="http://scta.info/resource/Icor9_7/critical/transcription">"For no one serves as a soldier at his own expense,"</quote>
+          <ref xml:id="dc7aa7-e02906-Rd1e396">1 Corinthians 9.</ref>
+          For to whoever serves the common good,
+          natural reason dictates that the necessities of life are owed.
+          All of which is true;
+          therefore, those who have received the faith may be compelled
+          to fulfill in this case the debt they owe to the preachers,
+          by natural and divine law, etc.
+          To which we respond that unbelievers,
+          even after their conversion,
+          if out of their own greed or some other irrational motive
+          they are unwilling to give what is necessary
+          to the very persons who preached or preach to them,
+          sin gravely, not only in acting as ingrates;
+          but that sin is not punishable by men in this life
+          with spiritual or temporal penalty,
+          but in the other world,
+          whose punishment Christ reserved for himself,
+          as has been seen.
+          For although this obligation is one of natural law,
+          it is nonetheless like the antidotal obligation
+          that arises from that natural equity
+          which dictates that we give thanks and do good
+          to those who do good to us;
+          of which the civil lawyers treat in the
+          <ref xml:id="dc7aa7-e02906-Rd1e434">L. sed in lege, § consuluit, ff. De petitione hereditatis,</ref>
+          et <ref xml:id="dc7aa7-e02906-Rd1e439">in c. cum in officiis, de testamentis;</ref>
+          but from it no action arises or is available:
+          nec potest deduci in compensationem,
+          <ref xml:id="dc7aa7-e02906-Rd1e447">L. hoc iure, penúlt., De donationibus.</ref>
+          And therefore no one can be compelled to pay the debt
+          which he has contracted through this obligation,
+          just as he cannot be compelled to give alms to a neighboring pauper
+          living in extreme need,
+          and so with the other works of mercy,
+          to which every man is nonetheless bound
+          by natural and divine law,
+          under pain of mortal sin and eternal damnation,
+          as appears in <ref xml:id="dc7aa7-e02906-Rd1e465">Matthew 25:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e467">"For I was hungry and you gave me no food, etc."</quote>
+          But no spiritual or temporal judge
+          has power to punish or constrain such persons.
+          And this because Christ reserved the punishment of it for himself,
+          leaving such works to the freedom of each person and to their free will.
+          In the same way, Christ left it to the will of those who would hear
+          or not hear the faith willingly,
+          and would receive or not receive it,
+          to maintain and provide to the preachers
+          what is necessary for their life.
+          Let this be notably said: "those who are unwilling to give to the very persons
+          who preach what is necessary";
+          for to more than what those very persons strictly require
+          they are not bound,
+          because it is to be understood that everything else demanded of them
+          for superfluities,
+          such as building sumptuous churches or monasteries and other excesses
+          that under pretexts and the guise of preaching are demanded of them
+          and were or are made to be done:
+          all of this is robbery,
+          and they must render a strict account to God for it.
+          All of this is proved by that limited license which Christ gave:
+          <quote xml:id="dc7aa7-e02906-Qd1e502">"The worker is worthy of his food,"</quote>
+          and "eat what is set before you,"
+          <ref xml:id="dc7aa7-e02906-Rd1e507">Luke 10.</ref>
+          He did not say: "you shall take their superfluous food, or their necessary food,
+          or anything beyond it," but rather:
+          <quote xml:id="dc7aa7-e02906-Qd1e514">"Eat what they give you,
+          and if they give you nothing, go elsewhere,
+          for in the end I have provided
+          that none of the things necessary to you shall be lacking."</quote>
+        </p>
+        <p xml:id="dc7aa7-e02906-d1e522">And so it appears that the unbelievers may not be compelled,
+          nor even after becoming Christians, to pay the costs
+          that shall be incurred to go and preach to them,
+          but that the kings of Castile took charge,
+          as regards the Indies, of bringing about their conversion,
+          and the pope imposed a precept upon them to this end,
+          without thereby extracting a single maravedí from them by force.
+          And the same reasoning applies to any other public or private person
+          to whom the vicar of Christ might entrust this care and office
+          in general or in particular,
+          who would be bound to bear the costs
+          without seeking any recompense from them,
+          at least without forcing them to it;
+          for it is written, <ref xml:id="dc7aa7-e02906-Rd1e543">Ecclesiasticus 17:</ref>
+          <quote xml:id="dc7aa7-e02906-Qd1e545">"God commanded each one concerning his neighbor,"</quote>
+          and <ref xml:id="dc7aa7-e02906-Rd1e551">Matthew 7:</ref>
+          "Whatever you wish men to do to you, do also to them."
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
