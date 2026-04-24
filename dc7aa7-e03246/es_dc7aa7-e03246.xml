@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 11</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 11</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Este capítulo fue redactado por Las Casas casi íntegramente en latín,
+          con nota de que así lo pone para que los doctos lo vean y corrijan.
+          El cuerpo latino ha sido traducido al español moderno para mantener la coherencia
+          de la serie de versiones paralelas.
+          Las citas de derecho canónico y civil se han conservado en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03246">
+        <head xml:id="dc7aa7-e03246-Hd1e111">Capítulo 11</head>
+        <p xml:id="dc7aa7-e03246-d1e113">Capítulo 11.
+          Del precedente quinto principio se sigue el sexto.
+          Y este puesto en latín, para que los doctos lo vean,
+          y si les pareciere, lo corrijan.
+          Principio 6.º
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e126">Para que rectamente, esto es, conforme a los derechos
+          y con las debidas circunstancias,
+          nuestros ínclitos reyes adquieran posesión justa
+          del supremo principado de las Indias,
+          se requiere necesariamente que intervenga el consentimiento
+          de los reyes y pueblos de dicho orbe,
+          de manera que libremente consientan
+          en la institución o donación hecha de nuestros reyes
+          por la Sede Apostólica.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e143">Se prueba este principio de múltiples maneras.
+          Primero así:
+          la Sede Apostólica por la dicha institución o donación
+          no privó a aquellas gentes de sus dominios,
+          dignidades, prerrogativas reales, estados y jurisdicciones,
+          por la razón principal de que estas cosas
+          les pertenecen de derecho natural y de gentes,
+          como aparece del principio precedente;
+          luego no los privó de su libertad
+          ni de las cosas que atañen a la libertad,
+          porque la libertad no se compra bien a cambio de todo el oro,
+          pues no tiene estimación alguna,
+          como en <ref xml:id="dc7aa7-e03246-Rd1e162">L. libertas, ff., De regulis iuris.</ref>
+          Porque la libertad es la facultad natural,
+          esto es, la posibilidad de hacer lo que a cada uno le plazca,
+          salvo lo que se prohíbe por la fuerza o por el derecho.
+          La servidumbre, en cambio, es aquella por la cual alguien
+          queda sujeto contra natura al dominio ajeno,
+          como en <ref xml:id="dc7aa7-e03246-Rd1e171">L. libertas, ff., De statu hominum.</ref>
+          Ahora bien, a la libertad pertenece principalmente
+          el consentir o no consentir en un rey o señorío ajeno,
+          pues por ello quedan reducidos a servidumbre
+          los reyes libres y los pueblos:
+          los reyes, porque han de reconocer un superior,
+          lo cual es para los reyes naturalmente el mayor horror;
+          y los pueblos, porque se ven forzados a sufrir
+          una servidumbre doble y más dura.
+          Y esto es el máximo perjuicio de unos y otros.
+          Pues la sujeción y el juramento de fidelidad son una especie de servidumbre,
+          y el que está bajo la jurisdicción de alguien
+          se dice que es como esclavo de ese alguien,
+          como en <ref xml:id="dc7aa7-e03246-Rd1e190">ff., De usufructuario, L.</ref>
+          si usufructus, 15; et L. cum servum, ad fin. et ibi
+          <ref xml:id="dc7aa7-e03246-Rd1e195">Doctores, Codex, De servis fugitivis; et in c. cum olim, el 2.º</ref>
+          de privilegio.
+          Es necesario que todos aquellos a quienes perjudica
+          consientan juntamente y libremente,
+          como en <ref xml:id="dc7aa7-e03246-Rd1e202">cap. cum omnes, De constitutionibus,</ref>
+          en la regla <quote xml:id="dc7aa7-e03246-Qd1e207">«Lo que a todos atañe»,</quote>
+          <ref xml:id="dc7aa7-e03246-Rd1e209">De regulis iuris, Lib. VI.</ref>
+          Luego, para que rectamente y con justicia
+          nuestros ínclitos reyes obtengan posesión justa
+          del supremo principado de las Indias,
+          se requiere necesariamente que intervenga
+          el consentimiento de los reyes y pueblos de dicho orbe, etc.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e219">Se prueba también en segundo lugar:
+          aquellos reinos y pueblos de todo aquel orbe
+          eran libres de derecho natural y de gentes
+          en el tiempo en que los hallamos,
+          teniendo reyes y príncipes,
+          sin reconocer superior alguno fuera de sí mismos,
+          ni de derecho ni de hecho, como se ha dicho,
+          ejerciendo el pleno e íntegro poder
+          y toda potestad y jurisdicción,
+          al igual que los demás reyes del mundo.
+          Pues aquel nuevo orbe, en el altísimo mar océano,
+          está alejadísimo de todas las regiones
+          que los hombres conocieron jamás,
+          ocupado y poseído por aquellos indios desde tiempo inmemorial,
+          y cuando llegamos hallamos y vimos con nuestros ojos
+          que sobre él reinaban reyes propios y naturales,
+          y así estaban enteramente exentos o libres de todo superior.
+          Lo que se prueba por <ref xml:id="dc7aa7-e03246-Rd1e249">ff., De iustitia et iure, L. ex hoc iure,</ref>
+          donde se dice: <quote xml:id="dc7aa7-e03246-Qd1e254">«las gentes quedaron diferenciadas,
+          los reinos fundados, los dominios distinguidos».</quote>
+          De donde aparece que aquellas gentes y sus reyes
+          eran libres, sin reconocer superior alguno,
+          de derecho natural y de gentes.
+          Luego, sin su libre consentimiento y beneplácito,
+          no se les puede dar otro rey nuevo.
+          De lo contrario se les haría violencia
+          y gravísima injuria y daño enormísimo,
+          si sometiéramos a servidumbre, contra natura y razón,
+          a reyes y súbditos, señores y vasallos libres.
+          Y en consecuencia, tal principado sería violento,
+          usurpado y tiránico,
+          como se prueba en <ref xml:id="dc7aa7-e03246-Rd1e276">C. 1 q. 1, c. principatus;</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e278">L. decernimus, Codex, De sacrosanctis ecclesiis.</ref>
+          Véase Baldo, arriba en el capítulo IV.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e284">Siendo, pues, que no fue intención del sumo vicario de Cristo
+          irrogar perjuicio a la libertad y derechos
+          de los reyes y pueblos de aquel orbe,
+          ni infligirles violencia de ninguna manera,
+          ni injuria, ni dar licencia para que se la infligieran,
+          ni aprobar la ya infligida,
+          es manifiesto que el sumo vicario de Cristo entendió y quiso
+          que, para que rectamente y con justicia
+          nuestros reyes obtuviesen justa posesión del supremo principado
+          de aquel orbe,
+          se pidiera el beneplácito de los reyes y pueblos de dicho orbe,
+          de modo que libremente consintieran
+          en la institución o donación papal hecha de nuestros reyes.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e306">Se prueba también en tercer lugar así:
+          siempre que un hombre libre,
+          y con mayor razón un pueblo o comunidad libre,
+          ha de quedar obligado a soportar alguna carga
+          o a satisfacer alguna deuda,
+          y en general cuando se trata del perjuicio de muchos,
+          es necesario llamar a todos los que atañe
+          y obtener de ellos su libre consentimiento.
+          De lo contrario, nada valdrá lo que se hiciere,
+          como es bien claro entre los juristas.
+          Ahora bien, si se impusiera el rey de España,
+          en cuanto rey de Castilla y León,
+          a las naciones indianas y a sus príncipes,
+          como rey y señor universal o supremo,
+          de derecho o de hecho,
+          quedarían obligados al menos civilmente,
+          en cuanto al fuero judicial o juicio humano,
+          a la gravísima carga y a satisfacer una deuda intolerable:
+          a saber, reconocer por rey y señor
+          a un hombre desconocido para ellos,
+          rey de otra nación extraña, bárbara y a primera vista sospechosa,
+          y por ello prestarle obediencia, sujeción, reverencia,
+          rentas, tributos, servicios, nuevas imposiciones
+          y demás derechos reales;
+          de donde se trata de un daño incomparable y quizá irreparable.
+          Luego es necesario llamar a todos los reyes y pueblos
+          de aquellas naciones,
+          y esperar y obtener de ellos su libre consentimiento.
+          Todo esto es claro.
+          Porque es notorio en derecho
+          que han de ser citados todos aquellos a quienes el negocio toca principalmente,
+          como en la regla de derecho:
+          «y por todos debe ser aprobado o reprobado»,
+          a saber, todos los que resultan perjudicados,
+          o a cuyo derecho se le resta,
+          o a quienes se les hace perjuicio,
+          a los que se les ha dado por derecho natural, divino y humano
+          la potestad de consentir o contradecir,
+          como dice <ref xml:id="dc7aa7-e03246-Rd1e365">Baldo en L. nam ita demum, ff., De adoptionibus,</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e367">la Glosa;</ref>
+          de donde saca el argumento de que cuando se impetran rescriptos,
+          deben intervenir los que resultarían perjudicados por el rescripto:
+          <ref xml:id="dc7aa7-e03246-Rd1e374">ff., De natalibus restituendis, L. filium;</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e376">ff., De minoribus, L. in causae cognitione, causa;</ref>
+          et <ref xml:id="dc7aa7-e03246-Rd1e381">in Autbent., Ut sponsalitia largitas, cap. ad hec, Collatio 8.</ref>
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e384">Se prueba y confirma todo lo precedente también en cuarto lugar:
+          porque así se halla ordenado en la Sagrada Escritura,
+          de manera que en la dación y constitución
+          de un nuevo y supremo príncipe,
+          celebrada desde el principio,
+          e incluso del príncipe que Dios había señalado o elegido,
+          interviniera el libre consentimiento y autoridad,
+          o aceptación voluntaria del pueblo,
+          sin la cual incluso la institución divina del supremo príncipe
+          no surtía efecto.
+          Esto consta por <ref xml:id="dc7aa7-e03246-Rd1e401">Deuteronomio 17, donde se dice:</ref>
+          <quote xml:id="dc7aa7-e03246-Qd1e403">«Cuando dijeres: pondré sobre mí rey,
+          como tienen todas las naciones que me rodean,
+          pondrás sobre ti al rey que el Señor Dios tuyo eligiere, etc.»</quote>
+          En cuyas palabras decretó y mandó el Señor
+          que debían concurrir dos cosas para la justa institución del rey.
+          La una, de parte del que ha de ser instituido:
+          a saber, que hubiera sido elegido por la divina Providencia,
+          esperando en la elección el juicio de Dios.
+          La otra, de parte del pueblo:
+          a saber, que el pueblo voluntariamente recibiese
+          y de buen grado ratificase al elegido por Dios como rey,
+          y le hiciera entrega de la posesión del reino.
+          Las cuales dos cosas denotan suficientemente las susodichas palabras:
+          «pondrás sobre ti al que Dios eligiere»;
+          donde se requería un acto voluntario,
+          esto es, el consentimiento y aprobación del pueblo
+          en «pondrás sobre ti», es decir, ratificarás y aceptarás,
+          y tendrás por rey al que Dios hubiere dado a entender que eligió.
+          De donde, aunque Dios podía constituir rey sobre el pueblo hebreo
+          incluso sin su consentimiento,
+          por ser Señor de todos,
+          <ref xml:id="dc7aa7-e03246-Rd1e383">Hebreos 1</ref> y <ref xml:id="dc7aa7-e03246-Rd1e388">Daniel 4,</ref>
+          no quiso empero privar a aquel pueblo
+          del privilegio del derecho natural
+          que atañe a todos los hombres y a todo pueblo libre:
+          someterse por propia voluntad al gobierno de otro
+          si lo ve útil para sí.
+          Porque Dios no destruye ni abroga su obra
+          ni el derecho natural que desde el principio
+          él mismo instituyó tan sabiamente, tan ordenadamente
+          y tan inmutablemente.
+          Pues no es propio de la divina providencia
+          forzar o corromper las naturalezas;
+          y el gran Dionisio, <ref xml:id="dc7aa7-e03246-Rd1e405">lib. 4, De divinis nominibus,</ref>
+          dice que «se conservan».
+          De donde, así como por divina ordenación
+          tenía fuerza de precepto
+          que el pueblo voluntariamente constituyera sobre sí como rey
+          a aquel que el Señor eligiere,
+          esto es, que ratificase tal elección de Dios
+          y le hiciera entrega de la posesión del reino,
+          de igual manera y por la misma ordenación divina
+          se requería necesariamente el consentimiento del pueblo,
+          la ratificación y la entrega de la posesión del reino
+          para el ejercicio del poder regio.
+          Si Dios no requiriera este consentimiento del pueblo,
+          habría dicho simplemente:
+          <quote xml:id="dc7aa7-e03246-Qd1e485">«ese será rey sobre ti, al que el Señor eligiere»;</quote>
+          y no habría hecho falta añadir:
+          <quote xml:id="dc7aa7-e03246-Qd1e490">«pondrás sobre ti al que el Señor eligiere, etc.»</quote>
+          Pues han de sopesarse las palabras de la Sagrada Escritura,
+          que está llena de misterios,
+          y sería error pensar que en ella puede hallarse
+          algo impropio, superfluo o deficiente.
+          Esto aparece también claramente en los dos primeros reyes
+          Saúl y David del pueblo de Israel.
+          Pues como consta en <ref xml:id="dc7aa7-e03246-Rd1e504">1 Reyes, capítulo 10,</ref>
+          aunque Saúl hubiese sido ungido primero por precepto de Dios
+          a través de Samuel como rey,
+          y por aquella unción hubiera obtenido
+          el derecho y título sobre aquel reino,
+          fue no obstante necesario que luego
+          fuera instituido y aceptado por el pueblo como rey,
+          y que se le hiciera entrega de la posesión del reino.
+          Pues no se atrevió a ejercer jurisdicción
+          ni la autoridad del poder regio,
+          ni podía hacerlo con pleno derecho,
+          antes de que el pueblo consintiera en la elección hecha de él
+          y le entregara o concediera la posesión del reino,
+          como allí consta; véase allí de nuevo.
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e529">Lo mismo hallarás en 2 Reyes, a saber, David,
+          quien aunque también había sido ungido como rey
+          por el profeta Samuel de mandato de Dios,
+          como en <ref xml:id="dc7aa7-e03246-Rd1e535">1 Reyes, capítulo 16,</ref>
+          no se atrevió sin embargo a entrometerse
+          en el ejercicio del poder regio inmediatamente después de la muerte de Saúl,
+          ni se arrogó el reino,
+          aun sabiendo perfectamente que había sido elegido y ungido por Dios
+          para el reino de aquel pueblo por mandato suyo;
+          no ignorando que por precepto divino
+          debía ser constituido e intronizado en el reino
+          con el consentimiento y autoridad del pueblo:
+          primero, en Hebrón, por la tribu de Judá:
+          viniendo, dice, los varones de Judá,
+          ungieron allí a David para que reinara sobre Judá,
+          <ref xml:id="dc7aa7-e03246-Rd1e552">2 Reyes, capítulo 2.</ref>
+          Después, en segundo lugar,
+          vinieron todas las tribus de Israel
+          y los ancianos de Israel al rey, a Hebrón,
+          e hizo con ellos pacto en Hebrón delante del Señor,
+          y ungieron a David como rey sobre Israel, etc.
+          Esto en <ref xml:id="dc7aa7-e03246-Rd1e563">el capítulo 5.º</ref>
+        </p>
+        <p xml:id="dc7aa7-e03246-d1e566">He aquí cómo David, más allá de la institución,
+          promoción y unción divinas,
+          necesitó la aprobación y aceptación
+          y entrega de la posesión del reino
+          por el libre consentimiento de todo el pueblo,
+          para tener una entrada legítima y jurídica en el reino;
+          esto es, para obtener rectamente y con justicia
+          la posesión y el ejercicio del poder regio en aquel reino.
+          Luego, conforme al ejemplo de la ley divina,
+          para que rectamente y con justicia nuestros reyes obtengan
+          la justa posesión del supremo principado del orbe de las Indias,
+          no basta únicamente la institución, promoción o donación
+          de la Santísima Sede Apostólica,
+          sino que se requiere necesariamente
+          que intervenga el consentimiento de los reyes y pueblos
+          de aquellas gentes,
+          de manera que libremente consientan
+          en la dicha institución, promoción o donación
+          hecha de nuestros reyes por la misma Santa Sede.
+          Sobre esto véase más cumplidamente nuestro tratado en
+          <ref xml:id="dc7aa7-e03246-Rd1e596">el libro De thesauris, capítulo 22</ref>
+          y siguientes.
+          Y así queda patente el sexto principio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
