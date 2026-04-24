@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 2</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 2</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          Latin prose passages have been translated into English;
+          canon law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+    <div xml:id="starts-on">
+    </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e01681">
+        <head xml:id="dc7aa7-e01681-Hd1e111">Chapter 2</head>
+        <p xml:id="dc7aa7-e01681-d1e113">§ 2</p>
+        <p xml:id="dc7aa7-e01681-d1e118">Second Principle</p>
+        <p xml:id="dc7aa7-e01681-d1e124">There are four categories of unbelievers,
+          and accordingly we must deal with them
+          in four different ways.
+          Ignorance of this principle
+          has been chiefly responsible for all the destruction of the Indies,
+          as will become clear from what is said below.
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e135">This principle is proved by running through each category in turn.
+          The first is that there are some unbelievers
+          who dwell among Christians
+          and are subject to Christian princes or kings,
+          such as the Jews and the Moors
+          who used to live in Castile,
+          whom we called Mudéjar Moors.
+          Concerning these unbelievers, many ecclesiastical and secular laws and decrees
+          have been written and established,
+          as appears throughout the title on Jews and Saracens in the Decretals,
+          and in the decrees and in the human laws,
+          <ref xml:id="dc7aa7-e01681-Rd1e154">ut Codex, de Judeis,</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e156">Codex, de paganis</ref>, etc.
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e162">These unbelievers who live as unbelievers,
+          insofar as they live under the lordship and jurisdiction
+          or principality of Christian kings,
+          are subjects of those kings both in law and in fact,
+          and are therefore bound to observe the just laws imposed on them,
+          living according to them
+          as every subject must observe those of the prince or superior
+          under whose jurisdiction and district he lives,
+          as is self-evident;
+          and both canon and civil law are full of this.
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e180">There are four kinds of subjects according to the laws.
+          The first, by reason of domicile, residence, or habitation.
+          The second, by reason of one's own origin or birth,
+          or that of one's parents.
+          The third, by reason of offenses,
+          if someone commits a wrong in another's land or jurisdiction
+          or enters into some contract there.
+          The fourth, by reason of suit, homage, and vassalage,
+          as in the case of those who hold some fief, etc.
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e193">The second category or kind of unbelievers
+          is and are those who hold the lands, dominions, and things they possess
+          in fact but against all right;
+          that is to say: those who have usurped them
+          by violence, unjustly, from the Christian people,
+          such as the Moors and Turks,
+          through wars or through any other unjust or tyrannical means,
+          as is evident in the case of those who detain the Holy Land
+          and Africa and all of Asia
+          and part of Hungary,
+          and many other parts and kingdoms that once belonged to Christendom.
+          Of this second kind are those who are not content
+          with holding our lands and kingdoms under usurpation,
+          but with all their forces
+          assail the Christian commonwealth
+          with their cruel and arrogant armies and wars,
+          killing and capturing the members of Christ,
+          as we see and grieve over each day,
+          whose chief aim is, if they could,
+          to impede, destroy, and annihilate the faith and name of Christ,
+          and to spread their abominable sect.
+          And these are properly enemies of the faith and of the Christian religion.
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e224">These, by reason of the offenses,
+          most grievous injuries and wrongs
+          that they commit against the Christian people,
+          are subjects of the Church in law but not in fact,
+          on account of their great and brutish forces and power;
+          and consequently,
+          whenever the Church is able,
+          or its members who are the Christian princes are able,
+          they may punish and chastise them as delinquent subjects.
+          Of these treats <ref xml:id="dc7aa7-e01681-Rd1e239">Saint Thomas, 2.2, q. 10, a. 8</ref>,
+          where he says that against these the Church has
+          four legal avenues for proceeding against them.
+          The first, by right of recovery,
+          to reclaim the kingdoms and lands
+          that they have unjustly usurped from us,
+          as is proved in
+          <ref xml:id="dc7aa7-e01681-Rd1e247">23, q. 2, c. dominus noster</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e253">q. 4, c. fortitudo,</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e255">[q. 8] c. dispar</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e257">c. igitur, et c. omni timore,</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e262">c. hortatu</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e264">c. olim causa. De restitutione spoliatorum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e267">The second, by right of defense,
+          and this is clear,
+          because even a private person
+          is permitted to defend themselves,
+          <ref xml:id="dc7aa7-e01681-Rd1e275">L. ut vim, ff. Digest. De iustitia et iure.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e278">The third, by right of vengeance, punishment, or retribution,
+          because any prince who recognizes no superior
+          may not only wage war to defend himself
+          and recover what has been usurped from him,
+          but also punish and chastise those who have done him wrong,
+          <ref xml:id="dc7aa7-e01681-Rd1e288">23, q. 1, c. quid culpatur.</ref>
+        </p>
+        <p xml:id="dc7aa7-e01681-d1e292">The fourth, by right of liberation,
+          to free oppressed Christians
+          whom they hold captive with tyrannical fury,
+          <ref xml:id="dc7aa7-e01681-Rd1e298">q. 3, c. Maximianus,</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e300">per totam illam quaestionem et c. 8, c. scire vos oportet;</ref>
+          et <ref xml:id="dc7aa7-e01681-Rd1e305">q. 5, c. regum officium.</ref>
+          And more will be said on this below.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
