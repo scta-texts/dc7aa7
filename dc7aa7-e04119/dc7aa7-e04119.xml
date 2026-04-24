@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 14</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 14</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04119">
+        <head xml:id="dc7aa7-e04119-Hd1e111">Capítulo 14</head>
+        <p xml:id="dc7aa7-e04119-d1e113">§ 14.</p>
+        <p xml:id="dc7aa7-e04119-d1e119">Ahora es de ver cómo los españoles guardaron,
+          en su primer ingreso o primer pie
+          que pusieron en aquellas Indias y en cada parte de ellas,
+          la dicha orden del derecho natural y divino en sus partes;
+          y así parecerá la justicia con que entraron.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e130">En cuanto pues a la primera parte,
+          que era entrar por paz:
+          su ingreso y entrada no fue como de hombres crueles
+          y sin misericordia que hubieran recibido grandes injurias y daños de otros
+          y quisieran vengarse haciendo matanzas y estragos señalados de propósito
+          solamente;
+          sino como de inmanes bestias sin razón:
+          como de tigres en niños para tragárselos;
+          como de hambrientos y rabiosos lobos en corderos mansísimos e inocentes;
+          entrando en cada pueblo matando y despedazando
+          hombres y mujeres, niños y viejos,
+          señores y súbditos,
+          sin diferencia alguna de edad ni sexo ni dignidad;
+          muchas veces dando en ellos seguros en sus casas y camas
+          al cuarto de la luna,
+          poniendo fuego a las casas de quienes no salían tan presto;
+          y los que salían huyendo del fuego
+          hallaban luego allí las espadas
+          que los desvalijaban y hacían pedazos.
+          Muchas veces, saliendo los indios con alegría
+          y presentes de comida y de oro y de alhajas ricas,
+          de algodón y otras cosas, a recibirlos,
+          los españoles daban en ellos,
+          levantándoles que venían de mala arte
+          y que era fingido aquel recibimiento,
+          para colorar que los que tomaban a vida
+          eran en buena guerra hechos esclavos.
+          Otras veces aún, habiéndolos asegurado
+          de que se vinieran de los montes donde de miedo habían huido,
+          que no les harían mal ni daño,
+          los cuales confiando en su palabra venían a ponerse en sus impías manos:
+          los mataban y hacían esclavos.
+          Y esta fue maldad de los nuestros,
+          que nunca guardaron a aquellas gentes fe ni verdad ni palabra
+          de seguridad que les hubieren dado.
+          Hubo un tirano que tenía por sobrenombre Guerra,
+          que como vinieran ciertos pueblos a dársele y servirle
+          con presentes de paz,
+          les respondió que él no quería paz
+          porque se llamaba Guerra,
+          y por tanto no quería recibirlos de paz,
+          sino que por guerra los había de tomar;
+          y así hizo innumerables esclavos.
+          Una de las cosas que nosotros los tiranos hemos tenido,
+          después de la de henchirnos de oro,
+          era hacer a aquellas gentes inocentes esclavos,
+          para tenerlos y usarlos a toda nuestra voluntad.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e202">Probaban las espadas en ellos,
+          apostando a que henchía por la mitad al indio
+          o le cortaba de un tajo el pescuezo;
+          echábanlos a perros bravos amaestrados para aquel oficio,
+          que en un credo los despedazaban.
+          Henchían los bohíos o casas de paja que comúnmente tenían los indios,
+          de gente: hombres y mujeres preñadas y paridas, niños y viejos;
+          y les pegaban fuego, donde todos se quemaban.
+          Poníanlos en ciertos lechos hechos sobre horquetas bajas,
+          y sobre ellas varas atadas a manera de parrillas,
+          y sobre ellas atados de dos en dos y de tres en tres y de cuatro en cuatro,
+          y debajo encendido fuego bravo,
+          y allí los asaban.
+          Y esto yo lo vi con mis propios ojos mortales.
+          Hubo un tirano que, porque le dieran oro,
+          prendió al rey y señor de la tierra
+          y a uno de los mayores, si eran más de uno los que la señoreaban;
+          hízole asar de la manera dicha;
+          y él andábase paseando, rezando el rosario,
+          y de rato en rato decía:
+          <quote xml:id="dc7aa7-e04119-Qd1e235">«añádasele fuego y vuélvasele de ese otro lado».</quote>
+          Ahorcaban muchas mujeres,
+          y los niños que criaban, de los pies de ellas se los ahorcaban.
+          A otras las abrían en palo desde abajo hasta arriba,
+          abríanles los hijares
+          y metíanles las criaturas por las cabecitas,
+          donde luego con la sangre de las madres se ahogaban.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e248">Tuvieron siempre nuestros cristianos —si lo fueron con todo—
+          un propósito muy ordinario, y en cada parte que entraban,
+          que Satanás les revistió en sus ánimas,
+          de hacer señalado y cruel estrago y matanza,
+          para engendrar y arraigar su temor en las ánimas
+          de aquellas ovejas y corderos mansos,
+          para que por toda la tierra
+          su horrible nombre retumbase;
+          y así, en oyendo «cristianos»,
+          les temblaban las carnes,
+          no como quiera sino sobre todo lo que se puede encarecer.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e273">Es verdad delante del Justo Juez
+          que nos ha de juzgar,
+          que si hubiera de referir todas las especies de tormentos
+          y el número de ellos
+          que nuestra gente han hecho y hoy hacen
+          a aquellas naciones —que nunca nos hicieron mal
+          sino muchos bienes señalados—,
+          en las guerras y en lo demás de la vida,
+          de los que de ellas con vida se escaparon,
+          no bastara gran cantidad de papel
+          y no menos mucha parte de la vida para relatarlo;
+          y afirmo que ni digo ni encarezco una de mil partes.
+          Esta es, pues, la paz que los españoles introdujeron
+          en aquel Nuevo Mundo,
+          y así guardaron la orden divina y natural.
+          Colija, pues, el lector de aquí
+          si quedar bien probado que fue y ha sido tiránico
+          el primer ingreso o entrada de los españoles
+          en aquellas Indias y en cada una de sus partes.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

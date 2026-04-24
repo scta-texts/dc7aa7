@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 14</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 14</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/erlandpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04119">
+        <head xml:id="dc7aa7-e04119-Hd1e111">Chapter 14</head>
+        <p xml:id="dc7aa7-e04119-d1e113">§ 14.</p>
+        <p xml:id="dc7aa7-e04119-d1e119">Now it remains to be seen how the Spaniards observed,
+          in their first entry or first foothold
+          that they set in those Indies and in every part of them,
+          the said order of natural and divine law in its parts;
+          and thus the justice with which they entered will become apparent.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e130">As regards the first part, then,
+          which was to enter in peace:
+          their entry and entrance was not as of cruel men
+          without mercy who had received great injuries and wrongs from others
+          and wished to avenge themselves
+          by making deliberate and conspicuous massacres and devastations alone;
+          but as of savage and irrational beasts:
+          as tigers upon children to devour them;
+          as ravenous and rabid wolves upon the most gentle and innocent lambs;
+          entering each town killing and tearing apart
+          men and women, children and old people,
+          lords and subjects alike,
+          with no distinction of age or sex or dignity;
+          many times falling upon them unawares
+          in their homes and in their beds
+          in the dead of night,
+          setting fire to the houses of those who did not come out quickly enough;
+          and those who fled from the fire
+          found the swords waiting for them there
+          that gutted them and cut them to pieces.
+          Many times, when the Indians came out joyfully
+          bearing gifts of food and gold and rich jewels,
+          cotton and other things, to receive them,
+          the Spaniards fell upon them,
+          claiming that they came with evil intent
+          and that the welcome was feigned,
+          in order to justify making those taken alive
+          slaves made in a just war.
+          Other times still, having assured them
+          that they should come down from the mountains
+          where they had fled in fear,
+          and that no harm or hurt would be done to them,
+          those who trusted in their word and came to put themselves in their impious hands
+          were killed or enslaved.
+          And this was the wickedness of our own people,
+          who never kept faith or truth or any word of safe conduct
+          they had given to those peoples.
+          There was a tyrant who bore the surname Guerra — War —
+          and when certain towns came to submit to him and serve him
+          with gifts of peace,
+          he answered that he wanted no peace
+          because his name was War,
+          and therefore he would not receive them in peace
+          but must take them by war;
+          and so he made innumerable slaves.
+          One of the things that we tyrants have been most bent upon,
+          after filling ourselves with gold,
+          was making those innocent peoples slaves,
+          to have them and use them entirely at our will.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e202">They tested their swords upon them,
+          wagering who could split an Indian in half
+          or cut off his head with a single stroke;
+          they threw them to fierce dogs trained for that purpose,
+          who tore them to pieces in a heartbeat.
+          They packed the bohíos — the thatched houses the Indians commonly had —
+          with people: men and women, pregnant and new mothers, children and old people;
+          and set fire to them, where everyone burned.
+          They placed them on certain beds made on low forked stakes,
+          with rods lashed over them in the manner of a grill,
+          and upon these they bound them two by two and three by three
+          and four by four,
+          and beneath they lit a fierce fire,
+          and there they roasted them alive.
+          And this I saw with my own mortal eyes.
+          There was a tyrant who, in order to make them give him gold,
+          seized the king and lord of the land
+          and one of the greatest lords, if there were more than one who ruled it;
+          he had him roasted in the manner described;
+          and the tyrant himself strolled back and forth,
+          praying the rosary,
+          and from time to time would say:
+          <quote xml:id="dc7aa7-e04119-Qd1e235">"Add more fire and turn him on the other side."</quote>
+          They hanged many women,
+          and the nursing infants they hanged from their mothers' feet.
+          Others they impaled on stakes from below upward,
+          and they split open their wombs
+          and thrust the babies in headfirst,
+          where the infants were immediately drowned in their mothers' blood.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e248">Our Christians — if they were that in any sense at all —
+          always harbored a very common purpose,
+          in every place they entered,
+          with which Satan had invested their souls:
+          to carry out some conspicuous and cruel massacre and slaughter,
+          to breed and root their terror deep into the souls
+          of those gentle sheep and lambs,
+          so that their dreadful name might thunder
+          throughout the whole land;
+          and thus, at the mere word "Christians,"
+          the flesh of the people trembled,
+          not moderately but beyond all that can be expressed.
+        </p>
+        <p xml:id="dc7aa7-e04119-d1e273">It is true before the Just Judge
+          who shall judge us,
+          that if I were to recount all the kinds of torments
+          and their number
+          that our people have done and do today
+          to those nations — who never did us harm,
+          but rather many signal kindnesses —
+          in the wars and in all the rest of daily life,
+          of those who escaped from them with their lives,
+          no great quantity of paper would suffice,
+          nor a considerable portion of one's life to relate it;
+          and I affirm that I do not tell or exaggerate
+          so much as one part in a thousand.
+          Such, then, is the peace that the Spaniards brought
+          to that New World,
+          and thus they observed the divine and natural order.
+          Let the reader judge from this, then,
+          whether it is well proved
+          that the first entry or entrance of the Spaniards
+          into those Indies and into every one of their parts
+          was and has been tyrannical.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
