@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 13</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 13</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas de derecho canónico y civil se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03948">
+        <head xml:id="dc7aa7-e03948-Hd1e111">Capítulo 13</head>
+        <p xml:id="dc7aa7-e03948-d1e113">§ 13.</p>
+        <p xml:id="dc7aa7-e03948-d1e119">Requiere, después de esto, la sexta parte:
+          la orden del derecho natural y divino
+          que se predique la fe por los que tienen hecha profesión de ello,
+          y esto según la forma que Cristo nos dejó establecida;
+          conviene a saber, discreta o distinta y explícita,
+          pausada y benignamente,
+          según que el mismo Redentor y sus Apóstoles
+          y los que así se hubieron, convirtieron el mundo.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e135">Bien predicada la fe,
+          y declarada en la predicación la gran majestad
+          y poder divino del Vicario de Jesucristo,
+          y recibida la fe por aquellas simples y mansísimas gentes,
+          lo séptimo que la orden del susodicho derecho debe seguirse
+          es que los mismos predicadores de la fe católica,
+          con gran prudencia, discreción e industria,
+          blandísima y dulcísimamente,
+          persuadiesen e indujesen a los reyes y señores y a sus pueblos
+          a que de su libre y graciosa voluntad,
+          casi como en agradecimiento de los grandes beneficios
+          que de los reyes de Castilla recibieron
+          enviándoles predicadores que les dieran la lumbre divina
+          y desecharan tan profundas tinieblas como tenían,
+          los recibiesen por universales y supremos príncipes;
+          y así, consintiendo en la dicha institución y promoción
+          del Vicario de Cristo,
+          quedándose los reyes y naturales señores suyos
+          con sus propios reinos y señoríos que antes poseían,
+          representándoles la gran utilidad y prosperidad
+          que en tener un rey cristiano por superior
+          a señores y súbditos sobrevendría.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e174">Lo último que se requiere de ley natural y divina,
+          y no menos necesario para la justificación
+          y firmeza total del supremo principado
+          de nuestros ínclitos reyes de Castilla en las Indias,
+          es que se celebren o debieran celebrarse
+          cierto tratado, convención y pacto o contrato
+          entre Sus Altezas, o sus oficiales en su nombre,
+          y los reyes naturales de aquellas tierras y sus pueblos;
+          de parte de los reyes de Castilla,
+          prometiendo reinar y gobernarlos justamente
+          y guardarles sus estados, sus dignidades,
+          sus leyes y costumbres y libertades,
+          que no sean ni fuesen contra nuestra fe
+          ni en derogación de la religión cristiana,
+          con otras condiciones razonables que les pidieran.
+          De parte de los naturales,
+          reyes y señores y sus reinos y pueblos,
+          ofrecieran libremente,
+          sin fuerza ni miedo alguno,
+          toda obediencia y reverencia y fidelidad
+          a Sus Altezas y a sus justos mandamientos,
+          y el tributo en señal de su señorío universal
+          y derechos reales y servicios que darles conviniese;
+          jurando ambas partes cumplir todo lo tratado,
+          y con pacto celebrado y contratado para siempre,
+          inviolablemente.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e214">La razón de esta última parte,
+          de las que contiene la orden del derecho natural y divino, es esta.
+          Porque la razón natural dicta y enseña
+          que cualquier pueblo o gente libre
+          que se determinase a sujetarse al gobierno,
+          jurisdicción y principado de alguno o de algunos,
+          y para hacerse súbdito obligando sus personas
+          a la dicha fidelidad —que según los juristas es especie de servidumbre—
+          y a cumplir los otros derechos y cargas
+          que a tal sujeción se siguen,
+          puede pedir y asentar las condiciones que quisiere,
+          con que no sean contra la razón natural,
+          mayormente si fueren favorables al bien público.
+          Porque cada particular,
+          queriendo enajenar sus cosas propias,
+          puede por la misma razón natural
+          poner las leyes y condiciones que le pareciere,
+          con que sean razonables,
+          porque no hace injuria ni daño a nadie.
+          Luego, mucho más es lícito y natural
+          que dándose un hombre —y más si es un reino
+          o cualquier comunidad, y más aún si es un mundo como aquel—
+          y sometiéndose a quien no era súbdito,
+          pueda pedir y poner las leyes y condiciones
+          que para el bien de su república
+          y la conservación de su libertad
+          le parecieren más saludables;
+          y la otra parte está obligada a guardarlas
+          por ley o derecho natural.
+          Todo esto se prueba por
+          <ref xml:id="dc7aa7-e03948-Rd1e259">C. mandati, L. in remandata,</ref>
+          donde se dice que cada cual es árbitro, dispositor y árbitro de lo suyo propio;
+          y en el <ref xml:id="dc7aa7-e03948-Rd1e265">cap. 1 de probatio</ref>
+          se trata esta obligación del príncipe a la larga.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e268">Estas son las partes principales, entre otras,
+          que contiene la orden del derecho natural y divino
+          que en este negocio de las Indias,
+          mayormente para justificar y robustecer
+          el supremo y universal principado
+          que los reyes de Castilla y León,
+          por la institución o donación de la Sede Apostólica,
+          pretenden haber y poseer en aquel orbe indiano,
+          necesariamente debieron ser guardadas por los españoles
+          con mucho y entero rigor,
+          sin que una sola faltase.
+          De esta orden del derecho natural en general
+          se trata en la Clementina Pastoralis,
+          y allí Juan de Imola, De re iudicata;
+          y los doctores canonistas en el
+          <ref xml:id="dc7aa7-e03948-Rd1e291">cap. in causis, de re iudicata;
+          y en la L. princeps, ff. De legib. 9;
+          y en la L. prohibitum y en la L. iustas
+          y en la L. defensionis facultas,
+          C. de iure fisci, lib. 10.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

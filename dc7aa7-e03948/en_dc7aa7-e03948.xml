@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 13</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 13</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English.
+          Canon law and civil law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e03948">
+        <head xml:id="dc7aa7-e03948-Hd1e111">Chapter 13</head>
+        <p xml:id="dc7aa7-e03948-d1e113">§ 13.</p>
+        <p xml:id="dc7aa7-e03948-d1e119">After this, the sixth part requires:
+          the order of natural and divine law
+          that the faith be preached by those who have made profession of it,
+          and this according to the form that Christ established for us;
+          that is to say, clearly and distinctly and explicitly,
+          at length and with gentleness,
+          as the Redeemer himself and his Apostles
+          and those who conducted themselves thus
+          converted the world.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e135">The faith having been well preached,
+          and the great majesty and divine power
+          of the Vicar of Jesus Christ having been declared in the preaching,
+          and the faith having been received by those simple and most gentle peoples,
+          the seventh thing that the order of the aforesaid law must follow
+          is that the very preachers of the Catholic faith,
+          with great prudence, discretion, and industry,
+          most gently and most sweetly,
+          should persuade and induce the kings and lords and their peoples
+          to receive them, of their own free and willing accord,
+          almost as in gratitude for the great benefits
+          received from the kings of Castile,
+          who sent them preachers to give them the divine light
+          and dispel the deep darkness in which they lived,
+          as their universal and supreme princes;
+          and thus, consenting to the said institution and promotion
+          of the Vicar of Christ,
+          with the natural kings and lords remaining
+          in their own kingdoms and dominions which they previously possessed,
+          setting before them the great utility and prosperity
+          that would come to lords and subjects alike
+          from having a Christian king as their superior.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e174">The final thing required by natural and divine law,
+          and no less necessary for the full justification
+          and firmness of the supreme principality
+          of our illustrious kings of Castile in the Indies,
+          is that there be concluded, or ought to have been concluded,
+          a certain treaty, convention, and pact or contract
+          between Their Highnesses, or their officials in their name,
+          and the natural kings of those lands and their peoples;
+          on the part of the kings of Castile,
+          promising to reign over and govern them justly
+          and to preserve for them their states, their dignities,
+          their laws and customs and liberties
+          that are not and were not contrary to our faith
+          or derogatory to the Christian religion,
+          together with other reasonable conditions they might request.
+          On the part of the native kings and lords
+          and their kingdoms and peoples,
+          they would offer freely,
+          without any force or fear,
+          all obedience, reverence, and fidelity
+          to Their Highnesses and to their just commandments,
+          and the tribute as a sign of their universal lordship
+          and such royal dues and services as it might befit them to give;
+          both parties swearing to fulfill everything agreed upon,
+          with a pact concluded and contracted forever,
+          inviolably.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e214">The reason for this final part,
+          of those contained in the order of natural and divine law, is this.
+          Because natural reason dictates and teaches
+          that any free people or nation
+          that resolves to subject itself to the governance,
+          jurisdiction, and principality of some person or persons,
+          and in order to make itself subject
+          by binding its persons to the said fidelity
+          — which according to the jurists is a kind of servitude —
+          and to fulfill the other rights and burdens
+          that follow from such subjection,
+          may request and settle upon whatever conditions it wishes,
+          provided they are not against natural reason,
+          and especially if they are favorable to the public good.
+          For each private person,
+          wishing to alienate his own property,
+          may by that same natural reason
+          set down whatever laws and conditions seem good to him,
+          provided they are reasonable,
+          because he does no wrong or harm to anyone.
+          Therefore, it is far more lawful and natural
+          that a man giving himself — and still more so a kingdom
+          or any community, and even more so a world like that one —
+          and subjecting himself to one to whom he was not subject,
+          should be able to request and set down
+          whatever laws and conditions
+          seem to him most wholesome for the good of his commonwealth
+          and the preservation of his liberty;
+          and the other party is bound to observe them
+          by natural law or right.
+          All of this is proved by
+          <ref xml:id="dc7aa7-e03948-Rd1e259">C. mandati, L. in remandata,</ref>
+          where it is said that each person is the administrator, disposer, and arbiter of his own affairs;
+          and in <ref xml:id="dc7aa7-e03948-Rd1e265">cap. 1 de probatio</ref>
+          this obligation of the prince is treated at length.
+        </p>
+        <p xml:id="dc7aa7-e03948-d1e268">These are the principal elements, among others,
+          that the order of natural and divine law contains,
+          which in this matter of the Indies,
+          and especially for the justification and strengthening
+          of the supreme and universal principality
+          that the kings of Castile and León,
+          by the institution or donation of the Apostolic See,
+          claim to have and to hold over that Indian world,
+          necessarily ought to have been observed by the Spaniards
+          with complete and entire rigor,
+          without a single one being lacking.
+          Of this order of natural law in general
+          one finds treatment in the Clementine Pastoralis,
+          and there Giovanni d'Imola, De re iudicata;
+          and the doctor canonists in the
+          <ref xml:id="dc7aa7-e03948-Rd1e291">cap. in causis, de re iudicata;
+          and in L. princeps, ff. De legib. 9;
+          and in L. prohibitum and in L. iustas
+          and in L. defensionis facultas,
+          C. de iure fisci, lib. 10.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
