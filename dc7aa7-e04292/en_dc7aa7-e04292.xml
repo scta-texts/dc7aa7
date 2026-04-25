@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 15</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 15</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English,
+          including the Latin scriptural quotation and the bishop's letter.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04292">
+        <head xml:id="dc7aa7-e04292-Hd1e111">Chapter 15</head>
+        <p xml:id="dc7aa7-e04292-d1e113">§ 15.</p>
+        <p xml:id="dc7aa7-e04292-d1e119">From what has been said, the second part
+          of the order of divine and natural law stands proved;
+          namely, that the Spaniards did not observe
+          that their first entry should be slow and gradual and unhurried,
+          giving those peoples to understand
+          that they came for their benefit and welfare
+          to win their goodwill;
+          but rather, like lightning bolts from heaven,
+          impetuously, violently, and suddenly,
+          burning everything they touched,
+          they fell upon them and did what has been recounted.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e137">They appear likewise to have violated
+          the third part of the said natural and divine order,
+          by making an entry and first landing
+          and disembarkation from the ships onto the land
+          that was injurious and harmful to those peoples,
+          since they entered without the license of the kings and lords
+          and inhabitants of each province or land;
+          causing such great alarm and scandal in some places
+          that already had news of their deeds,
+          fearing to suffer the harms and devastations
+          they had inflicted on their neighbors,
+          resisting their entry most justly.
+          Which resistance was a most just natural defense,
+          and beyond defense was a just war
+          to punish them as enemy invaders and aggressors
+          against foreign kingdoms and lordships,
+          as was said in the first principle;
+          and belonging to the fourth category,
+          they had and have natural jurisdiction against us,
+          and just and full authority.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e168">That they also profaned the fourth part,
+          which was to live as Christians
+          so that the unbelievers might be moved by their good example
+          and come to desire to receive our holy faith:
+          who among all who live today in the world and its compass can be ignorant of this?
+          Who could recount the detestable acts
+          in every kind of ugliness and wickedness
+          that our own — wretched men closest to eternal damnation —
+          apart from the most cruel abominations and various impieties
+          committed in the wars,
+          have perpetrated in their conduct and manner of life,
+          to the dishonor and blasphemy of the name of Christ
+          and of all the Christian religion?
+          How many robberies, thefts, rapines, acts of force and violence, and acts of enslavement,
+          making slaves of free people,
+          taking children from their fathers,
+          daughters from their mothers,
+          and so abandoning both to orphanhood against all natural law,
+          usurpations of foreign lands and lordships,
+          of private persons and of kings and commonwealths?
+          How many adulteries, acts of violation, abductions of maidens,
+          both single and married?
+          And what they already hold as a most common and canonized thing,
+          celebrated as a great virtue:
+          to keep with them not one alone
+          to abuse as they will, but three or four,
+          and some of them many more.
+          And so that nothing should be lacking
+          to crown their unbridled life
+          in the gravity of sins against God,
+          there was one who made it his trade to buy idols from the Indians
+          in one province to sell in another
+          where he expected to sell them more dearly,
+          after the idols had been abandoned and burned
+          through the preaching of the friars;
+          and the Indians complained, saying
+          that the friars had deceived them
+          by making them abandon their gods,
+          which they knew to be better
+          than those that Christian sold them.
+          And finally in this trade he gave his soul to the devil.
+          And that this was so became clear,
+          because he died without confession,
+          with several loads of idols under his bed,
+          which certain Franciscan friars subsequently found there.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e239">This is the life and example that those who carry from here
+          the name of Christians have had and today have,
+          and give to those unbelievers;
+          and thus they esteem all who profess the Christian faith and religion to be the same,
+          and that their God and their law, and their king likewise,
+          have so ordered and commanded it.
+          This was written by a bishop of Santa Marta
+          of the order of Saint Peter,
+          in the year forty-one,
+          to the Emperor and to Doctor Bernal,
+          who was then of the Council of the Indies.
+          And today I hold in my possession one of these letters.
+          Where he says the following:
+          "There would be no Indian who was not a Christian
+          and vassal of His Majesty,
+          were it not for the vexations and hardships and torments
+          the Spaniards inflict upon them.
+          For which reason nothing is more odious or hateful to them
+          than the name of Christian;
+          and so they call them in their language devils.
+          And without any doubt they have every reason for it,
+          because the works they see them do
+          are not those of Christians,
+          nor even of men who have the use of reason,
+          but of demons.
+          From which it follows that, seeing this evil conduct so universal,
+          both in the heads and in the members,
+          they think that Christians hold this as their law
+          and that their God and their king command it of them;
+          and to labor to persuade them otherwise
+          is to try to cast lances into the sea,
+          and to give them occasion to laugh
+          and mock and make scorn of Jesus Christ and of his law, etc."
+          These are his formal words.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e287">By this fourth part and violation of the divine and natural order,
+          we may well be certain that no one who is a rational man,
+          even if he be not learned,
+          will deny that the first entry
+          and indeed the whole course of the Spaniards in the Indies
+          was and has been violent, most cruel, abominable, and tyrannical,
+          and that of cruel enemies,
+          and such that no wicked people could have made it worse.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e300">That they broke and violated the fifth part;
+          namely, that they should give notice of the final cause of their going,
+          which was preaching, etc.:
+          we will not take long to prove this,
+          since their entry was nothing other than
+          impetuously, plundering, burning, laying waste,
+          ravaging and destroying and robbing those peoples,
+          and bathing the towns and countryside in human blood —
+          against all the gentleness, sweetness and mildness,
+          modesty, grace and charitable love,
+          and the long span of time
+          required to declare and commend it to them.
+          It is quite true that the final cause
+          which moved them from these kingdoms to sail to those parts,
+          they declared to them at great length and without delay;
+          namely, that they should give them gold and silver,
+          not the honor of God nor the salvation of souls.
+          Which they made plain by the exquisite torments
+          never before seen or heard of
+          that they inflicted upon them to demand gold —
+          having put into their hands everything they had —
+          and suspecting they still had more,
+          they gave them more torments,
+          and with them killed them without any mercy.
+          This was their entire ultimate end:
+          this drew them out of Spain and led them there;
+          this has governed and commanded and ruled them always;
+          and for this they have defamed the Son of God
+          and offended the whole most holy Trinity,
+          and set the name of Christians in hatred and abomination;
+          for this they have laid waste to those immense peoples
+          and depopulated those lands of such breadth and length;
+          for this they live always in a state of eternal damnation;
+          and that for this it is impossible to be saved
+          without the most grave penitence
+          and full satisfaction for so many irreparable wrongs
+          as they have caused:
+          no Christian, unless he be a great beast
+          and more faithless than a Christian,
+          can doubt it.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e361">The sixth part was
+          that the Catholic faith should be preached
+          distinctly, explicitly, freely, and at length,
+          according to the form that Christ established.
+          This preaching of the faith
+          the Spaniards have favored and assisted in such a way
+          that — with the truth of God I say this,
+          understanding what I am saying —
+          God has not had in the world greater enemies
+          nor more effective impediters or obstructors
+          of its growth and spread,
+          in their efforts to obstruct it for their own interests,
+          to obtain gold and acquire riches.
+          They have differed from all the persecutors of the faith,
+          gentiles or pagans,
+          only in not having killed with their own hands
+          the preachers who have preached it;
+          but every obstruction and every persecution
+          that can be devised, short of killing them,
+          to rob them of all authority,
+          they have done and sought,
+          raising the most false accusations against them
+          and swearing to God as a threat
+          that if they did not leave the towns held in their encomiendas
+          they would stab them to death.
+          And so as not to escape being murderers of friars,
+          at times they have been the cause of Indians killing some religious men,
+          on account of the scandals they had given.
+          And the wickedness of some went so far
+          that they made the Indians of a certain province understand
+          that the friars ate human flesh,
+          and that they should not give them their children to be taught,
+          because they would eat them when they least expected it.
+          And there was a tyrant who ordered the Indians
+          to beat a friar to death with clubs,
+          and so they did, and so they left him dead.
+          What they allege is that after the friars preach to them
+          and make them Christians,
+          they become too clever and cannot be made to serve,
+          or the tributes they are ordered to give are impeded.
+          And they say this because the Indians complain to the friars,
+          and the friars advise the governors
+          of the grievances and oppressions
+          with which they torment them ceaselessly.
+          And of such adversaries Saint Paul had those
+          who impeded his preaching of the Gospel
+          and the conversion of souls:
+          <quote xml:id="dc7aa7-e04292-Qd1e428">"Forbidding us to speak to the Gentiles that they might be saved,
+          to fill up their sins always;
+          for the wrath of God has come upon them to the end."</quote>
+          <ref xml:id="dc7aa7-e04292-Rd1e435">1 Thessalonians 2.</ref>
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e438">In three ways the Spaniards impede and destroy
+          the preaching of the faith and the salvation of souls in the Indies.
+          The first, by killing and destroying those most infinite peoples
+          before they hear a word of Christ,
+          sending them to hell without faith and without sacraments.
+          The second, by contradicting the Christian faith and doctrine
+          through the many works, abominable examples,
+          and wicked lives they lead and live.
+          The third, directly,
+          by forbidding the religious to enter the Indian towns
+          to preach to the Indians,
+          and stripping them of all authority and credit as much as they can.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e462">I well believe that it stands proved
+          that the Spaniards broke and violated
+          the natural and divine order in this sixth part,
+          and consequently that they have been tyrants,
+          both in their entry and in their subsequent conduct together.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e474">By everything we have brought as proof
+          of the six parts of the order of natural and divine law,
+          the seventh and final part appears proved;
+          namely, that no contract, pact, or agreement was concluded
+          between the party of our kings and lords of Castile and León
+          and the kings and lords and peoples of that world
+          or of any part of it,
+          as natural and divine law necessarily required.
+          For their entire intent and end was no other
+          than to enter those kingdoms and lands
+          and subjugate and lord it over them,
+          and to obtain the riches and treasures that were in them;
+          and the means they employed to achieve this their beloved and desired end
+          were to kill and destroy, tear apart, and wreak devastation
+          by diverse and novel forms of cruelty
+          upon those nations, the natural lords and owners of those lands,
+          as if all the Indies were pastures full of livestock,
+          as they were full of peoples,
+          and they had to fill their ships with dried meat to bring home;
+          and it is certain they have made no more account of them than that.
+          And so it appears how the Spaniards broke and violated
+          the order of natural and divine law
+          in all the parts it contains,
+          and consequently the first part of the seventh principle;
+          namely, that the first entry or foothold
+          with which they entered the Indies and each part or place of them
+          was tyrannical and most cruel,
+          and worse than any barbarous nation would have done,
+          or even cruel beasts:
+          this appears manifest.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
