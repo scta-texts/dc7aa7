@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 18</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 18</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          El texto de la Provisión Real se reproduce tal como Las Casas lo cita,
+          con actualización ortográfica mínima para mantener la autenticidad
+          del documento oficial.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05406">
+        <head xml:id="dc7aa7-e05406-Hd1e111">Capítulo 18</head>
+        <p xml:id="dc7aa7-e05406-d1e113">§ 18.</p>
+        <p xml:id="dc7aa7-e05406-d1e115">Y para que se vea cuánta verdad es
+          las dos maneras de tiranías que arriba dejamos dichas y probadas —
+          conviene a saber, el tiránico ingreso y el tiránico gobierno
+          que los españoles han introducido en las Indias,
+          por las cuales las han destruido —
+          queremos aquí traer una probanza de la que ninguno podrá dudar.
+          Y esta es el prólogo de una Provisión y ordenación real y general,
+          para que se guardase en todas las Indias,
+          hecha en Granada a treinta y uno de julio
+          de mil y quinientos y veintiséis años.
+          Y dice así:
+        </p>
+        <p xml:id="dc7aa7-e05406-d1e137">Don Carlos, por la gracia de Dios, etc.
+          Por cuanto nos somos certificados, y es notorio,
+          que por la desordenada codicia
+          de algunos de nuestros súbditos
+          que pasaron a las nuestras islas y tierra firme del mar océano,
+          por el mal tratamiento que hicieron a los indios naturales
+          de las dichas islas e tierra firme,
+          así en los grandes y excesivos trabajos que les daban,
+          teniéndolos en las minas para sacar oro
+          y en las pesquerías de las perlas
+          y en otros labores y granjerías,
+          haciéndolos trabajar excesiva e inmoderadamnte,
+          no dándoles el vestido y mantenimiento necesario
+          para sustentación de sus vidas,
+          tratándolos con crueldad y desamor,
+          mucho peor que si fueran esclavos:
+          lo cual todo ha sido y fue causa de la muerte
+          de gran número de los dichos indios,
+          y en tanta cantidad,
+          que muchas de las islas y parte de tierra firme
+          quedaron yermas y sin población alguna
+          de los dichos indios y naturales de ellas;
+          y que otros huyesen y se ausentasen
+          de sus propias tierras y naturaleza,
+          y se fuesen a los montes y a otros lugares
+          para salvar sus vidas y salir de la dicha sujeción y mal tratamiento:
+          lo cual fue también gran estorbo a la conversión
+          de los dichos indios a nuestra santa fe católica,
+          y de no haber venido todos ellos entera y generalmente
+          con verdadero conocimiento de ella;
+          de que Dios, nuestro Señor, es muy deservido.
+          Y asimismo somos informados
+          que los capitanes y otras gentes
+          que con nuestra licencia y mandado
+          fueron a descubrir y poblar a algunas de las dichas Indias y tierra firme,
+          siendo como son, y es nuestro intento y deseo,
+          de traer a los dichos indios en conocimiento verdadero
+          de Dios, nuestro Señor, y de su santa fe,
+          con predicación de ella y ejemplo de personas doctas
+          y buenos religiosos,
+          con hacerles buenas obras y tratamientos de prójimos,
+          sin que en sus personas y bienes
+          recibiesen fuerza, apremio, daño ni desaguisado alguno;
+          y habiendo todo esto ido así por nos ordenado y mandado,
+          llevando los dichos capitanes y otros nuestros oficiales
+          y gentes de las tales armadas
+          instrucción particular,
+          movidos por la dicha codicia,
+          olvidando el servicio de Dios, nuestro Señor, y el nuestro,
+          hicieron y mataron a muchos de los dichos indios
+          en los descubrimientos y conquistas,
+          y les tomaron sus bienes,
+          sin que los dichos indios les hubiesen dado causa justa para ello,
+          ni hubiesen precedido ni hecho las amonestaciones
+          que eran tenidos de hacer,
+          ni hecho a los cristianos resistencia ni daño alguno
+          para la predicación de nuestra santa fe:
+          lo cual, demás de haberse ido en gran ofensa de Dios, nuestro Señor,
+          dio ocasión y fue culpa de que no solamente
+          los dichos indios que recibieron las dichas fuerzas y daños y agravios,
+          pero otros muchos comarcanos
+          que tuvieron de ello noticia y sabiduría,
+          se levantaron y juntaron con mano armada
+          contra los cristianos, nuestros súbditos,
+          y mataron muchos de ellos;
+          y aun a los religiosos y personas eclesiásticas
+          que nunca culpa tuvieron,
+          y como mártires padecieron predicando la fe cristiana.
+          Por lo cual todo suspendimos y sobreseymos
+          en el dar de las licencias para las dichas conquistas y descubrimientos,
+          queriendo proveer y platicar
+          así sobre el castigo de lo pasado
+          como en el remedio de lo venidero,
+          y excusar los dichos daños e inconvenientes,
+          y dar orden que los descubrimientos y poblaciones
+          que de aquí adelante se hubieren de hacer
+          se hagan sin ofensa de Dios, nuestro Señor,
+          y sin muerte ni robo de los dichos indios,
+          y sin cautivarlos por esclavos indebidamente;
+          de manera que el deseo que hemos tenido y tenemos
+          de ampliar nuestra santa fe católica,
+          y que los dichos indios e infieles vengan en conocimiento de ella,
+          se haga sin cargo de nuestras conciencias,
+          y se prosiga nuestro propósito
+          a la intención y obra de los Reyes Católicos,
+          nuestros señores y abuelos,
+          en todas aquellas partes de las islas y tierra firme del mar océano
+          que de nuestra conquista quedaron y quedan por descubrir y poblar.
+          Lo cual, visto con gran deliberación
+          por los del nuestro Consejo de las Indias,
+          y con nos consultado,
+          fue acordado que debíamos mandar esta carta en la dicha razón.
+          Por lo cual ordenamos y mandamos
+          que ahora y de aquí adelante,
+          así para remuneración de lo pasado
+          como en los descubrimientos y poblaciones
+          que por nuestro mandado y en nuestro nombre se hicieren
+          en las dichas islas del mar océano,
+          descubiertas y por descubrir
+          en nuestros límites y demarcaciones,
+          se guarde y cumpla lo que de yuso será contenido,
+          en esta guisa, etc.
+        </p>
+        <p xml:id="dc7aa7-e05406-d1e237">Y si hasta el año de 1526
+          se habían cometido los estragos que la Provisión señala,
+          téngase por cierto
+          que desde entonces hasta el año de sesenta y tres en que estamos,
+          han sido cincuenta veces y muchas más en número y crueldad mayores.
+          Esto parece porque desde entonces
+          se estrago y destruyó y robó y despobló
+          la Nueva España, Guatemala, Yucatán, Nicaragua,
+          y los grandes reinos del Perú,
+          el nuevo reino de Popayán,
+          y el Río de la Plata,
+          y Chile,
+          y sus tierras y provincias comarcanas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
