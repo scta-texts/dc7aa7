@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 17</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 17</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+    <front>
+        <div xml:id="starts-on">
+        </div>
+     </front>
+    <body>
+      <div xml:id="dc7aa7-e05042">
+        <head xml:id="dc7aa7-e05042-Hd1e111">Chapter 17</head>
+        <p xml:id="dc7aa7-e05042-d1e113">§ 17.</p>
+        <p xml:id="dc7aa7-e05042-d1e118">The second reason for this can be framed as follows.
+          That government is unjust, tyrannical, and abominable
+          that places all its subjects —
+          great and small alike,
+          men and women, young and old,
+          natural lords and their subjects and servants —
+          indiscriminately in most harsh, bitter, and perpetual servitude,
+          and in all the vile labors and services
+          that present themselves to those who oppress them.
+          Now these encomiendas and repartimientos are of this kind
+          and produce what has been described.
+          Therefore they are tyrannical,
+          and such a manner of governing is tyrannical and most iniquitous.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e150">The minor premise is well clear from what has been recounted above,
+          and is visible today in the province of Nicaragua
+          and the others we mentioned:
+          where not a creature remains
+          from the time it can stand on its own feet
+          that does not serve.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e159">The third reason says thus:
+          that manner of governing free men
+          is tyrannical, unjust, and impious
+          that deprives of their states, dignity, jurisdiction, and dominions,
+          and of their vassals and subjects,
+          those who are the true and legitimate lords
+          by natural law and the law of nations.
+          This is manifest as regards the law,
+          because if to deprive a private person of his cloak
+          is tyrannical and impious,
+          how much more so to deprive lords and kings
+          of their kingdoms and dominions.
+          Now through the said repartimientos
+          kings and lords are deprived of their states and their subjects, etc.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e180">Therefore such a manner of governing is tyrannical,
+          most iniquitous, and impious.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e182">The minor premise as regards the fact
+          is no less manifest from what has been said,
+          and the whole world knows that the natural lords
+          have no freedom over their own peoples,
+          since all their subjects have been distributed among the Spaniards,
+          and the lords themselves also serve and pay tribute,
+          and as has been said,
+          they are the most oppressed and afflicted
+          when their subjects fail to pay the tyrannical tributes
+          that the Spaniards have imposed upon them.
+          I will not speak of the innumerable natural kings and lords
+          who have perished under this Pharaonic servitude,
+          and the immediate successors of those
+          who live under it today, dying in extreme misery.
+          Therefore unjust and tyrannical and abominable
+          is the governance that is and has always been exercised
+          through those repartimientos.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e208">The fourth reason:
+          that manner of ruling and governing free men
+          is tyrannical and iniquitous
+          that is not ordered toward the good and benefit
+          and growth of those who are to be governed,
+          but toward the private good of those who govern.
+          This is a maxim of all the moral philosophers —
+          Aristotle, book 3 of the Politics
+          and book 8 of the Ethics —
+          and of all the theologians;
+          and of this no one of sound mind doubts.
+          Now that which exists today, and has always existed in the Indies
+          from the year 1505 when this plague of repartimientos began,
+          is precisely this.
+          Therefore it is tyrannical, and worse than iniquitous.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e228">The minor is proved by everything that has been said,
+          and setting aside what all those who have been and seen in those parts
+          report:
+          namely, the insatiable greed and ambition
+          of those who have held repartimientos,
+          on account of which everything they have thought,
+          said, and done in those lands
+          has been directed and ordered toward their own temporal interest,
+          and to the harm and ruin of the Indians;
+          for they have made no more account of them,
+          in terms of their use of them,
+          than they do of their animals,
+          and I could swear that many have cared for
+          and tended their pack animals
+          far more than they have the Indians.
+          For they do not load the animals with a greater burden
+          than they can carry,
+          and they give them sufficient food;
+          but upon the Indians they have loaded and do load today
+          insupportable burdens without giving them anything to eat.
+          They tend their animals when they are sick,
+          but the Indians they have not cared for
+          nor can they bear the sight of them beyond the point
+          where they fall ill;
+          and then they send them without remedy or relief
+          and without food back to their lands,
+          which are commonly forty or fifty or more leagues away.
+          They have taken from them their entire order of governance,
+          which was far better for those without the light of faith
+          than our own,
+          and have given them none that is any good,
+          but the same they give their livestock or animals.
+          And so, setting aside what all those who have been there and seen it know,
+          this reason should suffice for those on that side and those on this side,
+          and for men throughout the whole world,
+          even those who are more than barbarians,
+          as the most manifest proof
+          that such governance has been and is
+          not ordered toward the good and benefit of those peoples,
+          but toward their pernicious and total destruction;
+          and that the Spaniards have not cared for them
+          nor had any regard for them
+          beyond their use for becoming rich;
+          for under these repartimientos and through their use,
+          more than thirty million souls have perished,
+          the greater part without faith and without sacraments,
+          and more than four thousand leagues of land
+          that were most densely populated
+          have been depopulated,
+          and we now see them empty.
+          I could recount here wonders that would astonish the world
+          of the particular harms the Indians have received
+          from the Spaniards through these repartimientos.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e307">The fifth reason can be framed thus:
+          that regime or governance is tyrannical and iniquitous
+          and worthy of all fire and torment
+          by which men are consumed and utterly perish
+          and kingdoms and provinces are depopulated.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e318">That this is precisely what the Spaniards have imposed in the Indies
+          is plainly contrary to the just governance
+          and manner and care of ruling free men;
+          and even were they not free,
+          the one who governs must always keep before his eyes
+          that his duty consists in vigilance over three things
+          that preserve the common good and health of kingdoms,
+          against the three impediments that tend to destroy that common good.
+          The first is that the ruler
+          take the greatest care for the multiplication and succession of men
+          in the towns.
+          The second, that through his laws, rewards, and penalties
+          he make his subjects as virtuous as he can,
+          not permitting them to do injustice or harm to one another.
+          The third, that he defend such subjects from external enemies.
+          On this, <ref xml:id="dc7aa7-e05042-Rd1e353">Saint Thomas, book 1, chapter 15,
+          and book 3, chapter 3, De regimine principum.</ref>
+          And so, by contrast, the Spaniards in the Indies
+          have had no other care
+          than to undo, diminish, and consume those peoples;
+          and to this end they have awaited neither law nor reason nor justice;
+          and thus the Indians have not been defended
+          from their foremost and external enemies —
+          who are the Spaniards themselves,
+          though they may now be called internal
+          since they call themselves encomenderos.
+          Therefore such a manner of governance is most iniquitous,
+          tyrannical, and most cruel,
+          and worthy of all fire.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e376">Let another reason be the sixth:
+          that manner of governing free men
+          is tyrannical, abominable, impious,
+          and most worthy of all hellfire
+          by which unbelievers come to regard the faith with suspicion
+          and judge the Christian religion to be unjust and false
+          and consider it most worthy of being hated and rejected;
+          and those who have already received it
+          are impeded from divine worship,
+          from the teaching of the Church,
+          and from the communication and practice of the holy sacraments.
+          That such encomiendas and repartimientos are of this kind
+          was proved in § 13.
+          We could add there many notable examples
+          of how those who are still unbelievers
+          do not wish to become Christians
+          on account of the sufferings and oppressions they endure
+          and the importunate and excessive tributes,
+          abhorring the faith
+          and regarding the Christian religion as tyrannical;
+          and those who have received it say:
+          "We were well enough before,
+          and would to God these Christians had never come here."
+          So much so that many good religious men
+          who devote themselves to preaching
+          believe or suspect
+          that many of those who have converted
+          have fallen back into idolatry and abandoned the faith,
+          as if it were the mark of a religion false, harsh, and intolerable.
+          Others of us believe that there are those who hold it and would hold it
+          more firmly fixed,
+          and would be improved in their customs day by day,
+          were it not that the excessive tributes
+          and the constant and importunate services
+          leave them no space to hear the doctrine
+          and receive the holy sacraments,
+          and to devote themselves to divine worship
+          and practice other Christian works.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e431">I speak the truth here:
+          that once, passing through a Franciscan monastery
+          in New Spain,
+          the guardian told me
+          that they had confessed that Lent nineteen women
+          whose husbands had gone two years earlier
+          in search of tribute
+          and had not returned.
+          Of these there are each day many
+          who, unable to bear such intolerable burdens,
+          flee to the forests in despair,
+          where jaguars eat them,
+          leaving their wives and children abandoned;
+          and countless others for this same reason have hanged themselves.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e453">Unjust then it is, tyrannical, dreadful, and abominable,
+          and worse than any barbarous nation could have devised,
+          such a manner of governing as the Spaniards have imposed in the Indies;
+          and consequently the entire seventh principle appears proved;
+          namely, that their entry and their subsequent conduct
+          in that world and in every part of it
+          has been violent, abominable, tyrannical, and most cruel,
+          and that of cruel enemies, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

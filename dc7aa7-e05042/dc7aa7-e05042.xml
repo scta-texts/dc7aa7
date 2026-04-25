@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 17</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 17</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05042">
+        <head xml:id="dc7aa7-e05042-Hd1e111">Capítulo 17</head>
+        <p xml:id="dc7aa7-e05042-d1e113">§ 17.</p>
+        <p xml:id="dc7aa7-e05042-d1e118">La segunda razón de esto se puede formar así.
+          Aquel gobierno es injusto, tiránico y abominable
+          que pone a todos los súbditos,
+          así grandes como chicos,
+          hombres y mujeres, mozos y viejos,
+          señores naturales y sus súbditos y siervos,
+          indistintamente en durísima, amarga y perpetua servidumbre,
+          y en todos los trabajos y servicios viles
+          que se ofrecen a los que los oprimen.
+          Pues estas encomiendas y repartimientos son de esta manera
+          y causan lo susodicho.
+          Luego son tiránicas,
+          y tal modo de gobernar es tiránico e iniquísimo.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e150">La premisa menor está bien clara por lo arriba referido,
+          y hoy se ve en la provincia de Nicaragua y las otras que dijimos:
+          donde no queda criatura desde que puede tenerse sobre sus pies
+          que no sirva.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e159">La tercera razón dice así:
+          aquella manera de gobernar hombres libres
+          es tiránica, injusta e impía
+          que priva de sus estados, dignidad, jurisdicción y señoríos,
+          y de sus vasallos y súbditos,
+          a los que son verdaderos y legítimos señores
+          de derecho natural y de gentes.
+          Esta es manifiesta en cuanto al derecho,
+          porque si privar a una persona particular de su capa
+          es tiránico e impío,
+          cuánto más privar a señores y reyes de sus reinos y señoríos.
+          Pues por los dichos repartimientos
+          son privados los reyes y señores de sus estados y de sus súbditos, etc.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e180">Luego tal manera de gobernar es tiránica, iniquísima e impía.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e182">La premisa menor en cuanto al hecho
+          no es menos manifiesta por lo dicho,
+          y todo el mundo sabe que los señores naturales
+          no tienen libertad sobre sus pueblos,
+          pues están todos sus súbditos repartidos entre los españoles,
+          y ellos también sirven y dan tributos,
+          y como dicho es,
+          ellos son los más oprimidos y afligidos
+          cuando sus súbditos no cumplen los tributos tiránicos
+          que los españoles les han impuesto.
+          Dejo de decir los innumerables reyes y señores naturales
+          que han perecido bajo esta servidumbre faraónica,
+          y los sucesores inmediatos de aquellos
+          que hoy viven bajo ella en extrema miseria muriendo.
+          Luego, injusta y tiránica y abominable es la gobernación
+          que se tiene y ha tenido siempre
+          por aquellos repartimientos.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e208">La cuarta razón:
+          aquel modo de regir y gobernar los hombres libres
+          es tiránico e inicuo
+          que no está ordenado al bien y utilidad
+          y crecimiento de los que han de ser gobernados,
+          sino al bien privado de los que gobiernan.
+          Esta es máxima de todos los filósofos morales,
+          Aristóteles, libro 3 de la Política
+          y libro 8 de la Ética,
+          y de todos los teólogos;
+          y de esto ninguno que tenga seso duda.
+          Pues el que hay hoy, y siempre hubo en las Indias
+          desde el año de 1505 en que comenzó esta plaga de los repartimientos,
+          es este mismo.
+          Luego, tiránico es, y más que inicuo.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e228">La menor se prueba por todo lo que está dicho,
+          y dejado lo que todos los que en aquellas partes han visto:
+          que es la insaciable codicia y ambición
+          de los que han tenido repartimientos,
+          por lo cual todo cuanto en aquellas tierras
+          han pensado, dicho y hecho
+          ha sido enderezado y ordenado a su interés temporal,
+          y al daño y pérdida de los indios;
+          porque no han hecho más cuenta de ellos,
+          en cuanto al uso de ellos,
+          que la que hacen de sus bestias,
+          y podría jurar que muchos han tenido
+          y cuidado de sus bestias de carga
+          mucho más que de los indios.
+          Porque a las bestias no echan mayor carga
+          de la que pueden llevar,
+          y les dan suficiente comida;
+          pero a los indios han echado y echan hoy
+          cargas insoportables sin darles de comer.
+          A las bestias cuidan cuando están enfermas,
+          y a los indios no han cuidado de ellos
+          ni los pueden ver más
+          hasta que caen enfermos;
+          y luego los envían sin remedio ni refrigerio
+          y sin comida a sus tierras,
+          que suelen estar cuarenta y cincuenta y más leguas.
+          Les han quitado toda su orden de gobierno,
+          que era harto mejor para quien no tiene lumbre de fe
+          que el nuestro,
+          y no les han dado ninguna buena,
+          sino la misma que tienen sus ganados o bestias.
+          Así que, dejado lo que todos los que allá han estado y visto,
+          esta razón debe bastar para los de allá y para los de acá
+          y para los hombres de todo el mundo
+          aunque sean más que bárbaros,
+          como argumento manifestísimo de que tal gobernación
+          sea y haya sido no ordenada al bien y utilidad de aquellas gentes,
+          sino antes a su perniciosa y total destrucción;
+          y que los españoles no han cuidado de ellos
+          ni tenido respeto a ellos
+          más que al uso de ellos para hacerse ricos;
+          que bajo estos repartimientos, y usándolos,
+          han perecido más de treinta millones de almas,
+          los más sin fe y sin sacramentos,
+          y se han despoblado más de cuatro mil leguas de tierra
+          que estaban pobladísimas,
+          y ahora las vemos vacías.
+          Podría decir aquí maravillas que espantarían al mundo
+          de los daños en particular
+          que los indios han recibido de los españoles
+          por estos repartimientos.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e307">La quinta razón se puede formar de esta manera:
+          aquel régimen o gobernación es tiránico e inicuo
+          y digno de todo fuego y tormento,
+          por el cual los hombres se consumen y totalmente mueren
+          y los reinos y provincias se despueblan.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e318">Que este tal sea el que han puesto los españoles en las Indias,
+          claro queda ser contrario al justo gobierno
+          y modo y cuidado de regir hombres libres;
+          y aunque no lo fuesen libres,
+          el que ha de gobernar debe tener siempre ante los ojos
+          que su deber consiste en tener vigilancia en tres cosas
+          que conservan el bien común y la salud de los reinos,
+          contra tres impedimentos que suelen destruir aquel bien común.
+          La primera es que el que rige
+          tenga sumo cuidado de la multiplicación y sucesión de los hombres
+          en los pueblos.
+          La segunda, que con sus leyes, premios y penas
+          haga a los súbditos, en cuanto pudiere, virtuosos,
+          impidiendo que unos hagan injusticia o mal a los otros.
+          La tercera, que a tales súbditos los defienda de los enemigos exteriores.
+          De esto, <ref xml:id="dc7aa7-e05042-Rd1e353">Santo Tomás, libro 1, capítulo 15,
+          y libro 3, capítulo 3, De regimine principum.</ref>
+          Y así, por el contrario, los españoles han hecho en las Indias
+          que no han tenido otro cuidado sino deshacer, disminuir
+          y consumir aquellas gentes;
+          y para esto no han aguardado ley ni razón ni justicia;
+          y así los indios no han sido defendidos
+          de sus capitales y externos enemigos,
+          que son ellos mismos,
+          aunque ya interiores se pueden llamar
+          puesto que se llaman encomenderos.
+          Luego tal modo de gobierno es iniquísimo, tiránico
+          y crudelísimo y digno de todo fuego.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e376">Otra razón sea la sexta:
+          aquel modo de gobernar hombres libres
+          es tiránico, abominable, impío
+          y dignísimo de todo fuego infernal
+          por el cual los infieles tienen por sospechosa la fe
+          y estiman que la religión cristiana es injusta y falsa
+          y juzgan que es dignísima de ser aborrecida y desechada;
+          y los que ya la han recibido
+          son impedidos del culto divino,
+          de la doctrina de la Iglesia
+          y de la comunicación y ejercicio de los santos sacramentos.
+          Que tales encomiendas y repartimientos son de esta especie
+          queda probado en el § 13.
+          Podríamos añadir allí muchos y señalados ejemplos
+          de cómo los que aún son infieles
+          no quieren ser cristianos
+          por las angustias y opresiones que padecen
+          y los importunos y excesivos tributos,
+          aborreciendo la fe
+          y teniendo por tiránica la religión cristiana;
+          y los que la han recibido dicen:
+          «bien nos estábamos antes,
+          y ojalá no hubieran venido acá estos cristianos.»
+          De manera que creen o sospechan muchos buenos religiosos
+          que se dedican a la predicación
+          que muchos de los que se han convertido
+          han retrocedido a idolatrar y dejar la fe,
+          como si fuera título de religión falsa, dura e intolerable.
+          Otros creemos que los hay que la tienen y tendrían más fijada,
+          y en las costumbres serían cada día mejorados,
+          sino que por los excesivos tributos
+          y por los servicios ordinarios e importunos
+          no les dan lugar para oír la doctrina
+          y recibir los santos sacramentos,
+          y vacarse al culto divino
+          y ejercitarse en otras obras cristianas.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e431">Digo aquí verdad,
+          que una vez, pasando yo por un monasterio de San Francisco
+          en la Nueva España,
+          me dijo el guardián
+          que habían confesado aquella Cuaresma diecinueve mujeres
+          cuyos maridos hacía dos años que se habían ido a buscar los tributos
+          y que no habían vuelto.
+          De estos hay cada día muchos
+          que por no poder sufrir tan intolerables cargas
+          se van a los montes, desesperados,
+          donde los tigres los comen,
+          dejando a las mujeres y los hijos desamparados;
+          y otros sin número por esta causa se han ahorcado.
+        </p>
+        <p xml:id="dc7aa7-e05042-d1e453">Injusto es, pues, tiránico, horrendo y abominable,
+          y peor que lo que ninguna nación bárbara pudiera poner,
+          tal modo de gobernar como los españoles han puesto en las Indias;
+          y por consiguiente parece probado todo el séptimo principio;
+          conviene a saber, que su ingreso y progreso en aquel orbe
+          y en cada parte de él
+          ha sido violento, nefando, tiránico y crudelísimo,
+          y de crueles enemigos, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
