@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 21</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 21</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English.
+          Legal citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06571">
+        <head xml:id="dc7aa7-e06571-Hd1e111">Chapter 21</head>
+        <p xml:id="dc7aa7-e06571-d1e113">§ 21.</p>
+        <p xml:id="dc7aa7-e06571-d1e115">The third reason and conjecture
+          by which it is presumed and must be presumed —
+          or rather clearly proved —
+          that such persons cannot have or have had good faith
+          derives from the preceding one;
+          namely, from the very acts and deeds
+          that they themselves perpetrated and committed,
+          all of which were and are evidently
+          against all natural and divine reason and law,
+          and the acts of cruel and brutish men
+          who possess no judgment of reason whatsoever.
+          They were also and were against the human laws and prohibitions;
+          and acts done against the law,
+          even if done through error without believing one is erring,
+          do not excuse, nor are those who commit them in good faith,
+          as was touched upon above.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e146">How could they or can they claim ignorance and any excuse,
+          those who, finding those innocent nations
+          in their peaceful and secure lands and homes,
+          with their wives and children,
+          committing no injury or harm to anyone,
+          fell upon them and put them to the sword,
+          robbed them of what they had,
+          and placed those they seized
+          in the servitude of the tyrannical repartimiento —
+          when that was the least harm they did them?
+          Others, coming out to meet them on the road
+          loaded with chickens and other gifts to receive them,
+          the reward that was many times given to many
+          was to cut them to pieces,
+          feigning and proclaiming that they were coming out for war
+          in order to go quickly to the towns or to the lord who sent them,
+          so as to have occasion to make slaves,
+          and so they did.
+          How can these most wretched men excuse themselves
+          and claim that they had good faith?
+          And still more wretched are the confessors —
+          both secular clergy and regular —
+          who wish to excuse them,
+          God knows for what reasons;
+          who, demanding as tribute from the lords of the Indians,
+          with the gravest threats
+          that they would burn them alive if they did not give them
+          fifty slaves every three months —
+          not having them, as commonly none of them had any —:
+          the natural lord would go through the town,
+          and from the neighbor who had two sons he would take one,
+          and from the one who had three, two,
+          commanding them to say that they were slaves bought and sold,
+          on pain of being burned,
+          as the Spaniards had threatened to burn him.
+          You would have seen the weeping in the town
+          of the mothers and fathers when this was carried out.
+          Then the branding iron was close at hand to mark them as slaves,
+          for another tyrant had it and marked them willingly enough.
+          These people — how can they claim good faith?
+          Were they ignorant of their own acts,
+          that they were most wicked and evil in every ugliness and malice?
+          And a thousand other forms of consummate malice
+          to destroy those peoples they have used throughout all those Indies
+          and in their parts,
+          lacking the authority of the king,
+          for they never had it;
+          rather, they were commanded to do the complete opposite.
+          And even when the kings did give them authority and command,
+          the deeds did not cease to be tyrannical,
+          since all of them were and have been
+          against natural and divine law.
+          Finally, all the evils and the destruction of souls and bodies
+          of such innumerable peoples have been caused by them,
+          and they perpetrated those evils
+          through their own malice and disordered will,
+          subordinating the life and salvation of their neighbors
+          to the craving they have had and have
+          to make themselves rich and to lord it over those peoples.
+          And so, knowingly and by private authority,
+          they broke all the rules and instructions
+          that the kings commanded to be given.
+          And all of them knew this.
+          And if the captains and governors commanded them
+          or gave them license and room to do what they wrongly did,
+          it did not excuse them,
+          because all could see that those captains and governors
+          were the most cruel tyrants,
+          and that from what was robbed and subjugated
+          the greatest and best share fell to them,
+          and in the end all of it, and there was but a single cause for all.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e274">The fourth reason is the most frequent and widespread reputation
+          that exists in the Indies and throughout all Spain,
+          so universal that there is not a peasant from Sayago
+          who does not proclaim it;
+          namely, that none of those who bring money from the Indies,
+          nor those who join with them in marriages,
+          prosper with what they bring,
+          and it dissolves between their hands;
+          and many of those who are most prudent
+          fear to contract kinship or alliance
+          by giving their daughters or female relations to such men.
+          And this reputation began many years ago
+          and grows each day,
+          so that none of those who have destroyed that world
+          with such most grave sins,
+          neither before the judgment of God
+          nor before men,
+          can have any pretext for excusing themselves.
+          And this fourth reason for their bad faith and perverse conscience
+          ought to have been sufficient.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e323">The fifth is that they themselves —
+          the destroyers and robbers of the greater part of the human race —
+          confess it at every turn:
+          some without shame praising and boasting of it
+          as great and notable feats —
+          and such they certainly were, but in evil —;
+          others, in some measure composing themselves
+          and fearing the rigorous judgment of God,
+          seeing themselves so confounded and guilty
+          of the loss of so many souls,
+          convicted by their own consciences,
+          or by the divine law they hear preached,
+          or by natural reason itself.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e343">This sixth, because almost all of them universally
+          recoil from knowing the truth
+          and will not be enlightened or informed
+          about their pernicious errors;
+          rather they defend those errors with all the strength they have,
+          already obstinate in them,
+          and it avails nothing to confound and convict them
+          with their own deeds of demons,
+          as has many times been done
+          by learned and God-fearing men;
+          for they respond with a thousand absurdities, such as this one:
+          <quote xml:id="dc7aa7-e06571-Qd1e358">"One soul that has been saved through our efforts is worth more
+          than all those we have killed with our own hands."</quote>
+          See what a doubt the tyrants declare to us;
+          yet the wretches do not add
+          that Judas was the cause of redeeming the human race,
+          and now glories, wherever he is,
+          in having brought about so great a good.
+          And there is another most grave sin in which they constantly remain:
+          that beyond keeping those peoples tyrannized
+          and being firmly resolved not to release them,
+          they resist as much as they can
+          any favor or good that the king sends through his provisions
+          for the relief of the oppressed Indians.
+          By all of which it appears manifestly
+          that it is not ignorance but consummate malice
+          in which all or most of them remain;
+          and if in some there is any portion of ignorance,
+          this is affected —
+          for they will not know the truth so as to leave off sinning —;
+          and such persons are held to be fully knowing,
+          and as willingly desiring to keep free peoples
+          oppressed and in harmful servitude
+          and to enjoy what has been robbed, according to the laws.
+          And so those of whom we speak
+          are in bad faith and evil conscience,
+          as can be seen from what is treated in
+          <ref xml:id="dc7aa7-e06571-Qd1e408">the Gloss in L. vitia, Codex, De adquirenda rerum possessione;
+          et de Bartolo, en la Extravagante, Ad reprimendum, in verbo «remunerationem»
+          quasi infini.</ref>
+          Et est textus expressus in <ref xml:id="dc7aa7-e06571-Rd1e414">L. regula, sed facti, ff., De iure et facti ignorantia</ref>
+          et <ref xml:id="dc7aa7-e06571-Rd1e419">ibi in Glossa Magna;</ref>
+          and what is noted by the canonists,
+          in the final chapter and in <ref xml:id="dc7aa7-e06571-Rd1e403">cap. si diligenti, De prescriptionibus.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

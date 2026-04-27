@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 21</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 21</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas jurídicas latinas se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06571">
+        <head xml:id="dc7aa7-e06571-Hd1e111">Capítulo 21</head>
+        <p xml:id="dc7aa7-e06571-d1e113">§ 21.</p>
+        <p xml:id="dc7aa7-e06571-d1e115">La tercera razón y conjetura
+          por la cual se presume y debe presumir —
+          o antes se prueba claramente —
+          que tales personas no pueden tener ni haber tenido buena fe,
+          se origina de la precedente;
+          conviene a saber, por los mismos actos y obras
+          que ellos mismos perpetraron y cometieron,
+          todos los cuales eran y fueron evidentemente
+          contra toda razón y ley natural y divina,
+          y propios de hombres crueles y bestiales
+          que no poseen ningún juicio de razón.
+          Eran también y fueron contra las leyes y prohibiciones humanas;
+          y los actos que se hacen contra la ley,
+          aunque sean por error sin creer que se yerra,
+          no excusan ni están los que los hacen en buena fe,
+          como arriba se tocó.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e146">¿Cómo podían ni pueden pretender ignorancia y excusa alguna
+          los que, hallando aquellas naciones inocentes
+          en sus tierras y casas pacíficas, seguras,
+          con sus mujeres e hijos,
+          sin hacer ni cometer injuria ni daño a nadie,
+          los salteaban y metían a cuchillo,
+          les robaban lo que tenían,
+          y a los tomados los ponían en la servidumbre
+          del tiránico repartimiento,
+          cuando menos mal les hacían?
+          Otros, saliéndoles al camino cargados de gallinas
+          y otros presentes a recibirlos,
+          la paga que muchas veces a muchos dieron
+          fue hacerlos pedazos,
+          fingiendo y publicando que salían de guerra
+          por ir de presto a los pueblos o al señor que los enviaba,
+          para tener ocasión de hacer esclavos,
+          y así lo hacían.
+          ¿Cómo se pueden excusar estos infelicísimos hombres
+          y alegar que tienen buena fe?
+          Y más infelices los confesores — eclesiásticos y regulares —
+          que los quieren excusar,
+          Dios sabe por qué causas;
+          que pidiendo por tributo a los señores de los indios
+          con amenazas gravísimas
+          que los habían de quemar vivos si no les daban
+          cincuenta esclavos cada tres meses —
+          no teniéndolos, como comúnmente ninguno los tenía —:
+          iba el señor natural por el pueblo,
+          y al vecino que tenía dos hijos le tomaba uno,
+          y al que tenía tres, los dos,
+          mandándoles que dijesen que eran esclavos vendidos y comprados,
+          so pena de que los quemaría,
+          como a él los españoles habían amenazado.
+          Hubiérades visto los llantos que había en el pueblo
+          de las madres y padres cuando esto se ejecutaba.
+          Luego estaba el hierro a la mano para marcarlos como esclavos,
+          porque lo tenía otro tirano que los marcaba de buena gana.
+          Estos tales, ¿cómo pueden alegar buena fe?
+          ¿Ignoraban sus propios actos,
+          que eran pésimos y en toda fealdad y malicia malos?
+          Y otras mil maneras de malicia consumada
+          para destruir aquellas gentes han usado en todas aquellas Indias
+          y en sus partes,
+          faltándoles autoridad del rey,
+          porque nunca la tuvieron;
+          antes se les mandó todo lo contrario.
+          Y ya que los reyes se la dieron y mandaron,
+          no dejaron de ser tiránicas,
+          como fueron y hayan sido todas
+          contra ley natural y divina.
+          Finalmente, todos los males y pérdidas de almas y cuerpos
+          de tan innumerables gentes han sido causa de ellos,
+          y ellos las perpetraron
+          por su propia malicia y desordenada voluntad,
+          posponiendo la vida y salvación de sus prójimos
+          al ansia que han tenido y tienen de hacerse ricos
+          y de señorear aquellas gentes.
+          Y así, a sabiendas y por privada autoridad,
+          quebrantaban todas las reglas e instrucciones
+          que los reyes mandaban dar.
+          Y esto todos lo sabían.
+          Y si los capitanes y gobernadores les mandaban
+          o daban licencia y lugar para hacer lo que mal hacían,
+          no los excusaba,
+          porque todos veían que aquellos eran más crueles tiranos,
+          y que de lo que robaban y subyugaban
+          les cabía la mayor y mejor parte,
+          y en fin toda, y de todos era una sola causa.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e274">La cuarta razón es por la frecuentísima y dilatada fama
+          que hay en las Indias y en toda España,
+          que no hay labrador de Sayago que no lo clame;
+          conviene a saber, que ninguno de los que traen dinero de las Indias,
+          ni de los que se juntan con ellos en casamientos,
+          medra con cuanto traen,
+          y entre las manos se les deshace;
+          y muchos de los que son más cuerdos
+          temen contraer afinidad o deudo,
+          dando sus hijas o parientas a los tales.
+          Y esta fama comenzó de muchos años atrás
+          y cada día crece,
+          para que ninguno de los que han destruido aquel orbe
+          con tan gravísimos pecados,
+          así como ni ante el juicio de Dios
+          tampoco ante los hombres,
+          pueda tener color de excusarse.
+          Y esta cuarta razón de su mala fe y perversa conciencia
+          debiera bastar.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e323">La quinta es que ellos mismos —
+          los destructores y robadores de la mayor parte del linaje humano —
+          lo confiesan a cada paso:
+          algunos sin vergüenza alabándose y jactándose
+          como de grandes y señaladas hazañas
+          — y tales fueron cierto, pero en malo —;
+          otros, en alguna manera componiéndose
+          y temiendo el riguroso juicio de Dios,
+          viéndose tan confusos y reos de tanta pérdida de almas,
+          convencidos por las mismas conciencias,
+          o por la ley divina que oyen predicar,
+          o por la misma razón natural.
+        </p>
+        <p xml:id="dc7aa7-e06571-d1e343">Esta sexta, porque casi todos universalmente
+          rehuyen de saber la verdad
+          y no quieren ser alumbrados ni informados
+          de sus perniciosos errores;
+          antes los defienden con cuantas fuerzas tienen,
+          como en ello ya obstinados,
+          y no aprovecha confundirlos y convencerlos
+          con sus mismas obras de demonios que han obrado,
+          muchas veces, por los varones doctos y temerosos de Dios;
+          respondiendo con mil desvaríos como este:
+          <quote xml:id="dc7aa7-e06571-Qd1e358">«más vale un alma que se haya salvado
+          de que hayamos sido causa,
+          que todos cuantos hemos muerto por nuestras manos.»</quote>
+          Mirad qué duda nos declaran los tiranos;
+          pero no añaden los miserables
+          que Judas fue causa de redimir el linaje humano,
+          y se gloría hoy donde está
+          de haber causado tan gran bien.
+          Y otro gravísimo pecado en que continuamente están:
+          que allende de tener aquellas gentes tiranizadas
+          y estar en firme propósito de no las dejar,
+          resisten cuanto pueden a cualquier favor o bien
+          que por las provisiones el rey envía
+          para alivio de los oprimidos indios.
+          Por todo lo cual parece manifiestamente
+          que no ignorancia, sino malicia consumada
+          es la en que todos, o los más, están;
+          y si en algunos hay alguna parte de ignorancia,
+          esta es afectada —
+          que no quieren saber la verdad para salir de pecado —;
+          y los tales son habidos por conscientes,
+          y que a sabiendas quieren tener
+          las gentes libres oprimidas y en servidumbre dañada
+          y gozar de lo robado, según los derechos.
+          Y así estos de quienes hablamos
+          están en mala fe y conciencia malvada,
+          como se puede ver por lo que trata
+          <ref xml:id="dc7aa7-e06571-Qd1e408">la Glosa en la L. vitia, Codex, De adquirenda rerum possessione;
+          et de Bartolo, en la Extravagante, Ad reprimendum, in verbo «remunerationem»
+          quasi infini.</ref>
+          Et est textus expressus in <ref xml:id="dc7aa7-e06571-Rd1e414">L. regula, sed facti, ff., De iure et facti ignorantia</ref>
+          et <ref xml:id="dc7aa7-e06571-Rd1e419">ibi in Glossa Magna;</ref>
+          y lo que se nota por los canonistas,
+          en el cap. final y en el <ref xml:id="dc7aa7-e06571-Rd1e403">cap. si diligenti, De prescriptionibus.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
