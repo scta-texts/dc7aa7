@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 20</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 20</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English,
+          including the Latin canonical quotation from Hostiensis.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06069">
+        <head xml:id="dc7aa7-e06069-Hd1e111">Chapter 20</head>
+        <p xml:id="dc7aa7-e06069-d1e113">§ 20.</p>
+        <p xml:id="dc7aa7-e06069-d1e115">The second reason or conjecture is:
+          because in order for unjust wars
+          and the robberies, injuries, deaths, and captivities
+          that are always inflicted on one's neighbors in them
+          to be excusable,
+          and for those who wage them not to be guilty of them
+          and placed in bad faith
+          until it is established — when they are in doubt —
+          whether they are justly or unjustly moved and carried out,
+          and when their injustice or iniquity is not clearly established,
+          it is required that they be done by the command and authority
+          of their king or prince, of whom they are properly vassals and subjects,
+          and that the king summon them and command them
+          to go and serve him in such a war or carry out such a measure of justice;
+          those who are thus summoned and commanded by their prince,
+          so long as the truth of the justice is not known,
+          even if the wars are unjust
+          and the robberies and killings commanded to be done are carried out unjustly,
+          are excused from sin,
+          and also from the obligation to restore what was acquired by that cause,
+          because obedience to their proper prince or king
+          excuses them in such doubt,
+          as <ref xml:id="dc7aa7-e06069-Rd1e156" target="http://scta.info/resource/gd-p2c23q1-Dd1e164">Saint Augustine and the saints say: c. 23, q. 1, c. quid culpatur.</ref>
+          And even in this case, when they are summoned and commanded by their prince,
+          the said subjects must, if a doubt about the war arises for them,
+          inquire and ask the most wise and God-fearing persons —
+          those without suspicion of interest, such as were described —
+          for the truth;
+          and if such persons were to certify them of the injustice of that war,
+          they would then be obliged not to obey the command of the prince,
+          even if they had to lose their lives on that account.
+          And concerning this point,
+          without asking persons such as those described,
+          subjects might see and have
+          such and so manifest signs and indications
+          of the injustice and iniquity of such wars
+          or of the prince's command,
+          that obedience to the prince would not excuse them:
+          just as if the prince commanded that all clergy
+          be stripped of their goods,
+          or that monasteries be sacked,
+          or likewise that peaceful towns be robbed,
+          and if it were known to everyone that they did not know
+          such an act was unjust, they would not be excused.
+          For such ignorance is called crass and willful,
+          which is no excuse; or affected, which aggravates the sins.
+          For otherwise, the Jews who killed the Son of God as man would have been excused,
+          and the gentiles in persecuting and killing the martyrs.
+          But the contrary reason applies to those who are not summoned
+          and commanded by their prince,
+          but of their own will and for their own greed and interests
+          involve themselves and volunteer for such wars and deeds,
+          from which deaths and harms to their neighbors necessarily arise,
+          and which happen to be unjust:
+          because obedience does not excuse such persons in cases of doubt,
+          as has been proved;
+          and therefore, before putting themselves in that danger,
+          they are obliged to inform themselves of the truth of the doubt
+          and resolve it,
+          being certified that that deed and exercise are lawful and just.
+          And if they are negligent in this and take no care of it
+          out of stupid and brutish simplicity,
+          they are always in bad faith
+          and live beyond all doubt in mortal sin.
+          So that, without being in a state of eternal damnation,
+          they cannot volunteer for or carry out such deeds and exercises.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e245">And this applies all the more in wars,
+          where the harms and irreparable evils
+          that neighbors receive are so certain, necessary, and most grave,
+          such as deaths, captivities,
+          and despoiling of temporal goods;
+          and if they are kingdoms of foreign lords,
+          usurpation of dominions.
+          The reason why it is mortal sin to act in such doubt is
+          that they deviate from right reason,
+          and insofar as it is in themselves,
+          they love that thing more than God
+          and despise the divine precept,
+          choosing rather to carry out that dangerous deed
+          with the doubt of incurring the violation of the divine law,
+          than to abstain from the said deed
+          with certainty of not erring or offending God.
+          And this is the general rule of all the Doctors:
+          that both subjects and non-subjects,
+          both those summoned and commanded and those not summoned or commanded,
+          who are so disposed as to go to wars
+          or to other exercises dangerous to their neighbors,
+          not caring about the justice or injustice of such war or deed,
+          but with their eye fixed on acquiring money
+          however they can get it,
+          there is no doubt whatsoever that such persons
+          are always in mortal sin.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e296">Applying, then, everything said to our present purpose in this truth,
+          let all confessors be certain,
+          because by it they will be able to answer many frivolous arguments
+          and confound and dismantle many false and feigned excuses
+          that some put forward
+          in such execrable and most cruel devastations and acts of theft:
+          that the kings of Castile never provoked or commanded
+          that any person should go to the Indies
+          to make war upon those peoples
+          whom they knew to be by their nature peaceable,
+          whether with wages or without,
+          whether out of fear or promises,
+          or by their command or authority;
+          it was never done, except at the very beginning
+          when those lands were discovered,
+          when the Catholic King and Queen sent a certain number of people
+          at wages —
+          not to make war or rob or take from the Indians what was theirs,
+          nor to kill them or enslave them —,
+          but solely to settle on the island of Hispaniola,
+          and so that a quicker way could be found
+          for the conversion of those souls.
+          Rather, all those who have gone to those kingdoms
+          have themselves volunteered and offered themselves
+          rashly and blindly,
+          pressing upon the kings and their council
+          to give them license to cross there,
+          with the aim not of saving souls
+          but of acquiring riches;
+          and whether with the intent of obtaining them justly or unjustly,
+          their deeds in the destruction and ruin
+          of those so great kingdoms give truthful testimony.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e365">Great numbers of people crossed to the Indies
+          through the invention that Satan devised,
+          in this manner:
+          a tyrant would come with ten or twelve thousand castellanos or ducats,
+          or more, that he had robbed by many means
+          through the killing of Indians,
+          and would offer himself to the king or his council,
+          saying that for his royal service he wished to go
+          to discover and settle such a province at his own cost,
+          and that they should make him an adelantado
+          and grant him the other favors he asked for,
+          which were assigned to be paid out of the hides of the Indians
+          he was going to rob and kill —
+          on account of the very great and not little culpable ignorance
+          that then prevailed throughout all Spain.
+          This person, arriving in Seville,
+          would preach of great riches and extensive treasures to be found in the land,
+          where everyone was going to prosper.
+          With this hope the people who wanted to would come,
+          and having arrived in the land
+          their business was never anything other
+          than beginning their entry —
+          first, as hungry wolves among most gentle sheep or lambs —:
+          to plunder, tear apart, kill, rob,
+          and thrust free peoples into the servitude of the repartimiento,
+          besides making slaves for buying and selling,
+          as was said in the seventh principle.
+          So that these people were not unaware
+          that the king was not commanding them to cross to the Indies,
+          but that this tyrant was preaching to them and persuading them to cross,
+          promising them great loads of gold and riches.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e416">Likewise, they were not ignorant of this,
+          nor could they be in doubt about it —
+          since doubt, as was said, is to be suspended and indifferent
+          between both contrary positions —:
+          it is plain that they inclined or ought to have inclined
+          to believe that they were not being sent by the king
+          to wage such cruel wars,
+          nor to rob the Indians who were in their homes
+          and doing harm to no one;
+          because such a war was never proclaimed in Seville or anywhere else,
+          nor had such a license to rob and kill them
+          been granted when they were recruited and persuaded;
+          for the tyrant captain would not have dared to proclaim it publicly,
+          since he himself carried the royal provisions forbidding it;
+          albeit, as is believed and even known,
+          he concealed and dissembled the king's provisions and instructions,
+          and privately told them or gave them hope
+          of ruling and robbing with expanded powers;
+          and this was sufficient to place them in bad faith and perverse conscience.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e451">And according to <ref xml:id="dc7aa7-e06069-Rd1e453">the Doctors on cap. sicut, the 3rd, De jurejurando,</ref>
+          <quote xml:id="dc7aa7-e06069-Qd1e458">"when a war is moved by the authority of someone who is not a prince,
+          it must always be presumed to be unjust when there is doubt;
+          and according to Hostiensis in that chapter,
+          even when it is by the authority of a prince,
+          when the matter is in doubt,
+          it must always be presumed to be unjust."</quote>
+          And this appears to be all the more true
+          when the matter is to be treated in the forum of conscience.
+          For the safe course must be followed in such a case
+          according to all the Doctors, above all the theologians.
+          The reason is that since in wars there is nothing done but killing,
+          robbing, enslaving, and inflicting irreparable harms on neighbors,
+          if there is no cause — not one that is pretextual or feigned
+          but one that truly excuses them —
+          one always sins mortally
+          and is under obligation to make restitution,
+          being expressly against the fifth and seventh precepts of the Decalogue.
+          But if the wars they waged against those peoples
+          had been publicly proclaimed,
+          they might have presumed and believed
+          that the king was ordering them to be made.
+          Though even this would not hold,
+          because everyone knew — whether little or much, there or here —
+          that the king prohibited by his provisions and instructions the wars,
+          commanding that so many and such summons first be given
+          which none of them observed;
+          and from the character of the captain's person,
+          and from the words they heard from him,
+          and from the deeds they saw him do,
+          and afterwards from the gentleness of those peoples
+          and the cruelties they inflicted upon them,
+          and from many other circumstances,
+          and from their own intentions and deeds
+          and their own consciences,
+          and from the law of the understanding which is synderesis —
+          the habit that contains the precepts of natural law,
+          which are to do no injustice or injury or wrong to anyone,
+          but rather to do good to all
+          and give to each what is theirs,
+          and not to usurp what belongs to them,
+          nor to offend God, etc. —,
+          and since it is impossible that any man in the world
+          should be ignorant of these precepts
+          by the light that each one has impressed in his soul,
+          they could and should have understood
+          how unjust and diabolical was the exercise and office they were engaged in
+          and the satanic works they were committing.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e539">Since, then, all the Spaniards who have crossed to the Indies
+          went to them without being moved or summoned or commanded
+          or compelled by the kings of Castile,
+          but of their own free will and greed
+          offered and volunteered themselves
+          and importuned the crown for licenses to cross there,
+          as has been said,
+          and found themselves in person and did find themselves
+          in the wars and killings and captivities
+          and other wrongs and irreparable harms
+          they inflicted on those peaceful peoples:
+          it follows that, even if they were in doubt
+          as to whether such wars and the said abominable deeds committed in them
+          were just or moved by just cause,
+          they were obliged, under pain of incurring most grave mortal sins,
+          before going to the Indies,
+          or at least before finding themselves in them
+          and perpetrating such deeds,
+          to inquire and ask the truth
+          of learned and unimpeachable persons,
+          as was said, and not to go;
+          or, since they were already there,
+          not to assist in them
+          nor to be participants in so much bloodshed
+          with any doubt whatsoever,
+          but only with certainty that they contained no injustice.
+          For obedience did not excuse them from the outset;
+          and because they did not do so,
+          and it is certain that everything done in the Indies
+          has been tyrannical and iniquitous,
+          as the whole world — unless they are brutish men — testifies;
+          therefore all of them were guilty
+          of all the wars, all the killings,
+          the devastations, robberies, captivities, despoilings,
+          injustices, wrongs, and mortal sins
+          committed in the said wars;
+          and they did not have good faith but bad faith
+          and perverse conscience,
+          and if they plead ignorance they do not speak the truth,
+          and if they had any ignorance
+          it was affected, or at the very least crass and willful.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 20</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 20</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          La cita latina de Hostiensi ha sido traducida al español.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06069">
+        <head xml:id="dc7aa7-e06069-Hd1e111">Capítulo 20</head>
+        <p xml:id="dc7aa7-e06069-d1e113">§ 20.</p>
+        <p xml:id="dc7aa7-e06069-d1e115">La segunda razón o conjetura es:
+          porque para que las guerras injustas,
+          y los robos, daños, muertes y cautiverios
+          que en ellas siempre se hacen a los prójimos
+          sean excusables,
+          y los que las mueven no sean reos de ellas
+          e instituidos en mala fe
+          hasta que se averigüe —
+          cuando están en duda — si son justa o injustamente movidas y hechas,
+          y no consta claramente de su injusticia o iniquidad,
+          se requiere que lo hagan por mandado y autoridad
+          de su rey o príncipe, cuyos vasallos y súbditos son propiamente,
+          y que el rey los llame y les mande
+          que le vayan a servir en tal guerra o ejecuten tal justicia;
+          los cuales, así llamados y mandados por su príncipe,
+          mientras no se sabe la verdad de la justicia,
+          aunque las guerras sean injustas
+          y los robos y muertes mandados hacer se hagan contra justicia,
+          son excusados del pecado,
+          y también de la restitución de lo por aquella causa adquirido,
+          porque la obediencia del príncipe o rey propio
+          los excusa en tal duda,
+          como <ref xml:id="dc7aa7-e06069-Rd1e156" target="http://scta.info/resource/gd-p2c23q1-Dd1e164">san Agustín y los santos dicen: c. 23, q. 1, c. quid culpatur.</ref>
+          Y aun en este caso, cuando son llamados y mandados por su príncipe,
+          deben los dichos súbditos, si les ocurre alguna duda sobre la guerra,
+          inquirir y preguntar a los más sabios y temerosos de Dios —
+          personas sin sospecha de interés, tales como se dijo —
+          la verdad;
+          y si tales personas les certificasen de la injusticia de tal guerra,
+          entonces serían obligados a no obedecer el mandato del príncipe,
+          aunque por ello hubiesen de perder la vida.
+          Y acerca de este artículo,
+          sin preguntarlo a personas como las dichas,
+          podrían los súbditos ver y tener
+          tales y tan manifiestos indicios o señales
+          de la injusticia e iniquidad de tales guerras
+          o del mandamiento del príncipe,
+          que la obediencia del príncipe no los excusara:
+          así como si el príncipe mandase despojar a todos los eclesiásticos
+          de sus bienes,
+          o saquear los monasterios,
+          o también robar pueblos pacíficos,
+          y constase a todos que no sabían que era injusta tal obra,
+          no los excusaría.
+          Porque tal ignorancia se llama crasa y supina,
+          que no es excusa; o afectada, que agrava los pecados.
+          Porque de otra manera,
+          excusados habrían sido los judíos que mataron al hijo de Dios
+          en cuanto hombre,
+          y los gentiles persiguiendo y matando a los mártires.
+          Pero contraria razón es la de los que no son llamados
+          y mandados por su príncipe,
+          sino que de su voluntad y por su codicia e intereses
+          se inmiscuyen y ofrecen a tales guerras y obras,
+          de las cuales necesariamente se recrean muertes y daños a los prójimos,
+          y acaece que sean injustas:
+          porque a los tales no los excusa en las dudas la obediencia,
+          como está probado;
+          y por tanto, antes de ponerse en aquel peligro,
+          son obligados a informarse de la verdad de la duda
+          y salir de ella,
+          quedando certificados de que aquella obra y ejercicio son lícitos y justos.
+          Y si en esto son negligentes y no curan de ello
+          por simplicidad necia y bestial,
+          siempre están en mala fe
+          y viven sin duda alguna en pecado mortal.
+          De manera que, sin estar en estado de eterna condenación,
+          no pueden ofrecerse ni ejecutar semejantes obras y ejercicios.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e245">Y esto tiene más lugar en las guerras,
+          donde tan ciertos y necesarios y tan gravísimos
+          son los daños e irreparables males que los prójimos reciben,
+          como son muertes, cautiverios, despojos de bienes temporales;
+          y si son reinos de señores ajenos, usurpaciones de señoríos.
+          La razón de ser pecado mortal en tal duda es
+          porque se desvían de la recta razón,
+          y en cuanto de sí depende,
+          aman más aquello que a Dios
+          y menosprecian el precepto divino,
+          escogiendo más querer hacer aquella obra peligrosa
+          con duda de incurrir en el quebrantamiento de la ley divina,
+          que abstenerse de la dicha obra
+          con certidumbre de no errar ni ofender a Dios.
+          Y esta es regla general de todos los doctores:
+          que así los súbditos como los no súbditos,
+          y los llamados y mandados como los no llamados ni mandados,
+          que están de tal manera dispuestos
+          a ir a las guerras o a otros ejercicios peligrosos para los prójimos,
+          sin cuidar de la justicia o injusticia de tal guerra o tal obra,
+          sino con el ojo puesto en adquirir dineros
+          como quiera que pueda haberlos,
+          no hay duda alguna de que tales personas
+          están siempre en pecado mortal.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e296">Aplicando, pues, todo lo dicho a nuestro propósito en esta verdad,
+          estén ciertos todos los confesores,
+          porque por ella podrán responder a muchos frívolos argumentos
+          y confundir y deshacer muchas falsas y fingidas excusas
+          que algunos pretenden en tan execrables y tan crueles estragos y latrocinios:
+          que nunca los reyes de Castilla
+          provocaron ni mandaron que fuese alguno a las Indias
+          a hacer guerras a aquellas gentes
+          que sabían ser de su naturaleza pacíficas,
+          ni con sueldo ni sin él,
+          ni por miedo ni por promesas,
+          ni por su mandato ni autoridad;
+          jamás se hizo, sino fue a los principios
+          cuando se descubrieron aquellas tierras,
+          que el rey y la reina católicos enviaron cierta gente a sueldo —
+          no para hacer guerra ni robar o quitar a los indios lo suyo,
+          ni matarlos ni cautivarlos —,
+          sino solamente para que en la isla Española poblasen,
+          y para que se diese manera más breve en la conversión de aquellas almas.
+          Sino que cuantos a aquellos reinos han ido,
+          ellos mismos se han inmiscuido y ofrecido
+          temeraria y ciegamente,
+          intimando a los reyes y a su consejo
+          que les diesen licencia para pasar allá,
+          con fin no de salvar almas
+          sino de adquirir riquezas;
+          y si con intención de haberlas con justicia o injusticia,
+          sus obras en la destrucción y pérdida de aquellos tan grandes reinos
+          dan veraz testimonio.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e365">Pasó mucha gente a las Indias con la invención que ordenó Satanás,
+          de esta manera:
+          que venía un tirano con diez o doce mil castellanos o ducados,
+          o más, que había robado por muchas vías
+          en muertes de los indios,
+          y se ofrecía al rey o a su consejo
+          que por su servicio quería ir a descubrir y poblar
+          tal provincia a su costa,
+          que le hiciesen adelantado y otras mercedes que pedía,
+          y le asignaban en los pellejos de los indios
+          que había de robar y matar,
+          por la grande ignorancia no poco culpable
+          que entonces en toda España había.
+          Este tal, venido a Sevilla,
+          predicaba grandes riquezas y largos tesoros que había en la tierra,
+          donde todos habían de ser felices.
+          Con esta esperanza llegaba la gente que quería,
+          y llegados a la tierra su oficio nunca fue otro
+          sino comenzar su entrada —
+          primero como hambrientos lobos en mansísimas ovejas o corderos —:
+          saltear, despedazar, matar, robar,
+          y meter las gentes libres en la servidumbre del repartimiento,
+          allende de hacer esclavos para comprar y vender,
+          como en el séptimo principio queda dicho.
+          Por manera que estos no ignoraban
+          que el rey no los mandaba pasar a las Indias,
+          sino que aquel tirano les predicaba y persuadía que pasasen,
+          prometiéndoles grandes cargas de oro y riquezas.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e416">Ítem, no ignoraban ni tampoco podían dudar —
+          como duda sea estar suspenso e indiferente
+          cerca de ambas partes contrarias, según se dijo —:
+          claro está que se acostaban o debían acostar e inclinar
+          a creer que no venían por el rey mandados
+          a hacer tan crueles guerras,
+          ni a robar a los indios que estaban en sus casas y sin hacer mal a nadie;
+          porque nunca tal guerra fue pregonada en Sevilla ni en otra parte,
+          ni tal licencia de robarlos y matarlos había sido concedida
+          cuando los captaban y persuadían;
+          porque no osara el tal tirano capitán a pregonarlas,
+          pues él traía las provisiones reales en contrario;
+          puesto que, según se cree y aun se sabe,
+          callaba y disimulaba las provisiones e instrucciones del rey,
+          y de secreto les decía o daba esperanza
+          de señorear y robar ensanchando sus poderes;
+          y esto les bastaba para ser puestos en mala fe y perversa conciencia.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e451">Y según <ref xml:id="dc7aa7-e06069-Rd1e453">los doctores sobre el cap. sicut, el 3.º, De jurejurando,</ref>
+          <quote xml:id="dc7aa7-e06069-Qd1e458">«cuando la guerra se mueve por autoridad de otro que no sea príncipe,
+          siempre se ha de presumir que es injusta cuando hubiere duda;
+          y según el Hostiense en aquel capítulo,
+          aunque sea por autoridad del príncipe,
+          estando la cosa en duda,
+          siempre se ha de presumir que es injusta.»</quote>
+          Y esto parece ser más verdad
+          cuando se hubiere de tratar el negocio en el foro de la conciencia.
+          Porque la vía segura en tal caso se ha de seguir
+          según todos los doctores, mayormente teólogos.
+          La razón es porque, como en las guerras no se haga sino matar,
+          robar, cautivar y hacer males irreparables a los prójimos,
+          si no hay causa no colorada o fingida sino que verdaderamente los excuse,
+          siempre se peca mortalmente
+          y hay obligación a la restitución,
+          como sea expresamente contra el quinto y séptimo preceptos del Decálogo.
+          Pero si las guerras que aquellos han hecho a aquellas gentes
+          hubieran sido públicamente pregonadas,
+          pudieran presumir y creer que el rey mandarlas hacía.
+          Aunque esto tampoco tendría lugar,
+          porque todos sabían —poco o mucho, allá o acá —
+          que el rey prohibía por sus provisiones e instrucciones las guerras,
+          mandando que primero se hiciesen tantos y tales comedimientos
+          de los cuales ninguno guardaron;
+          y por la calidad de la persona del capitán,
+          y por las palabras que le oían,
+          y por las obras que le veían hacer,
+          y después por la mansedumbre de aquellas gentes
+          y las crueldades que en ellos hacían,
+          y por otras muchas circunstancias,
+          y por sus propias intenciones y obras
+          y de sus propias conciencias,
+          y de la ley del entendimiento que es la sindéresis —
+          hábito que contiene los preceptos de la ley natural,
+          que son no hacer injusticia ni injuria a nadie ni agravio,
+          antes hacer bien a todos
+          y dar a cada uno lo suyo,
+          y no usurparle lo que le pertenece,
+          ni hacer ofensa a Dios, etc. —,
+          y siendo imposible que hombre del mundo
+          ignore estos preceptos
+          por la luz que cada uno lleva impresa en su alma,
+          podían y debían entender
+          cuán injusto y diabólico era el ejercicio y oficio que traían
+          y las obras satánicas que cometían.
+        </p>
+        <p xml:id="dc7aa7-e06069-d1e539">Pues como todos los españoles que a las Indias han pasado
+          hayan ido a ellas sin ser movidos ni llamados ni mandados
+          ni constreñidos por los reyes de Castilla,
+          sino por su propia voluntad y codicia
+          se hayan ofrecido e inmiscuido
+          e importunado sobre haber las licencias para pasar a ellas,
+          como queda dicho,
+          y hallarse por sus propias personas y se hallaron
+          en las guerras y muertes y cautiverios
+          y otros agravios y daños irreparables
+          que hicieron a aquellas gentes pacíficas:
+          se sigue que, aunque tuviesen duda
+          de si eran justas o con justa causa movidas
+          tales guerras y las dichas obras nefandas en ellas cometidas,
+          eran obligados, so pena de incurrir gravísimos pecados mortales,
+          antes de ir a las Indias,
+          o al menos antes de hallarse en ellas
+          y perpetrar tales obras,
+          a inquirir y preguntar la verdad
+          a las personas doctas y sin sospecha,
+          como fue dicho, y no ir;
+          o ya que allá estuviesen,
+          a no ayudar en ellas
+          ni ser partícipes de tanto derramamiento de sangre
+          con alguna duda,
+          sino con certidumbre de no contener injusticia.
+          Pues la obediencia no los excusaba desde el principio;
+          y porque no lo hicieron,
+          y es cierto haber sido todo lo que en las Indias se ha hecho
+          tiránico e inicuo,
+          como todo el mundo —sino son hombres bestiales— lo testifica;
+          por ende todos fueron reos
+          de todas las guerras, de todas las muertes,
+          estragos, robos, cautiverios, despojos,
+          injusticias, injurias y pecados mortales
+          que en las dichas guerras se cometieron;
+          y que no tuvieron buena sino mala fe
+          y perversa conciencia,
+          y que si alegan ignorancia no dicen verdad,
+          y si alguna tuvieron
+          fue afectada, o cuando menos crasa y supina.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
