@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 22</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 22</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          El párrafo d1e152 presenta grave desorden textual en el MS,
+          con frases desplazadas y texto interpolado que interrumpe la sintaxis.
+          Se ha reconstruido el sentido a partir del contexto.
+          Las citas latinas han sido traducidas al español;
+          las referencias jurídicas latinas se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06894">
+        <head xml:id="dc7aa7-e06894-Hd1e111">Capítulo 22</head>
+        <p xml:id="dc7aa7-e06894-d1e113">§ 22.</p>
+        <p xml:id="dc7aa7-e06894-d1e115">Y porque los que de estos tales invasores y salteadores
+          de los reinos ajenos — y propiamente tiranos —
+          compraron y han comprado a los indios
+          que tan injustamente hicieron esclavos:
+          sabían y tenían ciencia todos los que hoy son y están en las Indias,
+          y apenas se hallará uno que no la tuviese,
+          de cómo fueron hechos esclavos con las injusticias susodichas.
+          Y de esto es un argumento eficacísimo y claro
+          que por mandado del rey, desde hace muchos años,
+          fue mandado generalmente en todas las Indias
+          que fueran puestos en libertad.
+          Y cuantos acá en Castilla vienen ante el Consejo del rey
+          a pedir libertad,
+          sin detención ni prueba alguna se la dan,
+          por ser notorísimo haber sido todos los que los hicieron
+          señalados plagiarios.
+          Y así, comprándolos de aquellos plagiarios
+          o de cualquier otra manera habiendo por esclavos,
+          y todo el tiempo que los tuvieron
+          y vendiéndolos o dándolos de gracia,
+          siempre tuvieron mala fe y estuvieron en pecado mortal.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e152">Ítem, porque los mercaderes se inmiscuían e inmiscuyeron
+          de su propia voluntad,
+          por sola su codicia de las incomparables riquezas
+          que por las mercaderías que llevaron y llevan prometían,
+          mayormente en tiempo que los españoles
+          hacían y hacen aquellas guerras a aquellas gentes
+          sin que su príncipe los moviese, llamase ni se lo mandase,
+          y no cuidaron de informarse de hombres doctos
+          y temerosos de Dios de la verdad,
+          siendo tan notorios los clamores que en la corte se daban por esta causa,
+          y en España las disputas de los letrados
+          y los sermones de los predicadores,
+          que todo se enderezaba para condenar por malo —
+          o al menos dudoso — lo que en las Indias se perpetraba,
+          como queda declarado.
+          Y asimismo las obras crueles, tan de sí malas,
+          que en las guerras se obraba,
+          en las cuales o ellos vivían o sus compañeros y hacedores
+          se hallaban y los ayudaban en ellas,
+          de la justicia de las cuales al menos debieran dudar;
+          y si verdad quieren confesar,
+          ellos mismos por abominables las juzgaban.
+          Lo cual podían y debían conocer
+          por la calidad del tiempo y de las personas y de su codicia,
+          y la de los tiranos;
+          y probablemente su conciencia les dictaba —
+          o debía dictar — ser hechos contra justicia y razón natural,
+          como queda probado.
+          Lo cual todo, no obstante,
+          se precipitaron con los ojos cerrados
+          a llevar armas de toda especie —
+          mayormente caballos,
+          que son los que mayor daño hacen a aquellas gentes desnudas,
+          como se dijo —,
+          y otras muchas cosas que a la inicua sujeción
+          y destrucción de aquellos reinos ayudaban;
+          en especial en la Nueva España,
+          cuando el primer tirano y tiranos en ella entraron y la subyugaron,
+          y mucho más mal y peor en los reinos del Perú,
+          donde todo lo malo se ha cometido
+          doblado y triplicado y mil veces doblado,
+          y de donde mayores e inauditos tesoros se han robado;
+          y los mercaderes de la mayor parte han participado.
+          Por ende fueron y son reos de todos los pecados mortales
+          que los tiranos cometieron en las guerras,
+          de muertes y despojos y robos
+          y usurpaciones de los señores naturales,
+          y son obligados a restitución de cuanto se robó, in solidum,
+          porque ellos fueron los que más en las guerras ayudaron
+          al daño y pérdida de aquellas gentes,
+          señores naturales de aquellas tierras,
+          con sus mercaderías,
+          sustentando a los que tan injustamente
+          a aquellas gentes inocentes talaban y asolaban.
+          A los cuales, aunque no llevaran mercaderías por vía de ganancia
+          sino por hacerles limosna si estuvieran en extrema necesidad,
+          pecaron mortalmente los mercaderes
+          aun si cosas que no eran armas sino mantenimientos les proveyeran,
+          estando haciendo las obras que obraban;
+          antes les habrían de quitar toda sustentación si pudieran,
+          porque con ello cesarían.
+          La razón es porque somos obligados
+          así como a ayudar haciendo bien a los prójimos,
+          también a impedirles por las vías posibles todo mal:
+          <quote xml:id="dc7aa7-e06894-Qd1e267">«No hay gran diferencia entre infligir la muerte
+          o permitirla. Pues se prueba que quien,
+          pudiendo excluirla, no lo hace,
+          inflige la muerte a los que languidecen.»</quote>
+          <ref xml:id="dc7aa7-e06894-Rd1e276">83 dist.,</ref>
+          al principio;
+          y a esto mucho escrito;
+          y así, ni limosna —aunque perecieran de hambre —
+          se les podía dar sin pecado mortal.
+          La razón es porque, supuesto que en tales obras perseveraban,
+          eran los que se las daban partícipes de aquellos males y daños.
+          Y de esto hay en la Sagrada Escritura autoridad,
+          <ref xml:id="dc7aa7-e06894-Rd1e287">Eclesiástico 12:</ref>
+          <quote xml:id="dc7aa7-e06894-Qd1e283" source="http://scta.info/resource/qoh12_5@1-26 http://scta.info/resource/qoh12_6@1-18">«Haz bien al humilde, y no des al impío.
+          Prohíbe que se le dé pan,
+          no sea que así se haga más poderoso que tú.
+          Porque el Altísimo aborrece a los pecadores,
+          y a los impíos dará venganza.»</quote>
+          Y en los cánones está registrada una sentencia de san Agustín
+          en <ref xml:id="dc7aa7-e06894-Rd1e310">la Epístola ad Vicentium Donatistam, 5, q. 5, c. non omnis:</ref>
+          <quote xml:id="dc7aa7-e06894-Qd1e318">«Más útil es quitar el pan al hambriento
+          que, seguro de su comida, descuida la justicia,
+          que partir el pan con el hambriento
+          para que, seducido por la injusticia, la consienta.»</quote>
+          Hasta aquí él.
+          Y Santo Tomás, al propósito, en
+          <ref xml:id="dc7aa7-e06894-Rd1e330">el Opúsculo 19, cap. 7, columna 17, ad 4m,</ref>
+          dice:
+          <quote xml:id="dc7aa7-e06894-Qd1e332">«Cuánto más se ha de sustraer la limosna
+          a los que la piden,
+          cuando de lo recibido toman manifiestamente ocasión de injusticia.»</quote>
+          Hasta aquí él.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e340">Parece, pues,
+          que tales mercaderes nunca tuvieron buena fe
+          sino mala conciencia,
+          llevando las dichas mercaderías aunque no fuesen armas.
+          Y no los pudo excusar ignorancia ni duda,
+          como sean en todo más astutos y sepan primero que otros
+          las cosas que pasan en la corte
+          y pasaban en las Indias;
+          y aun ellos son los primeros que tienen avisos de las cosas del mundo,
+          y aun los reyes no saben las nuevas tan presto.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e359">Y así, por todo lo dicho,
+          parece tener verdad este octavo principio;
+          conviene a saber: que ningún español de los que han pasado a las Indias,
+          de cincuenta años a este de 1563
+          en que por la misericordia de Dios hoy somos,
+          habido de los que se han hallado —
+          poco que mucho — en la destrucción y pérdida
+          de aquellas gentes y tierras indianas,
+          ha tenido ni tiene buena fe
+          cerca de cuatro cosas.
+          La una, cerca de las guerras.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e383">La segunda, cerca de las armadas y salteamientos —
+          que todo es uno con las guerras —
+          que llamaron entradas y rancherías.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e390">La tercera, cerca de comprar los esclavos indios
+          tomados en ellas,
+          los que los compraban de los mismos que los hacían esclavos.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e397">La cuarta, cerca de las mercaderías
+          que se llevaban y vendían a los que hacían y ejercitaban
+          las dichas guerras, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
