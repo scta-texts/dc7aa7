@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 19</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 19</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English,
+          including the Latin quotations from Aristotle and Ecclesiasticus.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05627">
+        <head xml:id="dc7aa7-e05627-Hd1e111">Chapter 19</head>
+        <p xml:id="dc7aa7-e05627-d1e113">§ 19.
+          Eighth Principle.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e115">For at least the past fifty years up to this year
+          of fifteen hundred and sixty-three
+          in which by the gracious mercy of God we today live,
+          there has not been, and still less is there today,
+          any man throughout all the Indies
+          who has had or has good faith,
+          nor can excuse himself with it,
+          with respect to four things.
+          The first, with respect to the wars waged on our part
+          against the Indians in all parts, places, kingdoms,
+          and provinces of them.
+          The second, with respect to the armed expeditions and raids
+          — which are one and the same as the wars —
+          that by sea and by land,
+          which they called entradas and rancherías,
+          we have waged and are waged today as they were before.
+          The third, with respect to purchasing the Indian slaves
+          taken in the said wars
+          by those who bought them from the very same men who made them.
+          The fourth, with respect to the merchandise that was brought
+          and sold to those who carried on the said wars,
+          such as harquebuses, gunpowder, crossbows,
+          and especially horses,
+          which have proved more harmful to the Indians
+          than any other weapon.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e151">This principle and most certain truth
+          we prove by the following reasons.
+          But for greater clarity it is well to define two terms or words
+          that we shall have to touch upon many times.
+          The first of these words is: doubt.
+          Doubt is, according to <ref xml:id="dc7aa7-e05627-Rd1e167" target="http://scta.info/resource/wer3fe">Saint Isidore in his Etymologies</ref>
+          and <ref xml:id="dc7aa7-e05627-Rd1e172" target="http://scta.info/resource/ta-l3d17q1-Dd1e662">the Philosopher and Saint Thomas in book 3 of the Sentences,
+          dist. 17, di. 4,</ref>
+          a movement of reason indifferent to both sides of the contradiction,
+          or an equality of contrary reasons;
+          and so a man is properly said to doubt something
+          when he has reasons equal or nearly equal on both sides,
+          such that he does not incline notably more to one part than to the other.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e189">The second word is:
+          who is the one who can truly be said
+          to be a possessor in good or bad faith.
+          That one then is a possessor in good faith and good conscience
+          who does not know that what he holds belongs to another,
+          and does not restore it though he is able to.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e211">That one is a possessor in bad faith and bad conscience
+          who doubts that it belongs to another;
+          and such doubt is firm when it is said also to touch the conscience,
+          if it proceeds from a just and probable cause he has for doubting,
+          in such a way that his mind inclines more
+          to the view that what he holds belongs to another
+          than to the view that it is his own;
+          this is a firm doubt that touches the conscience,
+          as <ref xml:id="dc7aa7-e05627-Rd1e224">is gathered from the Gloss in the final chapter of the title,</ref>
+          in the words <quote xml:id="dc7aa7-e05627-Qd1e229">"at no time"</quote>
+          and from <ref xml:id="dc7aa7-e05627-Rd1e235">Baldo, in cap. Vigilanti, De prescriptionibus, 2 columna, eodem titulo.</ref>
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e238">Likewise, that one is in bad faith
+          who doubts and has persons he could ask —
+          learned persons whom he knows to fear God
+          and who have nothing at stake in telling the truth,
+          and whom he trusts to tell it —
+          and does not ask them.
+          Because such a person is obliged to inquire diligently after the truth.
+          Just as if one were firmly in doubt
+          whether the woman he has is his wife or not,
+          he would be obliged not to approach her
+          until he has asked and learned the truth,
+          and if in the meantime he does the contrary,
+          he will always be in bad faith,
+          and thus in mortal sin.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e261">Likewise, that one is in bad faith
+          who does something contrary to the law
+          out of ignorance of it;
+          as if someone believed that a ward
+          under the care of a tutor or guardian
+          had power to sell his property
+          or alienate it in some other way,
+          and bought it from him:
+          such ignorance of the law does not excuse that person,
+          and he is in bad faith.
+          But because bad or good faith consists in the mind or conscience
+          of each person,
+          and cannot in many cases be truly proved,
+          it may nonetheless be at least proved or presumed
+          from certain conjectures.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e288">One of which is:
+          when it is denounced that what is being done is wrong
+          by persons who deserve to be believed with good reason.
+          So in our present case it is to be presumed
+          against the Spaniards who have gone to the Indies
+          and have committed those abominable deeds,
+          both in the unjust wars they call conquests
+          and in the repartimientos that have been described.
+          For from the year ten,
+          when the friars of Saint Dominic went to the island of Hispaniola —
+          persons held to be holy, prudent, and most learned —,
+          seeing what was happening in the oppression and destruction of the Indians,
+          and having learned what had befallen the great multitude of peoples
+          with which it had been populated and how few remained,
+          then in the year eleven they preached against it
+          very openly and boldly
+          and denounced it,
+          condemning everything that had been done and was being done
+          as tyrannical and abominable.
+          The news comes to Spain and the religious in pursuit of their truth.
+          Great assemblies of learned men are held in Burgos,
+          where at that time the Catholic King Don Fernando was residing;
+          and the king judged everything done in those islands to be abominable,
+          and those who according to God's law felt it to be against his law,
+          grieving over the perdition of so many souls
+          and with such cruelty.
+          Of the islands I say,
+          because the devil had not yet entered the mainland.
+          Certain laws and ordinances are made,
+          but they availed little or nothing.
+          All of this was public and notorious in Spain.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e339">Afterwards, the more the Spaniards went on discovering
+          and entering the islands and the mainland,
+          tyrannizing over and laying waste
+          that so great a portion of the human race,
+          the more did religious and clergy of good zeal come forward,
+          crying out to the kings
+          and to those who governed these kingdoms in their name,
+          that they put a remedy,
+          for those peoples were perishing
+          through the greed and ambition of the men of Spain.
+          There were assemblies in Madrid, in Valladolid,
+          in Aranda de Duero, in Zaragoza, in Barcelona,
+          many and great ones, in the year nineteen,
+          and in the year twenty-six in Granada, as was seen above,
+          and in the year twenty-nine,
+          and in the year forty-two where the New Laws were made
+          in Valladolid and afterwards in Barcelona and then in Madrid,
+          and afterwards in the year fifty-one in Valladolid again.
+          In these times many great provisions were made
+          by command of the kings and those who governed in their name,
+          especially in the days of the Emperor,
+          whom may God hold in his glory,
+          wherein they prohibited the tyrannical cruelties
+          and laid down order so that the Indians should suffer less harm;
+          because through the blindness that God has permitted in Spain
+          regarding this matter on account of its sins,
+          it was never managed to order it perfectly.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e397">Likewise, in all times there were public disputes
+          in the colleges and in the universities
+          about condemning these devastations of human peoples;
+          they were read as lectures from the chairs;
+          there were writings and responses given by learned men;
+          there were confessors who refused to hear confession
+          or to absolve those who wished to cross to the Indies
+          or those who came back from there with money.
+          And all of this was public and notorious throughout all Spain,
+          and it was cried out almost in the public squares
+          that all the money that came from the Indies was stolen;
+          there was no one who was ignorant
+          that royal provisions were issued each day
+          in favor of the Indians
+          and in check and relief of the torments and injustices
+          and hellish life they were given;
+          and as soon as these provisions came to the knowledge of the Spaniards,
+          they blasphemed the King's Council,
+          saying that its members did not know what they were providing and ordering,
+          and by every way and means they could
+          they impeded them so that they would not be carried out,
+          until they utterly lost the shame and fidelity
+          they owed to their king,
+          and rose up killing his viceroy —
+          a man faithful to God and to the king —
+          in open battle.
+          And finally it has been determined
+          by the most learned theologians of Spain,
+          both clergy and friars,
+          that the deeds the Spaniards have done in the Indies
+          are not those of men but of devils;
+          and that everything that comes from there
+          is iniquitously and detestably gained;
+          at the very least no one doubts
+          that it is not doubtful
+          and that there is a presumption of injustice
+          in everything brought from there.
+          Therefore, this was at least probable doubt
+          that obliged all those who wished to go to the Indies
+          to inquire and learn the truth,
+          asking the most devout servants of God
+          and the most learned persons they could find
+          before crossing to those parts:
+          <quote xml:id="dc7aa7-e05627-Qd1e456">"For it is established that to honest and upright men
+          we give credit more strongly and quickly,
+          not only in those things which are certain and thoroughly known
+          but in general in those
+          which are asserted on either side and rest on judgment of opinion,"</quote>
+          according to <ref xml:id="dc7aa7-e05627-Rd1e467">the Philosopher, Rhetoric 1, chapter 3.</ref>
+          They were therefore at fault,
+          either of affected ignorance which aggravates the sin
+          if they left it knowingly and out of malice,
+          or of crass and willful ignorance
+          which excuses neither from sin nor from the restitution that must be made;
+          and consequently they had not good but bad faith.
+          Because while they were in this doubt,
+          they were obliged to abstain from all those deeds
+          and from participation in the money and riches
+          derived from them and through them and acquired with them,
+          so as not to put themselves by so doing in danger of sinning mortally.
+          If it should afterwards appear unjust
+          to trade in the goods of others
+          against the will of their owners,
+          despoiled and unjustly wronged,
+          oppressed and killed,
+          and the living thrust into tyrannical servitude:
+          for it is a rule of holy and unholy theologians and jurists alike
+          that, in cases of doubt,
+          if one side is safe and the other dangerous,
+          the safe side must of necessity be followed
+          so as not to expose oneself to such danger;
+          for <quote xml:id="dc7aa7-e05627-Qd1e503" source="http://scta.info/resource/sir3_27@8-12">"he who loves danger will perish in it,"</quote>
+          <ref xml:id="dc7aa7-e05627-Rd1e507">Ecclesiasticus 3,</ref>
+          and consequently those persons,
+          even if they did not themselves commit the said iniquitous and cruel deeds,
+          if they shared in the goods obtained through them
+          in any manner of participation whatsoever,
+          did not have and do not have good faith but bad faith,
+          and were and are possessors in bad faith and bad conscience.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
