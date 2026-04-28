@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 24</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 24</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas en latín han sido traducidas al español;
+          las referencias jurídicas y escolásticas latinas se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e07716">
+        <head xml:id="dc7aa7-e07716-Hd1e111">Capítulo 24</head>
+        <p xml:id="dc7aa7-e07716-d1e113">Capítulo 24</p>
+        <p xml:id="dc7aa7-e07716-d1e118">En cuanto a la segunda parte de la conclusión,
+          conviene a saber, que sean obligados a restitución, etc.,
+          se prueba asimismo por razones y autoridades.
+          La primera, porque como la restitución sea poner a otro
+          en el estado en que estaba cuando poseía lo que era suyo
+          y se lo tomaron —
+          conviene a saber, en la posesión y señorío de aquello —,
+          lo cual no es otra cosa sino guardar la igualdad
+          de la justicia conmutativa que consiste en cierta igualdad.
+          Y así la restitución importa tornar o recompensar la cosa a su dueño,
+          que injustamente le fue tomada,
+          para que la igualdad sea reparada;
+          porque de otra manera no se guardaría la justicia.
+          Y como hacer y guardar justicia sea necesario,
+          sin la guarda de la cual es imposible salvarse,
+          de aquí es que la restitución de lo mal e injustamente tomado y usurpado
+          es necesaria para la salvación de cada uno,
+          y sin ella es imposible salvarse.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e158">Pues como aquellos ciento y setenta hombres
+          injustamente, con injuriosa violencia,
+          hayan usurpado aquel gran principado,
+          reinos y señoríos de aquel rey Atabaliba y de sus herederos
+          y de los demás señores,
+          sus honras y dignidades reales,
+          los grandes tesoros que dio por su rescate,
+          y los inmensos de oro y plata y piedras preciosas que después,
+          suyos y de sus vasallos y de otros muchos grandes señores y pueblos,
+          robaron,
+          con otros irreparables perjuicios
+          y todos con gravísimos e incomparables males y daños:
+          se sigue que para tornarlos y recompensarlos en su estado primitivo,
+          que es hacer y guardar justicia,
+          son obligados a restituir todo aquello que robaron
+          y los daños que hicieron.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e194">La segunda razón:
+          cada uno es obligado a dejar y abandonar el pecado mortal que cometió,
+          a no estar en él ni un momento,
+          porque sino es imposible salvarse,
+          según aquello del <ref xml:id="dc7aa7-e07716-Rd1e202" target="http://scta.info/resource/sir21_2@1-6">Eclesiástico 21:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e205">«Huye del pecado como de la cara de una serpiente.»</quote>
+          Pues, no solo peca mortalmente
+          el que hurta o roba lo ajeno contra voluntad de su dueño,
+          o de cualquier otra manera daña al prójimo
+          en aquel acto y obra de usurpar o dañificar,
+          sino también reteniéndolo contra voluntad de su dueño
+          por un momento que lo detiene,
+          hace injuria y causa daño al prójimo contra justicia;
+          luego, peca mortalmente.
+          La razón por la cual el que usurpa lo ajeno
+          hace injuria e injusticia al dueño,
+          y por consiguiente comete pecado,
+          es porque aquel acto de robo o usurpación
+          se hace contra voluntad del dueño.
+          Luego, si aquella usurpación y detención de lo ajeno
+          dura después de aquel acto contra voluntad del dueño,
+          siempre se le hace injuria y daño;
+          luego, siempre dura el pecado;
+          luego, para abandonar el pecado mortal,
+          necesaria es la restitución de lo hurtado y robado.
+          Y así, restituir lo mal habido y robado
+          no es otra cosa sino cesar del pecado;
+          y confírmase lo dicho,
+          porque cualquiera que tiene lo ajeno
+          está obligado a restituirlo por precepto negativo:
+          <ref xml:id="dc7aa7-e07716-Rd1e244">Romanos 13:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e250">«No debáis nada a nadie»,</quote>
+          et <ref xml:id="dc7aa7-e07716-Rd1e252">Levítico 19.</ref>
+          De esto véase <ref xml:id="dc7aa7-e07716-Rd1e254">Santo Tomás, 2.2 q. 62 a. final;</ref>
+          et <ref xml:id="dc7aa7-e07716-Rd1e259">4 Sent., dist. 15 q. 1 a. 5 qc. 1.</ref>
+          Pues así es que aquellos que tantos robos y daños hicieron
+          a tantos millares de personas
+          de alta y generosa condición y diversas calidades,
+          son obligados a restituir y satisfacer
+          todo lo que hubieron robado y dañificado,
+          y si no lo hacen es imposible salvarse.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e272">Lo tercero:
+          todo lo que es de precepto divino ha de cumplir el hombre
+          si ha de salvarse,
+          según aquello de <ref xml:id="dc7aa7-e07716-Rd1e278" target="http://scta.info/resource/mt19_17@15-20">Mateo 19:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e281">«Si quieres entrar en la vida, guarda los mandamientos.»</quote>
+          Pues, la restitución de las cosas robadas es de precepto divino,
+          <ref xml:id="dc7aa7-e07716-Rd1e286" target="http://scta.info/resource/ex20_15@1-3">Éxodo 20:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e291">«No hurtarás.»</quote>
+          Por la cual prohibición generalmente se prohíbe
+          toda ilícita usurpación y daño del prójimo,
+          como parece en <ref xml:id="dc7aa7-e07716-Rd1e297">14, q. 6, c. penale;</ref>
+          y <ref xml:id="dc7aa7-e07716-Rd1e300">Santo Tomás, 2.2 q. 122 a. 6 ad 2.</ref>
+          Y en detener lo ajeno contra voluntad del dueño
+          se hace siempre injuria y daño, como está probado;
+          luego, si la restitución de lo robado —
+          como aquellos robaron y tanto agraviaron a los prójimos —
+          no se hace, no se pueden salvar.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e311">Lo cuarto:
+          cualquiera que tiene voluntad determinada de hurtar,
+          luego nace de allí obligación y reato de la eterna condenación,
+          aunque después se interrumpa aquella voluntad por su contraria,
+          si no satisface a Dios por la penitencia.
+          Así por esta manera, en el propósito,
+          ninguno, después que incurre en obligación de restituir algo que haya usurpado,
+          queda desoblgado si no restituye lo robado,
+          o si no satisface por los daños, pérdidas e injurias
+          que a otro se hayan dado o causado,
+          como parece en el dicho capítulo
+          <ref xml:id="dc7aa7-e07716-Rd1e343">si culpa tua, De injuria et damno dato.</ref>
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e349">Lo quinto:
+          baste aquella sentencia de la Sagrada Escritura,
+          <ref xml:id="dc7aa7-e07716-Rd1e353" target="http://scta.info/resource/lev19_13@10-17">Levítico 19:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e356">«El salario del jornalero no quedará en tu poder hasta la mañana.»</quote>
+          La cual autoridad, según Tomás, se ha de entender
+          en todas las otras restituciones,
+          porque de todas parece ser una misma razón.
+          Puesto que la de aquellos tiranos de que hablamos,
+          y semejantes,
+          que con tan grandes injurias y tan irreparables daños a los prójimos
+          robaron y usurparon cosas de tan inmensos valores y estimaciones,
+          debe de ser y correr contra ellos
+          otra razón más grave y obligatoria
+          de restituir y satisfacer con mayor cuidado
+          todo aquello que les fuere posible,
+          porque ya están imposibilitados
+          por la grandeza de las cosas robadas
+          y la gravedad de los daños que causaron;
+          porque ni los reyes de España, si quisieran satisfacer por ellos
+          vendiendo todos sus reinos —
+          si vendibles fuesen y comprador se hallase —,
+          no bastaría para descargarllos y desligarlos.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e395">Pero porque de restituir ni satisfacer
+          han estado y son bien descuidados estando vivos,
+          podemos concluir que continúamente están en pecado mortal,
+          y en estado de eterna condenación los que de ellos viven,
+          y en los infiernos ya los muertos,
+          y así es imposible salvarse.
+          Pruébase esto por aquello de
+          <ref xml:id="dc7aa7-e07716-Rd1e416">san Agustín, 14, q. 6, cap. si res,</ref>
+          donde dice:
+          <quote xml:id="dc7aa7-e07716-Qd1e418">«Si la cosa por la cual se pecó puede devolverse y no se devuelve,
+          la penitencia no se realiza sino que se simula.
+          Y no se perdona el pecado si no se restituye lo arrebatado.»</quote>
+          Hace al caso el capítulo
+          <ref xml:id="dc7aa7-e07716-Rd1e427">falsas, De penitentia, Dist. 5</ref>
+          et in <ref xml:id="dc7aa7-e07716-Rd1e432">d. c. si culpa.</ref>
+          Dice otra parte de la conclusión:
+          ser obligados aquellos ciento y setenta hombres
+          a restituir todos los robos y daños
+          que hicieron los españoles que después a aquellos reinos fueron
+          y se multiplicaron,
+          que son despojar a muchos grandes señores
+          de sus honras y dignidades y de sus vasallos y riquezas,
+          y de poner en servidumbre del repartimiento
+          donde fueron vejados y oprimidos los pueblos,
+          y de las muertes y disminuciones de infinitas gentes:
+          pruébase:
+          porque cuanto al pecado y a la restitución,
+          es obligado el que da ocasión y abre la primera puerta
+          de los pecados y de los daños que los prójimos reciben,
+          según la regla de Cristo,
+          <ref xml:id="dc7aa7-e07716-Rd1e460">Mateo 18:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e463" source="http://scta.info/resource/mt18_7@4-17">«Es necesario que vengan los escándalos;
+          pero ¡ay de aquel hombre por quien viene el escándalo!»</quote>
+          Porque
+          <quote xml:id="dc7aa7-e07716-Qd1e470">«quien da causa u ocasión de daño,
+          se entiende que ha dado el daño»,</quote>
+          como en <ref xml:id="dc7aa7-e07716-Rd1e475">cap. Egressus,</ref>
+          et in <ref xml:id="dc7aa7-e07716-Rd1e477">cap. si culpa, De injuria et damno dato,</ref>
+          como si algunos hicieran alguna injuria o daño a algún príncipe,
+          el cual para vengarlo moviera guerra a todo un reino:
+          de todos los daños y muertes y robos que aquel reino padeciera,
+          serían aquellos culpables.
+          <ref xml:id="dc7aa7-e07716-Rd1e491">Argumento, 23, q. 2, c. Dominus noster;</ref>
+          y en el dicho cap. <ref xml:id="dc7aa7-e07716-Rd1e493">si culpa</ref> se dice así:
+          <quote xml:id="dc7aa7-e07716-Qd1e498">«Si por tu culpa se causó el daño o se irrogó la injuria,
+          o ayudaste con tus fuerzas a los que la irrogaban,
+          o esto sobrevino por tu impericia o negligencia:
+          por derecho debes satisfacer por ello,
+          ni te excusa la ignorancia,
+          si debiste saber que de tu acto podría razonablemente resultar
+          una injuria o un perjuicio.»</quote>
+          Hasta aquí.
+          Hace mucho a esto el capítulo
+          <ref xml:id="dc7aa7-e07716-Rd1e513">Hi quoscumque</ref>
+          y el capítulo <ref xml:id="dc7aa7-e07716-Rd1e515">placuit, el 29, 1, q. 113:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e520">«Pues nada importa si uno mata,
+          o da la causa u ocasión de la muerte.»</quote>
+          <ref xml:id="dc7aa7-e07716-Rd1e525">ff. Ad legem Corneliam, De siccariis.</ref>
+          De aquí es lo que dice <ref xml:id="dc7aa7-e07716-Rd1e528">san Jerónimo:</ref>
+          que las penas de Arrio aún no están determinadas,
+          porque aún no se ha concluido el número
+          de los que por aquella herejía se han de perder.
+          Confírmase todo lo dicho por
+          <ref xml:id="dc7aa7-e07716-Rd1e537" target="http://scta.info/resource/bgy6gt-d1e965-Dd1e691">ff., Ad legem Aquiliam, L. aquil l. qui occidit. §. in hac</ref>
+          et <ref xml:id="dc7aa7-e07716-Rd1e542" target="http://scta.info/resource/bgy6gt-d1e954-d1e129">ff., Si quadrupes pauperiem fecisse, L. 1, §. sed et si instigatu;</ref>
+          ex <ref xml:id="dc7aa7-e07716-Rd1e547">ff. Ad legem Aquiliam, L. si servus, §. penúlt.</ref>
+          et <ref xml:id="dc7aa7-e07716-Rd1e553">ff. De servo corrupto, §. Neratius. §. i.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
