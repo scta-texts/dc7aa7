@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 23</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 23</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas en latín han sido traducidas al español;
+          las referencias jurídicas y escolásticas latinas se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e07195">
+        <head xml:id="dc7aa7-e07195-Hd1e111">Capítulo 23</head>
+        <p xml:id="dc7aa7-e07195-d1e113">§ 23.</p>
+        <p xml:id="dc7aa7-e07195-d1e115">Estos ocho principios y fundamentos así supuestos,
+          que es lo primero que prometimos al principio de este tratadillo:
+          demos obra a lo segundo;
+          conviene a saber, inferir algunas conclusiones
+          responsivas para solución de cada duda.
+          En cuanto pues a la primera duda,
+          sea esta la Conclusión primera.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e130">Conclusión primera a la primera duda.
+          Francisco Pizarro y todos los españoles que se hallaron con él —
+          que fueron ciento y setenta hombres, poco más o menos —
+          en la prisión de aquel gran rey Atabaliba del Perú,
+          y lo mataron y quemaron con los demás,
+          cometieron gravísimos pecados mortales,
+          y son obligados a restitución in solidum, cada uno por el todo.
+          Y sin ella no se salvarán:
+          de la privación del gran estado y principado del dicho rey
+          a sus herederos,
+          o a quien de derecho o según su costumbre lo había de tener;
+          y de todos los grandes y nunca tales vistos ni oídos tesoros
+          que contra justicia le llevaron por su rescate;
+          y de los otros muchos que le robaron y usurparon;
+          y de los otros casi infinitos que los españoles que sucedieron
+          han robado de oro y plata y piedras preciosas
+          y ganados y riquezas;
+          y de todos los increíbles e irreparables daños y muertes,
+          y menoscabos y despojos de señoríos,
+          y total pérdida de aquellos reinos que después han sucedido;
+          y fueron fementidos,
+          quebrantando la fe y promesa o pacto
+          que con el dicho rey Atabaliba pusieron
+          de ponerle en su libertad
+          si les diera una casa llena de oro y plata,
+          como hombres sin fe y sin temor de Dios y sin verdad.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e193">La primera parte de esta conclusión —
+          que cometieran gravísimos pecados mortales —
+          se prueba por muchas razones.
+          La primera, porque fueron propios y perfectos crueles tiranos,
+          como en el primer principio, § 1,
+          y en el § 4 de la cuarta especie de infieles,
+          queda probado.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e206">Tirano es aquel que usurpa por fuerza,
+          sin justa causa,
+          los estados y principados que pertenecen a los verdaderos reyes y señores
+          por derecho natural y de gentes.
+          Pues, ¿dónde jamás en el mundo así se verificó
+          el nombre y oficio de tirano
+          como de nosotros en aquellas partes?
+          Díganlo los mismos nuestros tiranos,
+          que confío que no lo negarán.
+          Y así añadiremos que no solo usurpan los ajenos señoríos y principados,
+          sino crudelísimamente,
+          tan sin culpa ni causa,
+          matan y despedazan,
+          y comúnmente queman vivos con diversos tormentos,
+          y de la faz de la tierra borran a reyes y señores naturales,
+          como hemos hecho en todas las Indias;
+          y así hizo Pizarro y su cuadrilla al rey Atabaliba y a otros muchos.
+          Cierto, bien propiamente nos conviene y pertenece,
+          y a aquellos perteneció,
+          el nombre y oficio de tiranos.
+          Sucesores hemos sido de Nemrod:
+          primer tirano después del diluvio,
+          aquel que fue matador y opresor de hombres.
+          Y por este modo se hizo rey,
+          forzando a los hombres a que le obedecieran y sirvieran:
+          <quote xml:id="dc7aa7-e07195-Qd1e247" source="http://scta.info/resource/gen10_9@2-6">«Fue robusto cazador delante del Señor»,</quote>
+          <ref xml:id="dc7aa7-e07195-Rd1e257">Génesis 10,</ref>
+          esto es, matador y exterminador, según la Glosa;
+          el cual, según Josefo,
+          <quote xml:id="dc7aa7-e07195-Qd1e262" source="http://scta.info/resource/gen10_10@1-6">«con nueva codicia de reinar ejerció tiranía,
+          forzando a los hombres a sometérsele;
+          y fue el principio de su reino Babilonia, etc.»</quote>
+          <ref xml:id="dc7aa7-e07195-Rd1e272">Génesis 10.</ref>
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e276">Pues los tiranos pecan mortalísimamente.
+          Luego Pizarro y sus compañeros cometieron gravísimos pecados mortales.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e281">Lo segundo se prueba por el séptimo principio, § 12,
+          donde queda concluido por muchas razones
+          haber sido el primer ingreso de los españoles
+          tiránico y abominable,
+          y contra la orden natural que debían guardar en su entrada.
+          Quebrantar la orden natural es pecado mortal,
+          porque repugna a la disposición divina
+          que con su sabiduría puso en todas las cosas.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e300">Lo tercero se prueba haber pecado mortalmente,
+          porque hicieron contra el dictamen de la razón y ley natural,
+          que enseña al hombre cómo se debe haber en sus obras prácticas,
+          para con Dios y para con los hombres,
+          como sea luz que alumbra la conciencia
+          y le hace conocer los primeros principios o preceptos
+          y sus inmediatas conclusiones
+          de las cosas agibles y morales, como son:
+          <quote xml:id="dc7aa7-e07195-Qd1e317">«El bien se ha de proseguir;
+          y así a Dios se ha de obedecer,
+          honrar a los padres,
+          hacer bien a todos;
+          y el mal se ha de huir y evitar;
+          y así contra Dios no se ha de decir ni hacer cosa que no le convenga;
+          y a ninguno se debe hacer injuria,
+          no matar, no hurtar, etc.»</quote>
+          Y estos principios o preceptos y conclusiones inmediatas:
+          la misma razón natural de cualquier hombre
+          juzga que se deben proseguir o no proseguir.
+          Y esta es la ley o derecho natural
+          que ordena a los hombres cómo deben comportarse convenientemente,
+          para con Dios y para con sus prójimos.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e340">Pues aquellos que tanto daño y mal hicieron al rey Atabaliba —
+          prendiéndolo, desposeyéndolo de sus estados,
+          de sus tierras y señoríos,
+          matándolo y quemándolo,
+          despojando y privando de los mismos estados y señoríos
+          y de todos los otros bienes suyos a sus herederos,
+          sin culpa ni causa ni razón —
+          hicieron contra los preceptos de la ley y del derecho natural,
+          y en cosas gravísimas y más esenciales.
+          Luego, gravísimamente ofendieron en pecados mortales.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e359">Lo cuarto: aquellos hicieron contra expresos textos del derecho divino negativos.
+          Prohibido es por el derecho divino
+          que no deseemos las cosas ajenas,
+          y mucho más tomarlas —
+          ya en secreto como hurtándolas,
+          ya por fuerza contra su voluntad,
+          que es violencia y rapiña —,
+          como parece en <ref xml:id="dc7aa7-e07195-Rd1e369">Éxodo 20:</ref>
+          <quote xml:id="dc7aa7-e07195-Qd1e373" source="http://scta.info/resource/ex20_15@1-3 http://scta.info/resource/ex20_17@1-22">«No hurtarás.
+          No codiciarás la casa de tu prójimo,
+          ni el campo, ni el siervo, ni la sierva,
+          ni el buey, ni el asno,
+          ni cosa alguna de las suyas.»</quote>
+          Et <ref xml:id="dc7aa7-e07195-Rd1e382">Deuteronomio 5.</ref>
+          Ítem:
+          <quote xml:id="dc7aa7-e07195-Qd1e384" source="http://scta.info/resource/deut19_14@2-13">«No traspasarás ni moverás
+          los límites del prójimo
+          que los primeros pusieron en sus posesiones.»</quote>
+          <ref xml:id="dc7aa7-e07195-Rd1e391">Deuteronomio 19</ref>
+          et <ref xml:id="dc7aa7-e07195-Rd1e393">Proverbios 22, ítem y capítulo 23:</ref>
+          <quote xml:id="dc7aa7-e07195-Qd1e396" source="http://scta.info/resource/prov23_10@1-9 http://scta.info/resource/prov23_11@1-12">«No toques los límites de los pequeños,
+          ni entres en el campo de los huérfanos;
+          porque su pariente — esto es, Dios — es señor de su suerte,
+          y él juzgará contra ti su causa.»</quote>
+          Hasta aquí.
+          Y san Jerónimo,
+          <ref xml:id="dc7aa7-e07195-Rd1e394">Ad Rusticum episcopum, y se halla en c. diaconi, 93 Dist.:</ref>
+          <quote xml:id="dc7aa7-e07195-Qd1e407">«A cada uno se le manda poseer algo en este mundo visible:
+          de manera que se contente solo con su posesión
+          y no invada las cosas ajenas,
+          no tome el campo del pobre,
+          ni la viña, ni ningún otro bien,
+          ni los siervos, ni los frutos.»</quote>
+          Hasta aquí él.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e421">Pues aquellos no solo desearon cualesquiera cosas ajenas —
+          no solo las casas, las ovejas,
+          no los siervos y las chacras o heredades
+          o las tierras en que hacían sus sementeras —:
+          sino los estados, las dignidades, las honras y señoríos,
+          los principados reales, las jurisdicciones
+          y todos los vasallos,
+          las tierras y reinos con sus antiguos términos guardados,
+          los tesoros y todo cuanto en el mundo tenían y mandaban,
+          y con ellos las vidas;
+          y todo esto con gran violencia e injuriosa mano.
+          Luego, gravísima y mortalísimamente pecaron.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e446">Y si por quitar una ternezuela y un bueyecillo al prójimo
+          Dios se hace pariente del agraviado para vengarlo,
+          ¡cuánto más lo será y lo vengará
+          lo que a tales personas y a tantas,
+          en diversas y preciosas especies,
+          por aquellos fue dañado!
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e457">Sea la quinta razón, y breve, así.
+          Todos los que hacen contra justicia en caso notable
+          cometen pecado mortal.
+          Porque cualquiera que hace alguna cosa no justa
+          hace contra el precepto divino y la ley de Dios,
+          que se reduce al hurto, o rapiña, o adulterio, o homicidio, etc.
+          Y cualquiera de estas transgresiones es pecado mortal.
+          Ítem, toda injusticia siempre consiste en algún daño que a otro se hace;
+          y cualquier daño que a otro se hace
+          repugna a la caridad que nos mueve — o debe mover — a amarlo.
+          Luego hacer injusticia es pecado mortal.
+          Ítem, según los juristas,
+          los preceptos de la justicia son tres:
+          el primero, vivir honesta y virtuosamente;
+          el segundo, no hacer mal ni daño a nadie;
+          el tercero, dar a cada uno lo suyo.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e503">Pues los que aquellos tan extraños e irreparables males y daños
+          hicieron al rey Atabaliba y a todos los suyos
+          y a los demás reyes y señores y pueblos,
+          estando en sus tierras y reinos sin ofensa nuestra
+          y sin debernos nada:
+          y así, sin alguna verdadera ni colorada justa causa,
+          hicieron no una sino muchas notables y extrañas injusticias
+          repugnantes a la caridad;
+          y así no solo no vivieron honesta y virtuosamente,
+          y a aquel gran rey y a tantos hicieron tanto mal,
+          y les tomaron y usurparon tantos bienes tan preciosos suyos.
+          Luego cometieron gravísimos pecados mortales.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e525">Y que sean gravísimos cuanto a los prójimos, de sí está claro.
+          Pero cuanto a Dios,
+          véase lo que queda escrito en el principio séptimo, cap. 15,
+          de los escándalos e infamias de la fe
+          que con su mal vivir en aquellas gentes han causado:
+          que creen que la religión cristiana no es otra cosa
+          sino robar y matar
+          y cometer todas las abominaciones y fealdades que han cometido y cometen;
+          y es cierto que han infamado el nombre de Jesucristo
+          de tal manera
+          que se tiene por el mayor milagro que Dios hace en aquellas Indias
+          que aquellas gentes crean las cosas de la fe,
+          viendo las obras de los que tienen nombre de cristianos.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e565">Y porque la gravedad de los pecados se considera
+          según resultan en deshonor de la honra de Dios —
+          y estos son gravísimos —,
+          y después de estos los más graves
+          según la grandeza y gravedad del daño que a los prójimos viene:
+          y aquellos ciento y setenta hayan sido causa
+          de que el nombre de Cristo sea blasfemado e impedido,
+          de que aquellas gentes no lo conozcan
+          ni lo reciban ni lo veneren y honren como verdadero Dios;
+          y los daños que al rey Atabaliba y a los demás
+          fueron los mayores temporales que a ninguno en el mundo se pueden hacer;
+          y los españoles hayan sido causa
+          de que perezcan infinitas almas sin fe y sin sacramentos
+          para siempre en los eternales fuegos:
+          se sigue que los pecados que aquellos cometieron
+          fueron sobre todos los pecados gravísimos.
+          De esta gravedad de pecados trata
+          <ref xml:id="dc7aa7-e07195-Rd1e599">Santo Tomás: 1a 2ae q. 73 a. 8 ad 3m;</ref>
+          y en <ref xml:id="dc7aa7-e07195-Rd1e604">las cuestiones De malo: q. 2 a. 10 corp.;</ref>
+          y en <ref xml:id="dc7aa7-e07195-Rd1e614">la 2.2 q. 34 a. 3 et q. 78 a. 3 et q. 74 a. 2</ref>
+          <ref xml:id="dc7aa7-e07195-Rd1e616">corp. et q. 154 a. 12.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
