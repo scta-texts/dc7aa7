@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 25</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 25</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose and Latin quotations have been translated into English.
+          Legal and scholastic citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e08183">
+        <head xml:id="dc7aa7-e08183-Hd1e111">Chapter 25</head>
+        <p xml:id="dc7aa7-e08183-d1e113">§ 25.</p>
+        <p xml:id="dc7aa7-e08183-d1e115">It was stated in the conclusion
+          that each of those who were present there
+          is bound in solidum —
+          meaning each one for the whole or for all —:
+          this is proved by that maxim of <ref xml:id="dc7aa7-e08183-Rd1e123">Saint Thomas 2.2 q. 62 a. 7:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e128">"Whoever is the cause of an unjust taking
+          or of damage is bound to make restitution."</quote>
+          For all those hundred and seventy soulless men
+          were jointly the total cause
+          of the seizure and death and robbery of that king,
+          and of seven or eight thousand unarmed men
+          whom they killed there that day —
+          those who were carrying the king in his litter or on their shoulders —
+          and afterwards of many more;
+          and none of them — not ten, not twenty, not thirty —
+          would have dared to go to those kingdoms
+          or to undertake what they did;
+          and so, all of them attacked, all of them seized,
+          all of them killed, and all of them robbed and usurped those kingdoms.
+          And this is one reason.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e156">Another reason is that all and each of them
+          went and acted with the same knowledge and the same desire,
+          because all knew and wanted and wished to go for what they were going for,
+          and went with the same purpose and the same intention,
+          with the same ambition and greed;
+          namely, to make war
+          and subjugate and lord it over and rob those kingdoms and peoples
+          who had never done them harm or injury or wrong,
+          nor wronged or offended them,
+          nor deserved ill from them.
+          And so they robbed them of their gold, their silver,
+          their infinite riches, their lands, their kingdoms, their estates,
+          despoiling them of their liberty and of their kingdoms and lordships.
+          And amid all of this, those very men
+          and those who came after them
+          burned people alive and killed them
+          with diverse and immense forms of torment,
+          and cast them into hell without faith and without sacraments.
+          Therefore all and each of them are bound
+          to restore everything they robbed and tyrannized,
+          and to satisfy for the immense harms
+          that since that time multiplied throughout all those kingdoms.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e193">This consequence is proved:
+          first, because
+          <quote xml:id="dc7aa7-e08183-Qd1e201">"the obligation to make restitution follows causally
+          upon the act of taking or causing harm;
+          and this in the present case belongs to those
+          whose actions and deeds extend to taking all things
+          and inflicting all harms,
+          and who are the direct and sole cause of the will and operation
+          by which the whole good is taken away
+          and the whole harm inflicted,
+          even though each may have been a partial cause.
+          And thus their causality extends to the whole.
+          And therefore each is liable for the whole,
+          which is what is meant by in solidum,
+          since together they were the total cause of those harms,
+          even though individually each was a partial cause,
+          being by himself the cause of the whole taking done or harm given."</quote>
+          As is clear from <ref xml:id="dc7aa7-e08183-Rd1e235">L. ita vulneratus, §. fin.,</ref>
+          <ref xml:id="dc7aa7-e08183-Rd1e237">ff., Ad Legem Aquiliam;</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e242">L. si plures, Digest., Arborum furtim scisarum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e246">The second is proved by the law that says:
+          <quote xml:id="dc7aa7-e08183-Qd1e250">"If several persons knocked down a beam and it crushed someone,
+          all of them are liable under the Lex Aquilia."</quote>
+          <ref xml:id="dc7aa7-e08183-Rd1e255">L. item mela, §. si plures, ff., Ad Legem Aquiliam.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e261">The third, from <ref xml:id="dc7aa7-e08183-Rd1e263">L. vulgaris, §. Si duo. ff. De furtis, where it says thus:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e267">"If two or more persons stole a beam
+          that none of them could carry alone:
+          it must be said that all of them are liable for theft in solidum;
+          even though no one of them could handle or carry it alone:
+          and this is our practice,
+          for it cannot be said that each of them stole only a part,
+          but rather that all stole the whole thing.
+          And so it results that each is liable for the theft."</quote>
+          Thus far there.
+          And in <ref xml:id="dc7aa7-e08183-Rd1e278">the said §. fin. it says thus:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e283">"When several persons lifted a beam belonging to another with intent to steal it,
+          a beam that none of them could carry alone,
+          it is held that all of them are liable for the action of theft."</quote>
+          Thus far there.
+          And in <ref xml:id="dc7aa7-e08183-Rd1e291">the gloss there it is said</ref>
+          that all are liable in solidum.
+          And <ref xml:id="dc7aa7-e08183-Rd1e295">the said L. vulgaris, penúlt.</ref> is cited.
+          For there are as many offenses as there are persons,
+          as in ff., <ref xml:id="dc7aa7-e08183-Rd1e299">De injuriis, L. si plures;</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e301">gloss in L. 1, Si plures,</ref> ff., De eo per quem factum erit.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e307">Those hundred and seventy are therefore bound,
+          each one in solidum,
+          for everything they robbed,
+          and to satisfy for all the harms they did while they lived,
+          and to restore and satisfy everything that those who came afterwards
+          to those kingdoms robbed
+          and the harms they did to all those peoples,
+          because it has been proved that they opened the gate
+          and were the occasion of all the robberies and evils
+          that afterwards befell those kingdoms and peoples.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e327">What follows in the conclusion is that they were faithless,
+          as men without faith and without truth
+          and unworthy of being called men:
+          which is proved because even toward enemies
+          and those against whom we wage just war,
+          we are bound to keep and fulfill the faith and word we have pledged;
+          and <quote xml:id="dc7aa7-e08183-Qd1e337">"it is against natural equity not to keep one's agreements,"</quote>
+          <ref xml:id="dc7aa7-e08183-Rd1e343">as in L. Conventionum, f., De pactis;</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e348">L. postliminium, inducit,</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e353">L. Non dubito, ff. de captivis et postlimiis.</ref>
+          And as appears from <ref xml:id="dc7aa7-e08183-Rd1e357">c. Nola, 23, q. 1,</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e359">gloss in c. utilem, 22, q. 27</ref>
+          and <ref xml:id="dc7aa7-e08183-Rd1e362">Saint Thomas, 2.2 q. 40 a. 3 corp.:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e367">"For there are certain rights of war and compacts
+          that must be observed even between enemies themselves,
+          as Ambrose says in his book On Offices."</quote>
+          How much more were they bound to keep and fulfill
+          the faith and promise they made him
+          to release him from so unjust an imprisonment!
+          For he fulfilled what he had promised them
+          and more than what he had promised,
+          in giving them as much gold and silver as could fill
+          a room five or six stories high,
+          adding half a story more
+          above the mark they had set for him.
+          Still more so because even had they released him,
+          they were still bound to restore the roomful of gold
+          to the last farthing,
+          because the imprisonment was unjust and tyrannical,
+          and while in prison, promising all he had,
+          any agreement made was invalid,
+          as is manifest to those who know anything of the laws.
+          See the L. decernimus and what is noted there,
+          which we cited in § 4.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e397">They were therefore faithless and without faith or truth,
+          and a great ignominy to the honor of God and the Christian religion.
+          In what esteem would that king hold,
+          from that point forward — since they did not burn him —,
+          the faith and word of Christians?
+          Finally, it appears plain — and more than plain —
+          what most grave sins those men committed
+          against God and against men,
+          and what obligation those of them who are now dead had,
+          and those who remain still have,
+          to restore that ransom and everything else.
+          And because neither those who died
+          made restitution nor showed any sign of penitence,
+          without doubt they are burning today in hell;
+          and of those who still live today,
+          no compunction or repentance whatsoever is felt
+          for their inexplicable and most wicked sins;
+          rather they glory in them;
+          and for restitution they have, as appears and we see,
+          no concern whatsoever.
+          Therefore no doubt should be entertained
+          that they will go where the others are waiting for them.
+          And so the conclusion, as we believe, stands well proved.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
