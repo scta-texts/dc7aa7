@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 27</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 27</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Este capítulo está redactado casi íntegramente en latín en el MS;
+          el cuerpo latino ha sido traducido al español moderno.
+          Las citas de derecho canónico y civil se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e09136">
+        <head xml:id="dc7aa7-e09136-Hd1e111">Capítulo 27</head>
+        <p xml:id="dc7aa7-e09136-d1e113">§ 27.</p>
+        <p xml:id="dc7aa7-e09136-d1e118">Y porque
+          <quote xml:id="dc7aa7-e09136-Qd1e122">«el derecho del rey o príncipe y el derecho de los súbditos
+          o de toda la comunidad se juzgan como iguales.
+          Y esta doctrina se da por texto claro en c. 1, § ex eadem, De lege Corradi,
+          que los doctores recogen en c. i, de forma fidelitatis,
+          et in c. de forma, 22, q. 5,
+          donde se tiene que el señor está obligado y vinculado por la misma fidelidad
+          hacia su súbdito o vasallo
+          de la misma manera que el vasallo hacia el señor»</quote>
+          y hay muchos derechos que hacen a esto:
+          de aquí es que el rey, príncipe o señor es obligado,
+          como cabeza política,
+          a defender y librar de las angustias, daños y necesidades
+          a todo el cuerpo y reino,
+          como la cabeza natural en cuanto puede provee
+          y se ocupa en el gobierno para adquirir el bien
+          y resistir el mal que puede venir a todos los otros miembros.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e145">De aquí se sigue que el rey está obligado —
+          para librar a sus súbditos si padecen alguna servidumbre
+          o presión y agravios que por razón no pueden sufrir de los adversarios —
+          a mover guerra y morir en ella si fuere necesario,
+          para libertarlos, sobre todo contra los tiranos
+          que por fuerza tienen a sus súbditos.
+          Lo uno, por su propio interés,
+          pues se le hace injuria y se le causa daño
+          por no tener a sus vasallos o súbditos libres
+          para poder disponer de ellos sin impedimento,
+          en lo que a él y al reino convenga.
+          De donde le es lícito ayudar a los súbditos oprimidos:
+          <ref xml:id="dc7aa7-e09136-Rd1e170">ff., quod metus causa, L. etsi in partes, § 1,</ref>
+          «pues puedo librar con mano armada a mis vasallos y hombres
+          de tu tiranía.
+          Cada uno usa de su derecho natural
+          y también del civil»:
+          <ref xml:id="dc7aa7-e09136-Rd1e180">L. si servas, Codex, De his qui ad ecclesiam confugiunt.</ref>
+          Lo otro, para evitar las injurias y daños del reino,
+          y porque la violencia del tirano
+          es siempre permanente y en acto continuo — no en acto que pasa —,
+          por la cual no solo inflige violencia continua a los propios súbditos,
+          haciéndolos obedecer por miedo,
+          sino también a los reyes o señores:
+          a aquellos, es decir, a los súbditos, violencia compulsiva;
+          a estos, es decir, a los reyes o señores, violencia expulsiva,
+          como se nota en <ref xml:id="dc7aa7-e09136-Rd1e197">C. de vi et vi armata, L. 1, § penult., in glosa.</ref>
+          Por eso también a los señores se les adquiere el derecho
+          de mover guerra contra el tirano
+          por razón de la violencia expulsiva,
+          cuandoquiera y cuantas veces tengan oportunidad.
+          Pues si el príncipe ha sido expulsado de su principado o dominio,
+          puede recuperarlo por su propia autoridad
+          cuantas veces se le presente la ocasión,
+          y se dirá que lo ha recuperado en el acto:
+          Jasón, en <ref xml:id="dc7aa7-e09136-Rd1e212">L. clam possidere, § qui ad nundinas, ff., De adquirenda possessione.</ref>
+          Y asimismo a los súbditos se les adquiere el derecho
+          de declarar guerra al tirano
+          por razón de la violencia compulsiva,
+          y de matarlo,
+          porque a cada uno le es lícito redimir su propia sangre:
+          <ref xml:id="dc7aa7-e09136-Rd1e226">ff., De bonis eorum, L. 1a.</ref>
+          y defender su libertad:
+          <ref xml:id="dc7aa7-e09136-Rd1e231" target="http://scta.info/resource/bgy6gt-d1e4929-Dd1e502">ff., De captivis et postliminiis, L. nihil interest.</ref>
+          Y sobre todo porque el tirano se dice ser asesino
+          de tantas personas cuantas reduce a servidumbre:
+          <ref xml:id="dc7aa7-e09136-Rd1e238">ut 22, q. 4, § sed et cum his,
+          et est capitulo sub can. inter cetera</ref>
+          et <ref xml:id="dc7aa7-e09136-Rd1e244">ibi glossa.</ref>
+          Y al hombre vivo se le inflige continuamente injuria personal
+          mientras se le quita la libertad,
+          o se le retiene en servidumbre
+          u otro daño se sufre injustamente en su persona;
+          de donde cada día se comete violencia
+          y cada día nace el derecho a resistirla.
+          Por tanto, cada día puede resistirse.
+          Y tal liberación tiene razón de recuperación realizada en el acto,
+          aunque la oportunidad de liberarse no se hubiere presentado
+          sino después de mil años:
+          Baldo, en <ref xml:id="dc7aa7-e09136-Rd1e261">L. vis ezus, Codex, De probationibus.</ref>
+          De donde no solo un pueblo,
+          un reino o una provincia,
+          sino también cualquier persona particular oprimida
+          tiene guerra justa contra el tirano que la oprime
+          y puede matarlo.
+          Donde dice Baldo que si un hombre es retenido por la fuerza
+          durante larguísimo tiempo:
+          como la violencia se comete cada día,
+          puede resistirse cada día.
+          Lo mismo se dice en
+          <ref xml:id="dc7aa7-e09136-Rd1e276">ff. De usufructu acrescendo, L. 1, in fin.</ref>
+          Esto de Baldo.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e284">Y Lucas de Pena en <ref xml:id="dc7aa7-e09136-Rd1e286" target="http://scta.info/resource/azsw2e-d1e6196-Dd1e150">L. prohibitum, Codex, De jure fiscis, Lib. 10,</ref>
+          dice que cuando es notorio que un cautivo es retenido contra justicia,
+          le es lícito matar a quienes lo detienen,
+          si no puede procurarse su seguridad de otro modo:
+          procúrese como pueda.
+          Alega <ref xml:id="dc7aa7-e09136-Rd1e297" target="http://scta.info/resource/bgy6gt-d1e4929-Dd1e502">L. nihil interest, ff. De captivis et postliminus</ref>
+          y nota <ref xml:id="dc7aa7-e09136-Rd1e305" target="http://scta.info/resource/gd-p1d1-Dd1e237">1 Dist., c. ius gentium;</ref>
+          <ref xml:id="dc7aa7-e09136-Rd1e310" target="http://scta.info/resource/gd-p1d50-d1e670">ad idem 50 Dist., quod vero;</ref>
+          <ref xml:id="dc7aa7-e09136-Rd1e313" target="http://scta.info/resource/bgy6gt-d1e612-Dd1e194">Digest., ex quibus causis maiores, L. succurritur;</ref>
+          hace al caso <ref xml:id="dc7aa7-e09136-Rd1e318">Digest., De edicto,</ref>
+          <ref xml:id="dc7aa7-e09136-Rd1e320" target="http://scta.info/resource/bgy6gt-d1e1728-d1e990@1-23">ff., L. bovem, § si servus.</ref>
+          Es más: incurre en pena capital el que habiendo sido capturado injustamente
+          no huye cuando puede:
+          <ref xml:id="dc7aa7-e09136-Rd1e326" target="http://scta.info/resource/bgy6gt-d1e4940-d1e287@1-37">ff., De re militari, L. non omnes, qui captus.</ref>
+          Porque se le imputa al que puede volver y no vuelve.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e335">Puede, pues, el tirano ser matado justamente
+          no solo por el rey o señor,
+          o por toda la comunidad que injustamente retiene o oprime,
+          sino también por cualquiera del pueblo.
+          Esto se entiende del tirano que usurpa un reino ajeno,
+          de manera que se salve la declaración o decreto
+          del Concilio de Constanza, Sesión 1, 16;
+          Santo Tomás, Sentencias, <ref xml:id="dc7aa7-e09136-Rd1e345">dist. 44 q. 2 a. 2 ad 5</ref>
+          et <ref xml:id="dc7aa7-e09136-Rd1e351">lib. 1, cap. 6, De regimine principum; 2.2 q. 64 a. 3,</ref>
+          y esto de cualquier manera y de cualquier modo que sea:
+          tendiéndole emboscadas o aprovechando las ocasiones
+          de noche o de día,
+          o en cualquier oportunidad que se presente la ocasión de hacerlo,
+          o cuando por sí mismo encuentre la conveniencia.
+          La razón es que todas las cosas de este tipo son lícitas
+          para quien tiene continua guerra justa,
+          a no ser que por tal ocasión se tema que va a venir
+          un peligro mayor de tiranía para la multitud:
+          <ref xml:id="dc7aa7-e09136-Rd1e368">Santo Tomás, 2.2 q. 42 a. 2 ad 3,</ref>
+          a no ser que se quebrante la fe prometida
+          que debe guardarse incluso al enemigo,
+          como ya hemos dicho.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e373">Pues, como aquellas gentes del Perú,
+          los hijos y herederos del rey Atabaliba
+          y todos los pueblos de aquel reino y reinos,
+          ven ya y han visto a su rey preso injusta y tiránicamente
+          y después muerto,
+          y a muchas otras gentes,
+          y a todos aquellos reinos puestos en servidumbre,
+          perdida su libertad,
+          usurpados sus estados y dignidades,
+          sus jurisdicciones y derechos reales poseídos todos por tiranos,
+          robados tan inmensos tesoros;
+          y que por los repartimientos,
+          los pueblos y los señores naturales herederos del dicho rey Atabaliba
+          y otros señores,
+          y todas las personas particulares
+          viven en continua y dura opresión:
+          y se ven cada hora — desde que los españoles en aquellas tierras entraron —
+          disminuir y acabar:
+          manifiesto es, y aun lo será a cualesquier bárbaros,
+          que desde la hora que allá entraron
+          e hicieron las obras de que tratamos,
+          fue adquirido derecho a los pueblos
+          y a todo el reino y reinos
+          de hacer guerra a los españoles.
+          Lo uno, para librar a su rey mientras vivió;
+          lo otro, para después de muerto él,
+          restituir a sus herederos en aquellos estados y reinados que él tenía;
+          y los demás que después de muerto el rey del Cuzco,
+          llamado Huáscar, su hermano,
+          le podían pertenecer;
+          lo otro, para restituir a otros muchos señores que han despojado,
+          y a todos en sus dignidades y derechos reales;
+          lo otro, para libertar a todos aquellos reinos
+          de manos de los tiranos
+          y recuperar su pristina libertad;
+          lo otro, para recuperar los innumerables tesoros que les robaron;
+          lo otro, para redimir cada persona particular
+          de la vejación y servidumbre tiránica
+          en que se ve cada hora fenecer ella y su linaje.
+        </p>
+        <p xml:id="dc7aa7-e09136-d1e430">Lo mismo, los reyes herederos de Atabaliba
+          y los demás señores tienen el mismo derecho
+          por su propio interés
+          y por ayudar a los pueblos
+          y librarlos de tan grande adversidad, daños y males irreparables:
+          adquirieron y tienen fortísimo derecho de ley natural
+          de hacer guerra a los españoles como a propios y verdaderos tiranos.
+          No solamente los reyes y los pueblos y el reino en común,
+          sino cada persona particular tiene el mismo derecho que le da la ley natural.
+          De manera que no solamente los señores
+          — convocando gentes, juntando ejército y haciendo guerra pública —
+          y los mismos pueblos uniéndose para hacerla
+          pueden justísimamente matar y aniquilar a los españoles
+          sin que dejen memoria de ellos;
+          sino que cualquier indio en particular
+          puede hacerlo justísimamente por la misma autoridad,
+          durmiendo o despierto, por detrás o por delante,
+          o de cualquier manera que se le ofrezca la oportunidad,
+          como queda probado.
+          Y la causa general por la que cualquiera del pueblo o comunidad o reino
+          puede matar a los dichos tiranos de esas maneras
+          es porque ya están desafiados por toda la república,
+          tácita o expresamente.
+          En cuanto al desafío expreso o público — esto es, por nombre —
+          aparece en el caso del Bandido.
+          En cuanto al desafío tácito, es decir, el que verdaderamente es enemigo
+          de la ciudad, del reino y de la patria,
+          que por la fuerza o la opresión
+          ha tomado o usurpado el principado sobre un pueblo libre,
+          contra la voluntad de los ciudadanos
+          o habiéndolos forzado al consentimiento,
+          quitándoles toda su libertad —
+          y sin embargo, por su poder, nadie osa aspirar
+          a la liberación de la república —:
+          mientras dure su tiranía,
+          el pueblo o reino parece haberlo desafiado tácitamente
+          y haberlo tenido por enemigo público,
+          y en consecuencia se entiende dada a cualquiera del pueblo
+          la potestad de matarlo lícitamente.
+          De donde <ref xml:id="dc7aa7-e09136-Rd1e497">Santo Tomás, 2 Sentencias, dist. 44, a. penúlt., ad ultimum,</ref>
+          dice que
+          <quote xml:id="dc7aa7-e09136-Qd1e502">«cuando no hay recurso a un superior,
+          es loable que el tirano — que por la violencia y el miedo
+          se hizo señor de unos súbditos que no querían o que fueron forzados al consentimiento —
+          sea matado por una persona privada.»</quote>
+          Esto de él.
+          Añádase a lo mismo, el mismo Santo Tomás:
+          <quote xml:id="dc7aa7-e09136-Qd1e511">«a no ser que de ello se siguiera mayor detrimento al reino o la multitud
+          que del propio gobierno del tirano»:</quote>
+          <ref xml:id="dc7aa7-e09136-Rd1e518">2.2 q. 42 a. 2 ad 3;</ref>
+          et <ref xml:id="dc7aa7-e09136-Rd1e520">lib. 1, cap. 6, De regimine principum.</ref>
+          Queda luego manifiesto que las gentes de aquellos reinos y tierras del Perú
+          tienen guerra justa contra los españoles,
+          por razón de recuperar en lo posible las injusticias recibidas
+          y obtener satisfacción de tan grandes males y daños.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
