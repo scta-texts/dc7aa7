@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 26</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 26</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Los pasajes en latín han sido traducidos al español;
+          las citas jurídicas y escolásticas en latín se conservan.
+          El capítulo se interrumpe en el MS sin concluir la última frase.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e08521">
+        <head xml:id="dc7aa7-e08521-Hd1e111">Capítulo 26</head>
+        <p xml:id="dc7aa7-e08521-d1e113">§ 26.</p>
+        <p xml:id="dc7aa7-e08521-d1e115">Conclusión a la segunda duda.</p>
+        <p xml:id="dc7aa7-e08521-d1e117">Desde el momento en que saltaron en aquella tierra —
+          y sobre todo desde que aquellos ciento y setenta falsos apóstoles
+          prendieron al dicho rey Atabaliba —
+          fue adquirido el derecho de guerra continua y justa
+          contra todos los españoles, como contra públicos enemigos del linaje humano,
+          a favor de los hijos y herederos del dicho rey Atabaliba
+          y de todos los pueblos de aquellos reinos.
+          Y durable es este derecho de mover guerra justa
+          contra todos los españoles perpetuamente hasta el día del juicio,
+          si no se interrumpe por alguna de cuatro vías:
+          o por paz, o por tregua, o por satisfacción posible de los españoles
+          a los agraviados;
+          o por remisión que los que recibieron los daños hagan
+          de su propia y espontánea voluntad,
+          sin fuerza ni miedo,
+          con tal que cesen las injurias y la tiranía y opresión
+          que de presente sin cesar todos los señores que son vivos
+          y los pueblos padecen.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e152">Se dijo «desde el momento en que saltaron en aquella tierra»
+          porque solo el desembarcar sin licencia
+          en tierra o reino ajeno —
+          mayormente con gente armada —
+          se dice que turba el reino y al señor de él
+          y le hace injuria,
+          como parece en los derechos <ref xml:id="dc7aa7-e08521-Rd1e162">ff. e injuriarum, § si quis me prohibeat</ref>
+          et <ref xml:id="dc7aa7-e08521-Rd1e168">§. fina. et. l. sane.</ref> et l. is qui in domum alienam, etc.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e176">O si se prefiere decirlo en latín, así:
+          Desde el momento en que aquellos ciento y setenta falsos apóstoles
+          invadieron aquella tierra —
+          y sobre todo desde que prendieron en cadenas al susodicho rey Atabaliba —
+          fue adquirido el derecho de declarar guerra justa
+          contra todos los españoles como contra públicos enemigos del género humano,
+          a favor de los hijos y herederos del mencionado rey
+          y asimismo de todos los pueblos de aquellos reinos.
+          Derecho que es continuo y será perpetuo hasta el día del juicio,
+          si no se interrumpe por alguno de cuatro nexos:
+          a saber, por paz, o por tregua,
+          o por satisfacción de los agresores,
+          o por remisión absolutamente voluntaria y espontánea, sin fuerza ni miedo,
+          de parte de los ofendidos;
+          con tal que cese la irrogación de injurias y daños
+          y la imposición de tiranía y opresión
+          con que hoy sin descanso son afligidos
+          todos los reyezuelos y príncipes, o señores,
+          y todos los pueblos.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e211">Pruébase la conclusión de múltiples maneras.
+          Pero primero ha de saberse que,
+          como en el segundo principio, § 2.º, se dijo:
+          justa guerra es toda aquella que se declara
+          por causa de defensa,
+          o por causa de coerción o repulsión de los hombres malos,
+          para que no inflijan injurias o daños a quienes no los ofenden,
+          o por causa de recuperación de las cosas arrebatadas,
+          o por causa de compensación de las lesiones o daños infligidos,
+          o por causa de venganza de las injurias recibidas,
+          o por causa de necesidad para adquirir o defender la paz y la libertad,
+          como en <ref xml:id="dc7aa7-e08521-Rd1e236" target="http://scta.info/resource/gd-p2c23q1-Dd1e197">c. apud vero Dei cultores, 23, q. 1,</ref>
+          et <ref xml:id="dc7aa7-e08521-Rd1e240" target="http://scta.info/resource/gd-p2c23q1-Dd1e146">c. Nolí.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e244">La primera causa consta en
+          <ref xml:id="dc7aa7-e08521-Rd1e250" target="http://scta.info/resource/bgy6gt-d1e59-Dd1e137">L. ut vim, ff., De iustitia et jure,</ref>
+          et in <ref xml:id="dc7aa7-e08521-Rd1e253">c. dilectio, De sententia excommunicationis, Lib. 6,</ref>
+          donde se dice:
+          <quote xml:id="dc7aa7-e08521-Qd1e258" source="http://scta.info/resource/wef6td-d1e1572-d1e429@8-20">«Puesto que todas las leyes y todos los derechos permiten
+          repeler la violencia con la violencia,
+          y a todos se permite defenderse a sí mismos»</quote>
+          et in <ref xml:id="dc7aa7-e08521-Rd1e264" target="http://scta.info/resource/cice-l5t12-Dd1e335">c. significasti, el 22, De homicidio.</ref>
+          La razón natural de esta defensa es
+          porque toda sustancia apetece naturalmente su conservación
+          según su naturaleza,
+          según <ref xml:id="dc7aa7-e08521-Rd1e276" target="http://scta.info/resource/TAca84-d1e1158-d1e496@211-253">Santo Tomás, 1.2 q. 94 a. 2 corp.</ref>
+          y <ref xml:id="dc7aa7-e08521-Rd1e281">libro 3, cap. 3, Contra gentiles,</ref>
+          donde dice
+          <quote xml:id="dc7aa7-e08521-Qd1e284" source="http://scta.info/resource/v8naTA-d1e1732-d1e249@38-57">«que todos los agentes naturales,
+          en cuanto tienen de potencia,
+          en esa medida resisten a la corrupción,
+          que es el mal por el cual cada uno no puede conservarse en su propio ser
+          sino que se corrompe.»</quote>
+          Vemos por experiencia que una piedra,
+          por su propia dureza que es su potestad,
+          resiste en cuanto puede a todo lo que quiere romperla o corromperla.
+          <quote xml:id="dc7aa7-e08521-Qd1e295">«Las cosas que son duras, como las piedras,
+          se adhieren con tenacísimas uniones a sus partes;
+          y para no disolverse fácilmente, resisten.»</quote>
+          Y más abajo:
+          <quote xml:id="dc7aa7-e08521-Qd1e302">«Pero a cada cosa su naturaleza procura lo que le conviene,
+          para que, en cuanto puedan, no perezcan
+          sino que permanezcan.»</quote>
+          <ref xml:id="dc7aa7-e08521-Rd1e307">Esto, Boecio, libro 3, prosa 11.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e315">Y si a todas las cosas criadas,
+          aun las insensibles,
+          es natural el apetito de conservarse en su ser
+          y resistir en cuanto pueden a todo contrario que las puede corromper —
+          lo cual no es otra cosa sino defenderse —:
+          ¡cuánto más lo debe ser y es natural a los hombres,
+          que en dignidad y excelencia exceden a todos,
+          la defensa de su ser,
+          ya sea el ser natural o el político!
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e328">Luego justa es la guerra que mueve cualquier persona particular,
+          o todo un pueblo o reino,
+          por causa de su defensa.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e335">La segunda causa, por coerción y resistencia
+          contra los hombres malos y nocivos
+          que quieren hacer injuria o daño a los que nunca los ofendieron.
+          Y esta es casi la misma que la causa de la defensa natural.
+          De ella hace mención el <ref xml:id="dc7aa7-e08521-Rd1e345">capítulo primero, 23, q. 2,</ref>
+          allí:
+          <quote xml:id="dc7aa7-e08521-Qd1e351" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14">«La guerra es justa cuando se hace para repeler males.»</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e358">La tercera es para recuperar lo que injustamente fue robado,
+          o para compensar los males y daños recibidos:
+          de la cual el dicho capítulo primero,
+          y en el capítulo siguiente Dominus noster,
+          y en el capítulo primero:
+          <quote xml:id="dc7aa7-e08521-Qd1e364" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14">«La guerra es justa cuando se lleva a cabo
+          por edicto para reclamar lo que es propio, etc.»</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e375">La cuarta es para punir y castigar las injurias y daños recibidos,
+          y de ella también hace mención el dicho capítulo Dominus noster:
+          <quote xml:id="dc7aa7-e08521-Qd1e376" source="http://scta.info/resource/gd-p2c23q2-d1e132@78-99">«Las guerras justas se suelen definir, dice él,
+          como las que vengan injurias:
+          si alguna nación o ciudad debe ser buscada o castigada
+          porque no vindicó lo que sus súbditos hicieron perversamente,
+          o no devolvió lo que fue quitado por injuria.»</quote>
+          Hasta aquí.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e388">Esto así supuesto, pruébase la primera parte de la conclusión de esta manera:
+          justa y justísima guerra es aquella que tiene aquella gente o aquel reino
+          contra otra o contra otro,
+          en la cual guerra concurren las cuatro causas de la justa guerra.
+          Pues en el derecho que aquellas gentes del Perú tienen —
+          desde que prendieron al rey Atabaliba —
+          contra los españoles, concurren las cuatro causas.
+          Luego, justísima guerra o derecho para declararla
+          es la que tienen contra ellos.
+          De la primera proposición nadie duda,
+          porque si por una sola de las dichas causas
+          puede moverse justa guerra:
+          mucho más justa será donde las cuatro concurren.
+          Pruébase la segunda proposición —
+          conviene a saber, que concurren las cuatro causas
+          en el derecho que contra nosotros tienen las gentes de aquellos reinos.
+          Que la primera, que es la defensa,
+          concurra — que casi se extiende a todas —
+          parece así porque aquellos primeros españoles
+          entraron en aquellos reinos matando, prendiendo, destruyendo,
+          robando y subyugando sin causa alguna,
+          como propios y verdaderos tiranos:
+          como queda probado por el primer principio y en el segundo, § 4,
+          y en el principio 7, y en la primera conclusión, § 23.
+          Pues contra el ímpetu de cualesquiera tiranos e invasores de reinos ajenos
+          y matadores de hombres que ningún mal ni daño les hicieron,
+          remedia la defensa y la resistencia —
+          nadie lo ignora.
+          Luego, aquellas gentes tuvieron justísima causa
+          y guerra de justa defensa
+          contra aquellos y los demás de nuestra nación
+          que después se añadieron a aquellos.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e464">La segunda, por razón de la coerción y resistencia —
+          que es lo mismo que la precedente —:
+          ¿quién podrá negar que no tuviesen derecho
+          a coercer y resistir e impedir que no hiciesen más daños
+          a quienes con tan furibundo, ciego, cruel y bestial ímpetu,
+          así tan sin causa despedazaban y mataban y robaban,
+          siendo gentes que estaban en sus tierras
+          sin ir ni perjudicar a las ajenas?
+          Luego, también tuvieron justa causa
+          por razón de coerción y de impedir que no pasasen más adelante
+          tan grandes estragos y daños irreparables:
+          para hacernos guerra.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e486">La tercera, para recuperar y compensar
+          los males y daños recibidos:
+          ¿habrá en el mundo hombre que tenga seso
+          que no confiese y afirme que les sobraba derecho para hacernos guerra?
+          Prenderles a su rey y señor y tenerlo preso
+          y al cabo quemarlo,
+          sería causa de que aquellos reinos se pusiesen en armas
+          para su liberación,
+          y después de muertos para satisfacerse de su muerte
+          y de los siete u ocho mil que allí despedazaron,
+          y de los que habían muerto en los pueblos de Coaque
+          y en la isla de Puná,
+          y por dondequiera que pasaron
+          hasta que llegaron a Cajamarca donde prendieron al rey.
+          ¿Fuera causa injusta mover guerra contra quien tan grandes tesoros les había robado
+          y cada día robaba más?
+          ¿Fuera justa causa de guerra y morir en la guerra
+          para recuperar los reinos y señoríos que usurpaban
+          y usurparon a aquel supremo rey y a muchos y grandes señores?
+          ¿Fuera justa la guerra para recuperar su libertad,
+          viéndose sujetar de gente tan brava
+          y a primera vista tan feroz y tan cruel,
+          armada de armas tan pesadas,
+          y de donde podían bien conocer y prever
+          cuáles los habían de parar con el tiempo?
+          De esta última causa dice <ref xml:id="dc7aa7-e08521-Rd1e549">Cicerón en las Filípicas 7:</ref>
+          <quote xml:id="dc7aa7-e08521-Qd1e554">«Ninguna causa de guerra es más justa
+          que repeler la servidumbre.
+          De donde entre los romanos se combatió primero
+          por la libertad de la ciudad,
+          después por el dominio»,</quote>
+          según dice <ref xml:id="dc7aa7-e08521-Rd1e565">Policrato, libro 8, cap. 5;</ref>
+          y <ref xml:id="dc7aa7-e08521-Rd1e567">Salustio en la Catilinaria:</ref>
+          <quote xml:id="dc7aa7-e08521-Qd1e572">«Ningún hombre de bien pierde la libertad sino junto con la vida.»</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e578">Para librar de la prisión al dicho rey
+          antes de que lo mataran,
+          estaban obligados los hijos y los pueblos
+          a hacernos guerra para libertarlo,
+          y hubiera sido justísima de ley natural.
+          Esto aparece lo primero por la guerra que hizo Abraham
+          contra los cuatro reyes que llevaron preso a Lot, su sobrino,
+          con las mujeres e hijos y toda su hacienda,
+          como se lee en el <ref xml:id="dc7aa7-e08521-Rd1e591">Génesis, capítulo 14.</ref>
+          Lo segundo, por la fidelidad que los pueblos juran a los reyes —
+          y aunque no la juraran, se la deben guardar de derecho natural —,
+          por la cual mucho más son obligados los súbditos
+          a libertar y socorrer a su rey en cualquier angustia,
+          aunque aventuren por ello la vida,
+          que no a sus deudos, aunque sean sus padres.
+          Porque el rey es cabeza de todo el cuerpo místico
+          que es el reino y república,
+          por el bien común,
+          que es más divino según <ref xml:id="dc7aa7-e08521-Rd1e609">el Filósofo, 1 Ethicorum,</ref>
+          y para este bien público nace cada uno más que para el padre,
+          que es cosa particular:
+          <quote xml:id="dc7aa7-e08521-Qd1e615">«de donde se dice que el hombre nace más para la patria que para el padre.»</quote>
+          Y por esto dice la ley:
+          <quote xml:id="dc7aa7-e08521-Qd1e609" source="http://scta.info/resource/bgy6gt-d1e4929-d1e402@20-29">«Que la defensa sin la disciplina del campamento
+          fue más antigua para los ciudadanos y padres romanos
+          que el afecto a los hijos»:</quote>
+          L. postliminium, § filius, <ref xml:id="dc7aa7-e08521-Rd1e626">ff., De captivis et postliminiis.</ref>
+          Cada uno nace para su patria,
+          como en L. 1, § Generaliter, ff., De ventre in possessionem mittendo.
+          Y es lícito matar a los padres y al contrario
+          a los que vinieren a destruir la patria,
+          L. minime, ff., De religiosis et sumptibus funerum;
+          hace al caso L. omne, final, <ref xml:id="dc7aa7-e08521-Rd1e637">ff., De re militari.</ref>
+          De aquí es que cualquier súbdito,
+          en cuanto sus fuerzas alcancen,
+          está obligado a no desampara a su rey en sus adversidades,
+          guardarlo y defenderlo como cabeza de toda la patria y república,
+          aunque sea con riesgo de la vida propia
+          y de su mujer e hijos;
+          porque así vemos que la naturaleza lo enseña:
+          porque la razón imita a la naturaleza,
+          el brazo y la mano se exponen a ser cortados y perderse
+          para salvar la cabeza como miembro más principal,
+          y del que mayor daño vendría a todo el cuerpo;
+          y es buen argumento del cuerpo natural al místico,
+          como en L. Adoptio, <ref xml:id="dc7aa7-e08521-Rd1e666">ff., De adoptione</ref>
+          et in <ref xml:id="dc7aa7-e08521-Rd1e668">cap. qui plerique, De officio ordinarii,</ref> etc.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e674">Y no solo los súbditos están obligados
+          a exponer y arriesgar la vida por la persona de su rey, cabeza mística:
+          sino también por la recuperación de su estado y dignidad
+          y jurisdicción y de sus bienes y derechos reales.
+          Por las mismas razones:
+          y porque sin los bienes temporales —
+          mayormente si el estado y dignidad
+          y jurisdicción y los derechos reales faltan —,
+          no puede ser rey ni sustentarse
+          para el gobierno y utilidad de todo el cuerpo místico,
+          que es el reino y comunidad de la que es cabeza:
+          argumento en la <ref xml:id="dc7aa7-e08521-Rd1e696" target="http://scta.info/resource/bgy6gt-d1e1964-Dd1e205">ley necare, ff., De liberis cognoscendis,</ref>
+          y lo que se nota por la glosa
+          en la <ref xml:id="dc7aa7-e08521-Rd1e701">L. quisquis, § penúlt., Codex, De donationibus.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
