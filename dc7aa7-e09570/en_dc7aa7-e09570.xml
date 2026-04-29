@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 28</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 28</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          This chapter is composed almost entirely in Latin in the MS.
+          All prose has been translated into English.
+          Canon law and civil law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e09570">
+        <head xml:id="dc7aa7-e09570-Hd1e111">Chapter 28</head>
+        <p xml:id="dc7aa7-e09570-d1e113">§ 28.</p>
+        <p xml:id="dc7aa7-e09570-d1e118">The fourth cause of this right is to punish, chastise,
+          and take vengeance for the said injuries, offenses, evils, and harms
+          that they have received from the Spaniards,
+          against natural, divine, and human law.
+          And they are competent judges for this.
+          For they can take action against criminal men
+          and corrupters of their commonwealths,
+          both internal ones — that is, their own citizens —
+          and external ones — that is, those of another nation.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e138">This is proved because they were and are kingdoms,
+          peoples, or communities and free kings
+          who recognize no superior in law,
+          as was proved in the sixth principle, § 9.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e147">For to every kingdom and community and free king there belongs,
+          by natural, human, and divine law,
+          the right to repel and prohibit everything
+          that is harmful and corruptive of their political being,
+          as appears above in the proof of this second conclusion;
+          and this is done by punishing and taking vengeance
+          for the injuries, offenses, and harms
+          that evil men commit against such commonwealths.
+          Now the Spaniards have been corrupters and destroyers
+          of those kingdoms and communities and commonwealths,
+          and of the entire political being they had in them,
+          and have committed most grave injuries, offenses, and harms
+          against those commonwealths, as the whole world ratifies.
+          Therefore to the kingdoms and commonwealths and communities,
+          and to the kings and lords to whom their care is entrusted,
+          there belongs by natural, human, and divine law
+          the right to punish them and take vengeance of them,
+          and thus they are competent judges.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e183">All of this is proved by the virtue of vindication,
+          which has two acts.
+          The first and principal is to punish and take vengeance
+          for injuries already received.
+          The second is the defense and repulsion of those that may be received.
+          Whence <ref xml:id="dc7aa7-e09570-Rd1e193">Cicero, in the Rhetoric,</ref>
+          says that
+          <quote xml:id="dc7aa7-e09570-Qd1e196">"vindication is that by which force,
+          injury, and in general whatever is obscure"</quote> —
+          that is, ignominious —
+          <quote xml:id="dc7aa7-e09570-Qd1e203">"is repelled by defending or avenging."</quote>
+          This second act pertains also to any private person,
+          namely: defense of oneself and of one's own,
+          as is already clear from what was said above of Paul.
+          The first, namely vindication or vengeance of injuries received by force,
+          is the proper and exclusive act of the whole community,
+          or of the one to whom the community has entrusted its care,
+          because that one does something by whose authority it is done:
+          <ref xml:id="dc7aa7-e09570-Rd1e220">see Dionysius, chapter 12 of the Celestial Hierarchy.</ref>
+          And this is in a public person constituted in power —
+          that is, representing the whole community or discharging its functions —
+          and who holds the whole power and jurisdiction of the community.
+          The reason is that to act or ordain something for the public good
+          belongs to legal justice making use of commutative justice:
+          since it renders to someone the equal and proportionate debt
+          on account of the common good,
+          and consequently it belongs to the community or to the public person.
+          And so both on the part of the subject, and on the part of the quality of the debt,
+          it appears that vindication is not a virtue in the singular person,
+          but in public justice.
+          For legal justice does not pertain to the singular person
+          but to the public person,
+          because to do what is due in order to the community
+          and to avoid the opposite evil
+          belongs to general or legal justice,
+          and pertains to the whole community or the public person.
+          And so one of the actions or effects of law is the punishment of wrongdoers,
+          as is evident from <ref xml:id="dc7aa7-e09570-Rd1e263">the Decrees, 3 Dist., c. fin.</ref>
+          et <ref xml:id="dc7aa7-e09570-Rd1e266">from Isidore, 2 Etymologies;</ref>
+          et <ref xml:id="dc7aa7-e09570-Rd1e271">Saint Thomas, 1.2 q. 9 a. 2 corp.;</ref>
+          but to enact laws belongs to the community or to the one
+          to whom the care of preserving the community is entrusted.
+          Therefore.
+          And that punishment or vengeance for wrongdoers
+          pertains to the community or to the one who acts in its place
+          is not in doubt.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e289">And this is confirmed by
+          Saint Thomas, 2.2 q. 40 a. 1 corp.,
+          where he says that since the care of the commonwealth
+          is entrusted to princes,
+          it is their task to protect the commonwealth
+          of the city, kingdom, or province entrusted to them.
+          And so they lawfully defend it with the material sword
+          against internal disturbers when they punish wrongdoers,
+          according to that passage of <ref xml:id="dc7aa7-e09570-Rd1e308">Romans 13:</ref>
+          <quote xml:id="dc7aa7-e09570-Qd1e310" source="http://scta.info/resource/rom13_4@13-29">"For he does not bear the sword in vain.
+          For he is God's minister: an avenger to execute wrath
+          upon the one who does evil."</quote>
+          And likewise with the sword of war
+          it is their task to protect the commonwealth from external enemies.
+          Thus from him.
+          And on the virtue of vindication,
+          see what the same Doctor teaches in
+          <ref xml:id="dc7aa7-e09570-Rd1e319">2.2, q. 108, throughout.</ref>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e325">Since, therefore, those communities or free peoples
+          were and are free,
+          and their princes and lords to whom their care was entrusted
+          by those same communities from ages past,
+          were able and are able to enact laws,
+          by virtue of having full power and jurisdiction,
+          pure and mixed authority by natural law and the law of nations,
+          and it falls to them to compel and ordain everything
+          that is fitting for the common good and for avoiding evil,
+          and to protect those commonwealths from enemies and corrupters:
+          and the Spaniards have been their most fierce enemies
+          and destroyers or exterminators of those peoples
+          and of innumerable communities,
+          whom they have afflicted with so many thousands of injuries,
+          killings, massacres, torments, despoilings, servitude,
+          and irreparable harms:
+          it follows that they can and must proceed against them
+          with the sword of war,
+          and avenge all the injuries and harms they have suffered from them,
+          punishing the delinquents, criminals, and pernicious men
+          with death, captivity, despoiling,
+          expulsion from the homeland,
+          and from the foreign kingdoms they have tyrannically occupied.
+          Indeed, even given the case — which is false —
+          that those nations had recognized our king as their superior,
+          as we proved in principle 6,
+          it would still have been and would be lawful for them
+          to wage war against the Spaniards, their enemies,
+          and against the judges, governors, or officials of the king,
+          and to kill them and drive them from their lands and kingdoms,
+          and to obtain justice for their harms and injuries
+          through war or by whatever other means they could.
+          This is proved because never in that land,
+          nor in other parts of the Indies,
+          was justice administered to them;
+          rather the governors and judges of our king
+          were still more pernicious and unjust
+          and harmful — more cruel tyrants, in fact —,
+          and through their ambition and greed
+          the peoples of the Indies perished and perish each day.
+          Now wherever and whenever a just judge is not available,
+          whether in law — because they are free peoples —
+          or in fact — because the superior does not do
+          or refuses, and does not want to, or conceals, or neglects to do justice —,
+          which is the same as if no one existed,
+          because not to exist and to exist uselessly are judged equal,
+          as in <ref xml:id="dc7aa7-e09570-Rd1e415">cap. 2, De translatione prelatorum;</ref>
+          or if imminent necessity gives no time to approach a judge
+          because of the danger of delay,
+          and no recourse to the king or superior can be had;
+          or if necessity urges in some other way;
+          or also where rights are trampled with reckless presumption
+          by the power of the one who commits the injustice,
+          or inflicts the injury and the wrong,
+          and in brief wherever justice cannot be secure:
+          it is lawful for anyone or all to whom it matters,
+          even those who recognize a superior,
+          to take up arms by their own authority
+          and declare war — namely, a war of defense.
+          For then not the individual or the individuals act,
+          but natural law, by whose authority they act.
+          Whence, against one who deviates from the key of justice,
+          there is no remedy but the armed hand,
+          as <ref xml:id="dc7aa7-e09570-Rd1e441">Baldo well says in L. data opera,
+          Codex, De his qui accusare non possunt, penult. col.</ref>
+          and he cites <ref xml:id="dc7aa7-e09570-Rd1e447">L. ut vim, ff., De Justitia et jure</ref>
+          et in <ref xml:id="dc7aa7-e09570-Rd1e452">L. si quis ad se, Codex, Ad legem Juliam et vi publica.</ref>
+          And this is an extensive matter treated principally in
+          <ref xml:id="dc7aa7-e09570-Rd1e459">L. prohibitum, Codex, De jure fisci., Lib. 10, where see Bartolus, etc.</ref>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e465">Those peoples therefore have, with or without their natural kings and lords,
+          the most powerful right to declare war against the Spaniards,
+          by reason of avenging the most grave crimes
+          that have been committed against them.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e476">They also have just war, for the fifth cause,
+          against them:
+          for the cause of necessity,
+          in order to acquire or defend the peace, health, liberty, and life of many, etc.
+          This cause is included in the others,
+          or it itself comprehends all the aforementioned causes within it,
+          and is clear in itself;
+          therefore no more will be said of it here.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e489">It is therefore plain that the heirs of King Atahualpa
+          and the other kings and lords
+          and all the peoples and nations of those kingdoms of Peru
+          had the most abundant right to declare war on the Spaniards
+          for five causes:
+          namely, the cause of defense;
+          the cause of coercion or repulsion of evil men;
+          the cause of recovery of seized things
+          or of compensation for lesions or harms inflicted upon them;
+          the cause of vengeance for injuries;
+          and finally the cause of necessity,
+          in order to acquire or defend peace and liberty, etc.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e515">Second part of the second conclusion.
+          It is stated in the conclusion — and so is its second part —
+          that they had just war against all the Spaniards.
+          This is proved:
+          first, because regarding all the Spaniards
+          who dwell in those lands and flock to them every day,
+          all the peoples of that entire world
+          have the very long experience that they intend nothing
+          but to subjugate them through wars, massacres, and killings of men,
+          and to impose upon them their iron yoke
+          and the most abject servitude,
+          in which some are exterminating entire communities,
+          and they know with certainty that vast provinces and kingdoms
+          once most fully peopled
+          have been perversely depopulated by their abominable and more than wicked crimes.
+          Second, because although some Spaniard may not go there with such a purpose —
+          which must be attributed to a great miracle —
+          and may not in truth have inflicted any harm on them,
+          nonetheless, since such persons are extremely few,
+          they are not held to be free of blame:
+          the presumption against them is vehement and just,
+          against all and each one,
+          and therefore the sentence of military justice
+          is not bound to discern
+          whether any or some portion of the republic that is its enemy
+          may be innocent,
+          because the whole is presumed to be enemy,
+          and the whole is held as enemy,
+          and therefore the whole is condemned and destroyed.
+          And on this we have said much elsewhere,
+          and the Doctors treat it; seek it therefore elsewhere.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
