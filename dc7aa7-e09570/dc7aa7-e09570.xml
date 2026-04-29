@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 28</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 28</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Este capítulo está redactado casi íntegramente en latín en el MS;
+          el cuerpo latino ha sido traducido al español moderno.
+          Las citas de derecho canónico y civil se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e09570">
+        <head xml:id="dc7aa7-e09570-Hd1e111">Capítulo 28</head>
+        <p xml:id="dc7aa7-e09570-d1e113">§ 28.</p>
+        <p xml:id="dc7aa7-e09570-d1e118">La cuarta causa de este derecho es para punir, castigar
+          y tomar venganza de las dichas injurias, ofensas, males y daños
+          que de los españoles, contra el derecho natural, divino y humano, han recibido.
+          Los cuales son jueces competentes para ello.
+          Pues pueden proceder contra los hombres criminales
+          y corruptores de sus repúblicas,
+          tanto internos —es decir, sus propios ciudadanos—
+          como externos —es decir, de otra nación.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e138">Se prueba porque eran y son reinos, pueblos o comunidades
+          y reyes libres que no reconocen superior de derecho,
+          como se probó en el sexto principio, § 9.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e147">Pues a todo reino y comunidad y rey libre pertenece
+          de derecho natural, humano y divino,
+          rechazar y prohibir todo aquello que es nocivo y corruptivo
+          de su ser político,
+          como parece arriba en la probación de esta segunda conclusión;
+          y esto se hace puniendo y tomando venganza de las injurias, ofensas y daños
+          que los hombres malos cometen contra tales repúblicas.
+          Pues los españoles han sido corruptores y destructores
+          de aquellos reinos y comunidades y repúblicas,
+          y de todo el ser político que tenían en ellos,
+          y han cometido gravísimas injurias, ofensas y daños
+          contra aquellas repúblicas, como todo el mundo lo ratifica.
+          Luego, a los reinos y repúblicas y comunidades,
+          y a los reyes y señores a quienes está encomendado su cuidado,
+          pertenece de derecho natural, humano y divino
+          castigarlos y tomar venganza de ellos,
+          y así son jueces competentes.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e183">Todo esto se prueba por la virtud vindicativa,
+          que tiene dos actos.
+          El primero y principal es castigar y tomar venganza
+          de las injurias ya recibidas.
+          El segundo es la defensa y el rechazo de las que pueden recibirse.
+          De donde <ref xml:id="dc7aa7-e09570-Rd1e193">Cicerón, en la Retórica,</ref>
+          dice que
+          <quote xml:id="dc7aa7-e09570-Qd1e196">«la vindicación es aquella por la cual la fuerza,
+          la injuria, y en general todo lo que es vergonzoso»,</quote>
+          esto es, ignominioso,
+          <quote xml:id="dc7aa7-e09570-Qd1e203">«se rechaza defendiéndose o vengándose.»</quote>
+          Este segundo acto pertenece también a cualquier persona privada,
+          a saber: la defensa de sí mismo y de los suyos,
+          como ya resulta claro de lo dicho arriba de Pablo.
+          El primero, a saber, la vindicación o venganza de las injurias
+          recibidas por la fuerza,
+          es propio de la sola comunidad o de aquel
+          a quien la comunidad ha encomendado el cuidado de ella,
+          porque aquel hace algo por cuya autoridad se hace:
+          <ref xml:id="dc7aa7-e09570-Rd1e220">véase Dionisio, cap. 12 de la Jerarquía celestial.</ref>
+          Y este es en una persona pública constituida en potestad,
+          esto es, que representa a toda la comunidad o ejerce sus funciones,
+          y que tiene toda la potestad y jurisdicción de la comunidad.
+          La razón es que obrar u ordenar algo al bien público
+          pertenece a la justicia legal que se sirve de la justicia conmutativa:
+          puesto que devuelve a alguien la deuda igual y proporcional
+          por el bien común,
+          y por consiguiente pertenece a la comunidad o a la persona pública.
+          Y así, tanto por parte del sujeto como por parte de la calidad de la deuda,
+          aparece que la vindicación no es virtud en la persona singular,
+          sino en la justicia pública.
+          Pues la justicia legal no pertenece a la persona singular,
+          sino a la persona pública,
+          porque hacer el bien debido en orden a la comunidad
+          y evitar el mal opuesto pertenece a la justicia general o legal,
+          y pertenece a toda la comunidad o a la persona pública.
+          Así, una de las acciones o efectos de la ley es el castigo de los malhechores,
+          como consta en <ref xml:id="dc7aa7-e09570-Rd1e263">los Decretos, 3 Dist., c. fin.</ref>
+          et <ref xml:id="dc7aa7-e09570-Rd1e266">es de Isidoro, 2 Etimologías;</ref>
+          et <ref xml:id="dc7aa7-e09570-Rd1e271">Santo Tomás, 1.2 q. 9 a. 2 corp.;</ref>
+          pero dar leyes pertenece a la comunidad o a aquel
+          a quien la comunidad encomienda el cuidado de conservarla.
+          Luego.
+          Y que el castigo o venganza de los malhechores
+          pertenezca a la comunidad o a quien ejerce sus funciones,
+          no hay duda.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e289">Y esto se confirma por
+          Santo Tomás, 2.2 q. 40 a. 1 corp.,
+          donde dice que
+          como el cuidado de la república esté encomendado a los príncipes,
+          a ellos pertenece tutelar la república de la ciudad, del reino
+          o de la provincia que tienen a su cargo.
+          Y así defienden lícitamente con la espada material:
+          a los perturbadores internos cuando castigan a los malhechores,
+          según aquello de <ref xml:id="dc7aa7-e09570-Rd1e308">Romanos 13:</ref>
+          <quote xml:id="dc7aa7-e09570-Qd1e310" source="http://scta.info/resource/rom13_4@13-29">«No lleva en vano la espada.
+          Pues es ministro de Dios: vengador para castigo del que obra el mal.»</quote>
+          Y asimismo con la espada de la guerra
+          les pertenece proteger la república de los enemigos externos.
+          Esto de él.
+          Y sobre la virtud vindicativa,
+          véase lo que el mismo Doctor enseña en
+          <ref xml:id="dc7aa7-e09570-Rd1e319">2.2, q. 108, por entero.</ref>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e325">Puesto que, por tanto, aquellas comunidades o pueblos libres
+          fueron y son libres,
+          y sus príncipes y señores a quienes el cuidado de ellos
+          fue encomendado por las mismas comunidades desde los siglos pasados,
+          pudieron y pueden dar leyes,
+          por cuanto tienen toda potestad y jurisdicción,
+          mero y mixto imperio de derecho natural y de gentes,
+          y les incumbe compeler y ordenar todo lo que conviniere
+          al bien común y a evitar el mal,
+          y tutelar de los enemigos y corruptores dichas repúblicas:
+          y los españoles han sido sus acerrimos enemigos
+          y destructores o exterminadores de aquellas gentes
+          y de innumerables comunidades,
+          a las que con tantos miles de injurias,
+          matanzas, estragos, tormentos, despojos, servidumbre
+          y daños irreparables han afligido:
+          se sigue que pueden y deben proceder contra ellos
+          con la espada de la guerra,
+          y vengar así todas las injurias y daños que de ellos han sufrido,
+          castigando a los delincuentes, criminales y perniciosos
+          con la muerte, la cautividad, el despojo,
+          la expulsión de la patria
+          y de los reinos ajenos que tiránicamente ocuparon.
+          Es más: incluso dado el caso — que es falso —
+          de que aquellas naciones hubieran reconocido a nuestro rey como superior,
+          como probamos en el principio 6.º,
+          todavía les hubiera sido y sería lícito mover guerra
+          contra los españoles, sus enemigos,
+          y contra los jueces, gobernadores u oficiales del rey,
+          y matarlos y expulsarlos de sus tierras y reinos,
+          y hacerse justicia por sus daños e injurias mediante la guerra
+          o por cualquier otro medio a su alcance.
+          Esto se prueba porque jamás en aquella tierra,
+          ni tampoco en otras partes de las Indias,
+          se les administró justicia;
+          sino que los gobernadores y jueces de nuestro rey
+          fueron aún más perniciosos e injustos
+          y más nocivos — más crueles tiranos, de hecho —,
+          y por su ambición y codicia perecen y perecen cada día
+          las gentes de las Indias.
+          Ahora bien, siempre y dondequiera que no se dispone de un juez justo,
+          ya sea de derecho — porque son pueblos libres —,
+          ya sea de hecho — porque el superior no hace o niega
+          y no quiere, o disimula o descuida hacer justicia —,
+          lo cual es lo mismo que si no existiera,
+          porque no existir y existir de modo inútil se tienen por igual,
+          como en <ref xml:id="dc7aa7-e09570-Rd1e415">cap. 2, De translatione prelatorum;</ref>
+          o si la necesidad inminente no da lugar a recurrir al juez
+          por el peligro de la tardanza,
+          ni se puede recurrir al rey o superior,
+          o la necesidad apremia de otro modo,
+          o también donde los derechos son pisados
+          con temeraria presunción por el poderoso
+          que hace la injusticia, o inflige la injuria y el agravio,
+          y en resumen dondequiera que la justicia no puede estar segura:
+          a cualquiera o a cualesquiera a quienes interese,
+          aunque reconozcan un superior,
+          les es lícito tomar las armas por su propia autoridad
+          y declarar la guerra, a saber, de defensa.
+          Porque entonces no lo hace el individuo o los individuos,
+          sino la ley natural por cuya autoridad actúan.
+          De donde, contra el que se desvía de la llave de la justicia,
+          no hay remedio sino la mano armada,
+          como bien dice <ref xml:id="dc7aa7-e09570-Rd1e441">Baldo en L. data opera,
+          Codex, De his qui accusare non possunt, penúlt. col.</ref>
+          y alega <ref xml:id="dc7aa7-e09570-Rd1e447">L. ut vim, ff., De Justitia et jure</ref>
+          et in <ref xml:id="dc7aa7-e09570-Rd1e452">L. si quis ad se, Codex, Ad legem Juliam et vi publica.</ref>
+          Y esta es una materia extensa que se trata principalmente en
+          <ref xml:id="dc7aa7-e09570-Rd1e459">L. prohibitum, Codex, De jure fisci., Lib. 10, donde véase Bartolo, etc.</ref>
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e465">Tienen, pues, aquellas gentes, con sus o sin sus reyes y señores naturales,
+          validísimo derecho de declarar guerra contra los españoles
+          por razón de vengar los crímenes gravísimos
+          que contra ellas han cometido.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e476">Tienen también guerra justa por quinta causa
+          contra ellos:
+          por causa de necesidad,
+          para adquirir o defender la paz, la salud, la libertad y la vida de muchos, etc.
+          Esta causa está incluida en las otras,
+          o ella misma comprende en sí todas las causas antes dichas,
+          y es clara por sí misma;
+          por eso de ella no se dirá más.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e489">Resulta pues patente que los herederos del rey Atabaliba
+          y los otros reyes y señores
+          y todas las gentes y pueblos de aquellos reinos del Perú
+          tuvieron el más sólido derecho de declarar guerra a los españoles
+          por cinco causas:
+          a saber, causa de defensa;
+          causa de coerción o rechazo de los hombres malos;
+          causa de recuperación de las cosas robadas
+          o de compensación de las lesiones o daños que les fueron infligidos;
+          causa de venganza de las injurias;
+          y finalmente causa de necesidad,
+          para adquirir o defender la paz y la libertad, etc.
+        </p>
+        <p xml:id="dc7aa7-e09570-d1e515">Segunda parte de la segunda conclusión.
+          Se dice en la conclusión — y así es su segunda parte —
+          que tuvieron guerra justa contra todos los españoles.
+          Se prueba:
+          primero, porque acerca de todos los españoles
+          que habitan en aquellas tierras y llegan a ellas cada día,
+          todas las gentes de aquel entero mundo
+          tienen la larguísima experiencia de que no pretenden sino subyugarlas
+          mediante guerras, matanzas y muertes de hombres,
+          e imponerles su yugo de hierro
+          y la servidumbre más abyecta,
+          en la que algunos exterminan comunidades enteras,
+          y saben con certeza que han dejado yermas
+          con sus crímenes nefandos y más que perversos
+          vastísimas provincias y reinos antes plenísimos de gente.
+          Segundo, porque aunque algún español no vaya con tal propósito —
+          lo que debe atribuirse a gran milagro —
+          ni en verdad les haya infligido ningún mal,
+          sin embargo, como los tales son poquísimos,
+          no son tenidos por culpables:
+          la presunción en su contra es vehemente y justa,
+          contra todos y cada uno,
+          y por eso la sentencia de la justicia guerrera
+          no está obligada a discernir
+          si algunos o alguna parte de la república que es su enemiga
+          son inocentes,
+          porque se presume que todo el conjunto es enemigo,
+          y se lo tiene todo por enemigo,
+          y por eso condena y destruye al conjunto.
+          Y sobre esto mucho hemos dicho en otra parte,
+          y lo tratan los doctores; búsquese por tanto en otra parte.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
