@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 29</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 29</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Este capítulo está redactado casi íntegramente en latín en el MS,
+          salvo la frase final que Las Casas redactó en español.
+          El cuerpo latino ha sido traducido al español moderno.
+          Las citas de derecho canónico y civil se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10034">
+        <head xml:id="dc7aa7-e10034-Hd1e111">Capítulo 29</head>
+        <p xml:id="dc7aa7-e10034-d1e113">§ 29.
+          Tercera parte de nuestra segunda conclusión.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e120">La tercera parte de nuestra conclusión dice
+          que la dicha guerra o el derecho de declararla contra nosotros
+          ha sido y es continua,
+          y será perpetua hasta el día del juicio,
+          a no ser que se interrumpa o se dé término por alguno de los cuatro modos.
+          Veamos ahora si es continua o si ha sido terminada o interrumpida.
+          De lo primero — a saber, que sea continua — consta
+          porque siempre subsiste causa de guerra justa contra nosotros.
+          Primero, porque nunca se trató de paz ni de tregua,
+          ni de satisfacción ni de pedir remisión:
+          como es sabido por todos los que cruzaron a aquellas partes;
+          es más, los españoles nunca se dignaron ni pensar en ello,
+          ya sea porque siempre tuvieron a aquellas gentes
+          en lugar de personas viles y despreciables,
+          ya sea porque se creyeron que podían atacarlas y subyugarlas
+          como si fueran musulmanes,
+          y que por tanto las habían obtenido en guerra justa.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e155">Segundo, porque la fuerza y la injuria personal
+          se infiere continua e incesantemente a los vivos,
+          puesto que son siempre retenidos en cautividad
+          y en durísima servidumbre,
+          y se les usurpa su libertad natural,
+          y tanto los señores y reyes como los jueces y todo el pueblo
+          yacen siempre sometidos bajo ella.
+          De donde la fuerza o violencia se comete cada día y continuamente,
+          y cada día y siempre nace de nuevo,
+          y está en proceso permanente y en acto continuo o duradero:
+          por la cual no solo se infiere violencia continua a los súbditos,
+          haciéndoles obedecer por miedo a los tiranos y señores violentos
+          — como son individualmente todos los españoles
+          que tienen repartimiento o encomienda —,
+          sino que también se infiere a los reyes y señores naturales legítimos.
+          A aquellos — los súbditos — la violencia compulsiva;
+          a estos — los reyes o señores — la violencia expulsiva:
+          contra la cual siempre puede hacerse la guerra y resistirse de derecho,
+          como ya dijimos arriba.
+          Luego, siempre subsiste causa de declarar la guerra,
+          y por consiguiente la guerra o el derecho de declararla es continua.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e190">De donde lo que se requiere necesariamente primero
+          para interrumpir el dicho derecho
+          es que cese la inflicción de injurias, lesiones o agravios,
+          y cese la incursión de la tiranía y la opresión
+          del ya mencionado repartimiento o encomienda;
+          porque mientras persista aquella o el temor de que se inflija de nuevo,
+          ciertamente ni la paz ni la tregua ni la satisfacción —
+          salvo solo la remisión —
+          bastarían para dar término al derecho;
+          y por consiguiente no cesarán el derecho y la causa
+          de mover guerra contra nosotros,
+          que oprimimos y tiránicamente retenemos a hombres libres.
+          Y la regla es que no se concede el perdón del pecado
+          si no se enmienda:
+          <ref xml:id="dc7aa7-e10034-Rd1e211">De Regulis iuris, Peccati, Lib. VI, et 24 q. 2 c. legatur</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e216">De Schismaticis, cap. 1, Lib. VI.</ref>
+          Y así resulta claro lo segundo,
+          a saber, que tal guerra no se da por terminada.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e227">Si empero intervinieran la paz o la tregua,
+          mientras estas duraran no sería lícita la guerra de parte de aquellas gentes,
+          porque es contra la equidad natural no guardar los pactos,
+          como en L. conventionum, <ref xml:id="dc7aa7-e10034-Rd1e235">ff., De pactis;</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e237">ff., De captivis et postliminio, L. postliminium, §. induci;</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e243">L. non dubito et cap. pervenit el 2.º, De iureiurandum;</ref>
+          y lo dije antes.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e249">En cuanto a la satisfacción,
+          ha de entenderse de la que sea posible,
+          pues como dijimos arriba
+          sería imposible para ellos restituir con igualdad
+          aquello por lo que están obligados a restituir y satisfacer:
+          no solo las injurias, daños y lesiones
+          que infligieron a tantos pueblos, reyes y reinos
+          que destruyeron y aniquilaron totalmente —
+          por no hablar de la perdición de innumerables almas
+          que sin fe y sin sacramentos enviaron a los tormentos eternos
+          (por los cuales no puede hacerse satisfacción
+          sino siendo destinados a llamas mucho más graves que aquellas,
+          si no hacen penitencia) —,
+          sino también las cantidades ingentes de oro y plata
+          y piedras preciosas y demás bienes muebles e inmuebles:
+          por los cuales ni siquiera nuestros reyes bastarían para satisfacer,
+          aunque vendieran sus propios reinos.
+          Por tanto, si los españoles delincuentes y ofensores
+          ofrecieran de buena fe la satisfacción posible,
+          aquellas gentes deberían contentarse;
+          pero qué y cuánta debe ser esa satisfacción,
+          es asunto de otro tiempo y otra consideración.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e294">Por último, se dice en la conclusión:
+          <quote xml:id="dc7aa7-e10034-Qd1e296">«o por remisión voluntaria.»</quote>
+          A saber, porque los agraviados — esto es, todas aquellas gentes,
+          pueblos y reyes, o sus señores —
+          voluntaria y espontáneamente,
+          cesando toda clase de fraude,
+          y de fuerza, miedo, coerción o desesperanza
+          de recuperar las cosas,
+          y en voluntad absolutamente libre o condicionada —
+          esto es, condicionada, incluso por el temor reverencial —,
+          como en <ref xml:id="dc7aa7-e10034-Rd1e311">Codex, De his que vi metusve causa, por entero;
+          y en L. 1, §. que onerande,</ref>
+          al fin, <ref xml:id="dc7aa7-e10034-Rd1e316">ff., Quarum rerum actio non datur,
+          y allí la Glosa,</ref>
+          remitan las injurias y los daños que se les infligieron:
+          quedarían libres los españoles lesores y ofensores,
+          porque de cualquier modo que se haya satisfecho al acreedor
+          a su voluntad, se tiene por saldado y satisfecho,
+          aunque no lo esté materialmente,
+          como en <ref xml:id="dc7aa7-e10034-Rd1e328">Digest., De pignorativa actione, L. si rem alienam</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e330">ff., Quibus modis pignus vel hypotheca solvitur,
+          L. item liberatura, in principio</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e337">ff., De accusationibus, L. si rem, § satisfactum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e340">Pero en este punto ha de tenerse en cuenta
+          que siempre habrá una vehemente presunción
+          de que jamás aquellas gentes remitirán de libre voluntad a los españoles
+          lo que tiránicamente les arrebataron,
+          ni los daños que les infligieron:
+          tanto por la magnitud de las deudas
+          como, y con mayor razón, porque nada hacen ahora
+          ni hacen cosa alguna sino para evitar algún mal mayor;
+          y así, siempre involuntariamente,
+          tienen arraigado en su corazón el temor a los españoles
+          y a sus crueldades, temor que Dios les ha dado.
+          Pues el temor al tirano dura tanto como vive el tirano:
+          porque permaneciendo o durando siempre la misma causa del temor,
+          es necesario que el mismo efecto — el miedo — permanezca;
+          y por consiguiente la opresión misma y la injusticia
+          duran y permanecen.
+          Esto se prueba por <ref xml:id="dc7aa7-e10034-Rd1e368">cap. 1, con las glosas allí notadas,
+          De his que vi metusve causa fiunt,</ref>
+          donde aparece durante cuánto tiempo duró el justo miedo de la mujer:
+          cuanto vivió el marido cruel.
+          Y la Glosa y los Doctores allí anotan
+          que la mujer que hace algo por miedo al marido es excusada
+          y nada vale en derecho durante toda la vida del marido.
+          Y el Panormitano, allí en el segundo notable,
+          dice que el temor a la muerte se dice inminente
+          no solo durante el blandeo de la espada,
+          sino también después, si el poder del que amenaza es tal
+          que razonablemente se tema la muerte.
+          Y que Baldo, en L. 1, cerca del fin,
+          <ref xml:id="dc7aa7-e10034-Rd1e392">Codex, De condictione ob turpem causam,</ref>
+          dice que lo mismo ocurre mientras dura el estatuto tiránico;
+          y Felino, en <ref xml:id="dc7aa7-e10034-Rd1e397">cap. significasti, el 2.º, 5.ª col., número 12, De homicidio,</ref>
+          dice que mientras el que desposeyó es más poderoso
+          que el desposeído,
+          se dice que se le hace violencia.
+          Esto de él.
+          Pues es propio de la condición humana temer a aquel
+          cuyo juicio ahora ensalza y ahora abate,
+          <ref xml:id="dc7aa7-e10034-Rd1e409">como se dice en 16, q. 2, c. Visis.</ref>
+          Y nótese esta sentencia, si se cumple en aquellas gentes.
+          De donde, después del miedo infligido por algún acto,
+          el miedo jamás se purga por ningún acto siguiente,
+          ni aun con intervalo de tiempo,
+          mientras dura la misma causa del miedo.
+          Así lo dice Baldo, en L. 2, Quod metus causa.
+          Y estas cosas son muy de notar en esta materia de los indios,
+          porque por ellas se resuelven perentoriamente
+          muchas frívolas objeciones.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e423">Pero volvamos a la conclusión.
+          Puesto que, por tanto, aquellas gentes
+          con sus reyes y señores naturales
+          tienen contra nosotros guerra continua justísima
+          o derecho de declararla,
+          y nunca se hizo paz ni tregua entre ellas y los españoles,
+          ni los españoles han hecho ni ofrecido satisfacción
+          ni siquiera mínima,
+          ni tan siquiera pensaron en tal obra,
+          ni las partes agraviadas han remitido
+          tantas injurias e inmensos e irreparables daños y males
+          que de ellos han sufrido;
+          ni tampoco ha cesado la inflicción de injurias y daños
+          y la cruel tiranía misma,
+          sino que cada día y de día en día se ha ido añadiendo más,
+          y añaden males sobre males, peores sobre lo peor:
+          tienen pues el dicho derecho o guerra continua y perpetua
+          contra nosotros los españoles;
+          y a no ser que alguna vez se dé término
+          por alguno de los cuatro modos dichos,
+          durará ciertamente hasta el día del juicio.
+          Se dijo en la conclusión:
+          <quote xml:id="dc7aa7-e10034-Qd1e467">«como contra enemigos del linaje humano»,</quote>
+          porque véanse las historias desde el diluvio hasta hoy:
+          no se hallará nación que tanto haya lastimado, disminuido
+          y empequeñecido el linaje humano,
+          y con tan diversas y nuevas maneras de crueldades inhumanas,
+          como nosotros hemos hecho en aquellas gentes inocentes en sesenta años.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

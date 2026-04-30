@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 29</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 29</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          This chapter is composed almost entirely in Latin in the MS,
+          except for the final sentence which Las Casas wrote in Spanish.
+          All prose has been translated into English.
+          Canon law and civil law citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10034">
+        <head xml:id="dc7aa7-e10034-Hd1e111">Chapter 29</head>
+        <p xml:id="dc7aa7-e10034-d1e113">§ 29.
+          Third part of our second conclusion.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e120">The third part of our conclusion says
+          that the said war or the right to declare it against us
+          has been and is continuous,
+          and will be perpetual until the day of judgment,
+          unless it is interrupted or brought to an end by one of the four means.
+          Let us now see whether it is continuous
+          or whether it has been brought to an end or interrupted.
+          As to the first — namely, that it is continuous —
+          this is plain because the cause of just war against us always subsists.
+          First, because no peace, truce, satisfaction,
+          or petition for remission has ever been discussed:
+          as is known to all who have crossed to those parts;
+          indeed the Spaniards never even deigned to think of it,
+          whether because they always held those peoples
+          in the place of vile and contemptible persons,
+          or because they thought themselves able to attack
+          and subjugate them as if they were Muslims,
+          and accordingly to have obtained them in a just war.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e155">Second, because force and personal injury
+          are inflicted continuously and incessantly upon the living,
+          since they are always held captive
+          in the harshest servitude,
+          and their natural liberty is usurped,
+          and both lords and kings as well as judges and all the people
+          lie always prostrate and subject under it.
+          Whence force or violence is committed each day and continuously,
+          and each day and always is born anew,
+          and is in permanent process and in continuous or enduring act:
+          by which not only is violence continuously inflicted on the subjects,
+          making them obey through fear
+          the tyrants and violent lords —
+          as are individually all the Spaniards
+          who hold a repartimiento or encomienda —,
+          but it is also inflicted on the legitimate natural kings or lords.
+          On those — the subjects — compulsive violence;
+          on these — the kings or lords — expulsive violence:
+          against which war can always be made and resistance offered by right,
+          as we said above.
+          Therefore the cause of declaring war always subsists,
+          and consequently the war or the right to declare it is continuous.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e190">Whence what is necessarily required first
+          in order to interrupt the said right
+          is that the infliction of injuries, lesions, or wrongs should cease,
+          and that the incursion of the tyranny and oppression
+          of the already-mentioned repartimiento or encomienda should cease;
+          because while it persists, or the fear of it being inflicted again,
+          certainly neither peace nor truce nor satisfaction —
+          only remission —
+          would serve to bring the right to an end;
+          and consequently the right and cause
+          of waging war against us,
+          who oppress and tyrannically hold free men,
+          will not cease.
+          And the rule is that pardon for sin is not given
+          unless there is amendment:
+          <ref xml:id="dc7aa7-e10034-Rd1e211">De Regulis iuris, Peccati, Lib. VI, et 24 q. 2 c. legatur</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e216">De Schismaticis, cap. 1, Lib. VI.</ref>
+          And so the second is clear,
+          namely, that such war is not declared ended.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e227">If, however, peace or truce were to intervene,
+          while it lasted it would not be lawful for those peoples to wage war,
+          because it is against natural equity not to keep compacts,
+          as in L. conventionum, <ref xml:id="dc7aa7-e10034-Rd1e235">ff., De pactis;</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e237">ff., De captivis et postliminio, L. postliminium, §. induci;</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e243">L. non dubito et cap. pervenit the 2nd, De iureiurandum;</ref>
+          and I have already said as much above.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e249">As for satisfaction,
+          it is to be understood as the satisfaction that is possible,
+          for as we said above
+          it would be impossible for them to restore with equality
+          what they are bound to restore and satisfy:
+          not only the injuries, harms, and lesions
+          they inflicted on so many peoples, kings, and kingdoms
+          which they utterly destroyed and annihilated —
+          to say nothing of the perdition of innumerable souls
+          whom they sent without faith and without sacraments
+          to eternal torments
+          (for which no satisfaction can be made
+          unless they be assigned to flames far greater than those,
+          if they do not repent) —,
+          but also the immense weights of gold and silver
+          and precious stones and other moveable and immoveable goods:
+          for which not even our kings would suffice to make satisfaction,
+          even if they sold their own kingdoms.
+          Therefore if the Spanish delinquents and offenders
+          were to offer in good faith the satisfaction that is possible,
+          those peoples ought to be content;
+          but what and how great that satisfaction should be
+          is a matter for another time and another consideration.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e294">Finally, the conclusion says:
+          <quote xml:id="dc7aa7-e10034-Qd1e296">"or by voluntary remission."</quote>
+          Namely, because the aggrieved — that is, all those peoples,
+          nations and kings, or their lords —
+          voluntarily and of their own accord,
+          with all fraud ceasing,
+          and all force, fear, coercion, or despair of recovering things,
+          and in a will absolutely free or conditional —
+          that is, conditioned, even by reverential fear —,
+          as in <ref xml:id="dc7aa7-e10034-Rd1e311">Codex, De his que vi metusve causa, throughout;
+          and in L. 1, §. que onerande,</ref>
+          at the end, <ref xml:id="dc7aa7-e10034-Rd1e316">ff., Quarum rerum actio non datur,
+          and there the Gloss,</ref>
+          were to remit the injuries and harms inflicted on them:
+          the Spanish injurers and offenders would be freed,
+          because in whatever manner the creditor has been satisfied
+          to his own will, it is held as paid and satisfied,
+          even if it has not been materially paid,
+          as in <ref xml:id="dc7aa7-e10034-Rd1e328">Digest., De pignorativa actione, L. si rem alienam</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e330">ff., Quibus modis pignus vel hypotheca solvitur,
+          L. item liberatura, at the beginning</ref>
+          et <ref xml:id="dc7aa7-e10034-Rd1e337">ff., De accusationibus, L. si rem, § satisfactum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e340">But at this point it must certainly be noted
+          that there will always be a vehement presumption
+          that those peoples will never of free will remit to the Spaniards
+          what they tyrannically took from them,
+          nor the harms they inflicted on them:
+          both on account of the magnitude of the debts,
+          and still more forcibly because they do nothing now,
+          nor do they do anything,
+          except to avoid some greater evil;
+          and so they always involuntarily
+          have the fear of the Spaniards and of their cruelties
+          rooted deep in their hearts — a fear God has given them.
+          For the fear of the tyrant lasts as long as the tyrant lives:
+          because with the same cause of fear always remaining or enduring,
+          the same effect — fear — must remain;
+          and consequently the oppression and injustice itself
+          endures and remains.
+          This is proved by <ref xml:id="dc7aa7-e10034-Rd1e368">cap. 1, with what is there noted,
+          De his que vi metusve causa fiunt,</ref>
+          where it appears for how long the just fear of the wife lasted:
+          as long as the cruel husband lived.
+          And the Gloss and the Doctors there note
+          that a woman who does something out of fear of her husband is excused
+          and nothing has force in law during the whole lifetime of the husband.
+          And Panormitanus, there in the second notable point,
+          says that fear of death is said to be imminent
+          not only while the sword is being brandished,
+          but also afterwards, if the power of the one threatening is such
+          that death is reasonably feared.
+          And that Baldo, in L. 1, near the end,
+          <ref xml:id="dc7aa7-e10034-Rd1e392">Codex, De condictione ob turpem causam,</ref>
+          says the same holds while the tyrannical statute endures;
+          and Felinus, in <ref xml:id="dc7aa7-e10034-Rd1e397">cap. significasti, the 2nd, 5th col., number 12, De homicidio,</ref>
+          says that for as long as the despoiler is more powerful than the despoiled,
+          violence is said to be done to him.
+          Thus from him.
+          For it is the nature of the human condition to fear
+          one whose judgment now raises up and now casts down,
+          <ref xml:id="dc7aa7-e10034-Rd1e409">as is said in 16, q. 2, c. Visis.</ref>
+          And let this judgment be noted, I pray,
+          if it is fulfilled in those peoples.
+          Whence after fear has been inflicted by some act,
+          that fear is never purged by any subsequent act,
+          not even with an interval of time,
+          while the same cause of fear endures.
+          So says Baldo, in L. 2, Quod metus causa.
+          And these things are very much to be noted in this matter of the Indians,
+          because by them many frivolous objections are peremptorily resolved.
+        </p>
+        <p xml:id="dc7aa7-e10034-d1e423">But let us return to the conclusion.
+          Since, therefore, those peoples, together with their natural kings and lords,
+          have against us a most just continuous war
+          or the right to declare it,
+          and no peace or truce has ever been made
+          between them and the Spaniards,
+          nor have the Spaniards made or offered satisfaction,
+          not even minimal,
+          nor even thought of such a work,
+          nor have the aggrieved parties remitted
+          so many injuries and immense and irreparable harms and evils
+          that they have suffered from them;
+          nor has the infliction of injuries and harms
+          and the cruel tyranny itself ceased,
+          but each day and from day to day it has been added to,
+          and they add evil upon evil, worse upon worse:
+          they therefore have the said right or continuous and perpetual war
+          against us the Spaniards;
+          and unless at some point it is brought to an end
+          by one of the four said means,
+          it will certainly endure until the day of judgment.
+          It was said in the conclusion:
+          <quote xml:id="dc7aa7-e10034-Qd1e467">"as against enemies of the human race,"</quote>
+          because let the histories be examined from the flood up to today:
+          no nation will be found that has so harmed, diminished,
+          and reduced the human race,
+          and in so many diverse and novel forms of inhuman cruelty,
+          as we have done to those innocent peoples in sixty years.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
