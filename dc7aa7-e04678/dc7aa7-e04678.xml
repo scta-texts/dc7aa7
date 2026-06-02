@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 16</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 16</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las dos citas del Éxodo en latín han sido traducidas al español.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04678">
+        <head xml:id="dc7aa7-e04678-Hd1e111">Capítulo 16</head>
+        <p xml:id="dc7aa7-e04678-d1e113">§ 16.</p>
+        <p xml:id="dc7aa7-e04678-d1e118">La segunda parte del dicho principio séptimo;
+          conviene a saber, el progreso o gobierno que por aquellas gentes
+          y tierras se ha puesto,
+          puede cualquier prudente lector conocer
+          qué tal debió haber sido,
+          por las pruebas del hecho y del derecho
+          arriba traídas para la primera parte.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e132">Este ha sido, y es, repartir entre sí los españoles
+          los pueblos de los indios,
+          que llamaron repartimientos,
+          y después, para honrarlos más, les pusieron nombre de encomiendas.
+          En muchas partes de las Indias repartieron
+          no solo pueblos, sino también las personas de un pueblo:
+          hombres, mujeres, niños y viejos,
+          asignando a un español cincuenta,
+          a otro ciento, y a otro doscientos,
+          según la gracia que cada uno alcanzaba
+          con el capitán o gobernador,
+          y mayor tirano que los repartía.
+          Y al que más quería honrar y aprovechar
+          daba el señor natural o señores del pueblo,
+          para que le sirviesen de la misma manera que sus súbditos.
+          Este señor natural servía como los otros,
+          y tenía mayor servidumbre,
+          porque si alguno de los súbditos,
+          por los trabajos y angustias que tenía,
+          huía y faltaba en los trabajos y servicios,
+          el triste del señor a palos y azotes y en la cárcel y cepo lo lloraba y padecía,
+          semejantes a los prefectos de Israel,
+          que eran como jurados de las familias,
+          los cuales cuando faltaba la cuota de dar el número de ladrillos
+          que el tirano Faraón les había impuesto por tributo,
+          los azotaban y afligían duramente,
+          según parece por el <ref xml:id="dc7aa7-e04678-Rd1e177">Éxodo, capítulo 5:</ref>
+          <quote xml:id="dc7aa7-e04678-Qd1e179">«Y fueron azotados los que estaban al frente de las obras
+          de los hijos de Israel por los exactores del Faraón, diciéndoles:
+          ¿por qué no completasteis la cuota de ladrillos como antes,
+          ni ayer ni hoy? etc.»</quote>
+          Lo cual en verdad se cumplió y se cumple hoy a la letra
+          en todas las Indias.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e191">Las aflicciones y opresiones y dura servidumbre
+          que todas aquellas gentes han padecido y padecen,
+          por los insoportables tributos y cargas
+          que de diversas maneras les han impuesto,
+          no puede ser creído;
+          pero en verdad y con verdad afirmamos
+          ser mucho más de lo que aquí encarecemos.
+          Y lo que más sin vergüenza y con profunda insensibilidad
+          osan decir los pecadores tiranos, más crueles que Faraón,
+          es que los indios son holgazanes y ociosos,
+          y que más tributos y servicios pueden contribuir:
+          las mismas palabras que Faraón dijo:
+          <quote xml:id="dc7aa7-e04678-Qd1e210">«Estáis ociosos y por eso no se os dará paja, etc.»</quote>
+          No dándoles ni teniéndoles tiempo para respirar,
+          y mucho más estrecho que Faraón daba a los israelitas.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e221">Que estos repartimientos y encomiendas
+          y modo de gobernar
+          sea violento, injusto, nefando, tiránico y crudelísimo,
+          aunque de sí mismo parece si se mira con ojos libres y piadosos:
+          pero quiero solamente apuntar algunas razones breves y sencillas,
+          dejando la probanza de ello para otros tratados nuestros,
+          donde está suficientemente probado y de modo nada avaro.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e237">La primera sea esta:
+          aquel modo de regir o gobernar hombres o pueblos libres
+          es violento, injusto, nefando y crudelísimo
+          que priva a los súbditos de toda su libertad,
+          de tal manera que no pueden libremente disponer
+          de sus propias personas
+          ni de las que tienen a su cargo,
+          como son sus hijos y familiares.
+          Pues los dichos repartimientos son de esta manera;
+          luego son violentos, tiránicos, injustos y crudelísimos.
+          La premisa mayor es clara.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e255">La menor se prueba porque,
+          después de repartidos donde se repartían,
+          por personas o por cabezas
+          como en la isla Española y las demás,
+          y en Nicaragua, y en Venezuela y Popayán y en Chile y en otras partes,
+          totalmente todos, chicos y grandes,
+          mujeres y hombres, preñadas y paridas,
+          mozos y viejos, niños y niñas, señores y súbditos, sanos y enfermos,
+          eran y son puestos en tanta servidumbre de los españoles
+          que ni una hora les dejaban ni dejan respirar
+          sin que se ocupen,
+          ora en las minas, ora en las labranzas,
+          ora en llevar cargas a cuestas a cualquier distancia como bestias;
+          y cuando faltan hombres o están ocupados,
+          sirven las mujeres de jumentos, llevando las cargas,
+          y en todas cuantas cosas los han menester noches y días,
+          como si fuesen esclavos comprados y vendidos,
+          habidos en justa guerra;
+          y comúnmente todos sus servicios son por ángaras,
+          que no solo hacen las labores y trabajos
+          y sirven de lo que dicho es,
+          sino todo a su costa y a su propia comida,
+          aunque vengan de veinte y cincuenta y más leguas:
+          han de traer lo que han de comer en el camino de ida,
+          y para la estada en los trabajos y haciendas,
+          de cavar y hacer todo lo que los hombres y bestias han de obrar
+          les mandan,
+          y después para volverse a sus tierras y casas.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e299">Y los indios de los pueblos que no se reparten por cabezas,
+          sino que un pueblo entero o pueblos enteros
+          se dan a un español para que le sirvan,
+          junto con el señor natural o señores,
+          son por otras maneras vejados y oprimidos
+          y viven vida de desesperados y malaventurados.
+          Estos son los tributos, tantos y de tantas cosas,
+          que nunca los vivos ni los muertos
+          jamás vieron ni oyeron imposiciones tan imposibles,
+          crueles y execrables, en hombres humanos.
+          Quiero poner ejemplo en un pueblo del obispado de Chiapa
+          de quinientas casas,
+          en que se encierran el marido y la mujer y sus hijuelos,
+          y han de dar sesenta o setenta hombres ordinarios
+          que vengan cada día a trabajar en lo que el encomendero les mandare.
+          Ítem, que todo el pueblo siembre una sementera de treinta fanegas de maíz cada año,
+          y que la cuide y deshierbe y beneficie hasta cosecharla;
+          en sembrar este maíz gastan mucho tiempo,
+          porque lo siembran grano a grano.
+          Ítem, que le siembren siete fanegas de trigo,
+          y otras seis fanegas de frijoles,
+          que son como altramuces o habas,
+          y dos fanegas de algodón.
+          Ítem, que pueda sacar del pueblo cada año mil y doscientos hombres
+          —que apenas hay más personas en todo el pueblo—
+          para que se carguen y lleven la hacienda del español,
+          como es azúcar u otras cosas,
+          al puerto que está del dicho pueblo cuarenta leguas;
+          y por el transporte da a cada uno el encomendero
+          cien cacaos o almendras,
+          que valen hasta veinte maravedís el ciento.
+          Ítem, doscientos xequíniles de cacao,
+          que es una medida que cabe ocho mil almendras,
+          cosa que ellos tienen de su cosecha,
+          y lo han de ir a comprar a otras tierras o provincias.
+          Ítem, que den sesenta fanegas de sal,
+          lo cual han de ir a buscar al mar, veinte y treinta leguas de sus casas,
+          o a comprarla o a hacerla,
+          donde tardan muchos días.
+          Ítem, que cada Pascua le den cincuenta mantas de algodón
+          de dos varas en cuadra,
+          y cincuenta camisas para la gente de su casa.
+          Estos no crían algodón porque la tierra no es para ello,
+          y han de ir a comprarlo treinta y cuarenta leguas
+          y traerlo a cuestas,
+          y después hilarlo, y después tejerlo,
+          y después coser las camisas;
+          y una gente que no tiene en su vida más caudal
+          de lo que suda en trabajos cada día
+          para mantenerse a sí y a sus mujeres e hijos:
+          ¿con qué comprarán en otras tierras lo que no tienen ni crían?
+          Esto lo compran yendo a servir algún tiempo
+          a las gentes que aquello tienen;
+          y como donde lo van a comprar es tierra caliente,
+          mueren muchos antes de volver a sus casas.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e395">Ítem, que dé al encomendero doce gallinas de la tierra,
+          que son como pavos abultados,
+          que para estar en buen estado tardan en criarse tres y cuatro años;
+          y en cada Pascua, setenta gallinas,
+          la mitad de aquellas de la tierra,
+          y las otras treinta y cinco de las de Castilla.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e406">Ítem, que de todo el dicho maíz y trigo
+          y lo demás que sembraren y cosecharen, como dicho es,
+          se lo traigan a la ciudad a cuestas, cuanto fuere menester.
+          Ítem, que provean y reparen el ingenio y la estancia
+          de comida,
+          que suelen estar en ellos ciento y cincuenta personas,
+          y se ofrecen obras en el ingenio
+          que han menester trescientos hombres juntos,
+          como se hizo para llevar de algunas leguas
+          una gran viga que se había quebrado,
+          y renovar las casas y otros grandes trabajos y ocupaciones
+          que a cada hora en los ingenios se ofrecen.
+          Y esto no tiene limitación,
+          sino cada vez que el encomendero quiere o lo ha menester,
+          lo han de hacer todo a su costa,
+          además de todo lo que está dicho y se dirá.
+          Ítem, que le den todos los chacunites y petacas,
+          que son las cajas como cestos a hechura de arcas
+          que se hacen de mimbres o de cañas cubiertas de cueros de venado,
+          cuanto hubiere menester para su casa
+          y para meter el azúcar del ingenio.
+          Ítem, toda la tablazón que fuere menester para hacer las cajas
+          en que han de enviar a Castilla el azúcar.
+          Verdaderamente, solo esto, que va sin limitación de número y medida,
+          sería tributo y carga intolerable para la ciudad de Écija
+          o la villa de Madrid.
+          Para solo esto cumplir están dedicadas muchas casas de indios,
+          maridos y mujeres e hijos,
+          que otra cosa no hacen sino entender en obrar los dichos vasos o cestos;
+          y muy gran número de indios, por otra parte,
+          buscando, cazando y matando venados
+          para con sus cueros cubrirlos.
+          Otro no pequeño número cortando árboles
+          y aserrando tablas para las dichas cajas.
+          ¡Todo esto a su costa,
+          y han de buscar su comida para sí y para sus mujeres e hijos!
+          ¿Qué se puede imaginar mayor crueldad ni mayor tiranía?
+          Pues hay más.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e472">Ítem, que traigan de Tehuantepec,
+          que es un puerto de mar que está del pueblo grandes cuarenta leguas,
+          todo el pescado y camarones que hubieren menester para su casa.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e481">Ítem, que le den todos los indios como mensajeros
+          que hubiere menester,
+          para enviarlos a donde quiera.
+          Ítem, que le den cada año para su casa y gente
+          cien pares de alpargatas,
+          y cincuenta cotaras,
+          que son cierta manera de calzado para los pies
+          como los usaban los antiguos,
+          según parece en los paños de tapicería.
+          Ítem, si quisiere plantar y hacer heredad de morales
+          para hacer seda, que puedan plantarlos y cuidarlos.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e499">Ítem, que le guarden todos los ganados:
+          puercos y vacas y ovejas,
+          y le reparen las casas y corrales de los hatos,
+          y la casa suya de la ciudad.
+          En los ganados tiene ocupadas seis casas de vecinos,
+          chicos y grandes, que otra cosa no hacen.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e510">Ítem, que le den todas las jícaras de Chiapa,
+          que son ciertos vasos hechos de calabazas muy pintadas
+          y sirven de tazas para beber y de escudillas y loza;
+          y todas las esteras;
+          y cordeles para jáquimas y cabestros,
+          y liar los azúcares que fueren menester.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e521">Ítem, todos los cántaros y ollas y jarros
+          y piedras de moler el maíz,
+          y otras cosillas —dice la tasación—
+          de que su casa y hacienda tuviere necesidad.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e402">Ítem, que le hilen algún algodón
+          para cosas necesarias de su casa;
+          y que en cada semana le den cien huevos;
+          y cuando estuviere en el ingenio de su estancia,
+          que es como granja o cortijo acá en España,
+          le den la fruta y comida que hubiere menester;
+          y acaecido llevar consigo ochenta indios cargados con su repuesto.
+          Ítem, que cada año le den veinte cántaros de miel,
+          lo cual han de andar buscando por los montes,
+          y otras carguillas de cera;
+          y mandósele, por los que esto tasaron,
+          que los indios que sirven en el ingenio
+          no trabajen más de sol a sol.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e434">Desto decir que para justificar todos estos tributos,
+          mandaron los tasadores de estos tributos
+          que le dieran cada año diez cueros de tigres,
+          que para tomar uno se juntan mil indios en los montes,
+          y antes de que lo tomen y maten
+          tiene desgarrados y destripados quince o veinte indios,
+          porque es animal crudelísimo y muy difícil de vencer.
+          Esta tasación de este pueblo y sus sujetos,
+          que son los vecinos dichos,
+          la hicieron un obispo y un tirano harto señalado en matar indios,
+          para que se vea la ignorancia y ceguedad del obispo
+          y la maldad del tirano.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e457">Y aunque esta parece, como lo es,
+          abominable y digna del fuego infernal,
+          sin comparación hay otras tasaciones mucho más crueles
+          en muchas partes de las Indias,
+          señaladamente en las provincias del Perú.
+          Bien creo que queda probado
+          ser tales encomiendas y el gobierno de las Indias
+          iniquo, nefando y tiránico, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

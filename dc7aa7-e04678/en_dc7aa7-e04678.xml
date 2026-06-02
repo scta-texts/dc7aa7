@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 16</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 16</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English,
+          including the two Latin quotations from Exodus.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04678">
+        <head xml:id="dc7aa7-e04678-Hd1e111">Chapter 16</head>
+        <p xml:id="dc7aa7-e04678-d1e113">§ 16.</p>
+        <p xml:id="dc7aa7-e04678-d1e118">The second part of the said seventh principle;
+          namely, the course of government that has been imposed
+          upon those peoples and lands,
+          any prudent reader may come to understand
+          what it must have been like
+          from the proofs of fact and of law
+          brought above for the first part.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e132">This has been, and is, the dividing among themselves by the Spaniards
+          of the towns of the Indians,
+          which they called repartimientos,
+          and afterwards, to give them a more honorable name,
+          they called them encomiendas.
+          In many parts of the Indies they divided out
+          not only towns, but the very persons of a town:
+          men, women, children and old people,
+          assigning to one Spaniard fifty,
+          to another a hundred, to another two hundred,
+          according to the favor each enjoyed
+          with the captain or governor,
+          and greater tyrant, who distributed them.
+          And to the one he most wished to honor and benefit
+          he gave the natural lord or lords of the town,
+          so that they too might serve him
+          in the same manner as their subjects.
+          This natural lord served like the others,
+          and was in greater servitude,
+          because if any of the subjects,
+          on account of the labors and sufferings they bore,
+          fled and failed to appear for the work and services,
+          the wretched lord suffered for it in blows and lashes
+          and in prison and the stocks,
+          like the overseers of Israel
+          who were like the foremen of the working parties,
+          who when the daily quota fell short
+          of the number of bricks the tyrant Pharaoh had imposed as tribute
+          were beaten and cruelly afflicted,
+          as appears from <ref xml:id="dc7aa7-e04678-Rd1e177">Exodus, chapter 5:</ref>
+          <quote xml:id="dc7aa7-e04678-Qd1e179">"And the overseers of the works of the children of Israel
+          were beaten by the taskmasters of Pharaoh, saying:
+          why have you not fulfilled your quota of bricks as before,
+          neither yesterday nor today? etc."</quote>
+          Which in truth was fulfilled and is fulfilled today to the letter
+          throughout all the Indies.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e191">The afflictions and oppressions and harsh servitude
+          that all those peoples have suffered and suffer,
+          on account of the insupportable tributes and burdens
+          that have been imposed upon them in diverse ways,
+          cannot be believed;
+          but in truth and with truth we affirm
+          that it is far more than we here describe.
+          And what with the most shameless brazenness and profound insensibility
+          the sinful tyrants, more cruel than Pharaoh, dare to say
+          is that the Indians are lazy and idle
+          and can contribute more in tributes and services:
+          the very words Pharaoh said:
+          <quote xml:id="dc7aa7-e04678-Qd1e210">"You are idle, and therefore straw shall not be given to you, etc."</quote>
+          — giving them no time or space even to breathe,
+          and far harder than Pharaoh dealt with the Israelites.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e221">That these repartimientos and encomiendas
+          and this manner of governing
+          are violent, unjust, abominable, tyrannical, and most cruel,
+          though it is plain in itself if one looks with free and compassionate eyes:
+          I wish nonetheless to set down only some brief and simple reasons,
+          leaving the full proof of this to our other treatises,
+          where it has been sufficiently and amply proved.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e237">Let the first be this:
+          that manner of ruling or governing free men or peoples
+          is violent, unjust, abominable, and most cruel
+          that deprives subjects of all their liberty,
+          in such a way that they cannot freely dispose
+          of their own persons
+          or of those in their charge,
+          such as their children and dependents.
+          Now the said repartimientos are of this kind;
+          therefore they are violent, tyrannical, unjust, and most cruel.
+          The major premise is clear.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e255">The minor is proved because,
+          after being distributed wherever they were distributed,
+          by persons or by heads,
+          as in Hispaniola and the other islands,
+          and in Nicaragua, and in Venezuela and Popayán
+          and in Chile and in other places,
+          all of them entirely, small and great,
+          women and men, pregnant and newly delivered,
+          young and old, boys and girls, lords and subjects, healthy and sick,
+          were and are placed in such servitude to the Spaniards
+          that not an hour did they or do they leave them to breathe
+          without being occupied,
+          whether in the mines or in the fields,
+          or in carrying loads on their backs for any distance, like beasts;
+          and when men are lacking or occupied,
+          women serve as pack animals, carrying the loads,
+          and in all the things they need them for, day and night,
+          as if they were slaves bought and sold,
+          taken in a just war;
+          and commonly all their services are rendered by compulsion,
+          so that not only do they perform the labors and tasks
+          and serve as described,
+          but all of this at their own cost and on their own food,
+          even if they must come from twenty or fifty or more leagues away:
+          they must bring what they are to eat on the journey there,
+          and for the time spent on the labors and estates —
+          digging and doing everything men and beasts must do
+          as commanded —
+          and then for the return journey to their lands and homes.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e299">And the Indians of towns that are not distributed by heads,
+          but where an entire town or towns are given to a Spaniard
+          to serve him, together with their natural lord or lords,
+          are in other ways harassed and oppressed
+          and live the life of the desperate and the wretched.
+          These are the tributes, so many and of so many kinds,
+          that neither the living nor the dead
+          have ever seen or heard of impositions so impossible,
+          cruel, and execrable, upon human beings.
+          I wish to give the example of a town in the bishopric of Chiapa
+          of five hundred households,
+          within which dwell husbands and wives and their young children,
+          who must provide sixty or seventy men daily
+          to come and work at whatever the encomendero orders them.
+          Item, that the whole town sow a field of thirty fanegas of maize each year,
+          and tend and weed and cultivate it until the harvest;
+          in sowing this maize they spend a great deal of time,
+          because they sow it grain by grain.
+          Item, that they sow for him seven fanegas of wheat,
+          and another six fanegas of beans,
+          which are like lupins or broad beans,
+          and two fanegas of cotton.
+          Item, that he may extract from the town each year
+          twelve hundred men — which is barely more people
+          than the entire town possesses —
+          to be loaded up and carry the Spaniard's goods,
+          such as sugar or other things,
+          to the port that lies forty leagues from the said town;
+          and for this transport the encomendero gives each one
+          one hundred cacao beans or almonds,
+          worth up to twenty maravedís the hundred.
+          Item, two hundred xequíniles of cacao,
+          which is a measure holding eight thousand almonds,
+          something they must grow from their own harvest,
+          and yet must go to buy in other lands or provinces.
+          Item, that they give sixty fanegas of salt,
+          for which they must go to the sea, twenty or thirty leagues from their homes,
+          either to buy it or to make it,
+          where they spend many days.
+          Item, that each Easter they give him fifty cotton blankets
+          two yards square,
+          and fifty shirts for the people of his household.
+          These people do not grow cotton because the land is not suited to it,
+          and they must go to buy it thirty or forty leagues away
+          and carry it back on their shoulders,
+          and then spin it, and then weave it,
+          and then sew the shirts;
+          and a people who have in their lives no more means
+          than what they earn in daily toil
+          to sustain themselves and their wives and children:
+          with what shall they buy in other lands what they do not have or grow?
+          They obtain it by going to serve for some time
+          among the peoples who have those things;
+          and because where they go to buy it is hot country,
+          many die before they can return to their homes.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e395">Item, that he give the encomendero twelve native turkeys
+          — for they are large birds like overgrown fowl
+          that take three or four years to mature properly —
+          and at each Easter, seventy birds,
+          half of those native ones,
+          and the other thirty-five of the Castilian kind.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e406">Item, that from all the said maize and wheat
+          and everything else they sow and harvest, as described,
+          they carry it to the city on their backs, as much as is needed.
+          Item, that they provision and maintain the sugar mill and the estate
+          with food,
+          where there are usually a hundred and fifty persons,
+          and works arise at the mill requiring three hundred men to gather,
+          as was done to carry from several leagues away
+          a great beam that had broken,
+          and to renovate the buildings and other great labors and tasks
+          that arise at the mills every hour.
+          And this has no limit,
+          but whenever the encomendero wishes or has need,
+          they must do all of it at their own cost,
+          beyond everything already said and yet to be said.
+          Item, that they give him all the chacunites and petacas —
+          which are the boxes like baskets in the shape of chests
+          made of wicker or canes covered with deerskins —
+          as many as he needs for his household
+          and to pack the sugar from the mill.
+          Item, all the planking needed to make the crates
+          in which the sugar is to be sent to Castile.
+          Truly, this last item alone, with no limit in number or measure,
+          would be an intolerable tribute and burden
+          for the city of Écija or the town of Madrid.
+          For this task alone there are dedicated many Indian households,
+          husbands and wives and children,
+          who do nothing else but work at making the said vessels or baskets;
+          and a very great number of Indians besides,
+          searching, hunting, and killing deer
+          to cover them with their hides.
+          Another no small number cutting trees
+          and sawing planks for the said crates.
+          All of this at their own cost,
+          and they must find their own food for themselves
+          and for their wives and children.
+          What greater cruelty or greater tyranny can be imagined?
+          And yet there is more.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e472">Item, that they bring from Tehuantepec,
+          which is a seaport that lies a full forty leagues from their town,
+          all the fish and shrimp needed for his household.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e481">Item, that they give him all the Indians he needs as messengers,
+          to send wherever he wishes.
+          Item, that they give him each year for his household and people
+          a hundred pairs of sandals,
+          and fifty cotaras,
+          which are a certain kind of footwear for the feet
+          such as the ancients used,
+          as appears in the tapestry hangings.
+          Item, if he wishes to plant and establish a grove of mulberry trees
+          to make silk, that they may plant and tend them.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e499">Item, that they watch over all his livestock:
+          pigs and cattle and sheep,
+          and repair the houses and corrals of his herding stations,
+          and his own house in the city.
+          For the livestock he has six households of neighbors,
+          small and great, who do nothing else.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e510">Item, that they give him all the jícaras of Chiapa,
+          which are certain vessels made from very painted gourds
+          used as cups for drinking and as bowls and pottery;
+          and all the mats;
+          and cords for halters and lead ropes,
+          and for bundling the sugar as needed.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e521">Item, all the pitchers and pots and jars
+          and grinding stones for maize,
+          and other small things — the assessment says —
+          of which his house and estate may have need.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e402">Item, that they spin some cotton
+          for necessary things in his household;
+          and that each week they give him a hundred eggs;
+          and when he is at the mill of his estate —
+          which is like a farmstead or country property here in Spain —
+          that they give him the fruit and food he needs;
+          and it has happened that he took with him
+          eighty Indians loaded with his provisions.
+          Item, that each year they give him twenty jars of honey,
+          which they must go seeking through the forests,
+          and other small loads of wax;
+          and those who drew up this assessment
+          ordered that the Indians who serve at the mill
+          should not work more than from sunrise to sunset.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e434">To this I will add that to round out and justify all these tributes,
+          the assessors of these tributes ordered
+          that the Indians give him each year ten jaguar hides,
+          for the taking of one of which
+          a thousand Indians gather in the forests,
+          and before they take and kill it
+          it has torn apart and disemboweled fifteen or twenty Indians,
+          for it is a most ferocious animal and very hard to overcome.
+          This assessment for this town and its subject settlements —
+          which are the inhabitants described —
+          was made by a bishop and a tyrant who was rather notorious
+          for killing Indians,
+          that one may see the ignorance and blindness of the bishop
+          and the wickedness of the tyrant.
+        </p>
+        <p xml:id="dc7aa7-e04678-d1e457">And though this appears — as it is —
+          abominable and worthy of hellfire,
+          there are without comparison other assessments
+          far more cruel in many parts of the Indies,
+          especially in the provinces of Peru.
+          I well believe it stands proved
+          that such encomiendas and the government of the Indies
+          are iniquitous, abominable, and tyrannical, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
