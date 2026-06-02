@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 15</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 15</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          La cita de 1 Tesalonicenses ha sido traducida al español.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e04292">
+        <head xml:id="dc7aa7-e04292-Hd1e111">Capítulo 15</head>
+        <p xml:id="dc7aa7-e04292-d1e113">§ 15.</p>
+        <p xml:id="dc7aa7-e04292-d1e119">De lo dicho queda probada la segunda parte
+          de la orden del derecho divino y natural;
+          conviene a saber, que los españoles no guardaron
+          que su primer ingreso fuese pausado y poco a poco y espacioso,
+          dándoles a entender que iban por su provecho y salud
+          para ganarles la voluntad;
+          antes, como rayos del cielo, impetuosa, violenta y súbitamente,
+          que abrasa todo lo que toca,
+          daban en ellos y hacían lo que queda dicho.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e137">Lo mismo parece haber violado:
+          la tercera parte de la dicha orden natural y divina,
+          haciendo ingreso y primera entrada
+          y desembarco de las naves en la tierra
+          injurioso y perjudicial a aquellas gentes,
+          como entraran sin licencia de los reyes y señores
+          y vecinos de cada provincia o tierra;
+          causando tan grande turbación y escándalo en algunas partes
+          que ya tenían noticia de sus obras,
+          temiendo padecer los daños y estragos que habían hecho a sus vecinos,
+          resistiéndoles la entrada justísimamente.
+          La cual resistencia, justísima defensa natural,
+          y además de la defensa, era guerra justa
+          para castigarlos como a enemigos invasores y agresores
+          de reinos y señoríos ajenos,
+          como queda dicho en el primer principio;
+          y en la cuarta especie tenían y tienen
+          jurisdicción natural contra nosotros,
+          y justo e íntegro poder.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e168">Que la cuarta parte hayan también profanado,
+          que era vivir cristianamente
+          para que los infieles por su buen ejemplo
+          fuesen movidos y se aficionasen a recibir nuestra santa fe:
+          ¿quién lo ignorará de cuantos hoy viven en el mundo y en su redondez?
+          ¿Quién podrá referir las detestables obras
+          en todo género de fealdad y maldad
+          que los nuestros, desventurados hombres
+          cercanos a la eterna condenación,
+          sin las crudelísimas abominaciones y varias impiedades
+          cometidas en las guerras,
+          han perpetrado en su conversación y vivir,
+          en deshonor y blasfemia del nombre de Cristo
+          y de toda la religión cristiana?
+          ¿Cuántos robos, latrocinios, rapiñas, fuerzas, violencias, plagios,
+          haciendo esclavos a los libres,
+          quitando los hijos a los padres,
+          las hijas a las madres,
+          y así a unos y a otros contra derecho natural, dejándolos huérfanos,
+          usurpaciones de tierras y señoríos ajenos,
+          de particulares y de reyes y repúblicas?
+          ¿Cuántos adulterios, estupros, raptos de vírgenes solteras y casadas?
+          Y lo que tienen ya como cosa comunísima y canonizada,
+          como virtud muy celebrada,
+          tener consigo no una sola para de ella mal usar,
+          sino tres y cuatro y algunas muchas más.
+          Y porque no les faltase colmo para su desenfrenada vida,
+          en gravedad de pecados contra Dios,
+          hubo uno que tomó por granjería
+          comprar de los indios, en cierta provincia, ídolos
+          para vender en otra donde entendía venderlos más caros,
+          habiendo dejado y quemado los ídolos
+          por la predicación de los frailes;
+          los cuales se quejaban diciendo
+          que los frailes los habían engañado
+          por haberles hecho dejar sus dioses, que sabían que eran mejores,
+          que no los que les vendía aquel cristiano.
+          Y finalmente en esta mercadería dio el alma al diablo.
+          Y que esto fuese así pareció claro,
+          porque murió sin confesión,
+          teniendo algunas cargas de ídolos debajo de su cama,
+          que después ciertos religiosos de San Francisco le hallaron.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e239">Esta es la vida y el ejemplo que han tenido y hoy tienen
+          y dan a aquellos infieles
+          los que llevan de acá nombre de cristianos;
+          y así estiman que todos los que profesan la fe y religión cristiana son iguales,
+          y que su Dios y su ley, y también su rey,
+          lo tienen así ordenado y mandado.
+          Esto escribió un obispo de Santa Marta de la orden de san Pedro,
+          el año de cuarenta y uno,
+          al Emperador y al doctor Bernal,
+          que era entonces del Consejo de las Indias.
+          Y yo tengo hoy en mi poder una de estas cartas.
+          Donde dice así:
+          «No habría indio que no fuera cristiano y vasallo de Su Majestad,
+          si no fuese por las vejaciones y fatigas y tormentos
+          que los españoles les hacen.
+          Por lo cual ninguna cosa les es más odiosa ni aborrecible
+          que el nombre de cristiano;
+          y así los llaman en su lengua diablos.
+          Y sin duda ninguna a ellos les sobra razón,
+          porque las obras que les ven obrar
+          no son de cristianos
+          ni tampoco de hombres que tienen uso de razón,
+          sino de demonios.
+          De donde nace que, como ven este obrar mal tan general,
+          así en las cabezas como en los miembros,
+          piensan que los cristianos lo tienen por ley
+          y se lo manda su Dios y su rey;
+          y trabajar de persuadirles otra cosa
+          es querer echar lanzas en el mar,
+          y darles materia de reír
+          y hacer burla y escarnio de Jesucristo y de su ley, etc.»
+          Estas son sus palabras formales.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e287">Por esta cuarta parte y violación de la orden divina y natural,
+          bien estaremos ciertos de que ninguno que sea hombre racional,
+          aunque no sea letrado,
+          negará que fue y ha sido el primer ingreso
+          y aun el progreso de los españoles en las Indias
+          violento, crudelísimo, nefando y tiránico,
+          y de crueles enemigos,
+          y tal que ninguna mala gente lo pudiera empeorar.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e300">Que hayan quebrantado y violado la quinta parte;
+          conviene a saber, que dieran noticia de la causa final de su ida,
+          que era la predicación, etc.:
+          poco tardaremos en probarlo,
+          pues no fue otra su entrada
+          sino impetuosamente, asaltando, quemando, asolando,
+          talando y destruyendo y robando a aquellas gentes,
+          y bañando los pueblos y campos de sangre humana.
+          Contra la blandura, dulzura y suavidad, modestia, gracia y amor de caridad,
+          y el largo tiempo que se requería para declararla y alabarla.
+          Bien es verdad que la causa final que desde estos reinos los movió
+          a navegar a aquellas partes,
+          muy largamente y luego se la declaraban;
+          conviene a saber, que les dieran oro y plata,
+          no la honra de Dios ni la salvación de las almas.
+          Lo cual bien mostraban por los tormentos exquisitos
+          y nunca antes vistos ni oídos
+          que por pedirles oro —habiéndoles puesto cuanto tenían en sus manos—,
+          y sospechando que tenían más,
+          les daban, y con ellos sin misericordia alguna cruelmente los mataban.
+          Este fue todo su fin último:
+          este los sacó de España y los llevó allá;
+          este los ha regido y mandado y señoreado siempre;
+          y por este han infamado al Hijo de Dios
+          y ofendido a toda la santísima Trinidad,
+          y puesto en odio y abominación este nombre de cristianos;
+          por este han asolado aquellas gentes inmensas
+          y despoblado aquellas tierras de tanta anchura y longitud;
+          por este viven siempre en estado de eterna condenación;
+          y que por este sea imposible salvarse
+          sin penitencia gravísima y satisfacción plenaria
+          de tantos daños irreparables como fueron causa:
+          no les vale que sea cristiano,
+          sino fuere gran bestia y más infiel que cristiano,
+          poder dudarlo.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e361">La sexta parte fue
+          que la fe católica distinta, explícita y graciosamente,
+          y de manera pausada, según la forma que Cristo estableció,
+          se predicara.
+          A esta predicación de la fe,
+          de tal manera la han favorecido y ayudado los españoles
+          que —con verdad de Dios digo, entendiendo que hablo—
+          Dios no ha tenido en el mundo otros mayores enemigos
+          ni más eficaces impedidores o estorbadores de su crecimiento y dilatación,
+          en cuanto a estorbarla por sus propios intereses
+          para haber oro y adquirir riquezas.
+          Solo han diferido de todos los perseguidores de la fe,
+          gentiles o paganos,
+          en que no han muerto con sus propias manos
+          a los predicadores que la han predicado;
+          pero todos los estorbos y cuantas persecuciones se pueden pensar,
+          sin llegar a matarlos,
+          para quitarles toda autoridad,
+          les han hecho y procurado,
+          levantándoles falsísimos testimonios
+          y amenazándolos con juramento a Dios
+          de que si no se salían de los pueblos que ellos tenían encomendados
+          les habían de dar de puñaladas.
+          Y porque no se escaparan de ser homicidas de frailes,
+          algunas veces han sido causa de que los indios matasen a algunos religiosos,
+          a raíz de los escándalos que ellos habían dado.
+          Y llegó a tanto la maldad de algunos
+          que hicieron entender a los indios de cierta provincia
+          que los frailes comían carne humana,
+          y que no les diesen sus hijos para doctrinarlos,
+          porque se los comerían cuando no se lo esperaran.
+          Y hubo un tirano que mandó a los indios
+          que matasen a un fraile a palos,
+          y así lo hicieron, y así muerto lo dejaron.
+          Lo que alegan es que, después que los religiosos les predican
+          y los hacen cristianos,
+          luego son bachilleres y no se puede servir de ellos,
+          o se impiden los tributos que les está mandado dar.
+          Y esto lo dicen porque se quejan a los frailes,
+          y los frailes avisan a los gobernadores
+          de los agravios y opresiones
+          con que sin cesar los atormentan.
+          Y de estos tales tuvo san Pablo adversarios
+          que le impedían la predicación del Evangelio
+          y la conversión de las almas:
+          <quote xml:id="dc7aa7-e04292-Qd1e428">«Impidiéndonos hablar a los gentiles para que se salven,
+          para colmar siempre sus pecados;
+          pero la ira de Dios ha caído sobre ellos hasta el fin.»</quote>
+          <ref xml:id="dc7aa7-e04292-Rd1e435">1 a los Tesalonicenses 2.</ref>
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e438">De tres maneras impiden y destruyen los españoles
+          la predicación de la fe y la salvación de las almas en las Indias.
+          La una, matando y destruyendo aquellas gentes tan infinitas
+          antes de que oygan palabra de Cristo,
+          echándolas a los infiernos sin fe y sin sacramentos.
+          La segunda, contradiciendo la fe y doctrina cristiana
+          por las muchas obras, nefandos ejemplos y escelerada vida
+          que hacen y viven.
+          La tercera, directamente,
+          prohibiendo que los religiosos entren en los pueblos de los indios
+          a predicarles,
+          y quitándoles toda autoridad y crédito en cuanto pueden.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e462">Bien creo que queda probado
+          haber quebrantado y violado los españoles
+          la orden natural y divina por esta parte sexta,
+          y por consiguiente haber sido tiranos,
+          tanto en cuanto al ingreso como al progreso juntamente.
+        </p>
+        <p xml:id="dc7aa7-e04292-d1e474">Por todo lo que hemos traído para prueba
+          de las seis partes de la orden del derecho natural y divino,
+          parece probada la séptima y última;
+          conviene a saber, no haberse celebrado
+          el contrato, pacto y convenio
+          entre la parte de nuestros reyes y señores de Castilla y León
+          y los reyes y señores y pueblos de aquel orbe
+          ni de alguna parte de él,
+          como de derecho natural y divino necesariamente se requería.
+          Porque todo su intento y fin no fue otro
+          sino entrar en aquellos reinos y tierras
+          y subyugarlos y señorearlos,
+          y haber las riquezas y tesoros que en ellas había;
+          y los medios que para conseguir este su amado y deseado fin emplearon
+          fueron matar y destruir, despedazar y hacer estragos
+          por diversas y nuevas maneras de crueldades
+          en aquellas naciones, señores naturales y dueños de ellas,
+          como si todas las Indias fueran unos pastizales llenos de ganados,
+          como lo estaban de gentes,
+          y hubieran de cargar las naves de cecinas para volverse;
+          y es cierto que no han hecho más cuenta de ellas.
+          Y así parece cómo los españoles quebrantaron y violaron
+          la orden de la ley natural y divina
+          por todas las partes que contiene,
+          y por consiguiente la primera parte del séptimo principio;
+          conviene a saber, que el primer ingreso o pie
+          con que entraron en las Indias y en cada parte o lugar de ellas
+          fue tiránico y crudelísimo
+          y peor que lo que ninguna nación bárbara haría,
+          ni aun las crueles bestias:
+          manifesta parece.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
