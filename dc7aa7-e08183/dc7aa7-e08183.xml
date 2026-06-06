@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 25</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 25</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas en latín han sido traducidas al español;
+          las referencias jurídicas y escolásticas latinas se conservan en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e08183">
+        <head xml:id="dc7aa7-e08183-Hd1e111">Capítulo 25</head>
+        <p xml:id="dc7aa7-e08183-d1e113">§ 25.</p>
+        <p xml:id="dc7aa7-e08183-d1e115">Se dijo en la conclusión que cada uno de los que allí se hallaron
+          son obligados in solidum —
+          que quiere decir cada uno por el todo o por todos —:
+          pruébase por aquella máxima de <ref xml:id="dc7aa7-e08183-Rd1e123">Santo Tomás 2.2 q. 62 a. 7:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e128">«Cualquiera que es causa de una injusta apropiación
+          o de un daño, está obligado a la restitución.»</quote>
+          Pues todos aquellos ciento y setenta desalmados
+          fueron juntamente causa total
+          de la prisión y muerte y robos de aquel rey,
+          y de siete u ocho mil hombres desarmados
+          que aquel día allí mataron
+          — los que llevaban al rey en sus andas o sobre sus hombros —,
+          y después de otros muchos;
+          y ninguno de ellos — ni diez, ni veinte, ni treinta —
+          se hubiera atrevido a ir a aquellos reinos
+          ni a acometer lo que hicieron;
+          y así, todos acometieron, todos prendieron,
+          todos mataron, y todos robaron y usurparon aquellos reinos.
+          Y esta es una razón.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e156">Otra razón es que todos y cada uno de ellos
+          iban y fueron con una misma ciencia y un mismo deseo,
+          porque todos sabían y querían y quisieron ir a lo que iban,
+          y fueron con el mismo propósito y en la misma intención,
+          con la misma ambición y codicia;
+          conviene a saber, a hacer guerra
+          y subyugar y señorear y robar aquellos reinos y gentes
+          que nunca mal ni agravio ni injuria les hicieron ni ofendieron,
+          ni mal les merecieron.
+          Y así les robaron su oro, su plata, sus infinitas riquezas,
+          sus tierras, sus reinos, sus haciendas,
+          despojándolos de su libertad y de sus reinos y señoríos.
+          Y entre todo esto, aquellos mismos
+          y los que después de ellos allá fueron,
+          quemaron vivos y mataron con diversas maneras de tormentos inmensos,
+          y echaron a los infiernos sin fe y sin sacramentos.
+          Luego, todos y cada uno de ellos son obligados
+          a restituir todo lo que robaron y tiranizaron,
+          y a satisfacer por los inmensos daños
+          que desde entonces a todos aquellos reinos se multiplicaron.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e193">Esta consecuencia se prueba:
+          lo primero porque
+          <quote xml:id="dc7aa7-e08183-Qd1e201">«la obligación de restituir sigue causalmente
+          al acto de apropiarse o de dañar;
+          y esto en el caso presente corresponde a aquellos
+          cuyas acciones u obras se extienden a tomar todas las cosas
+          y a infligir todos los daños,
+          y son directamente la causa única de la voluntad y operación
+          por la cual el bien total es arrebatado
+          y el daño total es infligido,
+          aunque cada uno haya sido causa parcial.
+          Y así su causalidad se extiende al todo.
+          Y por tanto cada uno es responsable del todo,
+          que es lo que se dice in solidum,
+          ya que juntos fueron causa total de aquellos daños,
+          aunque en particular cada uno haya sido causa parcial,
+          pero por sí mismo causa del total de lo arrebatado o del daño dado.»</quote>
+          Como consta por <ref xml:id="dc7aa7-e08183-Rd1e235">L. ita vulneratus, §. fin.,</ref>
+          <ref xml:id="dc7aa7-e08183-Rd1e237">ff., Ad Legem Aquiliam;</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e242">L. si plures, Digest., Arborum furtim scisarum.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e246">Lo segundo se prueba por la ley que dice:
+          <quote xml:id="dc7aa7-e08183-Qd1e250">«Si varios derribaron una viga y esta aplastó a alguien,
+          todos responden bajo la Ley Aquilia.»</quote>
+          <ref xml:id="dc7aa7-e08183-Rd1e255">L. item mela, §. si plures, ff., Ad Legem Aquiliam.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e261">Lo tercero, por <ref xml:id="dc7aa7-e08183-Rd1e263">L. vulgaris, §. Si duo. ff. De furtis, donde se dice así:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e267">«Si dos o más hurtaron un madero
+          que ninguno de ellos por sí solo podía llevarse:
+          ha de decirse que todos ellos responden del hurto in solidum;
+          aunque no pudiera manejarlo ni llevárselo por sí solo ninguno:
+          y así lo usamos,
+          pues no puede decirse que cada uno hurtó solo una parte,
+          sino que todos hurtaron la cosa entera.
+          Y así resultará que cada uno responde del hurto.»</quote>
+          Hasta aquí.
+          Y en <ref xml:id="dc7aa7-e08183-Rd1e278">dicho §. fin. se dice así:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e283">«Cuando varios levantaron una viga ajena con ánimo de hurtarla,
+          que ninguno de ellos por sí solo podía llevar,
+          se estima que todos responden de la acción de hurto.»</quote>
+          Hasta aquí.
+          Y en <ref xml:id="dc7aa7-e08183-Rd1e291">la glosa allí se dice</ref> que todos responden in solidum.
+          Y se alega <ref xml:id="dc7aa7-e08183-Rd1e295">dicha L. vulgaris, penúlt.</ref>
+          Pues hay tantos delitos cuantas personas,
+          como en ff., <ref xml:id="dc7aa7-e08183-Rd1e299">De injuriis, L. si plures;</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e301">glosa en L. 1, Si plures,</ref> ff., De eo per quem factum erit.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e307">Son pues obligados aquellos ciento y setenta,
+          cada uno in solidum,
+          a todo cuanto ellos robaron,
+          y a satisfacer todos los daños que hicieron mientras vivieron,
+          y a restituir y satisfacer todo cuanto los que después
+          a aquellos reinos fueron
+          robaron y daños a todas aquellas gentes hicieron,
+          porque queda probado que abrieron la puerta
+          y fueron ocasión de todos los robos y males
+          que después a aquellos reinos y gentes sucedieron.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e327">Se sigue en la conclusión que fueron fementidos,
+          como hombres sin fe y sin verdad
+          e indignos de ser hombres:
+          lo cual se prueba porque aun a los enemigos
+          y contra quienes tenemos justa guerra,
+          debemos guardar y cumplir la fe y palabra que les prometiéremos;
+          y <quote xml:id="dc7aa7-e08183-Qd1e337">«es contra la equidad natural no guardar los pactos»,</quote>
+          <ref xml:id="dc7aa7-e08183-Rd1e343">como en L. Conventionum, f., De pactis;</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e348">L. postliminium, inducit,</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e353">L. Non dubito, ff. de captivis et postlimiis.</ref>
+          Y parece por el <ref xml:id="dc7aa7-e08183-Rd1e357">c. Nola, 23, q. 1,</ref>
+          et <ref xml:id="dc7aa7-e08183-Rd1e359">glosa en c. utilem, 22, q. 27</ref>
+          y <ref xml:id="dc7aa7-e08183-Rd1e362">Santo Tomás, 2.2 q. 40 a. 3 corp.:</ref>
+          <quote xml:id="dc7aa7-e08183-Qd1e367">«Hay ciertos derechos de guerra y pactos que deben guardarse
+          incluso entre los mismos enemigos,
+          como dice Ambrosio en el libro De los Oficios.»</quote>
+          ¡Cuánto más eran obligados a guardar y cumplir
+          la fe y la promesa que le hicieron
+          de soltarlo de tan injusta prisión!
+          Pues él cumplió lo que les prometió
+          y más de lo que había prometido,
+          en darles lo que cupiese de oro y plata
+          en una casa de cinco o seis estados de altura,
+          añadiéndole medio estado más
+          de la señal que le habían marcado.
+          ¡Cuánto más que aunque lo hubieran soltado,
+          todavía quedaban obligados a restituir la casa de oro
+          hasta el último cuadrante,
+          porque la prisión fue injusta y tiránica,
+          y estando preso, prometiendo cuanto tenía,
+          era inválida,
+          como es manifiesto a los que saben algo de los derechos.
+          Véase la L. decernimus y lo que allí se nota,
+          que pusimos en el § 4.
+        </p>
+        <p xml:id="dc7aa7-e08183-d1e397">Fueron pues fementidos y sin fe ni verdad,
+          y en gran ignominia del honor divino y de la religión cristiana.
+          ¿En qué estimación tendría aquel rey,
+          de allí en adelante — ya que no lo quemaron —,
+          la fe y la palabra de los cristianos?
+          Finalmente, bien parece — y más que claro —
+          los gravísimos pecados que aquellos
+          contra Dios y contra los hombres cometieron,
+          y la obligación que tuvieron los que de ellos ya son muertos,
+          y tienen los que restan,
+          de restituir aquel rescate y lo demás.
+          Y porque ni aquellos restituyeron
+          ni mostraron señal de penitencia,
+          sin duda arden hoy en los infiernos;
+          y de estos que hoy viven,
+          no se siente compunción ni arrepentimiento alguno
+          de sus inexplicables y scelerados pecados;
+          antes se glorían de ellos;
+          y de la restitución tienen, según parece y vemos,
+          ningún cuidado.
+          Por tanto, ninguna duda se debe tener
+          de que no van adonde aquellos los están esperando.
+          Y así queda la conclusión, según creemos, bien probada.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
