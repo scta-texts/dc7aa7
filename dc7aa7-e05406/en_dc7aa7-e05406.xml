@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 18</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 18</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          The preamble of the Royal Ordinance of Granada (31 July 1526)
+          and Las Casas's own commentary have been translated into English.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05406">
+        <head xml:id="dc7aa7-e05406-Hd1e111">Chapter 18</head>
+        <p xml:id="dc7aa7-e05406-d1e113">§ 18.</p>
+        <p xml:id="dc7aa7-e05406-d1e115">And so that the full truth may be seen
+          of the two kinds of tyranny we have set out and proved above —
+          namely, the tyrannical entry and the tyrannical governance
+          that the Spaniards have introduced in the Indies,
+          by which they have destroyed them —
+          we wish to bring here a proof that no one will be able to contest.
+          And this is the preamble to a Royal Provision and general ordinance,
+          to be observed throughout all the Indies,
+          issued at Granada on the thirty-first of July
+          of the year fifteen hundred and twenty-six.
+          And it reads as follows:
+        </p>
+        <p xml:id="dc7aa7-e05406-d1e137">Don Carlos, by the grace of God, etc.
+          Forasmuch as we have been certified, and it is notorious,
+          that through the disordered greed
+          of some of our subjects
+          who crossed to our islands and mainland of the ocean sea,
+          by reason of the ill treatment they inflicted
+          upon the native Indians of the said islands and mainland,
+          both in the great and excessive labors they imposed upon them,
+          keeping them in the mines to extract gold
+          and in the pearl fisheries
+          and in other works and enterprises,
+          making them labor excessively and immoderately,
+          not giving them the clothing and maintenance necessary
+          for the sustenance of their lives,
+          treating them with cruelty and lack of affection,
+          much worse than if they had been slaves:
+          all of which has been and was the cause of the death
+          of a great number of the said Indians,
+          and in such quantity
+          that many of the islands and parts of the mainland
+          were left barren and without any population
+          of the said Indians and their native peoples;
+          and that others fled and absented themselves
+          from their own lands and places of origin,
+          and went to the forests and to other places
+          to save their lives and escape the said subjection and ill treatment:
+          which was also a great impediment to the conversion
+          of the said Indians to our holy Catholic faith,
+          and to their not having come entirely and generally
+          to a true knowledge of it;
+          by which God, our Lord, is greatly disserved.
+          And we are likewise informed
+          that the captains and other persons
+          who with our license and command
+          went to discover and settle some of the said Indies and mainland,
+          it being as it is our intent and desire
+          to bring the said Indians to a true knowledge
+          of God, our Lord, and of his holy faith,
+          through the preaching of it and the example of learned persons
+          and good religious,
+          by doing them good works and treating them as neighbors,
+          without their persons or goods
+          receiving any force, compulsion, harm, or wrong;
+          and this having been so ordered and commanded by us,
+          with the said captains and our other officials
+          and the people of such expeditions
+          carrying specific instruction to that effect,
+          moved by the said greed,
+          forgetting the service of God, our Lord, and our own,
+          they killed and had killed many of the said Indians
+          in the discoveries and conquests,
+          and took their goods from them,
+          without the said Indians having given them just cause to do so,
+          nor having first proceeded with or made the admonitions
+          they were required to make,
+          nor having offered the Christians any resistance or harm
+          to the preaching of our holy faith:
+          which, beyond being a great offense to God, our Lord,
+          gave occasion and was to blame
+          not only for the said Indians who received the said forces,
+          injuries, and wrongs
+          but many other neighboring peoples
+          who had knowledge and intelligence of it
+          rising up and gathering in arms
+          against the Christians, our subjects,
+          and killing many of them;
+          and even the religious and ecclesiastical persons
+          who never bore any fault,
+          and suffered as martyrs preaching the Christian faith.
+          For all of which we suspended and stayed
+          the granting of licenses for the said conquests and discoveries,
+          wishing to take steps and deliberate
+          both concerning the punishment of what had passed
+          and the remedy of what was to come,
+          and to avoid the said harms and inconveniences,
+          and to give order that the discoveries and settlements
+          that hereafter were to be made
+          should be carried out without offense to God, our Lord,
+          and without the death or robbery of the said Indians,
+          and without their being unlawfully made captives and slaves;
+          so that the desire that we have had and have
+          to extend our holy Catholic faith,
+          and for the said Indians and unbelievers to come to knowledge of it,
+          may be done without burden to our consciences,
+          and we may pursue our purpose
+          in the intention and work of the Catholic Monarchs,
+          our lords and grandparents,
+          in all those parts of the islands and mainland of the ocean sea
+          that remain from our conquest yet to be discovered and settled.
+          Which, having been considered with great deliberation
+          by those of our Council of the Indies
+          and consulted with us,
+          it was agreed that we should order this letter in the said matter.
+          For which reason we order and command
+          that now and henceforth,
+          both for the remedy of what has passed
+          and in the discoveries and settlements
+          that by our command and in our name are made
+          in the said islands of the ocean sea,
+          discovered and yet to be discovered
+          within our limits and demarcations,
+          there shall be observed and fulfilled what shall be contained below,
+          in the following manner, etc.
+        </p>
+        <p xml:id="dc7aa7-e05406-d1e237">And if by the year 1526
+          the devastations that the Provision describes had already been committed,
+          let it be held as certain
+          that from that time until the year sixty-three in which we now stand,
+          they have been fifty times greater and many more
+          in number and cruelty.
+          This is evident because from that time forward
+          there was laid waste and destroyed and robbed and depopulated
+          New Spain, Guatemala, Yucatán, Nicaragua,
+          and the great kingdoms of Peru,
+          the new kingdom of Popayán,
+          and the Río de la Plata,
+          and Chile,
+          and their surrounding lands and provinces.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
