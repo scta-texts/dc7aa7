@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 22</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 22</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English,
+          including the Latin quotations from the Decretum, Ecclesiasticus, Augustine, and Aquinas.
+          Legal citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e06894">
+        <head xml:id="dc7aa7-e06894-Hd1e111">Chapter 22</head>
+        <p xml:id="dc7aa7-e06894-d1e113">§ 22.</p>
+        <p xml:id="dc7aa7-e06894-d1e115">And because those who from these same invaders and raiders
+          of foreign kingdoms — and properly tyrants —
+          bought and have bought the Indians
+          that they so unjustly made slaves:
+          all those who today are and remain in the Indies knew,
+          and had knowledge of this,
+          and barely one will be found who did not have it,
+          as to how they were made slaves through the aforesaid injustices.
+          And of this there is a most efficacious and clear proof:
+          that by command of the king, many years ago,
+          it was generally commanded throughout all the Indies
+          that they be placed in their liberty.
+          And all those who come here to Castile before the King's Council
+          to request their liberty
+          are given it without delay or any proof whatsoever,
+          it being most notorious that all those who made them slaves
+          were flagrant man-stealers.
+          And so, in buying them from those man-stealers
+          or by any other means holding them as slaves,
+          and for the whole time they had them
+          and in selling them or giving them freely,
+          they always had bad faith and were in mortal sin.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e152">Likewise, because the merchants involved and have involved themselves
+          of their own free will,
+          solely out of their greed for the incomparable riches
+          that the merchandise they carried and carry promised them,
+          especially at a time when the Spaniards
+          were and are waging those wars against those peoples
+          without their prince moving them, summoning them, or commanding it of them,
+          and they took no care to inform themselves from learned
+          and God-fearing men of the truth,
+          the clamors raised at court over this cause being so notorious,
+          and in Spain the disputes of the learned
+          and the sermons of the preachers,
+          all of which was directed toward condemning as wrong —
+          or at least as doubtful — what was being perpetrated in the Indies,
+          as has been declared.
+          And likewise the cruel deeds, so evil in themselves,
+          that were done in the wars
+          in which they themselves lived or their companions and perpetrators
+          were found and assisted,
+          of whose justice they ought at least to have doubted;
+          and if they wish to confess the truth,
+          they themselves judged those deeds as abominable.
+          Which they could and should have known
+          from the character of the time and of the persons and of their greed,
+          and of the tyrants';
+          and in all probability their conscience told them —
+          or should have told them — that these were deeds against justice
+          and natural reason, as has been proved.
+          All of which notwithstanding,
+          they threw themselves headlong with eyes shut
+          to carrying arms of every kind —
+          especially horses,
+          which do the greatest harm to those naked peoples,
+          as was said —
+          and many other things that aided the iniquitous subjection
+          and destruction of those kingdoms;
+          especially in New Spain,
+          when the first tyrant and the tyrants entered it and subjugated it,
+          and far worse and more so in the kingdoms of Peru,
+          where all the evils have been committed
+          doubled and trebled and a thousand times over,
+          and from which the greatest and unheard-of treasures have been stolen;
+          and the merchants for the most part have taken their share.
+          Therefore they were and are guilty of all the mortal sins
+          that the tyrants committed in the wars,
+          of killings and despoilings and robberies
+          and usurpations of the natural lords,
+          and are bound to make restitution for everything stolen, in solidum,
+          because they were the ones who most aided in the wars
+          to the harm and destruction of those peoples,
+          the natural lords of those lands,
+          with their merchandise,
+          sustaining those who so unjustly ravaged and laid waste
+          those innocent peoples.
+          Such that, even if they had carried merchandise not for profit
+          but as alms to those who were in extreme need,
+          the merchants would have sinned mortally
+          even if they supplied them with things
+          that were not weapons but only food and provisions,
+          while they were carrying out the deeds they did;
+          on the contrary, they should have cut off all sustenance from them if they could,
+          so that they would stop.
+          The reason is that we are obliged
+          both to help our neighbors by doing good,
+          and also to prevent all evil from them by every possible means:
+          <quote xml:id="dc7aa7-e06894-Qd1e267">"There is not much difference between inflicting death
+          and allowing it. For it is proved that one who, when he is able
+          to prevent it, does not prevent it,
+          inflicts death upon those who are languishing."</quote>
+          <ref xml:id="dc7aa7-e06894-Rd1e276">83 dist.,</ref>
+          at the opening; and on this much has been written;
+          and thus not even alms — though they perished of hunger —
+          could be given to them without mortal sin.
+          The reason is that, since they were persevering in such works,
+          those who gave such things were participants in those evils and harms.
+          And on this there is authority in Holy Scripture,
+          <ref xml:id="dc7aa7-e06894-Rd1e287">Ecclesiasticus 12:</ref>
+          <quote xml:id="dc7aa7-e06894-Qd1e283" source="http://scta.info/resource/qoh12_5@1-26 http://scta.info/resource/qoh12_6@1-18">"Do good to the humble, and give not to the ungodly.
+          Forbid him to be given bread,
+          lest he become thereby more powerful than you.
+          For the Most High abhors sinners,
+          and will render vengeance to the ungodly."</quote>
+          And in the canons there is registered a sentence of Saint Augustine
+          in <ref xml:id="dc7aa7-e06894-Rd1e310">the Letter to Vincentius the Donatist, 5, q. 5, c. non omnis:</ref>
+          <quote xml:id="dc7aa7-e06894-Qd1e318">"It is more useful to take bread from the hungry man
+          who, secure in his food, neglects justice,
+          than to break bread with the hungry man
+          so that, seduced by injustice, he may consent to it."</quote>
+          Thus far he.
+          And Saint Thomas, to the point, in
+          <ref xml:id="dc7aa7-e06894-Rd1e330">Opusculum 19, cap. 7, column 17, ad 4m,</ref>
+          says:
+          <quote xml:id="dc7aa7-e06894-Qd1e332">"How much more should alms be withheld from those who ask for them,
+          when from what they receive they manifestly take occasion for injustice."</quote>
+          Thus far he.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e340">It appears, then,
+          that such merchants never had good faith
+          but bad conscience,
+          in carrying the said merchandise even when it was not weapons.
+          And neither ignorance nor doubt could excuse them,
+          since they are in all things more astute than others
+          and know first the things that pass at court
+          and were passing in the Indies;
+          and they are even the first to receive news of the affairs of the world,
+          and even the kings do not learn the news so quickly.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e359">And so, by everything said,
+          this eighth principle appears to be true;
+          namely, that no Spaniard of those who have passed to the Indies,
+          in the fifty years up to this year of 1563
+          in which by the mercy of God we now live,
+          among those who have been found —
+          little or much — in the destruction and ruin
+          of those Indian peoples and lands,
+          has had or has good faith
+          with respect to four things.
+          The first, with respect to the wars.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e383">The second, with respect to the armed expeditions and raids —
+          which are all one with the wars —
+          that they called entradas and rancherías.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e390">The third, with respect to purchasing the Indian slaves
+          taken in them,
+          those who bought them from the very ones who made them slaves.
+        </p>
+        <p xml:id="dc7aa7-e06894-d1e397">The fourth, with respect to the merchandise
+          that was carried and sold to those who waged and carried on
+          the said wars, etc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
