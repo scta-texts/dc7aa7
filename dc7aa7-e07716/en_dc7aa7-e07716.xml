@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 24</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 24</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose and Latin quotations have been translated into English.
+          Legal and scholastic citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e07716">
+        <head xml:id="dc7aa7-e07716-Hd1e111">Chapter 24</head>
+        <p xml:id="dc7aa7-e07716-d1e113">Chapter 24</p>
+        <p xml:id="dc7aa7-e07716-d1e118">As regards the second part of the conclusion —
+          namely, that they are bound to make restitution, etc. —
+          it is likewise proved by reasons and authorities.
+          The first, because since restitution is to restore another
+          to the state he was in when he possessed what was his
+          and it was taken from him —
+          that is to say, to the possession and lordship of that thing —
+          which is nothing other than to preserve the equality
+          of commutative justice that consists in a certain equality.
+          And so restitution means to return or compensate a thing to its owner,
+          which was unjustly taken from him,
+          so that the equality may be repaired;
+          because otherwise justice would not be preserved.
+          And since to do and preserve justice is necessary,
+          without the preservation of which it is impossible to be saved,
+          from this it follows that the restitution of what was wrongly
+          and unjustly taken and usurped
+          is necessary for the salvation of each person,
+          and without it it is impossible to be saved.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e158">Now since those hundred and seventy men
+          unjustly, with injurious violence,
+          usurped that great principality,
+          kingdoms and lordships of that King Atahualpa and of his heirs
+          and of the other lords,
+          their honors and royal dignities,
+          the great treasures he gave for his ransom,
+          and the immense quantities of gold and silver and precious stones that afterwards —
+          his own and those of his vassals
+          and of many other great lords and peoples —
+          they robbed,
+          with other irreparable wrongs
+          and all with most grave and incomparable evils and harms:
+          it follows that in order to restore and compensate them in their original state,
+          which is to do and preserve justice,
+          they are obliged to restore everything they robbed
+          and the harms they did.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e194">The second reason:
+          each person is obliged to leave and abandon the mortal sin he committed,
+          not to remain in it for even a single moment,
+          because otherwise it is impossible to be saved,
+          according to that passage of <ref xml:id="dc7aa7-e07716-Rd1e202" target="http://scta.info/resource/sir21_2@1-6">Ecclesiasticus 21:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e205">"Flee from sin as from the face of a serpent."</quote>
+          For not only does he sin mortally
+          who steals or robs another's property against the will of its owner,
+          or in any other way harms his neighbor
+          in that act and deed of usurping or causing harm,
+          but also in retaining it against the will of its owner
+          for even a single moment he holds it,
+          he commits injury and causes harm to his neighbor against justice;
+          therefore he sins mortally.
+          The reason why the one who usurps another's property
+          commits injury and injustice against the owner,
+          and consequently commits sin,
+          is that that act of theft or usurpation
+          is done against the will of the owner.
+          Therefore, if that usurpation and retention of another's property
+          continues after that act against the will of the owner,
+          injury and harm are always being done to him;
+          therefore the sin always continues;
+          therefore, in order to abandon mortal sin,
+          restitution of what was stolen and robbed is necessary.
+          And so, to restore what was wrongly acquired and robbed
+          is nothing other than to cease from sin;
+          and what has been said is confirmed,
+          because whoever holds another's property
+          is constrained to restore it by negative precept:
+          <ref xml:id="dc7aa7-e07716-Rd1e244">Romans 13:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e250">"Owe nothing to anyone,"</quote>
+          et <ref xml:id="dc7aa7-e07716-Rd1e252">Leviticus 19.</ref>
+          On this see <ref xml:id="dc7aa7-e07716-Rd1e254">Saint Thomas, 2.2 q. 62 a. final;</ref>
+          et <ref xml:id="dc7aa7-e07716-Rd1e259">4 Sent., dist. 15 q. 1 a. 5 qc. 1.</ref>
+          Since it is the case that those who committed so many robberies and harms
+          against so many thousands of persons
+          of high and generous condition and diverse qualities
+          are bound to restore and satisfy
+          everything they robbed and damaged,
+          and if they do not it is impossible for them to be saved.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e272">The third:
+          everything that is of divine precept a man must fulfill
+          if he is to be saved,
+          according to that passage of <ref xml:id="dc7aa7-e07716-Rd1e278" target="http://scta.info/resource/mt19_17@15-20">Matthew 19:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e281">"If you wish to enter into life, keep the commandments."</quote>
+          Now the restitution of stolen things is of divine precept,
+          <ref xml:id="dc7aa7-e07716-Rd1e286" target="http://scta.info/resource/ex20_15@1-3">Exodus 20:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e291">"You shall not steal."</quote>
+          By which prohibition every illicit usurpation
+          and harm to one's neighbor is generally prohibited,
+          as appears from <ref xml:id="dc7aa7-e07716-Rd1e297">14, q. 6, c. penale;</ref>
+          and <ref xml:id="dc7aa7-e07716-Rd1e300">Saint Thomas, 2.2 q. 122 a. 6 ad 2.</ref>
+          And in retaining another's property against the will of the owner,
+          injury and harm are always being done, as has been proved;
+          therefore, if restitution of what was stolen —
+          as those men robbed and so greatly wronged their neighbors —
+          is not made, they cannot be saved.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e311">The fourth:
+          whoever has the determined will to steal,
+          there immediately arises from this an obligation
+          and liability to eternal damnation,
+          even if afterwards that will is interrupted by its contrary,
+          unless he satisfies God through penance.
+          So likewise in our present matter,
+          no one, once he has incurred the obligation to restore
+          something he has usurped,
+          is released from it unless he restores what was robbed,
+          or satisfies for the damages, losses, and injuries
+          that were given or caused to another,
+          as appears from the said chapter
+          <ref xml:id="dc7aa7-e07716-Rd1e343">si culpa tua, De injuria et damno dato.</ref>
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e349">The fifth:
+          let that sentence of Holy Scripture suffice,
+          <ref xml:id="dc7aa7-e07716-Rd1e353" target="http://scta.info/resource/lev19_13@10-17">Leviticus 19:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e356">"The wages of your hired servant shall not remain with you until morning."</quote>
+          Which authority, according to Thomas,
+          is to be understood in all other restitutions,
+          because the reason appears to be the same in all of them.
+          Given that in the case of those tyrants of whom we speak,
+          and others like them,
+          who with such great injuries and so irreparable harms to their neighbors
+          robbed and usurped things of such immense values and estimations,
+          there must apply and run against them
+          another reason more grave and binding
+          to restore and satisfy with greater care
+          all that is in their power,
+          for they are already incapacitated
+          by the greatness of the things robbed
+          and the gravity of the harms they caused;
+          for not even the kings of Spain, if they wished to satisfy for them
+          by selling all their kingdoms —
+          if they could be sold and a buyer were found —
+          would it suffice to discharge and release them.
+        </p>
+        <p xml:id="dc7aa7-e07716-d1e395">But because they have been and are very heedless of restoring or satisfying
+          while yet alive,
+          we can conclude that they are constantly in mortal sin,
+          and those of them who are still living are in the state of eternal damnation,
+          and those already dead are in hell,
+          and thus it is impossible for them to be saved.
+          This is proved by that passage of
+          <ref xml:id="dc7aa7-e07716-Rd1e416">Saint Augustine, 14, q. 6, cap. si res,</ref>
+          where he says:
+          <quote xml:id="dc7aa7-e07716-Qd1e418">"If the thing on account of which one has sinned can be restored and is not restored,
+          penance is not done but only simulated.
+          And the sin is not forgiven unless what was taken away is restored."</quote>
+          This is supported by the chapter
+          <ref xml:id="dc7aa7-e07716-Rd1e427">falsas, De penitentia, Dist. 5</ref>
+          et in <ref xml:id="dc7aa7-e07716-Rd1e432">d. c. si culpa.</ref>
+          Another part of the conclusion states
+          that those hundred and seventy men are obliged to restore
+          all the robberies and harms
+          done by the Spaniards who came to those kingdoms afterwards
+          and multiplied:
+          which are to have despoiled many great lords
+          of their honors and dignities and of their vassals and riches,
+          and to have placed the peoples in the servitude of the repartimiento
+          where they were harassed and oppressed,
+          and the deaths and diminishment of infinite peoples:
+          this is proved:
+          because as regards both the sin and the restitution,
+          the one is liable who gives occasion and opens the first gate
+          to the sins and harms that neighbors receive,
+          according to the rule of Christ,
+          <ref xml:id="dc7aa7-e07716-Rd1e460">Matthew 18:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e463" source="http://scta.info/resource/mt18_7@4-17">"It is necessary that scandals come;
+          but woe to the man through whom the scandal comes!"</quote>
+          For
+          <quote xml:id="dc7aa7-e07716-Qd1e470">"whoever gives cause or occasion for harm
+          is held to have caused the harm,"</quote>
+          as in <ref xml:id="dc7aa7-e07716-Rd1e475">cap. Egressus,</ref>
+          et in <ref xml:id="dc7aa7-e07716-Rd1e477">cap. si culpa, De injuria et damno dato,</ref>
+          just as if certain persons were to do some injury or harm
+          to some prince,
+          who in order to avenge it were to make war
+          upon an entire kingdom:
+          for all the harms and deaths and robberies that kingdom would suffer,
+          those persons would be liable.
+          <ref xml:id="dc7aa7-e07716-Rd1e491">Argument, 23, q. 2, c. Dominus noster;</ref>
+          and in the said cap. <ref xml:id="dc7aa7-e07716-Rd1e493">si culpa</ref> it says thus:
+          <quote xml:id="dc7aa7-e07716-Qd1e498">"If through your fault the damage was caused
+          or the injury inflicted,
+          or you perhaps gave aid to those inflicting it,
+          or this came about through your incompetence or negligence:
+          by law you are bound to satisfy for it,
+          nor does ignorance excuse you,
+          if you ought to have known
+          that an injury or loss could reasonably result from your act."</quote>
+          Thus far there.
+          Much pertinent to this is the chapter
+          <ref xml:id="dc7aa7-e07716-Rd1e513">Hi quoscumque</ref>
+          and the chapter <ref xml:id="dc7aa7-e07716-Rd1e515">placuit, the 29th, 1, q. 113:</ref>
+          <quote xml:id="dc7aa7-e07716-Qd1e520">"For it makes no difference whether one kills,
+          or gives the cause or occasion of death."</quote>
+          <ref xml:id="dc7aa7-e07716-Rd1e525">ff. Ad legem Corneliam, De siccariis.</ref>
+          From this comes what <ref xml:id="dc7aa7-e07716-Rd1e528">Saint Jerome</ref> says:
+          that the punishments of Arius are not yet determined,
+          because the number of those who are to be lost through that heresy
+          has not yet come to an end.
+          All of the foregoing is confirmed by
+          <ref xml:id="dc7aa7-e07716-Rd1e537" target="http://scta.info/resource/bgy6gt-d1e965-Dd1e691">ff., Ad legem Aquiliam, L. aquil l. qui occidit. §. in hac</ref>
+          et <ref xml:id="dc7aa7-e07716-Rd1e542" target="http://scta.info/resource/bgy6gt-d1e954-d1e129">ff., Si quadrupes pauperiem fecisse, L. 1, §. sed et si instigatu;</ref>
+          ex <ref xml:id="dc7aa7-e07716-Rd1e547">ff. Ad legem Aquiliam, L. si servus, §. penúlt.</ref>
+          et <ref xml:id="dc7aa7-e07716-Rd1e553">ff. De servo corrupto, §. Neratius. §. i.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
