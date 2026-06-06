@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 19</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 19</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las citas latinas del Eclesiastés y de Aristóteles han sido traducidas al español.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e05627">
+        <head xml:id="dc7aa7-e05627-Hd1e111">Capítulo 19</head>
+        <p xml:id="dc7aa7-e05627-d1e113">§ 19.
+          Principio 8.º
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e115">Al menos desde hace cincuenta años hasta este de mil y quinientos
+          y sesenta y tres en que por la benigna misericordia de Dios hoy vivimos,
+          no ha habido, y mucho menos hay hoy,
+          hombre en todas las Indias
+          que haya tenido ni tenga buena fe,
+          ni se pueda excusar con ella,
+          acerca de cuatro cosas.
+          La primera, acerca de las guerras que se han hecho de nuestra parte
+          a los indios en todas las partes, lugares, reinos y provincias de ellas.
+          La segunda, acerca de las armadas y salteamientos
+          — que todo es uno con las guerras —
+          que por la mar y por la tierra,
+          que llamaron entradas y rancherías,
+          hemos hecho y hoy se hacen como se hacían.
+          La tercera, acerca de comprar los esclavos indios
+          tomados en las dichas guerras,
+          los que los compraban de los mismos que los hacían.
+          La cuarta, acerca de las mercaderías que se llevaban
+          y se vendían a los que ejercitaban las dichas guerras,
+          como arcabuces, pólvora, ballestas,
+          y señaladamente caballos,
+          que han sido para los indios más nocivos que cualquier otra arma.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e151">Este principio y verdad muy cierta
+          la probamos por las razones siguientes.
+          Pero para mayor declaración
+          conviene aclarar dos términos o vocablos
+          que hemos de tocar muchas veces.
+          El primero es este vocablo: duda.
+          Duda es, según <ref xml:id="dc7aa7-e05627-Rd1e167" target="http://scta.info/resource/wer3fe">san Isidoro en sus Etimologías</ref>
+          y <ref xml:id="dc7aa7-e05627-Rd1e172" target="http://scta.info/resource/ta-l3d17q1-Dd1e662">el Filósofo y Santo Tomás en el tercero de las Sentencias,
+          dist. 17, di. 4,</ref>
+          un movimiento de la razón indiferente a ambas partes de la contradicción,
+          o una igualdad de razones contrarias;
+          y así el hombre propiamente se dice dudar de alguna cosa
+          cuando tiene razones iguales o casi iguales,
+          de tal manera que no se inclina más a una parte que a otra notablemente.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e189">El segundo vocablo es:
+          quién será aquel que con verdad se puede decir
+          que es poseedor de buena o mala fe.
+          Aquel pues es poseedor de buena fe y buena conciencia
+          que no sabe que aquello que tiene es ajeno,
+          y no lo restituye si puede.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e211">Aquel es poseedor de mala fe y mala conciencia
+          si duda ser ajeno;
+          y tal duda es firme cuando se dice también hacer a la conciencia,
+          si procede de justa y probable causa que tiene para dudar,
+          de manera que más se le inclina el ánimo
+          a que lo que tiene es ajeno que no a que es suyo;
+          esta es duda firme que hace a la conciencia,
+          según <ref xml:id="dc7aa7-e05627-Rd1e224">se colige de la Glosa en el capítulo final del principio,</ref>
+          en las palabras <quote xml:id="dc7aa7-e05627-Qd1e229">«en ningún tiempo»</quote>
+          y de <ref xml:id="dc7aa7-e05627-Rd1e235">Baldo, in cap. Vigilanti, De prescriptionibus, 2 columna, eodem titulo.</ref>
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e238">Ítem, aquel está en mala fe
+          que duda y tiene a quien preguntar —
+          personas doctas y que él siente que son temerosas de Dios
+          y que no les va nada en decir la verdad,
+          y confía que la dirán —
+          y no lo pregunta.
+          Porque este tal es obligado a inquirir con diligencia la verdad.
+          Así como si uno dudase firmemente
+          si la mujer que tiene es suya o no,
+          será obligado a no llegarse a ella
+          hasta preguntar y saber la verdad,
+          y si entretanto lo contrario hiciere,
+          siempre estará en mala fe,
+          y así en pecado mortal.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e261">Ítem, aquel está en mala fe
+          que hace alguna cosa contra el derecho
+          por ignorancia de él;
+          como si alguno creyese que el pupilo
+          que está bajo el tutor o curador
+          tenía poder para vender su hacienda
+          o enajenarla por otra manera,
+          y se la comprase:
+          a este tal no le excusa la tal ignorancia del derecho,
+          y está en mala fe.
+          Pero porque la mala o buena fe consiste en el ánimo o conciencia
+          de cada uno,
+          y no se puede en muchos casos verdaderamente probar,
+          por tanto puédese al menos probar o presumir por algunas conjeturas.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e288">Una de las cuales es:
+          cuando es denunciado que aquello que se hace es malo
+          por personas a quienes con razón se debe dar crédito.
+          Así en nuestro propósito se presume
+          contra los españoles que han ido a las Indias
+          y han sido en cometer aquellas obras nefandas,
+          así en las guerras injustas que llaman conquistas
+          como en los repartimientos que se han relatado.
+          Porque desde el año de diez
+          que fueron a la isla Española los frailes de Santo Domingo —
+          personas tenidas por santas, prudentes y muy letradas —,
+          viendo lo que pasaba de la opresión y pérdida de los indios,
+          y sabido lo que había pasado con la gran multitud de gentes
+          de que estaba poblada y las pocas que restaban,
+          luego el año de once muy abierta y animosamente lo predicaron
+          y detestaron,
+          condenando todo lo hecho y lo que se hacía
+          como tiránico y abominable.
+          Vienen nuevas a España y los religiosos en proseguimiento de su verdad.
+          Hácense en Burgos, donde a la sazón
+          el rey católico don Fernando estaba,
+          grandes ayuntamientos de letrados;
+          y pareció al rey todo lo hecho en aquellas islas abominable,
+          y a los que según Dios sentían ser contra su ley,
+          doliéndose de la perdición de tantas almas y con tanta crueldad.
+          De las islas digo,
+          porque aún no había entrado en la tierra firme el diablo.
+          Hácense ciertas leyes y ordenanzas,
+          pero aprovecharon poco y nada.
+          Todo esto fue público y notorio en España.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e339">Después, cuanto más se iba descubriendo
+          y entrando españoles en las islas y tierra firme,
+          y tiranizando y talando aquella tan gran parte del linaje humano,
+          tanto más vinieron religiosos y clérigos de buen celo,
+          dando clamores a los reyes
+          y a los que por ellos estos reinos gobernaban,
+          que pusieran remedio,
+          porque aquellas gentes perecían
+          por la codicia y ambición de los de España.
+          Hubo ayuntamientos en Madrid, en Valladolid,
+          en Aranda de Duero, en Zaragoza, en Barcelona,
+          muchos y grandes, en el año de diecinueve,
+          y el año de veintiséis en Granada, como arriba se vio,
+          y el año de veintinueve,
+          y el año de cuarenta y dos donde se hicieron las Leyes Nuevas
+          en Valladolid y después en Barcelona y luego en Madrid,
+          y después el año de cincuenta y uno en el mismo Valladolid.
+          En estos tiempos se hicieron muchas y grandes provisiones
+          por mandado de los reyes y de los que por ellos gobernaban,
+          en especial en los días del Emperador,
+          que Dios tenga en su gloria,
+          donde prohibían las tiránicas crueldades
+          y ponían orden en que menos mal los indios padeciesen;
+          porque por la ceguedad que Dios ha permitido en España
+          cerca de esta materia por sus pecados,
+          nunca se acertó a ordenarlo perfectamente.
+        </p>
+        <p xml:id="dc7aa7-e05627-d1e397">Ítem, en todos tiempos hubo disputas públicas
+          en los colegios y en las universidades
+          sobre condenar estos estragos de gentes humanas;
+          se leían por lecciones en las cátedras;
+          hubo escritos y respuestas dadas por letrados;
+          hubo confesores que no querían confesar ni absolver
+          a los que querían pasar a las Indias
+          o a los que venían de allá con dineros.
+          Y todo esto era público y notorio en toda España,
+          y se clamaba casi por las plazas
+          que todo el dinero que venía de las Indias era robado;
+          no había ninguno que ignorase que cada día salían provisiones reales
+          en favor de los indios
+          y en estorbo y alivio de los tormentos e injusticias
+          y vida infernal que les daban;
+          y en cuanto llegaban a noticia de los españoles,
+          blasfemaban del Consejo del Rey,
+          diciendo que no sabían lo que proveían y mandaban,
+          y por todas las vías y maneras que podían
+          las impedían para que no se ejecutasen,
+          hasta del todo perder la vergüenza y la fidelidad
+          que debían a su rey,
+          y se alzaron matándole a su virrey —
+          hombre fiel a Dios y al rey —
+          en batalla campal.
+          Y finalmente se ha determinado
+          por los más doctos teólogos de España,
+          clérigos y frailes,
+          que las obras que los españoles han hecho en las Indias
+          no son de hombres sino de diablos;
+          y que todo lo que viene de allá
+          es inicua y detestablemente ganado;
+          al menos ninguno duda que no sea dudoso
+          y haya presunción de injusticia en cuanto de allá se trae.
+          Luego, esta fue al menos duda probable
+          que obligaba a todos los que querían ir a las Indias
+          a inquirir y saber la verdad,
+          preguntando a los más siervos de Dios
+          y más letrados que pudiesen hallar
+          antes de pasar a aquellas partes:
+          <quote xml:id="dc7aa7-e05627-Qd1e456">«Pues está establecido que a los hombres honestos y probos
+          más intensa y rápidamente les damos crédito,
+          no solo en aquellas cosas que son ciertas y conocidas
+          sino en general en aquellas
+          que son afirmadas de una parte y de otra a juicio de la opinión»,</quote>
+          según <ref xml:id="dc7aa7-e05627-Rd1e467">el Filósofo, Retórica 1, capítulo 3.º</ref>
+          Fueron pues en culpa,
+          o de ignorancia afectada que agrava el pecado
+          si a sabiendas y por malicia lo dejaron,
+          o de ignorancia crasa y supina
+          que no excusa del pecado ni de la restitución que debe ser hecha;
+          y por consiguiente no tuvieron buena sino mala fe.
+          Porque mientras en esta duda estuvieron,
+          eran obligados a abstenerse de todas aquellas obras
+          y de la participación de los dineros y riquezas
+          de ellas y por ellas y con ellas adquiridos,
+          para no ponerse por ello en peligro de pecar mortalmente.
+          Si injusto después pareciese,
+          al contratar los bienes ajenos
+          contra la voluntad de sus dueños,
+          despojados y agraviados injustamente,
+          oprimidos y muertos,
+          y los vivos metidos en tiránica servidumbre:
+          porque regla es de los santos y no santos teólogos y juristas
+          que, en las dudas,
+          si la una parte es segura y la otra peligrosa,
+          se debe seguir de necesidad la segura
+          para no ponerse en tal peligro;
+          porque <quote xml:id="dc7aa7-e05627-Qd1e503" source="http://scta.info/resource/sir3_27@8-12">«el que ama el peligro, en él perecerá»,</quote>
+          <ref xml:id="dc7aa7-e05627-Rd1e507">Eclesiástico 3,</ref>
+          y por consiguiente los tales,
+          aunque las dichas obras inicuas y crueles no se hicieran,
+          si participaron de los bienes por ellas habidos
+          en cualquier manera de participación,
+          no tuvieron ni tienen buena sino mala fe,
+          y de mala fe y de mala conciencia fueron y son poseedores.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
