@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capítulo 30</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capítulo 30</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Versión normalizada al español moderno a partir de la edición diplomática.
+          Se han modernizado la ortografía y la puntuación,
+          y se han eliminado los saltos de línea y de página del manuscrito.
+          Las breves citas jurídicas latinas insertadas en el texto español
+          se han conservado en latín.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="es">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10417">
+        <head xml:id="dc7aa7-e10417-Hd1e111">Capítulo 30</head>
+        <p xml:id="dc7aa7-e10417-d1e113">§ 30.
+          Conclusión para la segunda duda.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e120">Todos los españoles que a los ciento y tantos primeros del Perú
+          se añadieron, y conquistaron, y subyugaron, y mataron, y robaron,
+          e hicieron lo que la pregunta y duda dice,
+          fueron públicos e injustos enemigos de aquellas repúblicas,
+          merodeadores y tiranos propios como los primeros,
+          y cometieron gravísimos pecados mortales
+          contra Dios y contra sus prójimos;
+          y son obligados a restitución in solidum
+          de todos los tesoros y las riquezas que robaron,
+          andando en aquellos asaltos,
+          y los que fueron a conquistas o agresiones o entradas
+          que llaman conquistas en aquellos reinos ajenos;
+          y de todo lo demás de oro y plata y otros bienes
+          que después amontonaron de aquellos tributos desaforados
+          hasta un grano de maíz,
+          que injustamente impusieron a los vecinos y moradores naturales
+          de aquellas tierras;
+          y de las tierras y heredades que les usurparon;
+          y de los daños irreparables que en los cuerpos y en las almas,
+          y estados, honras y haciendas les hicieron;
+          y los que causaron los que les sucedieron.
+          Y tuvieron aquellas gentes justa causa y derecho
+          para hacerles guerra.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e159">Esta conclusión con todas sus partes
+          queda probada con sola esta razón,
+          conviene a saber:
+          porque estos postreros, y los postreros a los postreros,
+          lo mismo que los de antes cometieron.
+          Antes se tiene por experiencia
+          que cada tropa de los que de nuevo van
+          se señalaba en ser más crueles.
+          Luego, la misma razón es de estos que de aquellos,
+          y así por todos los derechos y prueba que se trajo
+          para condenación de aquellos, son condenados estos.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e177">Pero para que más fácilmente se vea esto,
+          señalemos los lugares con que cada parte de ella se prueba.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e187">La primera parte dice que fueron enemigos públicos
+          de aquellas repúblicas:
+          porque, siendo estas repúblicas y reinos libres
+          y seguros en sus reinos y tierras, como queda probado en el primer principio,
+          entraron matando y robando y subyugando
+          y poniendo en servidumbre a todas las gentes por donde anduvieron,
+          sin haberles hecho injuria ni daño, como es manifiesto.
+          De los enemigos y capitales contrarios es robar y matar
+          y destruir las repúblicas y las vidas y estados de sus vecinos
+          y usurpar las haciendas de quienes son sus enemigos.
+          Aunque en verdad, más propiamente son merodeadores
+          y ladrones y salteadores que enemigos:
+          pues todos los males, destrucciones y daños que han hecho
+          han sido sin autoridad de los reyes de Castilla,
+          antes todo contra sus mandamientos expresos
+          y por su propia maldad, ambición y codicia,
+          como aparece arriba en el capítulo 18 y en los siguientes.
+          Porque enemigos son propiamente aquellos
+          contra quienes se tiene guerra campal o pública
+          por mandado del príncipe.
+          Todo esto se prueba por la L. hostes,
+          <ref xml:id="dc7aa7-e10417-Rd1e236">Digest., De captivis et postlimino</ref>
+          y en la <ref xml:id="dc7aa7-e10417-Rd1e241">L. hostes, ff., De verborum significatione.</ref>
+          Así que propiamente son merodeadores, robadores, salteadores y ladrones,
+          como en ellas se dice.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e248">Que sean tiranos, véase el primer principio,
+          el segundo §. 4, y los §§. 24 y 15.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e253">Que hayan cometido gravísimos pecados mortales:
+          en la prueba de la primera conclusión
+          a la primera duda se verá manifiesto.
+          Señaladamente — dejados aparte los robos y muertes —
+          en haber repartido entre sí los pueblos,
+          despojando a los reyes y señores naturales de sus estados,
+          dignidades, señoríos, honras y jurisdicciones,
+          y de sus vasallos y súbditos, y rentas, y derechos reales,
+          poniéndolos en el más vil y abatido y despreciable estado
+          que jamás ningún señor que cayese de su sitio se vio.
+          Y a todos, súbditos y señores,
+          pusieron en durísima servidumbre
+          que es aquel repartimiento,
+          donde, ocupados en los servicios y tributos violentos que les pusieron,
+          no pueden dedicarse a oír la predicación y doctrina de Cristo;
+          y en la cual finalmente perecen espiritual y corporalmente.
+          Todo esto aparece arriba en los §§. 16 y 17.
+          Luego pecaron gravísimamente.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e305">Que de los robos de oro y plata y esmeraldas
+          y otras alhajas y cosas preciosas y ganados
+          y daños que hicieron andando en aquellos asaltos
+          sean obligados a restitución,
+          no solo cada uno por sí sino in solidum,
+          en los §§. 24 y 25 queda de ellos hecha evidencia.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e316">De los otros millares tan numerosos y grandes
+          que, después de los robos que de camino hacían
+          y subyugados los pueblos tan violenta y tiránicamente como está dicho,
+          adquirieron de los tributos tan desaforados:
+          parece a primera vista que no estuviesen obligados a restituirlos in solidum,
+          sino que cada uno estuviese obligado a restituir
+          lo que hubiere recibido de los pueblos
+          que en el dicho repartimiento le tocaron.
+          Pero, considerado que uno ni pocos se atreverían
+          a subyugar con tantas crueldades a aquellas gentes,
+          ni a hacer entre sí el dicho repartimiento
+          si todos juntos no fueran;
+          y siendo todos de una misma voluntad
+          y todos pretendiendo el mismo fin:
+          manifiesto es que todos fueron causa total,
+          no solo de lo robado y de los males que hicieron
+          andando, robando, subyugando y matando a las gentes,
+          sino también fueron causa total del dicho repartimiento
+          y de los males y daños que de él a los indios se siguieron;
+          y por consiguiente de los tributos
+          que cada uno robaba de los pueblos que le tocaron.
+          Luego, todos son obligados in solidum
+          a restituir todo lo que cada uno por sí y los demás
+          tan tiránica e impíamente obtuvieron,
+          aunque sea un grano de maíz.
+          Que las tierras y heredades que en la Nueva España llaman milpas
+          y en el Perú chácaras
+          sean obligados a restituirlas:
+          de ello no dudarán ni los más estólidos y muy bárbaros.
+          La razón de esto es:
+          porque así como injustamente robaron los tesoros
+          y todas las otras cosas muebles a sus propios poseedores
+          y fueron en ello tiranos,
+          de la misma manera las tierras y heredades
+          a los reyes y señores particulares usurparon
+          y fueron en hacerlo tiranos.
+          Y por consiguiente, si de las cosas muebles tienen obligación de restituir,
+          mucho más de las inmuebles y raíces son obligados a restituirlas,
+          porque mayor es la razón que a estas que a aquellas sirve.
+          Y así hasta un palmo de tierra no pudieron tomar sin grave pecado mortal,
+          ni lo pueden tener por suyo sin condenarse,
+          porque cometieron hurto y violencia o rapiña,
+          si los reyes Incas cuyos son aquellos reinos
+          no se las condonaran graciosamente,
+          o algún dueño particular quisiese de su voluntad dársela.
+          Esto aparece arriba, § 23,
+          en la cuarta probación de la primera parte de la primera conclusión.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e410">De aquí se sigue que todos los edificios públicos
+          de ciudades, villas y lugares,
+          y los que particulares personas edificaron,
+          y las heredades, viñas y huertas que plantaron,
+          y las dehesas de ganados:
+          están en suelos y tierras ajenas,
+          o de dichos reyes Incas o de particulares,
+          y todos se poseen por nosotros tiránicamente
+          y somos poseedores de mala fe;
+          y nunca se justificará esta injusta posesión
+          si los reyes Incas o sus herederos
+          y los dueños particulares no nos las concedieren graciosamente;
+          antes bien todo lo edificado lo tenemos perdido,
+          pues de los señores, reyes o sus súbditos eran los suelos donde se edificaron.
+          Lo primero, porque el edificio regularmente cede al suelo,
+          como en Inst., <ref xml:id="dc7aa7-e10417-Rd1e436">De rerum divisione, § Cum autem in suo.</ref>
+          Lo segundo, porque el que edifica en suelo ajeno
+          a sabiendas y de mala fe — como nosotros los españoles —
+          pierde la parte de su cosa — a saber, el material si lo puso —
+          y se dice que comete delito:
+          Inst., en el mismo título, <ref xml:id="dc7aa7-e10417-Rd1e444">§ ex diverso et § qua ratione.</ref>
+          Bartolo, en <ref xml:id="dc7aa7-e10417-Rd1e449" target="http://scta.info/resource/cice-l2t30-Dd1e108">L. in rem, § sed si alias, § si quis rei,
+          ff., De reinvindicatione.</ref>
+          Y puede ser destruido por propia autoridad del señor del suelo:
+          Bartolo y los Doctores, en <ref xml:id="dc7aa7-e10417-Rd1e457" source="http://scta.info/resource/bgy6gt-d1e892-Dd1e423">L. sed si inter,
+          ff., De servitute urbanorum praediorum;</ref>
+          et in <ref xml:id="dc7aa7-e10417-Rd1e460">L. quemadmodum, ff., Ad L. Aquiliam, § 17.</ref>
+          Y el edificio debe derribarse a costa del que edificó ilícitamente.
+          Y esto supuesto que ellos a su costa y con sus personas lo hubieran edificado,
+          ¡cuánto más que todo lo edificaron los indios a su costa y con sus trabajos,
+          constreñidos y forzados contra toda razón y ley natural,
+          como los hijos de Israel edificaron las ciudades en Egipto,
+          violentados por el tirano Faraón!
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e482">La última partícula de la conclusión,
+          conviene a saber, que tengan aquellas gentes guerra justa
+          o derecho de moverla
+          contra los que se añadieron como contra los primeros,
+          justa, continua y perpetua:
+          asaz en el § 26 y los siguientes queda manifiesto.
+          Y esta sea la solución de la segunda duda.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

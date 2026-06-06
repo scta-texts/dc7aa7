@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 30</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 30</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose has been translated into English.
+          Brief Latin legal citations within the text have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e10417">
+        <head xml:id="dc7aa7-e10417-Hd1e111">Chapter 30</head>
+        <p xml:id="dc7aa7-e10417-d1e113">§ 30.
+          Conclusion for the second doubt.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e120">All the Spaniards who joined the hundred-odd first men in Peru,
+          and conquered, and subjugated, and killed, and robbed,
+          and did what the question and doubt describes,
+          were public and unjust enemies of those commonwealths,
+          plunderers and tyrants proper, like the first,
+          and committed most grave mortal sins
+          against God and against their neighbors;
+          and they are bound to restitution in solidum
+          of all the treasures and riches they robbed
+          while engaged in those raids,
+          and those who went on conquests or aggressions or entradas
+          which they call conquests in those foreign kingdoms;
+          and of all the rest of gold and silver and other goods
+          that they afterwards accumulated
+          from those outrageous tributes, down to a grain of maize,
+          which they unjustly imposed on the natural inhabitants
+          and dwellers of those lands;
+          and of the lands and estates they usurped from them;
+          and of the irreparable harms they did to their bodies and souls,
+          and states, honors, and possessions;
+          and those caused by those who succeeded them.
+          And those peoples had just cause and right
+          to make war upon them.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e159">This conclusion with all its parts
+          is proved by this single reason alone,
+          namely:
+          because these later men, and those later still,
+          committed the very same as those before.
+          Indeed experience shows
+          that each new band that came
+          distinguished itself in being more cruel.
+          Therefore the same reasoning applies to these as to those,
+          and thus by all the proofs of law
+          brought forward to condemn those men, these are condemned.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e177">But so that this may be more easily seen,
+          let us point to the passages where each part of the conclusion is proved.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e187">The first part says that they were public enemies
+          of those commonwealths:
+          because, those commonwealths and kingdoms being free
+          and secure in their own kingdoms and lands,
+          as was proved in the first principle,
+          they entered killing and robbing and subjugating
+          and placing in servitude all the peoples they passed through,
+          without having done them any injury or harm, as is manifest.
+          It is the work of enemies and mortal adversaries
+          to rob and kill and destroy commonwealths
+          and the lives and states of their inhabitants,
+          and to usurp the possessions of those who are their enemies.
+          Although in truth, they are more properly plunderers,
+          robbers, and brigands than enemies:
+          for all the evils, destructions, and harms they have done
+          were without the authority of the kings of Castile,
+          on the contrary all against their express commandments
+          and through their own wickedness, ambition, and greed,
+          as appears above in chapter 18 and those following.
+          For enemies are properly those
+          against whom open or public war is waged
+          by command of the prince.
+          All of this is proved by the L. hostes,
+          <ref xml:id="dc7aa7-e10417-Rd1e236">Digest., De captivis et postlimino</ref>
+          and in <ref xml:id="dc7aa7-e10417-Rd1e241">L. hostes, ff., De verborum significatione.</ref>
+          And so they are properly plunderers, robbers, brigands, and thieves,
+          as those laws state.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e248">That they are tyrants, see the first principle,
+          the second § 4, and §§ 24 and 15.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e253">That they committed most grave mortal sins:
+          this will be manifest from the proof of the first conclusion
+          to the first doubt.
+          Especially — setting aside the robberies and killings —
+          in having divided the towns among themselves,
+          despoiling the natural kings and lords
+          of their states, dignities, lordships, honors, and jurisdictions,
+          and of their vassals and subjects, revenues, and royal rights,
+          placing them in the most vile, abased, and contemptible state
+          that any lord who had fallen from his position
+          was ever seen to be in.
+          And all — subjects and lords alike —
+          they placed in the harshest servitude
+          that is the repartimiento,
+          where, occupied in the violent services and tributes imposed on them,
+          they cannot devote themselves to hearing the preaching and doctrine of Christ;
+          and in which they finally perish
+          both spiritually and bodily.
+          All of this appears above in §§ 16 and 17.
+          Therefore they sinned most gravely.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e305">That for the robberies of gold and silver and emeralds
+          and other jewels and precious things and livestock,
+          and the harms they did while engaged in those raids,
+          they are bound to restitution,
+          not only each one for himself but in solidum:
+          this has been made evident in §§ 24 and 25.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e316">Of the other thousands, so numerous and great,
+          which after the robberies they committed along the way,
+          and after subjugating the peoples
+          so violently and tyrannically as has been said,
+          they acquired through the outrageous tributes:
+          it might appear at first sight
+          that they were not bound to restore them in solidum,
+          but that each one was bound to restore
+          what he had received from the towns that fell to him
+          in the said repartimiento.
+          But, considering that one man or a few
+          would not have dared to subjugate those peoples
+          with such great cruelties,
+          nor to make the said repartimiento among themselves,
+          if they had not all gone together;
+          and being all of one same will
+          and all pursuing the same end:
+          it is manifest that all of them were the total cause,
+          not only of what was robbed and the evils they did
+          while going about robbing, subjugating, and killing peoples,
+          but were also the total cause of the said repartimiento
+          and of the evils and harms that arose from it for the Indians;
+          and consequently of the tributes
+          that each one robbed from the towns that fell to him.
+          Therefore all are bound in solidum
+          to restore everything that each one and the others
+          so tyrannically and impiously obtained,
+          even if it be a single grain of maize.
+          That the lands and estates which in New Spain are called milpas
+          and in Peru chácaras
+          they are bound to restore to them:
+          of this not even the most dull and barbarous will be in doubt.
+          The reason for this is:
+          that just as they unjustly robbed the treasures
+          and all the other moveable things from their proper owners
+          and were tyrants in doing so,
+          in the same way they usurped the lands and estates
+          from the kings and particular lords
+          and were tyrants in doing it.
+          And consequently, if they are bound to restore moveable things,
+          they are still more bound to restore immoveables and real property,
+          because the reason for this is greater than for those.
+          And so they could not take even a span of land
+          without grave mortal sin,
+          nor can they hold it as their own without being condemned,
+          because they committed theft and violence or rapine,
+          unless the Inca kings whose those kingdoms are
+          were to forgive them graciously,
+          or some particular owner wished of his own free will to give it to them.
+          This appears above, § 23,
+          in the fourth proof of the first part of the first conclusion.
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e410">From this it follows that all the public buildings
+          of cities, towns, and places,
+          and those that private persons built,
+          and the estates, vineyards, and orchards they planted,
+          and the livestock pastures:
+          stand on foreign soil and land,
+          whether of the said Inca kings or of private individuals,
+          and all are held by us tyrannically
+          and we are possessors in bad faith;
+          and this unjust possession will never be justified
+          unless the Inca kings or their heirs
+          and the private owners grant them to us graciously;
+          rather everything built is lost to us,
+          for it was the lords, kings, or their subjects
+          who owned the ground on which it was built.
+          First, because the building regularly passes with the soil,
+          as in Inst., <ref xml:id="dc7aa7-e10417-Rd1e436">De rerum divisione, § Cum autem in suo.</ref>
+          Second, because one who builds on another's soil
+          knowingly and in bad faith — as we Spaniards —
+          loses the part of his thing — namely, the materials if he provided them —
+          and is said to commit a wrong:
+          Inst., same title, <ref xml:id="dc7aa7-e10417-Rd1e444">§ ex diverso et § qua ratione.</ref>
+          Bartolus, in <ref xml:id="dc7aa7-e10417-Rd1e449" target="http://scta.info/resource/cice-l2t30-Dd1e108">L. in rem, § sed si alias, § si quis rei,
+          ff., De reinvindicatione.</ref>
+          And it can be destroyed by the sole authority of the owner of the soil:
+          Bartolus and the Doctors, in <ref xml:id="dc7aa7-e10417-Rd1e457" source="http://scta.info/resource/bgy6gt-d1e892-Dd1e423">L. sed si inter,
+          ff., De servitute urbanorum praediorum;</ref>
+          et in <ref xml:id="dc7aa7-e10417-Rd1e460">L. quemadmodum, ff., Ad L. Aquiliam, § 17.</ref>
+          And the building must be demolished at the cost of the one who built illicitly.
+          And this is on the assumption that they themselves built it at their own cost
+          and with their own hands —
+          how much more so since everything was built by the Indians
+          at their own cost and with their labor,
+          constrained and forced against all reason and natural law,
+          just as the children of Israel built the cities in Egypt,
+          subjected by force by the tyrant Pharaoh!
+        </p>
+        <p xml:id="dc7aa7-e10417-d1e482">The final clause of the conclusion,
+          namely, that those peoples have just war
+          or the right to wage it
+          against those who came later, as against the first,
+          just, continuous, and perpetual:
+          this is sufficiently made manifest in § 26 and those following.
+          And let this be the resolution of the second doubt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
