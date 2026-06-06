@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 23</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 23</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose and Latin quotations have been translated into English.
+          Scholastic and legal citations have been retained in Latin.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e07195">
+        <head xml:id="dc7aa7-e07195-Hd1e111">Chapter 23</head>
+        <p xml:id="dc7aa7-e07195-d1e113">§ 23.</p>
+        <p xml:id="dc7aa7-e07195-d1e115">These eight principles and foundations having been established —
+          which is the first of the two things we promised at the outset of this little treatise —
+          let us now take up the second;
+          namely, to draw certain responsive conclusions
+          for the resolution of each doubt.
+          As to the first doubt, then,
+          let this be the First Conclusion.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e130">First Conclusion, to the first doubt.
+          Francisco Pizarro and all the Spaniards who were with him —
+          who were a hundred and seventy men, more or less —
+          in the seizure of that great King Atahualpa of Peru,
+          and who killed him and burned him along with the others,
+          committed most grave mortal sins,
+          and are bound to make restitution in solidum, each one for the whole.
+          And without it they will not be saved:
+          for the deprivation of the great state and principality of the said king
+          from his heirs,
+          or from whoever had the right to it by law or according to his custom;
+          and for all the great and never before seen or heard-of treasures
+          that they unjustly took from him as his ransom;
+          and for the many others they robbed and usurped from him;
+          and for the others, almost infinite in number, that the Spaniards who came after
+          have robbed of gold and silver and precious stones
+          and livestock and riches;
+          and for all the incredible and irreparable harms and deaths
+          and losses and despoilings of lordships,
+          and the total destruction of those kingdoms that has followed;
+          and they were faithless men,
+          breaking the faith and promise or compact
+          they made with the said King Atahualpa
+          to set him at liberty
+          if he gave them a room full of gold and silver,
+          as men without faith and without fear of God and without truth.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e193">The first part of this conclusion —
+          that they committed most grave mortal sins —
+          is proved by many reasons.
+          The first, because they were proper and perfect cruel tyrants,
+          as was proved in the first principle, § 1,
+          and in § 4, on the fourth category of unbelievers.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e206">A tyrant is one who usurps by force,
+          without just cause,
+          the states and principalities that belong to the true kings and lords
+          by natural law and the law of nations.
+          For where in the world was the name and office of tyrant
+          ever so clearly verified
+          as by us in those parts?
+          Let our own tyrants say so,
+          and I trust they will not deny it.
+          And thus we will add that not only do they usurp foreign lordships and principalities,
+          but most cruelly,
+          without guilt or cause on the part of those they harm,
+          they kill and tear apart,
+          and commonly burn alive with diverse torments,
+          and wipe from the face of the earth
+          natural kings and lords,
+          as we have done throughout all the Indies;
+          and so did Pizarro and his gang to King Atahualpa and to many others.
+          Certainly the name and office of tyrants
+          properly belongs and belonged to them.
+          We have been successors of Nimrod:
+          the first tyrant after the flood,
+          that slayer and oppressor of men.
+          And by this means he made himself king,
+          compelling men to obey and serve him:
+          <quote xml:id="dc7aa7-e07195-Qd1e247" source="http://scta.info/resource/gen10_9@2-6">"He was a mighty hunter before the Lord,"</quote>
+          <ref xml:id="dc7aa7-e07195-Rd1e257">Genesis 10,</ref>
+          that is, a slayer and destroyer, according to the Gloss;
+          who, according to Josephus,
+          <quote xml:id="dc7aa7-e07195-Qd1e262" source="http://scta.info/resource/gen10_10@1-6">"with new greed for power exercised tyranny,
+          compelling men to submit to him;
+          and the beginning of his kingdom was Babylon, etc."</quote>
+          <ref xml:id="dc7aa7-e07195-Rd1e272">Genesis 10.</ref>
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e276">For tyrants sin most mortally.
+          Therefore Pizarro and his companions committed most grave mortal sins.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e281">The second is proved by the seventh principle, § 12,
+          where it was concluded by many reasons
+          that the first entry of the Spaniards
+          was tyrannical and abominable,
+          and against the natural order they were bound to observe in their entry.
+          To break the natural order is mortal sin,
+          because it goes against the divine disposition
+          that with his wisdom God placed in all things.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e300">The third is proved — that they sinned mortally —
+          because they acted against the dictate of reason and natural law,
+          which teaches man how he must conduct himself in his practical deeds,
+          toward God and toward men,
+          as it is a light that illuminates the conscience
+          and makes it know the first principles or precepts
+          and their immediate conclusions
+          of things moral and practicable, such as:
+          <quote xml:id="dc7aa7-e07195-Qd1e317">"The good is to be pursued;
+          and thus God is to be obeyed,
+          parents are to be honored,
+          good is to be done to all;
+          and evil is to be shunned and avoided;
+          and thus against God nothing is to be said or done
+          that is unfitting to him;
+          and no wrong is to be done to anyone,
+          not to kill, not to steal, etc."</quote>
+          And these principles or precepts and their immediate conclusions:
+          the natural reason of any man
+          judges that they are to be followed or not followed.
+          And this is the law or natural right
+          that orders men how they ought to conduct themselves fittingly,
+          toward God and toward their neighbors.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e340">Now those who did so much harm and evil to King Atahualpa —
+          seizing him, despoiling him of his states,
+          his lands and lordships,
+          killing him and burning him,
+          despoiling and depriving his heirs
+          of those same states and lordships
+          and of all his other goods,
+          without guilt or cause or reason —
+          acted against the precepts of the law and of natural right,
+          and in the gravest and most essential matters.
+          Therefore they offended most gravely in mortal sins.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e359">The fourth: they acted against the express negative texts of divine law.
+          It is forbidden by divine law
+          that we covet the things of others,
+          and far more so to take them —
+          whether secretly as in stealing,
+          or by force against their will,
+          which is violence and rapine —,
+          as appears from <ref xml:id="dc7aa7-e07195-Rd1e369">Exodus 20:</ref>
+          <quote xml:id="dc7aa7-e07195-Qd1e373" source="http://scta.info/resource/ex20_15@1-3 http://scta.info/resource/ex20_17@1-22">"You shall not steal.
+          You shall not covet your neighbor's house,
+          nor his field, nor his servant, nor his handmaid,
+          nor his ox, nor his donkey,
+          nor anything that is his."</quote>
+          Et <ref xml:id="dc7aa7-e07195-Rd1e382">Deuteronomy 5.</ref>
+          Likewise:
+          <quote xml:id="dc7aa7-e07195-Qd1e384" source="http://scta.info/resource/deut19_14@2-13">"You shall not remove or shift
+          the landmarks of your neighbor
+          which those who came before set in their possessions."</quote>
+          <ref xml:id="dc7aa7-e07195-Rd1e391">Deuteronomy 19</ref>
+          et <ref xml:id="dc7aa7-e07195-Rd1e393">Proverbs 22, likewise chapter 23:</ref>
+          <quote xml:id="dc7aa7-e07195-Qd1e396" source="http://scta.info/resource/prov23_10@1-9 http://scta.info/resource/prov23_11@1-12">"Do not touch the landmarks of the little ones,
+          nor enter the field of orphans;
+          for their kinsman — that is, God — is the lord of their lot,
+          and he will judge their cause against you."</quote>
+          Thus far there.
+          And Saint Jerome,
+          <ref xml:id="dc7aa7-e07195-Rd1e394">Ad Rusticum episcopum, found in c. diaconi, 93 Dist.:</ref>
+          <quote xml:id="dc7aa7-e07195-Qd1e407">"Each person is commanded to possess something in this visible world:
+          in such a way that he be content with his possession alone
+          and not invade the things of others,
+          not take the field of the poor,
+          nor the vineyard, nor any other good,
+          nor the servants, nor the fruits."</quote>
+          Thus far he.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e421">For those persons not only coveted any foreign things —
+          not only houses, sheep,
+          not servants and farms or estates
+          or the lands where they sowed their crops —:
+          but the states, the dignities, the honors and lordships,
+          the royal principalities, the jurisdictions
+          and all the vassals,
+          the lands and kingdoms with their ancient landmarks preserved,
+          the treasures and everything they had and ruled in the world,
+          and together with all of this, their very lives;
+          and all of this with great violence and injurious hand.
+          Therefore they sinned most gravely and most mortally.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e446">And if for taking away a little heifer and a small ox from a neighbor
+          God makes himself that neighbor's kinsman to avenge him,
+          how much more will he be and will he avenge
+          what was done to harm such persons,
+          and so many of them,
+          in such diverse and precious things,
+          by those men!
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e457">Let the fifth reason be, briefly, as follows.
+          All those who act against justice in any notable matter
+          commit mortal sin.
+          For whoever does anything unjust
+          acts against the divine precept and the law of God,
+          which reduces to theft, or rapine, or adultery, or homicide, etc.
+          And any of these transgressions is mortal sin.
+          Likewise, every injustice always consists in some harm done to another;
+          and any harm done to another
+          goes against the charity that moves — or ought to move — us to love him.
+          Therefore to do injustice is mortal sin.
+          Likewise, according to the jurists,
+          the precepts of justice are three:
+          the first, to live honestly and virtuously;
+          the second, to do harm or injury to no one;
+          the third, to render to each person what is theirs.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e503">Now those who inflicted such extraordinary and irreparable evils and harms
+          upon King Atahualpa and all his people,
+          and upon the other kings and lords and peoples,
+          while they were in their own lands and kingdoms
+          without having offended us
+          and without owing us anything:
+          and thus without any true or even colorable just cause,
+          committed not one but many notable and extraordinary injustices
+          repugnant to charity;
+          and so not only did they not live honestly and virtuously,
+          but they did so much harm to that great king and to so many,
+          and took and usurped so many of their most precious goods.
+          Therefore they committed most grave mortal sins.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e525">And that these sins are most grave as regards their neighbors
+          is plain in itself.
+          But as regards God,
+          see what was written in the seventh principle, chapter 15,
+          about the scandals and infamies to the faith
+          that by their evil lives they have caused among those peoples:
+          who believe that the Christian religion is nothing other
+          than robbing and killing
+          and committing all the abominations and ugliness they have committed and commit;
+          and it is certain that they have so defamed the name of Jesus Christ
+          that it is considered the greatest miracle God performs in those Indies
+          that those peoples believe the things of the faith,
+          seeing the deeds of those who bear the name of Christians.
+        </p>
+        <p xml:id="dc7aa7-e07195-d1e565">And because the gravity of sins is measured
+          according as they result in dishonor to the honor of God —
+          and these are most grave —,
+          and after these the gravest are those
+          measured by the greatness and gravity of the harm that comes to one's neighbors:
+          and those one hundred and seventy have been the cause
+          that the name of Christ is blasphemed and impeded,
+          that those peoples do not know him
+          or receive or venerate and honor him as the true God;
+          and the harms done to King Atahualpa and to the others
+          were the greatest temporal harms
+          that can be done to anyone in the world;
+          and the Spaniards have been the cause
+          that infinite souls perish without faith and without sacraments
+          forever in the eternal fires:
+          it follows that the sins those men committed
+          were above all sins most grave.
+          On this gravity of sins, see
+          <ref xml:id="dc7aa7-e07195-Rd1e599">Saint Thomas: 1a 2ae q. 73 a. 8 ad 3m;</ref>
+          and in <ref xml:id="dc7aa7-e07195-Rd1e604">the questions De malo: q. 2 a. 10 corp.;</ref>
+          and in <ref xml:id="dc7aa7-e07195-Rd1e614">the 2.2 q. 34 a. 3 et q. 78 a. 3 et q. 74 a. 2</ref>
+          <ref xml:id="dc7aa7-e07195-Rd1e616">corp. et q. 154 a. 12.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
