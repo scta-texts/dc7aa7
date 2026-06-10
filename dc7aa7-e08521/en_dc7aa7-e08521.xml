@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chapter 26</title>
+        <author ref="#per-bdlcbd">Bartolomé de las Casas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#k-blanch">Catherine Blanch</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Chapter 26</title>
+          <date when="2026-02-04">February 04, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="cod-hgy7ss">John Carter Brown Library, Brown University, ms Codex Sp 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Modern English translation based on the normalized modern Spanish version.
+          All prose and Latin quotations have been translated into English.
+          Legal and scholastic citations have been retained in Latin.
+          The chapter breaks off in the MS without completing the final sentence.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-02-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en">
+   <front>
+    <div xml:id="starts-on">
+      </div>
+    </front>
+    <body>
+      <div xml:id="dc7aa7-e08521">
+        <head xml:id="dc7aa7-e08521-Hd1e111">Chapter 26</head>
+        <p xml:id="dc7aa7-e08521-d1e113">§ 26.</p>
+        <p xml:id="dc7aa7-e08521-d1e115">Conclusion to the second doubt.</p>
+        <p xml:id="dc7aa7-e08521-d1e117">From the moment they set foot on that land —
+          and above all from the moment those hundred and seventy false apostles
+          seized King Atahualpa —
+          the right of continual and just war against all the Spaniards,
+          as against public enemies of the human race,
+          was acquired by the children and heirs of the said King Atahualpa
+          and by all the peoples of those kingdoms.
+          And this right to wage just war against all the Spaniards
+          endures perpetually until the day of judgment,
+          unless it is interrupted by one of four means:
+          either by peace, or by truce,
+          or by possible satisfaction made by the Spaniards to the aggrieved parties;
+          or by remission that those who received the wrongs
+          make of their own free and spontaneous will,
+          without force or fear —
+          provided that the infliction of injuries, tyranny,
+          and oppression ceases,
+          which without interruption all the lords who are still alive
+          and all the peoples now endure.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e152">It was said "from the moment they set foot on that land"
+          because merely to disembark without license
+          on another's land or kingdom —
+          especially with armed men —
+          is said to disturb the kingdom and its lord
+          and to commit injury against him,
+          as appears from the laws <ref xml:id="dc7aa7-e08521-Rd1e162">ff. e injuriarum, § si quis me prohibeat</ref>
+          et <ref xml:id="dc7aa7-e08521-Rd1e168">§. fina. et. l. sane.</ref> et l. is qui in domum alienam, etc.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e176">Or if it is preferred to state it in Latin, thus:
+          From the moment those hundred and seventy false apostles invaded that land —
+          and above all from the moment they seized the aforesaid King Atahualpa in bonds —
+          the right was acquired of declaring just war
+          against all the Spaniards as public enemies of the human race,
+          in favor of the children and heirs of the named king
+          and likewise of all the peoples of those kingdoms.
+          Which right of declaring just war against us all
+          is continuous and will be perpetual until the day of judgment,
+          unless it is interrupted by some one of four resolutions:
+          namely, by peace, or by truce,
+          or by satisfaction on the part of the aggressors,
+          or by remission that is entirely voluntary and spontaneous,
+          without force or fear, on the part of the injured parties;
+          provided nonetheless that the inflicting of injuries and harms ceases,
+          and the imposing of tyranny or oppression
+          by which all the petty kings and princes, or lords,
+          and all the peoples are presently afflicted without respite.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e211">The conclusion is proved in multiple ways.
+          But first let it be known that,
+          as was said in the second principle, § 2:
+          a just war is any war declared
+          for the cause of defense,
+          or for the cause of coercing or repelling evil men,
+          lest they inflict injuries or harms on those who do not offend them,
+          or for the cause of recovering things that were seized,
+          or for the cause of compensating for lesions or harms inflicted,
+          or for the cause of avenging injuries received,
+          or for the cause of necessity, to acquire or defend peace and liberty,
+          as in <ref xml:id="dc7aa7-e08521-Rd1e236" target="http://scta.info/resource/gd-p2c23q1-Dd1e197">c. apud vero Dei cultores, 23, q. 1,</ref>
+          et <ref xml:id="dc7aa7-e08521-Rd1e240" target="http://scta.info/resource/gd-p2c23q1-Dd1e146">c. Nolí.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e244">The first cause is plain from
+          <ref xml:id="dc7aa7-e08521-Rd1e250" target="http://scta.info/resource/bgy6gt-d1e59-Dd1e137">L. ut vim, ff., De iustitia et jure,</ref>
+          et in <ref xml:id="dc7aa7-e08521-Rd1e253">c. dilectio, De sententia excommunicationis, Lib. 6,</ref>
+          where it says:
+          <quote xml:id="dc7aa7-e08521-Qd1e258" source="http://scta.info/resource/wef6td-d1e1572-d1e429@8-20">"Since all laws and all rights permit force to be repelled by force,
+          and allow all to defend themselves"</quote>
+          et in <ref xml:id="dc7aa7-e08521-Rd1e264" target="http://scta.info/resource/cice-l5t12-Dd1e335">c. significasti, the 22nd, De homicidio.</ref>
+          The natural reason for this defense is
+          that every substance naturally desires its own preservation
+          according to its nature,
+          according to <ref xml:id="dc7aa7-e08521-Rd1e276" target="http://scta.info/resource/TAca84-d1e1158-d1e496@211-253">Saint Thomas, 1.2 q. 94 a. 2 corp.</ref>
+          and <ref xml:id="dc7aa7-e08521-Rd1e281">book 3, chapter 3, Contra gentiles,</ref>
+          where he says
+          <quote xml:id="dc7aa7-e08521-Qd1e284" source="http://scta.info/resource/v8naTA-d1e1732-d1e249@38-57">"that all natural agents, insofar as they have power,
+          resist corruption to the same degree,
+          which is the evil by which each thing cannot be preserved in its own being
+          but is corrupted."</quote>
+          We see by experience that a stone,
+          through its own hardness which is its power,
+          resists as much as it can everything that seeks to break or corrupt it.
+          <quote xml:id="dc7aa7-e08521-Qd1e295">"Now things that are hard, like stones,
+          cling with most tenacious bonds to their parts;
+          and in order not to be easily dissolved, they resist."</quote>
+          And further on:
+          <quote xml:id="dc7aa7-e08521-Qd1e302">"But nature works for each thing what is fitting to it,
+          so that, as long as they can, they may not perish but remain."</quote>
+          <ref xml:id="dc7aa7-e08521-Rd1e307">Thus Boethius, book 3, prose 11.</ref>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e315">And if for all created things,
+          even insensible ones,
+          the appetite to preserve their being
+          and to resist as much as they can everything contrary that can corrupt them
+          is natural — which is nothing other than self-defense —:
+          how much more must this be, and is it, natural to men,
+          who surpass all others in dignity and excellence,
+          to defend their being,
+          whether natural being or political being.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e328">Therefore just is the war moved by any private person,
+          or by an entire people or kingdom,
+          for the cause of its defense.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e335">The second cause, for coercion and resistance
+          against evil and harmful men
+          who wish to commit injury or harm against those who never offended them.
+          And this is nearly the same as the cause of natural defense.
+          Of it the <ref xml:id="dc7aa7-e08521-Rd1e345">first chapter, 23, q. 2,</ref>
+          makes mention there:
+          <quote xml:id="dc7aa7-e08521-Qd1e351" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14">"War is just when carried out for the purpose of repelling evils."</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e358">The third is to recover what was unjustly robbed,
+          or to compensate for the evils and harms received:
+          of which the said first chapter,
+          and the following chapter Dominus noster,
+          and the first chapter:
+          <quote xml:id="dc7aa7-e08521-Qd1e364" source="http://scta.info/resource/gd-p2c23q2-d1e117@1-14">"War is just when it is waged by edict to recover one's own property, etc."</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e375">The fourth is to punish and chastise injuries and harms received,
+          and of it the said chapter Dominus noster also makes mention:
+          <quote xml:id="dc7aa7-e08521-Qd1e376" source="http://scta.info/resource/gd-p2c23q2-d1e132@78-99">"Just wars are commonly defined, he says,
+          as those that avenge injuries:
+          if any nation or city must be sought out or punished
+          because it has neglected to punish what its subjects did wrongly,
+          or to return what was taken away by injury."</quote>
+          Thus far there.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e388">This established, the first part of the conclusion is proved thus:
+          most just and right is the war that one people or kingdom has against another
+          in which all four causes of just war concur.
+          Now in the right that the peoples of Peru have —
+          from the moment they seized King Atahualpa —
+          against the Spaniards,
+          all four causes concur.
+          Therefore the most just war, or the right to declare it,
+          is what they have against them.
+          Of the first proposition no one doubts,
+          because if by even a single one of the said causes
+          just war can be waged:
+          it will be far more just where all four concur.
+          The second proposition is proved —
+          namely, that all four causes concur
+          in the right that the peoples of those kingdoms have against us.
+          That the first, which is defense — which extends to nearly all of them —
+          concurs, appears thus:
+          because those first Spaniards entered those kingdoms
+          killing, seizing, destroying, robbing,
+          and subjugating without any cause,
+          as the proper and true tyrants they were:
+          as was proved in the first principle and in the second, § 4,
+          and in principle 7, and in the first conclusion, § 23.
+          For against the onslaught of any tyrants and invaders of foreign kingdoms
+          and killers of men who had done them no harm or wrong,
+          defense and resistance are the remedy — no one is ignorant of this.
+          Therefore those peoples had the most just cause
+          and a war of just defense
+          against those men and the rest of our nation
+          who subsequently joined them.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e464">The second, by reason of coercion and resistance —
+          which is the same as the preceding —:
+          who can deny that they had the right
+          to coerce and resist and impede
+          from doing further harm
+          those who with such furious, blind, cruel, and brutish fury,
+          so entirely without cause,
+          were tearing apart and killing and robbing peoples
+          who were in their own lands,
+          without going to or harming those of others?
+          Therefore they also had just cause
+          by reason of coercion and of preventing from advancing further
+          such great devastations and irreparable harms:
+          to wage war against us.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e486">The third, to recover and compensate
+          for the evils and harms received:
+          will there be any man in the world who has sense
+          who will not confess and affirm that they had more than sufficient right
+          to wage war against us?
+          To have seized their king and lord and held him prisoner
+          and in the end burned him alive
+          would be cause enough for those kingdoms to take up arms
+          for his liberation,
+          and after his death to take satisfaction for his death
+          and for the seven or eight thousand they tore apart there,
+          and for those they had killed in the towns of Coaque
+          and on the island of Puná,
+          and everywhere they passed
+          until they arrived at Cajamarca where they seized the king.
+          Would it have been an unjust cause to wage war
+          against those who had robbed them of such great treasures
+          and robbed them more each day?
+          Would it have been just cause for war and to die in war
+          to recover the kingdoms and lordships
+          that they usurped and had usurped
+          from that supreme king and from many great lords?
+          Would it have been just war to recover their liberty,
+          seeing themselves subjected to so fierce a people,
+          and at first sight so ferocious and cruel,
+          armed with such heavy weapons,
+          from which they could well know and foresee
+          what they were going to be reduced to in time?
+          Of this last cause <ref xml:id="dc7aa7-e08521-Rd1e549">Cicero says in the Philippics 7:</ref>
+          <quote xml:id="dc7aa7-e08521-Qd1e554">"There is no more just cause of war than to repel servitude.
+          Whence among the Romans the fight was first
+          for the liberty of the city,
+          then for dominion,"</quote>
+          as <ref xml:id="dc7aa7-e08521-Rd1e565">Policraticus, book 8, chapter 5</ref> says;
+          and <ref xml:id="dc7aa7-e08521-Rd1e567">Sallust in the Catilinarian:</ref>
+          <quote xml:id="dc7aa7-e08521-Qd1e572">"No good man loses his liberty except together with his life."</quote>
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e578">To free the said king from imprisonment
+          before they killed him,
+          his children and his peoples were bound
+          to make war upon us to liberate him,
+          and it would have been most just by natural law.
+          This appears first from the war Abraham made
+          against the four kings who took his nephew Lot prisoner,
+          along with the women and children and all his substance,
+          as is read in <ref xml:id="dc7aa7-e08521-Rd1e591">Genesis, chapter 14.</ref>
+          Second, from the fidelity that peoples swear to their kings —
+          and even without swearing it they owe it by natural law —
+          by which subjects are far more obliged
+          to liberate and aid their king in any extremity,
+          even at the risk of their lives,
+          than they are to their relatives, even their parents.
+          For the king is the head of the whole mystical body
+          that is the kingdom and commonwealth,
+          for the sake of the common good,
+          which is the more divine according to <ref xml:id="dc7aa7-e08521-Rd1e609">the Philosopher, 1 Ethicorum,</ref>
+          and each person is born more for this common good
+          than for his father, who is a particular thing:
+          <quote xml:id="dc7aa7-e08521-Qd1e615">"whence it is said that a man is born more for his country than for his father."</quote>
+          And for this reason the law says:
+          <quote xml:id="dc7aa7-e08521-Qd1e609" source="http://scta.info/resource/bgy6gt-d1e4929-d1e402@20-29">"That the defense without the discipline of the camp
+          was more ancient for Roman citizens and fathers
+          than affection for their children":</quote>
+          L. postliminium, § filius, <ref xml:id="dc7aa7-e08521-Rd1e626">ff., De captivis et postliminiis.</ref>
+          Each one is born for his country,
+          as in L. 1, § Generaliter, ff., De ventre in possessionem mittendo.
+          And it is lawful to kill parents, and conversely,
+          those who come to destroy the fatherland,
+          L. minime, ff., De religiosis et sumptibus funerum;
+          pertinent is L. omne, final, <ref xml:id="dc7aa7-e08521-Rd1e637">ff., De re militari.</ref>
+          From this it follows that every subject,
+          to the extent his strength allows,
+          is bound not to abandon his king in his adversities,
+          to guard and defend him as the head of all the fatherland and commonwealth,
+          even at the risk of his own life
+          and of his wife and children;
+          for we see that nature teaches this:
+          because reason imitates nature,
+          the arm and the hand expose themselves to being cut off and lost
+          to save the head as the most principal member,
+          and from whose loss the greatest harm would come to the whole body;
+          and the analogy from the natural body to the mystical body is a good one,
+          as in L. Adoptio, <ref xml:id="dc7aa7-e08521-Rd1e666">ff., De adoptione</ref>
+          et in <ref xml:id="dc7aa7-e08521-Rd1e668">cap. qui plerique, De officio ordinarii,</ref> etc.
+        </p>
+        <p xml:id="dc7aa7-e08521-d1e674">And not only are subjects bound
+          to expose and risk their lives for the person of their king,
+          the mystical head:
+          but also for the recovery of his state and dignity
+          and jurisdiction and his goods and royal rights.
+          For the same reasons:
+          and because without temporal goods —
+          and especially if the state and dignity
+          and jurisdiction and the royal rights are lacking —
+          a king cannot be a king nor sustain himself
+          for the governance and benefit of the whole mystical body,
+          which is the kingdom and community of which he is the head:
+          an argument drawn from the <ref xml:id="dc7aa7-e08521-Rd1e696" target="http://scta.info/resource/bgy6gt-d1e1964-Dd1e205">ley necare, ff., De liberis cognoscendis,</ref>
+          and from what the gloss notes
+          in <ref xml:id="dc7aa7-e08521-Rd1e701">L. quisquis, § penúlt., Codex, De donationibus.</ref>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
